@@ -25,7 +25,6 @@ Shared header and footer for the whole site.
 
 Much of it is just hard-coded HTML.  (After all these years, I think it's easier to maintain than systems that hide the HTML.)
 
-
 ### Merging:
 
 A Ruby script goes through all the content directories and reads the files.
@@ -36,7 +35,14 @@ A Ruby script goes through all the content directories and reads the files.
 * Afterwards, it uses the collection array to merge with the index template, and writes that to disk.
 * Finally, it uses all the collections to write the home page, which shows the newest additions of various types.
 
-## Serving:
+### Styling:
+
+Zurb Foundation gem + SCSS + Compass is used to create the minified site/css/site.css file.
+
+Changes made by @extend'ing in the SCSS file, instead of adding HTML attributes.
+
+
+### Serving:
 
 Nginx serves the final static site from the site/ directory.
 
