@@ -16,7 +16,7 @@ p, li {
 }
 
 #masthead h1 {
-  margin-bottom: 0;
+  margin-bottom: 0.2em;
 }
 
 #masthead h2 {
@@ -36,3 +36,6 @@ input[type=submit] {
   @extend .small;
 }
 
+body#home li {
+  margin-bottom: 0.5em;
+}
