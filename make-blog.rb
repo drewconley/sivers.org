@@ -6,7 +6,7 @@ def template(name)
 end
 
 @blogs = []
-Dir['blog/20*'].each do |infile|
+Dir['content/blog/20*'].each do |infile|
   /(\d{4}-\d{2}-\d{2})-(\S+)/.match File.basename(infile)
   @date = $1
   @year = @date[0,4]
@@ -43,7 +43,7 @@ html << template('footer').result
 File.open('site/blog', 'w') {|f| f.puts html }
 
 @presentations = []
-Dir['presentations/20*'].each do |infile|
+Dir['content/presentations/20*'].each do |infile|
   /(\d{4}-\d{2})-(\S+)/.match File.basename(infile)
   @month = $1
   @year = @month[0,4]
@@ -85,7 +85,7 @@ File.open('site/presentations', 'w') {|f| f.puts html }
 
 # BOOKS
 @books = []
-Dir['books/20*'].each do |infile|
+Dir['content/books/20*'].each do |infile|
   /(\d{4}-\d{2}-\d{2})-(\S+)/.match File.basename(infile)
   @date = $1
   @url = $2
@@ -126,7 +126,7 @@ File.open('site/book/index.html', 'w') {|f| f.puts html }
 
 # TWEETS
 @tweets = []
-Dir['tweets/20*'].each do |infile|
+Dir['content/tweets/20*'].each do |infile|
   /^(\d{4}-\d{2}-\d{2})/.match File.basename(infile)
   date = $1
   d = Date.parse(date)
@@ -155,7 +155,7 @@ html << template('footer').result
 File.open('site/home', 'w') {|f| f.puts html }
 
 # STATIC PAGES
-Dir['pages/*'].each do |infile|
+Dir['content/pages/*'].each do |infile|
   @uri = @bodyid = File.basename(infile)
   lines = File.readlines(infile)
   /<!--\s+(.+)\s+-->/.match lines.shift
