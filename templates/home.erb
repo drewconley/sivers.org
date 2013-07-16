@@ -1,0 +1,181 @@
+<section id="aboutme">
+  <h2>Me in 10 seconds</h2>
+  <ul>
+    <li>I’m an entrepreneur. I treat <a href="/laboratory">work as play</a>.</li>
+    <li>I live by “<a href="/scares-excites-do-it">whatever scares you, go do it</a>”.</li>
+    <li>I’m a <a href="/own-nothing">minimalist</a>. The less I own, the happier I am.</li>
+    <li>I’m a <a href="/book">learning addict</a>.</li>
+    <li>I’m very comfortable <a href="/in2power">being the leader</a> and being on stage.</li>
+    <li><a href="/horses">This is my favorite fable</a>.</li>
+  </ul>
+  <div id="headshots">
+    <figure class="headshot"><a href="/images/DerekSivers-headshot-yellow.jpg"><img src="/images/DerekSivers-headshot-yellow-100.jpg" alt="Derek Sivers" /></a></figure>
+    <figure class="headshot"><a href="/images/DerekSivers-headshot-face.jpg"><img src="/images/DerekSivers-headshot-face-100.jpg" alt="Derek Sivers" /></a></figure>
+    <figure class="headshot"><a href="/images/DerekSivers-headshot-ted.jpg"><img src="/images/DerekSivers-headshot-ted-100.jpg" alt="Derek Sivers" /></a></figure>
+    <figure class="headshot"><a href="/images/DerekSivers-headshot-head.jpg"><img src="/images/DerekSivers-headshot-head-100.jpg" alt="Derek Sivers" /></a></figure>
+  </div>
+</section>
+
+<section id="fullbio">
+  <h2>Official Bragging Bio</h2>
+  <p>
+  Originally a professional <a href="/music">musician</a> and circus clown, Derek Sivers <a href="/a">created CD Baby</a> in 1998.
+  </p><p>
+  It became the largest seller of independent music online, with <a href="/done">$100M in sales for 150,000 musicians</a>.
+  </p><p>
+  In 2008, Derek <a href="/trust">sold CD Baby for $22M</a>, giving the proceeds to a charitable trust for music education.
+  </p><p>
+  He is a frequent <a href="http://www.ted.com/speakers/derek_sivers.html">speaker at the TED Conference</a>, with over 5 million views of his talks.
+  </p><p>
+  In 2011, he <a href="/a">published a book</a> which shot to #1 on all of its Amazon categories.
+  </p><p>
+  Derek Sivers <a href="/singapore">lives in Singapore</a>, where he is creating his next company.
+  </p>
+</section>
+
+<section id="newestarticles">
+  <h2>Newest Articles</h2>
+  <ul>
+<% @new_blogs.each do |b| %>
+    <li><a href="/<%= b[:url] %>"><%= b[:title] %></a></li>
+<% end %>
+  </ul>
+  <p class="link2more">(<a href="/blog">more articles</a>)</p>
+</section>
+
+<section id="populararticles">
+  <h2>Popular Articles</h2>
+  <ul>
+    <li><a href="/ff">Leadership Lessons from Dancing Guy</a></li>
+    <li><a href="/trust">Why I gave away my company to charity</a></li>
+    <li><a href="/drama">Kurt Vonnegut explains drama</a></li>
+    <li><a href="/hellyeah">No more yes. It’s either HELL YEAH! or no.</a></li>
+    <li><a href="/multiply">Ideas are just a multiplier of execution</a></li>
+    <li><a href="/zipit">Shut up! Announcing your plans makes you less motivated to accomplish them.</a></li>
+  </ul>
+  <p class="link2more">(<a href="/blog">more articles</a>)</p>
+</section>
+
+<section id="tweets">
+  <h2>Tweets</h2>
+  <ul>
+  <% @new_tweets.each do |b| %>
+    <li><%= b[:show_date] %> &nbsp; <%= b[:tweet] %></li>
+  <% end %>
+  </ul>
+  <p class="link2more">(<a href="/tweets">more tweets</a>)</p>
+</section>
+
+<section id="companies">
+  <h2>Projects</h2>
+  <figure id="woodegg">
+    <a href="http://woodegg.com/"><img src="/images/woodegg-36x50.png" alt="Wood Egg logo" /></a>
+    <figcaption>
+    <h3><a href="http://woodegg.com/">Wood Egg</a></h3>
+    <p>Entrepreneur’s Guides to Asia</p>
+    </figcaption>
+  </figure>
+  <figure id="50pop">
+    <a href="http://50pop.com/"><img src="/images/50pop-pot-48x50.png" alt="50 Pop logo" /></a>
+    <figcaption>
+    <h3><a href="http://50pop.com/">50 Pop</a></h3>
+    <p>Code, creations, ideas</p>
+    </figcaption>
+  </figure>
+  <figure id="booknotes">
+    <a href="/book"><img src="/images/stack_of_books.jpg" alt="stack of books" /></a>
+    <figcaption>
+    <h3><a href="/book">Book Notes</a></h3>
+    <p>Books I’ve finished recently</p>
+    </figcaption>
+  </figure>
+  <figure id="musicthoughts">
+    <a href="http://musicthoughts.com/"><img src="/images/musicthoughts-rock.png" alt="MusicThoughts icon" /></a>
+    <figcaption>
+    <h3><a href="http://musicthoughts.com/">MusicThoughts</a></h3>
+    <p>Inspiring quotes about music</p>
+    </figcaption>
+  </figure>
+</section>
+
+<section id="mybooks">
+  <h2>Books</h2>
+  <figure id="bookayw" class="book">
+    <a href="/a"><img src="/images/DerekSivers-AnythingYouWant-200x252.jpg" alt="Anything You Want - book cover" /></a>
+    <figcaption>
+    <h3><a href="/a">Anything You Want</a></h3>
+    <p>Tales from my CD Baby experience: Entrepreneur lessons learned from starting, building, and selling CD Baby.</p>
+    </figcaption>
+  </figure>
+  <figure id="bookmym" class="book">
+    <a href="/pdf"><img src="/images/MarketingYourMusic-200x252.png" alt="Marketing Your Music - book cover" /></a>
+    <figcaption>
+    <h3><a href="/pdf">Marketing Your Music</a></h3>
+    <p>Free e-book for musicians about promoting your music and navigating the music industry.</p>
+    </figcaption>
+  </figure>
+</section>
+
+<section id="videos">
+  <h2>Videos</h2>
+  <figure class="video" id="video-ted">
+    <a href="http://www.ted.com/speakers/derek_sivers.html"><img src="/images/dancingguy.jpg" alt="Derek Sivers - video thumbnail - TED Conference" /></a>
+    <figcaption>
+    <h3><a href="http://www.ted.com/speakers/derek_sivers.html">TED (ted.com)</a></h3>
+    <p>3 short talks from the TED Conference.</p>
+    </figcaption>
+  </figure>
+  <figure class="video" id="video-ayw">
+    <a href="/anything"><img src="/images/anything.jpg" alt="Derek Sivers - video thumbnail - Anything You Want" /></a>
+    <figcaption>
+    <h3><a href="/anything">Anything You Want</a></h3>
+    <p>7 short animations from my book “Anything You Want”.</p>
+    </figcaption>
+  </figure>
+  <figure class="video" id="video-uncommonsense">
+    <a href="/uncommon"><img src="/images/uncommon.jpg" alt="Derek Sivers - video thumbnail - Uncommon Sense" /></a>
+    <figcaption>
+    <h3><a href="/uncommon">Uncommon Sense</a></h3>
+    <p>Entrepreneur lessons learned from starting, building, and selling CD Baby.</p>
+    </figcaption>
+  </figure>
+  <figure class="video" id="video-prez">
+    <a href="/presentations"><img src="/images/zipit2.jpg" alt="Derek Sivers - video thumbnail - presentations" /></a>
+    <figcaption>
+    <h3><a href="/presentations">Conference Presentations</a></h3>
+    <p>Talks from other conferences, all subjects.</p>
+    </figcaption>
+  </figure>
+</section>
+
+<section id="follow">
+  <h2>Keep in touch</h2>
+  <div id="emailform">
+    <p>Please give your name and email, so I’ll keep in touch.</p>
+    <form action="/list" method="post">
+      <label for="name">Your Name</label>
+      <input type="text" id="name" name="name" value="" />
+      <label for="email">Your Email</label>
+      <input type="email" id="email" name="email" value="" />
+      <input type="submit" value="OK - keep in touch" />
+    </form> 
+  </div>
+  <div id="otherservices">
+    <ul>
+      <li><a href="https://twitter.com/sivers"><img src="/images/twitter.png" height="16" width="16" alt="Twitter" />Twitter</a></li>
+      <li><a href="http://www.facebook.com/sivers"><img src="/images/facebook.png" height="16" width="16" alt="Facebook" />Facebook</a></li>
+      <li><a href="https://plus.google.com/106663215390211735917/"><img src="/images/google.png" height="16" width="16" alt="Google" />Google+</a></li>
+      <li><a href="http://sg.linkedin.com/in/dereksivers"><img src="/images/linkedin.png" height="16" width="16" alt="LinkedIn" />LinkedIn</a></li>
+      <li><a href="/en.atom"><img src="/images/rss.png" height="16" width="16" alt="RSS" />RSS</a></li>
+    </ul>
+  </div>
+</section>
+
+<section id="contact">
+  <p>
+  Feel free to email me at <strong><a href="mailto:derek@sivers.org">derek@sivers.org</a></strong>
+  </p><p>
+  I respond to all.
+  </p>
+</section>
+
