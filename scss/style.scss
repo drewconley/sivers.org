@@ -1,0 +1,38 @@
+@import "settings";
+@import "normalize";
+@import "foundation/components/global";
+@import "foundation/components/grid";
+@import "foundation/components/buttons";
+@import "foundation/components/forms";
+
+body {
+  @extend .row;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+p, li {
+  font-family: Georgia, serif;
+  line-height: 1.3em;
+}
+
+#masthead h1 {
+  margin-bottom: 0;
+}
+
+#masthead h2 {
+  font-size: 1em;
+  margin-top: 0;
+}
+
+#content {
+  @extend .small-6;
+  @extend .small-centered;
+  @extend .columns;
+}
+
+input[type=submit] {
+  @extend .button;
+  @extend .success;
+  @extend .small;
+}
+
