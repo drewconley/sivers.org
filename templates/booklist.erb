@@ -8,7 +8,7 @@
   <figure>
     <a href="/book/<%= b[:url] %>"><img src="/images/<%= b[:url] %>.gif" alt="<%= b[:title] %>" /></a>
     <figcaption>
-    <h2><a href="/book/SoGood"><%= b[:title] %></a></h2>
+    <h2><a href="/book/<%= b[:url] %>"><%= b[:title] %></a></h2>
     <p>ISBN: <%= b[:isbn] %> READ: <%= b[:date] %> RATING: <%= b[:rating] %>/10</p>
     <p><%= b[:summary] %></p>
     </figcaption>
