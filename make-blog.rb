@@ -42,6 +42,46 @@ html << template('bloglist').result
 html << template('footer').result
 File.open('site/blog', 'w') {|f| f.puts html }
 
+@presentations = []
+Dir['presentations/20*'].each do |infile|
+  /(\d{4}-\d{2})-(\S+)/.match File.basename(infile)
+  @month = $1
+  @url = $2
+  lines = File.readlines(infile)
+  /<!-- TITLE: (.+)\s+-->/.match lines.shift
+  @title = $1
+  /<!-- SUBTITLE: (.+)\s+-->/.match lines.shift
+  @subhead = $1
+  /<!-- MINUTES: ([0-9]+)\s+-->/.match lines.shift
+  @minutes = $1
+  body = lines.join('')
+
+  @pagetitle = "#{@title} | Derek Sivers"
+  @bodyid = 'prez'
+
+  # PAGE STRUCTURE
+  html = template('header').result
+  html << template('prezhead').result
+  html << body
+  html << template('blogfoot').result
+  html << template('comments').result
+  html << template('footer').result
+
+  File.open("site/#{@url}", 'w') {|f| f.puts html }
+
+  @presentations << {date: @month, url: @url, title: @title, minutes: @minutes, subhead: @subhead}
+end
+@presentations.sort_by!{|x| x[:date]}
+@presentations.reverse!
+
+# PRESENTATIONS PAGE
+@pagetitle = 'Derek Sivers Presentations'
+@bodyid = 'presentations'
+html = template('header').result
+html << template('presentations').result
+html << template('footer').result
+File.open('site/presentations', 'w') {|f| f.puts html }
+
 @tweets = []
 Dir['tweets/20*'].each do |infile|
   /^(\d{4}-\d{2}-\d{2})/.match File.basename(infile)
@@ -70,4 +110,18 @@ html = template('header').result
 html << template('home').result
 html << template('footer').result
 File.open('site/home', 'w') {|f| f.puts html }
+
+# STATIC PAGES
+Dir['pages/*'].each do |infile|
+  @uri = @bodyid = File.basename(infile)
+  lines = File.readlines(infile)
+  /<!--\s+(.+)\s+-->/.match lines.shift
+  @title = $1
+  body = lines.join('')
+  @pagetitle = "#{@title} | Derek Sivers"
+  html = template('header').result
+  html << body
+  html << template('footer').result
+  File.open("site/#{@uri}", 'w') {|f| f.puts html }
+end
 

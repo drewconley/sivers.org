@@ -1,0 +1,12 @@
+  <h1>Presentations</h1>
+<% @presentations.each do |b| %>
+  <figure>
+    <a href="/<%= p[:url] %>"><img src="/images/<%= p[:url] %>.jpg" width="200" height="150" alt="<%= p[:title] %>" /></a>
+    <figcaption>
+      <h3><a href="/<%= p[:url] %>"><%= p[:title] %></a></h3>
+      <h5>Length: <strong><%= p[:minutes] %> minutes</strong>. &nbsp; Date: <%= p[:date] %></h5>
+      <p><%= p[:subhead] %></p>
+    </figcaption>
+  </figure>
+<% end %>
+
