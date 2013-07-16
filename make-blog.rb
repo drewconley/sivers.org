@@ -46,6 +46,7 @@ File.open('site/blog', 'w') {|f| f.puts html }
 Dir['presentations/20*'].each do |infile|
   /(\d{4}-\d{2})-(\S+)/.match File.basename(infile)
   @month = $1
+  @year = @month[0,4]
   @url = $2
   lines = File.readlines(infile)
   /<!-- TITLE: (.+)\s+-->/.match lines.shift
