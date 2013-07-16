@@ -1,0 +1,16 @@
+    <header>
+      <figure><img src="/images/<%= @url %>.gif" alt="<%= @title %>" /></figure>
+      <h1><%= @title %></h1>
+      <p class="postdate">
+        ISBN: <%= @isbn %><br>
+        READ: <%= @date %><br>
+        RATING: <%= @rating %>/10<br>
+      </p>
+      <p>Go to <a href="http://www.amazon.com/dp/<%= @isbn %>?tag=sivers-20">Amazon</a></p>
+    </header>
+
+    <p><%= @summary %></p>
+    <h2>my notes<h2>
+
+<%= @notes %>
+

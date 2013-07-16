@@ -1,0 +1,17 @@
+  <header>
+    <h1>Books I’ve finished recently</h1>
+    <p>Tiny summary but <strong>detailed notes for each</strong>. Use the ISBN number to find it from your local library or anywhere else. <strong>This page will constantly update as I read more</strong>, so bookmark it if you want to check back in a few months.</p>
+  </header>
+  <p>Sort by <a href="/book?sort=rating">rating</a>, <a href="/book?sort=title">title</a> or <a href="/book?sort=date">date</a>.</p>
+
+<% @books.each do |b| %>
+  <figure>
+    <a href="/book/<%= b[:url] %>"><img src="/images/<%= b[:url] %>.gif" alt="<%= b[:title] %>" /></a>
+    <figcaption>
+    <h2><a href="/book/SoGood"><%= b[:title] %></a></h2>
+    <p>ISBN: <%= b[:isbn] %> READ: <%= b[:date] %> RATING: <%= b[:rating] %>/10</p>
+    <p><%= b[:summary] %></p>
+    </figcaption>
+  </figure>
+<% end %>
+
