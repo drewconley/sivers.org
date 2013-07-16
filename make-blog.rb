@@ -83,6 +83,48 @@ html << template('presentations').result
 html << template('footer').result
 File.open('site/presentations', 'w') {|f| f.puts html }
 
+# BOOKS
+@books = []
+Dir['books/20*'].each do |infile|
+  /(\d{4}-\d{2}-\d{2})-(\S+)/.match File.basename(infile)
+  @date = $1
+  @url = $2
+  lines = File.readlines(infile)
+  /^TITLE: (.+)$/.match lines.shift
+  @title = $1
+  /^ISBN: (\w+)$/.match lines.shift
+  @isbn = $1
+  /^RATING: (\d+)$/.match lines.shift
+  @rating = $1
+  /^SUMMARY: (.+)$/.match lines.shift
+  @summary = $1
+  lines.shift  # the line that says 'NOTES:'
+  @notes = lines.join('')
+
+  @pagetitle = "#{@title} | Derek Sivers"
+  @bodyid = 'onebook'
+
+  # PAGE STRUCTURE
+  html = template('header').result
+  html << template('book').result
+  html << template('footer').result
+
+  File.open("site/book/#{@url}", 'w') {|f| f.puts html }
+
+  @books << {date: @date, url: @url, title: @title, isbn: @isbn, rating: @rating, summary: @summary}
+end
+@books.sort_by!{|x| '%02d%s' % [x[:rating], x[:date]]}
+@books.reverse!
+
+# BOOKS PAGE
+@pagetitle = 'BOOKS | Derek Sivers'
+@bodyid = 'booklist'
+html = template('header').result
+html << template('booklist').result
+html << template('footer').result
+File.open('site/book/index.html', 'w') {|f| f.puts html }
+
+# TWEETS
 @tweets = []
 Dir['tweets/20*'].each do |infile|
   /^(\d{4}-\d{2}-\d{2})/.match File.basename(infile)
