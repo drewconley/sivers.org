@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Causing a Scene - by Charlie Todd | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="onebook">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+    <header>
+      <figure><img src="/images/CausingAScene.gif" alt="Causing a Scene - by Charlie Todd" /></figure>
+      <h1>Causing a Scene - by Charlie Todd</h1>
+      <p class="postdate">
+        ISBN: 006170363X<br>
+        READ: 2009-08-18<br>
+        RATING: 4/10<br>
+      </p>
+      <p>Go to <a href="http://www.amazon.com/dp/006170363X?tag=sivers-20">Amazon</a></p>
+    </header>
+
+    <p>Fun tales from the guy that invented Improv Everywhere. Not really educational as much as just fun, and I'm a huge fan of their “missions”.</p>
+    <h2>my notes<h2>
+
+Rather than wait for some sort of mythical big break, I decided I’d make all of New York my stage and perform anywhere and everywhere.
+
+The Improv Everywhere philosophy: this mission would cause a scene of joy and give a stranger quite a story to tell.
+
+Many people who watched the video thought our mission was some sort of political commentary or a statement on the human condition. (It’s not: it’s just a scene of chaos and joy like all of our other missions.)
+
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

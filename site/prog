@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Yes, learn basic programming | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/prog">Yes, learn basic programming</a></h1>
+      <p class="postdate">2013-01-13</p>
+    </header>
+
+<p>
+A few people have asked me <strong>whether I think programming is a necessary skill</strong> for entrepreneurs (or anyone) to have in the future.
+</p><p>
+When I was 14 years old, taking guitar lessons from <a href="http://www.linkedin.com/in/thomaspecora">Tom Pecora</a>, he gave me that this-is-important-so-listen-well look, and told me something that stuck with me for life:
+</p><p>
+<strong>“You need to learn to sing. Because if you don’t, you’re always going to be at the mercy of some asshole singer.”</strong>
+</p><p>
+His point of view was from a rock guitarist in the Chicago music scene, trying to put together a band, and all that.  I really took it to heart, and <a href="http://sivers.org/15-years">learned to sing</a>.
+</p><p>
+But ever since then I’ve applied that point to other areas.
+</p><p>
+When I first started CD Baby, I didn’t know any programming, only basic HTML, and quickly had to cry for someone to help me.  <a href="http://hr.linkedin.com/pub/davor-cengija/36/592/391">Davor Cengija</a> in Croatia was a big help, but one day he disappeared. (Turned out he broke his foot skiing.)  For weeks I was helpless, as my site had problems, and I didn’t know how to fix them.  That pain got me motivated to learn this stuff myself.  (Necessity is the best motivator.)  I’ve loved programming ever since.
+</p><p>
+Later, when I needed a new computer, my friend <a href="http://www.linkedin.com/in/showtimesolutions">Tony Benjamin</a> taught me how to build my own from parts.  This was so empowering because this box that I depended on so much was no longer a mystery.  As CD Baby grew, I loved building all the computers for the employees, and even the webservers that ran the site.
+</p><p>
+In the <a href="http://en.wikipedia.org/wiki/Independent_music#Independent_artists_and_technology">independent musician scene</a>, the <a href="http://en.wikipedia.org/wiki/DIY_ethic">DIY ethic</a> is strong, by necessity.  When it comes to doing all those non-musical things like booking gigs, promoting, publishing, and all of the organizational things, the norm is to <strong>do it yourself until it makes more sense to get someone better to help you</strong>.  (And even then, maybe choosing to do it yourself just because you want to.)
+</p><p>
+The benefit of doing this yourself at first is that you learn enough about it so when you can afford to hire someone, you’re in a much better position to know if they’re good or not.  Also it gives you the confidence to know that if anyone else flakes, you can step in and do enough to keep going.  The deep joy of self-reliance.
+</p><p>
+So... back to programming:
+</p><p>
+The most common thing I hear from aspiring entrepreneurs is, <strong>“I have this idea for an app or site. But I’m not technical, so I need to find someone who can make it for me.”</strong>
+</p><p>
+I point them to <a href="http://sivers.org/how2hire">my advice about how to hire a programmer</a>, but as most of the good ones are already booked solid, it’s a pretty helpless position to be in.
+</p><p>
+If you heard someone say, “<strong>I have this idea for a song.  But I’m not musical, so I need to find someone who will write, perform, and record it for me.</strong>” - you’d probably advise them to just take some time to sit down with a guitar or piano and <strong>learn enough to turn their ideas into reality.</strong>
+</p><p>
+And so comes my advice:
+</p><p>
+<strong>Yes, learn some programming basics.</strong>  Just some HTML, CSS, and JavaScript should be enough to start.
+</p><p>
+I recommend <a href="http://shop.oreilly.com/product/9780596159924.do">Head First HTML and CSS</a> first, then <a href="http://shop.oreilly.com/product/0636920010906.do">Head First HTML5 Programming</a>.
+</p><p>
+Get those basics under your belt.  Make an HTML site respond to things the user is doing.  Save some information in a database, and use it to generate a web page.
+</p><p>
+You could go through those books in a couple weeks of evenings, and you’d already know as much as 50% of the people out there calling themselves webdesigners or web programmers!
+</p><p>
+It’s a REALLY amazing feeling. The mystery is lifted. You’ll look at all websites in a new way. You’ll understand what’s going on behind the scenes. You’ll know how to do it yourself. It’s really empowering.
+</p><p>
+Once you’ve done that, you’ll know enough to know what you need next.  Maybe you want to get deeper into web development with <a href="http://www.manning.com/black2/">Ruby</a>, <a href="http://eloquentjavascript.net/">JavaScript</a>, <a href="http://learnpythonthehardway.org/book/">Python</a>, <a href="http://ruby.railstutorial.org/">Rails</a>, or <a href="http://www.manning.com/cantelon/">Node.js</a>.  But <strong>don’t get overwhelmed</strong>.  When you’re ready, look at the book reviews on Amazon to see which books people are raving about.  Go to <a href="http://stackoverflow.com/">Stack Overflow</a> to ask questions or recommendations.
+</p><p>
+This will give you a good foundation if you want to go on to make iPhone or Android apps, or just know enough to hire someone better.
+</p><p>
+<strong>You don’t need to become an expert, just know the basics, so you’re not helpless.</strong>  You can do all of this in less hours than it takes to watch “The Wire”, and it’s much more rewarding.
+</p><p>
+<em>(It’s definitely been the most rewarding thing I’ve ever learned.)</em>
+</p>
+<a href="http://www.flickr.com/photos/plarsen/35590387/"><img src="/images/bicycle-repair.jpg" alt="bicycle repair" /></a>
+
+
+    <footer>
+      © 2013 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Leadership Lessons from Dancing Guy | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/ff">Leadership Lessons from Dancing Guy</a></h1>
+      <p class="postdate">2010-02-11</p>
+    </header>
+
+<p class="small"><em>
+(UPDATE: I gave this short 3-minute talk at the <a href="http://conferences.ted.com/TED2010/">TED Conference</a> yesterday and got a standing ovation!)
+</em></p>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/fW8amMCVAJQ" frameborder="0" allowfullscreen></iframe>
+<p>
+<a href="http://sivers.s3.amazonaws.com/DancingGuy-ff.m4v">Click here to download the video.</a>
+</p>
+<hr />
+<h3>Transcript:</h3>
+<p>
+If you've learned a lot about leadership and making a movement, then let's watch a movement happen, start to finish, in under 3 minutes, and dissect some lessons:
+</p><p>
+A leader needs the guts to stand alone and look ridiculous. But what he's doing is so simple, it's almost instructional. This is key. You must be easy to follow!
+</p><p>
+Now comes the first follower with a crucial role: he publicly shows everyone how to follow. Notice the leader embraces him as an equal, so it's not about the leader anymore - it's about them, plural. Notice he's calling to his friends to join in. It takes guts to be a first follower! You stand out and brave ridicule, yourself. Being a first follower is an under-appreciated form of leadership. <strong>The first follower transforms a lone nut into a leader</strong>. If the leader is the flint, the first follower is the spark that makes the fire.
+</p><p>
+The 2nd follower is a turning point: it's proof the first has done well. Now it's not a lone nut, and it's not two nuts. Three is a crowd and a crowd is news.
+</p><p>
+A movement must be public. Make sure outsiders see more than just the leader. Everyone needs to see the followers, because new followers emulate followers - not the leader.
+</p><p>
+Now here come 2 more, then 3 more.  Now we've got momentum.  This is the tipping point! Now we've got a movement!
+</p><p>
+As more people jump in, it's no longer risky. If they were on the fence before, there's no reason not to join now. They won't be ridiculed, they won't stand out, and they will be part of the in-crowd, if they hurry. Over the next minute you'll see the rest who prefer to be part of the crowd, because eventually they'd be ridiculed for not joining.
+</p><p>
+And ladies and gentlemen that is how a movement is made!  Let's recap what we learned:
+</p><p>
+If you are a version of the shirtless dancing guy, all alone, remember the importance of nurturing your first few followers as equals, making everything clearly about the movement, not you.
+</p><p>
+Be public. Be easy to follow!
+</p><p>
+But the biggest lesson here - did you catch it?
+</p><p>
+Leadership is over-glorified.
+</p><p>
+Yes it started with the shirtless guy, and he'll get all the credit, but you saw what really happened:
+</p><p>
+<strong>It was the first follower that transformed a lone nut into a leader.</strong>
+</p><p>
+There is no movement without the first follower.
+</p><p>
+We're told we all need to be leaders, but that would be really ineffective.
+</p><p>
+The best way to make a movement, if you really care, is to courageously follow and show others how to follow.
+</p><p>
+When you find a lone nut doing something great, have the guts to be the first person to stand up and join in.
+</p>
+
+
+    <footer>
+      © 2010 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>The Laws of Subtraction - by Matthew May | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="onebook">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+    <header>
+      <figure><img src="/images/LawsOfSubtraction.gif" alt="The Laws of Subtraction - by Matthew May" /></figure>
+      <h1>The Laws of Subtraction - by Matthew May</h1>
+      <p class="postdate">
+        ISBN: 0071795618<br>
+        READ: 2013-01-09<br>
+        RATING: 5/10<br>
+      </p>
+      <p>Go to <a href="http://www.amazon.com/dp/0071795618?tag=sivers-20">Amazon</a></p>
+    </header>
+
+    <p>I'm biased. I'm in it. This is a subject I live. So I flipped through a little fast, thinking, “Yep. I know. Got it. Living it. Yep.”  But for those who need some minimalist inspiration, this has some great thoughts in it.</p>
+    <h2>my notes<h2>
+
+Poet Fujiwara no Teika:
+“The poet who has begun a thought must be able to end it so masterfully that a rich space of suggestions unfolds in the imagination of his audience.”
+
+Work is fun and productive when we’re doing what we do best while those around us are doing what they do best.
+It’s not so much fun when we’re doing work that others are better at but aren’t doing because we’ve failed to design the work properly.
+
+If we are wise enough to contemplate our own experiences, we can figure out the square root - what’s at the core - so that we can be not only wise but also heroic in using wisdom to take the right action to make fundamental changes.
+
+Having just one bad apple in a small group can drag down performance by up to 40 percent.
+
+Smaller teams are more effective than larger teams because as group size grows, more attention is devoted to running the group and less to the task at hand.
+
+Vacation policy employed by Netflix, the streaming video and DVD-by-mail company based in Silicon Valley, is audaciously simple and simply audacious. Salaried employees can take as much time off as they’d like, whenever they want to take it. Nobody - not employees themselves, not managers - tracks vacation days. In other words, Netflix’s holiday policy is to have no policy at all.
+
+Since Netflix wasn’t tracking how many hours people were logging each work day, these employees wondered, why should it track how many holidays people were taking each work year?
+
+Rules and policies and regulations and stipulations are innovation killers. People do their best work when they’re unencumbered.
+
+Lao Tzu wrote:
+“A leader is best when people barely know he exists; when his work is done, his aim fulfilled, they will say: we did it ourselves.”
+
+Read John Maeda’s book [The Laws of Simplicity]. It’s short and appears not to have much information. It appears simple, but it’s an incredibly complex book.
+
+Subtract the obvious, add the meaningful.
+
+Subtraction can mean the difference between a highly persuasive presentation and a long, convoluted, and confusing one.
+In my own experience I’ve noticed that speakers who deliver presentations with fewer words carry themselves better.
+They have leadership presence. They’ve internalized the story and are confident about their message.
+People who fill their slides with words and bullet points are often unsure of the material and speak with less passion and conviction.
+
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

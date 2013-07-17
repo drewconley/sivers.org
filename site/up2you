@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Nobody's going to help you. Does that encourage you or discourage you? | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/up2you">Nobody's going to help you. Does that encourage you or discourage you?</a></h1>
+      <p class="postdate">2008-12-18</p>
+    </header>
+
+<p>
+<strong>Nobody's going to help you. It's all up to you.</strong>
+</p><p>
+<strong>Does hearing that discourage you or motivate you?</strong>
+</p><p>
+The reason I'm asking is that a musician friend emailed me two questions last week (December 2008):
+</p><blockquote><p>
+How can I find a great/major booking agent?<br />
+And how can I find an investor? I need someone to invest $500,000 into my band for radio, touring, recording, videos, PR, payola, etc.
+</p></blockquote>
+<p>
+My answer was:
+</p><blockquote><p>
+Sorry, but when it comes to this stuff, I think the healthiest attitude is the most cynical one:
+</p><p>
+There are no great agents that would want to take you on unless you're already earning $5000 a month gigging, so that their 10% cut (only $500) would be worth their time.
+</p><p>
+There are absolutely no investors that would invest in a musician now. Even solid profitable businesses with customers and employees can't find investors these days, (December 2008), so just assume you will not.
+</p><p>
+So: No agent. No investor. No one's going to help you until you're already successful. So <strong>how do you get successful with no help from anyone?</strong>
+</p><p>
+<strong>How can you make $5000/month from gigging, so that an agent will be interested enough to take it to the next level?</strong>  Only you know.
+</p><p>
+<strong>How can you call so much attention to your music online, that a company will gamble on you, and finance the expensive offline campaign?</strong>
+</p><p>
+<strong>Those are the healthy questions to ask.</strong>
+</p></blockquote><p>
+Unfortunately that's not the answer he wanted.
+</p><p>
+To him, my answer was really discouraging.
+</p><p>
+To me, (if I was receiving that answer from someone else), it would be really encouraging.
+</p><p>
+<strong>I like being reminded that nobody's going to help me</strong> - that it's all up to me.  It <strong>puts my focus back on the things I can control</strong> - not waiting for outside circumstances.
+</p><p>
+But it got me wondering:  is that just me?
+</p><p>
+<strong>When you think that nobody's going to help you, does that encourage you or discourage you?</strong>
+</p><p>
+I'm really interested to hear everyone's honest answer.  Please leave a reply in the comments here.  Thanks!
+</p>
+<img src="/images/stranded.jpg" alt="http://www.flickr.com/photos/eric_tank/2061351808/" />
+
+
+
+    <footer>
+      © 2008 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

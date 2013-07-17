@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Fela Kuti | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/fela-kuti">Fela Kuti</a></h1>
+      <p class="postdate">2009-11-22</p>
+    </header>
+
+<!-- Fela Kuti -->
+<p>
+When I was 17, in 1987, I went to New Orleans by myself for a few days.
+</p><p>
+Guitar on my shoulder, I took a taxi to the airport, and the driver said, “A musician! What kind of music do you play?”
+</p><p>
+After telling him, and asking where he's from, he said, “I'm from Nigeria! You must hear the best Nigerian musician, Fela Ransome Kuti.”  He wrote it on a piece of paper for me.
+</p><p>
+Back in suburban Chicago, I had to drive 20 miles to a good record store, to ask them if they had anything by Fela Kuti.  I got “<a href="http://www.amazon.com/dp/B000CCZQGE">O.D.O.O.</a>”, “<a href="http://www.amazon.com/dp/B000AA4LYQ">Teacher Don't Teach Me Nonsense</a>”, and “<a href="http://www.amazon.com/dp/B000AA4LY6">No Agreement</a>” on cassette.
+</p><p>
+I put in O.D.O.O.  It started with just a repeating woodblock on the 1st and 2nd 16th note of each beat.  Then a deeper muted conga syncopating against it around the 2 and 4.  Then a delicate drum kit joined in, tying it together.  Ride cymbal opens up.  Ride cymbal falls back.  Ride cymbal opens up.  Ride cymbal falls back.  Then it stops and drops down to two interlocking guitars.  Then the drums all come back in.  Then the bass.  Then the huge syncopated horns.  Ah....  Love it.
+</p><p>
+It's a 30-minute-long song.  No chord changes.  Just different aspects of the arrangement coming in and out.  Little interlocking ingredients, each featured enough for you to understand and appreciate their syncopation against the others.  His talking-singing vocals come in, then the piercing female background vocals answer him in chant.  Then it breaks down to keyboards and a sax solo.
+</p><p>
+Funky. Unique. Amazing. It was life-changing for me. It became my favorite music. <a href="http://en.wikipedia.org/wiki/Afrobeat">Afrobeat</a>.
+</p><p>
+<a href="http://www.last.fm/music/Fela+Kuti">Hear some of his music at last.fm</a>. <a href="http://www.youtube.com/results?search_query=fela+kuti">Watch some live concert video at YouTube</a>.
+</p><p>
+Fela influenced James Brown and James Brown influenced Fela.  Brian Eno and Talking Heads wore their Fela influence proudly on the amazing “<a href="http://en.wikipedia.org/wiki/Remain_in_Light">Remain in Light</a>” album. I love that I could now hear the influence.
+</p><p>
+I went to Berklee College of Music that year, and told everyone about Fela Kuti.  He came to perform in Boston, but I couldn't get anyone else to come with me, so I went by myself to a little club, and pushed my way to the front, elbows on the stage, looking straight up at Fela and his 20-piece band for two hours.  Awesome.
+</p><p>
+Berklee had an Afrobeat ensemble, so I joined as a guitarist for two semesters. I loved being just one rhythmic instrument in a big syncopated arrangement. Each of us a tiny but crucial part of the groove.
+</p><p>
+In 1990, I moved to New York City and saw Fela perform at the Apollo Theater.  You can hear his influence in <a href="http://sivers.org/mp3/DEREK_SIVERS-Tambura_Jam-1993-04.mp3">some of my music</a> around then.
+</p><p>
+He died in 1997.  I'm so glad I got to see him live.
+</p><p>
+<strong>Tonight I feel I saw him live again.</strong>
+</p><p>
+I saw the Broadway show “<a href="http://www.felaonbroadway.com/">Fela!</a>” - which did an amazing job at recreating his music and telling his story.
+</p><p>
+<strong>If you live near New York City or are visiting any time soon (2009-2010), I highly recommend you book some tickets at <a href="http://www.felaonbroadway.com/">FelaOnBroadway.com</a>. It's one of the best ways to get turned on to his music and understand the context of it, too.</strong>
+</p>
+<img src="/images/fela.jpg" alt="Fela Kuti" />
+
+
+    <footer>
+      © 2009 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

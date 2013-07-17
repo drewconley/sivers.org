@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>The list of books I've read in the past year | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/list-books">The list of books I've read in the past year</a></h1>
+      <p class="postdate">2008-10-13</p>
+    </header>
+
+<p>
+Please see this new page I created for you:
+</p><p>
+<a href="http://sivers.org/book">http://sivers.org/book</a>
+</p><p>
+Last year I started keeping track of all the books I read.  Underlining my favorite bits, and typing out notes for later.  Then I refer back to my notes often, so keep what I've learned fresh in my mind.
+</p><p>
+So, if you're needing some new ideas or inspiration, check out my book list at <a href="http://sivers.org/book">http://sivers.org/book</a>
+</p><p>
+Each one has the ISBN number and Amazon link, so you can go read more about it, or reserve it at your local library.
+</p><p>
+Now that I've finally got this list up, I'm going to start posting some specific highlights of lessons-learned from these books to my blog.
+</p><p>
+But for now, I just wanted you to be able to explore the list for yourself:  <a href="http://sivers.org/book">http://sivers.org/book</a>
+</p><p>
+Feel free to ask any questions about them or just let me know if you've read the same ones, too!
+</p>
+
+
+    <footer>
+      © 2008 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

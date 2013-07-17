@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Born Standing Up - by Steve Martin | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="onebook">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+    <header>
+      <figure><img src="/images/BornStandingUp.gif" alt="Born Standing Up - by Steve Martin" /></figure>
+      <h1>Born Standing Up - by Steve Martin</h1>
+      <p class="postdate">
+        ISBN: 1416553657<br>
+        READ: 2010-01-09<br>
+        RATING: 3/10<br>
+      </p>
+      <p>Go to <a href="http://www.amazon.com/dp/1416553657?tag=sivers-20">Amazon</a></p>
+    </header>
+
+    <p>A simple autobiography of his early years.  Interesting tale, though no usable lessons for me.</p>
+    <h2>my notes<h2>
+
+Born Standing Up - by Steve Martin
+
+There is no harm in charging oneself up with delusions between moments of valid inspiration.
+
+Any new social philosophy is good for creativity.
+
+Philosophy of dressing for the stage: “Always look better than they do.”
+
+It was easy to be great. Every entertainer has a night when everything is clicking. These nights are accidental and statistical: Like lucky cards in poker, you can count on them occurring over time. What was hard was to be good, consistently good, night after night, no matter what the abominable circumstances. Performing in so many varied situations made every predicament manageable,
+
+What my last year of stand-up was about: I had become a party host, presiding not over timing and ideas but over a celebratory bash of my own making.
+
+Moving on and not looking back, not living in the past, was a way to trick myself into further creativity.
+
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

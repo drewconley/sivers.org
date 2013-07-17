@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>What's really keeping you from where you need to be? (It's not piracy.) | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/pigs-sharks">What's really keeping you from where you need to be? (It's not piracy.)</a></h1>
+      <p class="postdate">2008-04-15</p>
+    </header>
+
+<p>
+I spoke at <a href="http://www.ascap.com/eventsawards/events/expo/2008/">a conference</a> last weekend, where a woman in the audience was SO mad about piracy that she was physically shaking, red in the face, tears in her eyes, fuming spitting livid, asking how we can stop this rampant piracy.
+</p><p>
+I didn't answer her concern well, but I said “<strong>More people are killed by pigs than sharks each year, but because shark attacks are more newsworthy, they seem more prevalent. Piracy gets all the attention, but I don't think most of you in this room have lost more than $30 to piracy.</strong>”  (I got a big “Booo” from the audience for this.)  “<strong>Obscurity is your real enemy.  Fight obscurity until you're a household name, then piracy will be more of a problem than obscurity.  Until then, worry about pigs, not sharks.</strong>”
+</p><p>
+The woman got so furious about this that she screamed at me with tears in her eyes, “I HATE YOUR POINT OF VIEW, BUDDY!” (and some other angry things I forget.)  From her point of view, piracy was Enemy #1 and anybody ignoring this massive threat was hurting us all.
+</p><p>
+Driving away from the event, of course I figured out what I wish I would have said in that moment:
+</p><p>
+<strong>The thing separating us from where we are and where we need to be</strong> is not piracy.
+</p><p>
+<strong>It's always something more internal</strong>, whether writing, communicating, producing, networking, promoting, or taking a wildly different approach to marketing.
+</p><p>
+Putting so much attention and energy into fighting piracy (as if, when solved, you'll suddenly start selling 10 times more) - is misguided effort, <strong>distracting you from what you really need to be improving</strong>.
+</p><p>
+That's the real reason I often tell musicians not to worry about piracy.  I'm not saying it doesn't exist.  But energy spent worrying about it is energy better spent working on what you know you really need to do.
+</p>
+<img src="/images/shark.jpg" alt="http://www.flickr.com/photos/87659272@N00/2349113088/" />
+
+
+    <footer>
+      © 2008 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

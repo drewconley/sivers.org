@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>7 reasons I switched back to PHP after 2 years on Rails | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/rails2php">7 reasons I switched back to PHP after 2 years on Rails</a></h1>
+      <p class="postdate">2007-09-23</p>
+    </header>
+
+<p><em>(This was originally posted on <a href="http://www.oreillynet.com/ruby/blog/2007/09/7_reasons_i_switched_back_to_p_1.html">O'Reilly</a> back in September 2007, and created a big hate-storm in the comments back then.  Re-posting it here for permanent archive's sake.)</em></p>
+<hr>
+<p>
+SUMMARY: <strong>I spent two years trying to make Rails do something it wasn’t meant to do, then realized my old abandoned language</strong> (PHP, in my case) <strong>would do just fine if approached with my new Rails-gained wisdom.</strong>
+</p><p>
+INTRO / BACKGROUND:
+</p><p>
+Back in January 2005, I announced on the O’Reilly blog that I was going to completely scrap over 100,000 lines of messy PHP code in my existing CD Baby (cdbaby.com) website, and rewrite the entire thing in Rails, from scratch.
+</p><p>
+I hired one of the best Rails programmers in the world (Jeremy Kemper aka bitsweat), and we set off on this huge task with intensity. The first few months showed good progress, and Jeremy could not have been more amazing, twisting the deep inner guts of Rails to make it do things it was never intended to do.
+</p><p>
+But at every step, it seemed our needs clashed with Rails’ preferences. (Like trying to turn a train into a boat. It’s do-able with a lot of glue. But it’s damn hard. And certainly makes you ask why you’re really doing this.)
+</p><p>
+<strong>Two years (!) later, after various setbacks, we were less than halfway done.</strong> (To be fair to Jeremy’s mad skillz: many setbacks were because of tech emergencies that pulled our attention to other internal projects that were not the rewrite itself.) The entire music distribution world had changed, and we were still working on the same goddamn rewrite. I said fuckit, and we abandoned the Rails rewrite. Jeremy took a job with 37 Signals, and that was that.
+</p><p>
+I didn’t abandon the rewrite IDEA, though. I just asked myself one important question:
+</p><p>
+<strong>“Is there anything Rails can do, that PHP CAN’T do?”</strong>
+</p><p>
+The answer is no.
+</p><p>
+I threw away 2 years of Rails code, and opened a new empty project.
+</p><p>
+Then <strong>in a mere TWO MONTHS, by myself, not even telling anyone I was doing this, using nothing but vim, and no frameworks, I rewrote CD Baby from scratch in PHP. Done! Launched! And it works amazingly well.</strong>
+</p><p>
+It’s the most beautiful PHP I’ve ever written, all wonderfully MVC and DRY, and and I owe it all to Rails.
+</p><p>
+<h3>Inspired by Rails:</h3>
+<ul>
+<li>all logic is coming from the models, one per database table, like Martin Fowler’s Active Record pattern.</li>
+<li>no requires or includes needed, thanks to __autoload.</li>
+<li>real MVC separation: controllers have no HTML or business-logic, and only use REST-approved HTTP. (GET is only get. Any destructive actions require POST.)</li>
+<li>all HTML coming from a cute and powerful templating system I whipped up in 80 lines, all multi-lingual and caching and everything</li>
+<li>… and much more. In only 12,000 lines of code, including HTML templates. (Down from 90,000, before.)</li>
+</ul>
+<p>
+Though I’m not saying other people should do what I’ve done, I thought I should share my reasons and lessons-learned, here:
+</p>
+
+<h3>SEVEN REASONS I SWITCHED BACK TO PHP AFTER 2 YEARS ON RAILS:</h3>
+
+<h4>#1 - “IS THERE ANYTHING RAILS/RUBY CAN DO THAT PHP CAN’T DO? … (thinking)… NO.”</h4>
+<p>
+For 2 years, I thought Rails is genius, PHP is shit. Rails is powerful, PHP is crap.
+I was nearly killing my company in the name of blindly insisting Rails was the answer to all questions, timeframes be damned.
+But when I took a real emotionless non-prejudiced look at it, I realized the language didn’t matter that much.
+Ruby is prettier. Rails has nice shortcuts. But no big shortcuts I can’t code-up myself in a day if needed.
+Looked at from a real practical point of view, I could do anything in PHP, and there were many business reasons to do so.
+</p>
+
+<h4>#2 - OUR ENTIRE COMPANY’S STUFF WAS IN PHP: DON’T UNDERESTIMATE INTEGRATION</h4>
+<p>
+By the old plan (ditching all PHP and doing it all in Rails), there was going to be this One Big Day, where our entire Intranet, Storefront, Members’ Login Area, and dozens of cron shell scripts were ALL going to have to change. 85 employees re-trained. All customers and clients calling up furious that One Big Day, with questions about the new system.
+Instead, I was able to slowly gut the ugly PHP and replace it with beautiful PHP. Launch in stages. No big re-training.
+</p>
+
+<h4>#3 - DON’T WANT WHAT I DON’T NEED</h4>
+<p>
+I admire the hell out of the Rails core gang that actually understand every line inside Rails itself. But I don’t. And I’m sure I will never use 90% of it.
+With my little self-made system, every line is only what’s absolutely necessary. That makes me extremely happy and comfortable.
+</p>
+
+<h4>#4 - IT’S SMALL AND FAST</h4>
+<p>
+One little 2U LAMP server is serving up a ton of cdbaby.com traffic damn fast with hardly any load.
+</p>
+
+<h4>#5 - IT’S BUILT TO MY TASTES</h4>
+<p>
+I don’t need to adapt my ways to Rails. I tell PHP exactly what I want to do, the way I want to do it, and it doesn’t complain.
+I was having to hack-up Rails with all kinds of plugins and mods to get it to be the multi-lingual integration to our existing 95-table database.
+My new code was made just for me. The most efficient possible code to work with our exact needs.
+</p>
+
+<h4>#6 - I LOVE SQL</h4>
+<p>
+Speaking of tastes: tiny but important thing : I love SQL. I dream in queries. I think in tables.
+I was always fighting against Rails and its migrations hiding my beloved SQL from me.
+</p>
+
+<h4>#7 - PROGRAMMING LANGUAGES ARE LIKE GIRLFRIENDS: THE NEW ONE IS BETTER BECAUSE *YOU* ARE BETTER</h4>
+<p>
+Rails was an amazing teacher. I loved it’s “do exactly as I say” paint-by-numbers framework that taught me some great guidelines.
+I love Ruby for making me really understand OOP. God, Ruby is so beautiful. I love you, Ruby.
+But the main reason that any programmer learning any new language thinks the new language is SO much better than the old one is because he’s a better programmer now! You look back at your old ugly PHP code, compared to your new beautiful Ruby code, and think, “God that PHP is ugly!” But don’t forget you wrote that PHP years ago and are unfairly discriminating against it now.
+It’s not the language (entirely). It’s you, dude. You’re better now. Give yourself some credit.
+</p>
+<p>
+Ok. All that being said, I’m looking forward to using Rails some day when I start a brand new project from scratch, with Rails in mind from the beginning.
+</p><p>
+But I hope that this reaches someone somewhere thinking, “God our old code is ugly. If we only threw it all away and did it all over in Rails, it’d be so much easier!”
+</p>
+
+
+
+    <footer>
+      © 2007 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

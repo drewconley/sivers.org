@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Should you go digital-only, and skip the CD? | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/dd-only">Should you go digital-only, and skip the CD?</a></h1>
+      <p class="postdate">2008-08-02</p>
+    </header>
+
+<p>
+Should you go digital-only, and skip the CD?
+</p><p>
+The real question is: <strong>How much of your potential audience are you willing to exclude?</strong>
+</p><p>
+We're in transitional times. A lot of people have iPods. But most still don't. A lot of people get all their music online. But most still don't.
+</p><p>
+If you decide not to put your music on iTunes or Rhapsody - (say, if you have cover songs and don't want to bother with the <a href="http://cdbaby.net/dd-covers">paperwork</a>) - your music will never be heard by the millions that get <em>all</em> their music on iTunes or Rhapsody.
+</p><p>
+But if you decide not to have your music on CD, your music will never be heard by the millions that still do all their listening on CD.  (Even if they listen to streaming clips while sitting at their computer, they do all their real listening in the car, or on the home stereo.)
+</p><p>
+So the answer for 2008 is : <strong>if you're serious about being a professional musician, you need to do both</strong>.
+</p><p>
+If you're just playing around, and never expect even 100 people to want your music, then just upload to MySpace like everyone else does, and don't make a CD.
+</p><p>
+But in these long-tail days with over a million bands on MySpace, having a professional CD - a beautifully designed and manufactured CD - really sets you apart and shows you're serious to anyone in the music industry receiving your CD.  Investing $1000 into manufacturing CDs shows that you plan to make at least $1000 selling them.  Not spending the $1000 is like saying, “I don't think I'll ever make $1000 doing this.”  Then you wonder why a booking agent or label is not interested?
+</p><p>
+To close with a telling example:
+</p><p>
+When <strong>visiting Apple iTunes, I had lunch with the guy who's in charge of independent music editorial</strong> - the one who chooses who gets featured placement.
+</p><p>
+I asked him, “What's the best way for me to turn you on to something I think you'll love?”
+</p><p>
+His answer? “Send me the CD.” 
+</p><p>
+I said, “Uh.. really? What if it's already on iTunes? Shouldn't I just send you the link?”
+</p><p>
+He said, “Yeah. I commute an hour each way to Apple's office. <strong>I do all my real listening in the car</strong>, so I need the CD.”
+</p>
+<img src="/images/cd-burning.jpg" alt="http://www.flickr.com/photos/fotolandia/2283178230/" />
+
+
+    <footer>
+      © 2008 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Anything You Want (my first book) | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/ayw">Anything You Want (my first book)</a></h1>
+      <p class="postdate">2011-06-29</p>
+    </header>
+
+<p>
+For years, when people asked if I'd write a book, I said no.
+</p>
+<p>
+But when my hero <a href="http://www.sethgodin.com/sg/">Seth Godin</a> asked if I'd write a book for <a href="http://www.thedominoproject.com/about">his new publishing company</a>, I said <a href="http://sivers.org/hellyeah">HELL YEAH!!</a>
+</p>
+<p>
+So, my first book is released today.
+</p>
+<p>
+It's called “<a href="http://sivers.org/a"><strong>Anything You Want</strong> - 40 Lessons for a New Kind of Entrepreneur</a>”.
+</p>
+<p>
+It's <strong>40 short stories, sharing what I learned during starting, building, and selling CD Baby.</strong>
+</p>
+<p>
+Not an autobiography, it's really <strong>my top-40 tips for anyone starting or running a company.</strong>
+</p>
+<p>
+Most of the lessons are counter-intuitive, learned from experience, and go against the usual business-book advice.
+If you know my blog, you'll recognize some of the stories, but now in context.
+</p>
+<p>
+<strong>The website for the book is <a href="http://sivers.org/a">sivers.org/a</a></strong> - with links to all the different formats on Amazon.
+</p>
+<p>
+If you like to listen, I highly recommend the <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAudiobook?id=444965897&amp;s=143441">audio version</a>.
+I recorded it myself, so it has a little more personality than the written word.
+</p>
+<p>
+No matter which format you choose, it comes with a free gift: a code to download 241 hand-picked MP3s from my top CD Baby artists.
+</p>
+<a href="http://sivers.org/a" title="Anything You Want - by Derek Sivers"><img src="/images/DerekSivers-AnythingYouWant-500x629.jpg" alt="Anything You Want - book cover" title="Anything You Want - by Derek Sivers" /></a>
+
+
+    <footer>
+      © 2011 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

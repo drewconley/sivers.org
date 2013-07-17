@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Ebert is reviewing again! | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/ebert">Ebert is reviewing again!</a></h1>
+      <p class="postdate">2008-09-12</p>
+    </header>
+
+<p>
+I'm so glad Roger Ebert is reviewing again.  If you've only thought of him as the “thumbs up” guy, I hope to change your mind.
+</p><p>
+I feel like I've been in part-time film school with him since 1994, when I started reading his <strong>wonderfully-written in-depth reviews of every new movie released</strong>, every Friday on <a href="http://rogerebert.suntimes.com/">his site</a>.
+</p><p>
+His analysis makes movies richer, always calling my attention to finer aspects of a film I never would have noticed.  Here's an example from <a href="http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20051106/REVIEWS08/511060302/1023">his review of Dark City</a>:
+<blockquote>
+Sometimes during the shot-by-shot analysis, we simply froze a frame and regarded it. Some of the street scenes echo paintings by Edward Hopper or Jack Vettriano. This is <strong>not only a beautiful film but a generous one, which supplies rich depth and imagination and many more details than are really necessary</strong> to tell the story. Small wonder that the name Bumstead appears, perhaps in honor of Henry Bumstead, one of the greatest Hollywood art directors. The world created by the Strangers seems borrowed from 1940s film noir; we see fedoras, cigarettes, neon signs, automats, older cars (and some newer ones -- the world is not consistent).
+</blockquote>
+<blockquote>
+Proyas likes deep-focus compositions. Many interior spaces are long and narrow. Exteriors look down one street to the vanishing point, and then the camera pans to look down another street, equally long. The lighting is low-key and moody. The color scheme depends on blacks, browns, shadows and the pallor of the Strangers; warmer colors exist in human faces, in neon signs and on the billboard for Shell Beach. “I am simply grateful for this shot,” I said in Hawaii more than once. “It is as well-done as it can possibly be.” Many other great films give you the same feeling -- that <strong>their makers were carried far beyond the actual requirements of their work into the passion of creating something wonderful</strong>.
+</blockquote>
+</p><p>
+That last line applies to Ebert as well.  He is so passionate about appreciating films that his reviews go far beyond requirements, always insisting on a thorough insightful review.
+</p><p>
+Proof of passion: his tough battle with thyroid cancer kept him in the hospital for most of the last few years.  His every-Friday reviews stopped.  My 12-year-old weekly ritual stopped!  But even though he can never speak again, his written reviews have started again a few weeks ago, as great as ever, which is why I'm posting this now.  This man lives for movies.  Read <a href="http://en.wikipedia.org/wiki/Roger_Ebert">his Wikipedia page</a> for more details about his personal life, if interested.
+</p>
+<h3>Bookmark this: <a href="http://rogerebert.suntimes.com/apps/pbcs.dll/section?category=greatmovies_fulllist">The Great Movies</a></h3>
+<p>
+Bookmark <a href="http://rogerebert.suntimes.com/apps/pbcs.dll/section?category=greatmovies_fulllist">The Great Movies</a>, where he writes deep reviews of the most important films of all time.  <strong>Read through some every time you're thinking of renting a movie or adding to your NetFlix queue.  Your life will be richer because of it.</strong>
+</p>
+<h3>Bookmark this: <a href="http://rogerebert.suntimes.com/apps/pbcs.dll/section?category=REVIEWS">New Movie Reviews</a></h3>
+<p>
+Bookmark his <a href="http://rogerebert.suntimes.com/apps/pbcs.dll/section?category=REVIEWS">new movie reviews</a>, for those times when you'd like to head out to see a movie.  You'll often disagree with him about fun, dumb entertainment, but his reviews can always call your attention to something new.
+</p>
+<img src="/images/cinema.jpg" alt="http://flickr.com/photos/ihp/115884803/" />
+
+
+    <footer>
+      © 2008 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

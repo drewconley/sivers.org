@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Some will always say you're wrong | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/wrong">Some will always say you're wrong</a></h1>
+      <p class="postdate">2013-06-03</p>
+    </header>
+
+<p>
+Some people are into money.  Some aren’t.
+</p><p>
+Some people are inspired by helping the needy.  Some aren’t.
+</p><p>
+Some are into fame, power, and prestige.  Others are into anonymity and freedom from responsibility.
+</p><p>
+It gets more interesting when you realize people have different preferences in the different parts of their life.  Famous online, but anonymous in their local community.  Generous with time, stingy with money.  Introvert when working, extrovert when not.
+</p><p>
+You have to <strong><a href="http://sivers.org/grade">know your preferences well</a></strong>, because <strong>no matter what you do, someone will tell you you’re wrong</strong>.
+</p><p>
+If you’re not into money, many people will say you’re foolish.
+</p><p>
+If you’re not into charity, many people will say you’re greedy.
+</p><p>
+If you’re not into crowds, many people will say you’re missing out.
+</p><p>
+<strong>Some careers come with excuses:</strong>
+</p><p>
+The classic novelist thrives in solitude.  Alone in a cabin in the woods, writing books that reach millions.
+</p><p>
+The classic journalist thrives in a crowd.  Talking with everyone, building the story from a thousand accounts.
+</p><p>
+The shy librarian.  The aggressive lawyer.  The flaky artist.  No explanation needed.
+</p><p>
+<strong>But some careers need explanations when you go against the mold:</strong>
+</p><p>
+The entrepreneur who’s not into money.
+</p><p>
+The musician who avoids crowds.
+</p><p>
+The ambitious conservationist.
+</p><p>
+The artist into discpline.
+</p><p>
+The <a href="http://sivers.org/book/HowToGetRich">rich poet</a>.
+</p><p>
+But if you <strong>expect this criticism in advance</strong>, and <strong>take pride in your stance</strong>, you can bash on with a smile, being who you want to be.
+</p><p>
+Then every time they say you’re wrong, that’s a sign you’re doing it right.
+</p>
+<img src="/images/HermitCrab.jpg" width="600" height="392">
+<div class="small">(image by <a href="http://www.finland.org/public/default.aspx?contentid=181860&nodeid=35833">Alex Marttunen</a>)</div>
+
+
+    <footer>
+      © 2013 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

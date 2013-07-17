@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Double-speed! Half-speed! Up an octave! Down an octave! | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/more-than-one">Double-speed! Half-speed! Up an octave! Down an octave!</a></h1>
+      <p class="postdate">2008-10-23</p>
+    </header>
+
+<h3>Singing:</h3>
+<p>
+I used to take voice lessons from <a href="http://www.warrensenders.com/">Warren Senders</a>.
+</p><p>
+For each lesson, I'd bring in one song I was trying to improve.
+</p><p>
+First, I'd sing it for him as-is.
+</p><p>
+Then he'd say, “OK - <strong>now do it up an octave</strong>.”
+</p><p>
+“Uh... up an octave?”
+</p><p>
+“Yes! Go! 1.. 2.. 3.. 4..”
+</p><p>
+I'd sing the whole song again, in screeching squeaking falsetto, sounding like an undead cartoon mouse.  But by the second half of the song, it was almost charming.
+</p><p>
+Then he'd say, “OK - <strong>now do it down an octave</strong>.”
+</p><p>
+“Down an octave?  But I don't think I can!”
+</p><p>
+“Let's try! Go! 1.. 2.. 3.. 4..”
+</p><p>
+Have you ever tried to sing lower than your voice really goes?  Mine sounded like a garbage disposal or lawn mower, but he kept saying, “Pitch!” - and the point was the control of the vocal chords down in that chaotic range and the intense focus it takes to hear the pitch in a creak.
+</p><p>
+Then he'd say, “OK. Back to normal pitch, but <strong>double-time!  1!2!3!4!</strong>”
+</p><p>
+I'd sing the whole song twice as fast, which brought out different rhythmic phrasing and articulation challenges.
+</p><p>
+Then he'd say, “OK. Relax. Now do it <strong>half-speed.  1 . . . 2 . . . 3 . . . 4 . . .</strong>”
+</p><p>
+Singing a song half-speed really brings a microscope to its details!
+</p><p>
+<strong>Now sing it like Bob Dylan. Go!  Now Björk. Go!  Tom Waits!  Go!</strong>
+</p><p>
+<strong>Now sing it like I just woke you up at 4am.  Now like it's a chant at a football game!</strong>
+</p><p>
+We'd end with me singing the song at its original speed in my normal voice, like I did the very first time.  But of course it sounded different - like seeing your home town after being away for years.
+</p><p>
+If you care about a song, it's worth an hour of experimentation.  Realizing <strong>the initial choices you made are just one of many</strong> brings all kinds of weathered wisdom and perspective to your song.
+</p>
+<hr /><h3>Business:</h3>
+<p>
+<strong>I'm taking an entrepreneurship class now</strong>.  I've never studied business before.
+</p><p>
+<strong>We analyzed a business plan for a mail-order pantyhose company.</strong>
+</p><p>
+After reading the whole thing, I felt like my old voice teacher:
+</p><ul>
+<li>“OK - <strong>make a plan that only requires $1000.</strong> Go!”</li>
+<li>“Now <strong>make a plan for 10-times as many customers</strong>. Go!”</li>
+<li>“Now <strong>do it without a website</strong>. Go!”</li>
+<li>“Now <strong>make all your initial assumptions wrong, and have it work anyway</strong>. Go!”</li>
+<li>“Now <strong>show how you would franchise it</strong>. Go!”</li>
+</ul>
+<p>
+You can't pretend there's only one way to do it!  <strong>No business goes as planned</strong>, so make 10 radically different plans.
+</p><p>
+Realizing <strong>the initial choices you made are just one of many</strong> brings all kinds of weathered wisdom and insight into your business.
+</p>
+<hr /><h3>Life:</h3>
+<ul>
+<li>Now you're living in New York City, obsessed with success. Go!</li>
+<li>Now you're a free spirit, backpacking around Thailand. Go!</li>
+<li>Now you're a confident extrovert and everyone loves you. Go!</li>
+<li>Now you're married and your kids are your life. Go!</li>
+<li>Now you spend a few years in relative seclusion, reading and walking. Go!</li>
+</ul>
+<p>... bringing all kinds of weathered wisdom and perspective into your life.</p>
+<img src="/images/hair.jpg" alt="" />
+
+
+
+    <footer>
+      © 2008 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

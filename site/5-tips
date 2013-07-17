@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>5 tips for musicians | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/5-tips">5 tips for musicians</a></h1>
+      <p class="postdate">2008-04-11</p>
+    </header>
+
+A guy writing a book asked me for 5 tips for musicians, today.  Here are the 5 I gave off the top of my head:
+<ol>
+<li>
+<strong>Turn off your computer</strong>.  Improve that unfinished song, without distractions.  We're drowning in a world of mouse-clickers.  <strong>Stand apart from the pack by doing the focused work of improving your skills</strong>.  The key that unlocks the door to success is not online, it's in you.
+</li><li>
+<strong>Whatever excites you, go do it</strong>.  Whatever scares you, go do it.  <strong>Whatever drains you or bores you, stop doing it immediately!</strong>  Find someone else who loves it, instead.
+</li><li>
+<strong>Meet 3 new people each week who might help you</strong>.  “Do It Yourself” doesn't mean do it ALL yourself.  You need help.  There are people who love booking gigs, love promoting, love building websites.  Put a few hours a week into finding them.  <strong>Let them help you</strong>.  Email strangers, and suggest a phone call or lunch.  Almost everyone says yes.  
+</li><li>
+<strong>Keep in touch</strong> with people.  The best connections always happen right after a recent contact.  It's always the person you talked to yesterday who will get you a gig or introduce you to a key contact, because you're at the forefront of their mind.  Just <strong>put aside 30 minutes every few days</strong> to call people who matter to you, and say hello.  Send them something you think they'd like, whether a link, an article, a trinket, or a pizza.  
+</li><li>
+Bring out your weird side.  What's great about the long tail is that there can be infinite niches.  Be (and trumpet yourself as) <strong>the best at your tiny sharply-defined niche</strong>.  Better to be the world's leading songwriter of songs about seaweed, than yet-another normal-but-good rock band or folksinger.
+</li></ol>
+<img src="/images/practicing.jpg" alt="http://www.flickr.com/photos/striatic/118648098/" />
+
+
+
+
+    <footer>
+      © 2008 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

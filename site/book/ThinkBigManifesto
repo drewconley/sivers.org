@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>The Think Big Manifesto - by Michael Port and Mina Samuels | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="onebook">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+    <header>
+      <figure><img src="/images/ThinkBigManifesto.gif" alt="The Think Big Manifesto - by Michael Port and Mina Samuels" /></figure>
+      <h1>The Think Big Manifesto - by Michael Port and Mina Samuels</h1>
+      <p class="postdate">
+        ISBN: 0470432373<br>
+        READ: 2009-05-12<br>
+        RATING: 0/10<br>
+      </p>
+      <p>Go to <a href="http://www.amazon.com/dp/0470432373?tag=sivers-20">Amazon</a></p>
+    </header>
+
+    <p>One of the few books I've actively disliked. Ever read the introduction to a book? Where they say “what you hold in your hands here is something that could change the world”, and blah blah blah? I kept reading, wondering when the introduction was going to be over. Over halfway through the book, I realized this was it: just broad general encouraging unuseful nothings for the entire book.</p>
+    <h2>my notes<h2>
+
+Think: “Why not me?” instead of “Why me?”
+
+To think big is to begin by letting go of what we don’t need: habits, attitudes, and beliefs that stand in the way of thinking big.
+
+Once your core is identified, is it easy to expose it for the world to see. To let people know what we stand for is to lay ourselves bare, all those raw nerve endings reachable, touchable by others. It can make a person uncomfortable just to think about such vulnerability.
+
+We have wasted our resources on self-protection, and in the end it will never work.
+
+Don’t intellectualize. When you overthink what you stand for, the energy leaks away. Your identity is driven by an inner passion, not a cold inner rationality. I’m not knocking rationality. It has its place, but it is not the core.
+
+Who do you know of, or know, who is a big thinker? Why do you admire that person? What does he or she stand for? What do you stand for?
+
+As long as you’re willing to keep learning, you can be an expert. Sometimes all it takes is staying a few steps ahead of the rest of the pack. You don’t have to have all the answers, but you do need to keep asking the right questions.
+
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

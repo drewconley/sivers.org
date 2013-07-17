@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>TED Conference : opening night party is already overwhelming | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/ted1">TED Conference : opening night party is already overwhelming</a></h1>
+      <p class="postdate">2009-02-04</p>
+    </header>
+
+<p>
+Opening-night welcome party at the <a href="http://conferences.ted.com/TED2009/program/">TED Conference</a>.  Socially overwhelming.  <strong>The density of great conversation is overwhelming!</strong>  Like the most perfect party I can imagine, but so much more than I imagined that I'm not sure if I can handle it.
+</p><p>
+I turn to anyone next to me and say hello, and find out they invented Virtual Reality, or the synthesizer, or launched iGoogle, or wrote one of my favorite books, or are just really absolutely brilliant and interesting even if not famous.  Lots of entrepreneurs.
+</p><p>
+In my first two hours I had good conversations with:</p><ul>
+<li><a href="http://en.wikipedia.org/wiki/Raymond_Kurzweil">Raymond Kurzweil</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Jaron_Lanier">Jaron Lanier</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Elizabeth_Gilbert">Elizabeth Gilbert</a></li>
+</ul><p>
+...and bumped into:</p><ul>
+<li><a href="http://en.wikipedia.org/wiki/Tim_O%27Reilly">Tim O'Reilly</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Kevin_Rose">Kevin Rose</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Chris_Sacca">Chris Sacca</a></li>
+<li><a href="http://en.wikipedia.org/wiki/John_Hodgman">John Hodgman</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Glenn_Close">Glenn Close</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Meg_Ryan">Meg Ryan</a></li>
+</ul>
+<p>Funny to note that at a place like this, Kevin Rose was more popular than the movie stars, who were surprisingly unhounded.</p>
+<p>Because this blog is public I should just clarify that I'm not namedropping to impress, but just to accurately describe the scene here.  It's almost <strong>too many of my heroes in one place</strong>.  Strange feeling.</p>
+<p>Anyway, it's just 1am as I got back from this opening party.  <strong>Four more days of this to go!</strong></p>
+
+
+    <footer>
+      © 2009 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Ideas are just a multiplier of execution | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/multiply">Ideas are just a multiplier of execution</a></h1>
+      <p class="postdate">2009-07-28</p>
+    </header>
+
+<p>
+It's so funny when I hear people being so protective of ideas.  (People who want me to sign an NDA to tell me the simplest idea.)
+</p><p>
+To me, ideas are worth nothing unless executed. They are just a multiplier. Execution is worth millions.
+</p><p>
+Explanation:
+</p>
+<table class="realtable">
+<tr><td>AWFUL IDEA</td><td>= -1</td></tr>
+<tr><td>WEAK IDEA</td><td>= 1</td></tr>
+<tr><td>SO-SO IDEA</td><td>= 5</td></tr>
+<tr><td>GOOD IDEA</td><td>= 10</td></tr>
+<tr><td>GREAT IDEA</td><td>= 15</td></tr>
+<tr><td>BRILLIANT IDEA</td><td>= 20</td></tr>
+<tr><td>--------</td><td>---------</td></tr>
+<tr><td>NO EXECUTION</td><td>= $1</td></tr>
+<tr><td>WEAK EXECUTION</td><td>= $1000</td></tr>
+<tr><td>SO-SO EXECUTION</td><td>= $10,000</td></tr>
+<tr><td>GOOD EXECUTION</td><td>= $100,000</td></tr>
+<tr><td>GREAT EXECUTION</td><td>= $1,000,000</td></tr>
+<tr><td>BRILLIANT EXECUTION</td><td>= $10,000,000</td></tr>
+</table>
+<p>
+<strong>To make a business, you need to multiply the two.</strong>
+</p><p>
+The most brilliant idea, with no execution, is worth $20.<br />
+</p><p>
+The most brilliant idea takes great execution to be worth $20,000,000.
+</p><p>
+That's why I don't want to hear people's ideas.
+</p><p>
+I'm not interested until I see their execution.
+</p>
+<img src="/images/multiply.jpg" alt="http://www.flickr.com/photos/lwr/2404793397/" />
+<p class="small"><em>(This post originally appeared on <a href="http://www.oreillynet.com/onlamp/blog/2005/08/ideas_are_just_a_multiplier_of.html">my O'Reilly blog on August 16, 2005</a>. I'm re-posting it here since their site is getting filled with ads.)</em></p>
+
+
+    <footer>
+      © 2009 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

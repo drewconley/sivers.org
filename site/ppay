@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Some people like to pay. Let them. | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/ppay">Some people like to pay. Let them.</a></h1>
+      <p class="postdate">2009-06-03</p>
+    </header>
+
+<p>
+I like to pay for things.
+</p><p>
+For years, when I was broke, I'd use cracked/bootleg copies of expensive software programs like Photoshop, Office, and Windows.  Now I'm glad to pay for them, even though I hardly use them.
+</p><p>
+For years, if I'd see an opportunity (say, for something to promote my music), but saw it cost money, I'd immediately lose interest.  Now I'm glad to pay for services (like <a href="http://soundcloud.com/">SoundCloud</a>, for example) that are doing great work, even though I don't use them much.
+</p><p>
+When musicians put me on the guest list at a venue, I pay anyway.  I like to support the venue and the artist.
+</p><p>
+I pay <a href="http://blog.pandora.com/faq/#64">Pandora</a> $36 per year to have no advertising when I listen.
+</p><p>
+At <a href="http://magnatune.com/">Magnatune</a>, people can pay as little as $5 to buy an album, but the average price paid is $9.82.  (Many pay much much more, because they know it goes to the artist.)
+</p><p>
+Radiohead's <a href="http://en.wikipedia.org/wiki/In_Rainbows">In Rainbows</a> album was offered for free, but 40% of people chose to pay for it anyway.
+</p><p>
+And I <em>always</em> pay street performers.
+</p><p>
+The key moment is when I realized that all of these people charging a little money are not greedy, usually not rich, and are just trying to make a living doing something I admire and value.
+</p><p>
+It's like donating money to your favorite politician or charity. You don't have to, but it makes you happy.
+</p><p>
+So I do my part by paying for things often.
+</p><p>
+When designing your business, service, or product, <strong>even if you're offering it for free, don't forget that there are lots of people like me that like to pay!  Appeal to this side of people, giving them a feel-good reason to pay</strong>.
+</p><p>
+Tell them what their payment will go to support.  Show them how appreciated it is.
+</p><p>
+Some will feel good about paying.  <strong>It will actually make them happy to give you money</strong>.  Let them.  Always offer this.
+</p>
+<img src="/images/lemonade.jpg" alt="http://www.flickr.com/photos/lizaks/1737084123/" />
+
+
+
+
+    <footer>
+      © 2009 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

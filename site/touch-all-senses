@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Touch as many of their senses as you can | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/touch-all-senses">Touch as many of their senses as you can</a></h1>
+      <p class="postdate">2007-08-18</p>
+    </header>
+
+<p>
+<strong>The more senses you touch in someone, the more they'll remember you.</strong>
+</p>
+<p>
+BEST:  a live show, with you sweating right on top of someone, the PA system pounding their chest, the smell of the smoky club, the flashing lights and live-in-person performance.
+</p>
+<p>
+WORST:  an email.  a single web page.  a review in a magazine with no photo.
+</p>
+<p>
+(Let's say that “emotions” are one of the senses.)
+</p>
+<p>
+Whenever possible, try to reach as many senses as possible.  Have an amazing photo of yourself or your band, and convince every reviewer to put that photo next to the review of your album.
+</p>
+<p>
+Send videos with your presskit. Play live shows often. Understand the power of radio to make people hear your music instead of just hearing about it.
+</p>
+<p>
+Get onto any TV shows you can.  Scent your album with patchouli oil.  Make your songs and productions truly emotional instead of merely catchy.
+</p>
+<p>
+<strong>(Touching their emotions is like touching their body. If you do it, you'll be remembered.)</strong>
+</p>
+
+<img src="/images/touch-all-senses.gif" alt="Touch as many of their senses as you can" />
+
+
+    <footer>
+      © 2007 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

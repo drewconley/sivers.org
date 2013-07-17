@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>First Follower idea is all yours | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/ff2">First Follower idea is all yours</a></h1>
+      <p class="postdate">2010-02-14</p>
+    </header>
+
+<p>
+Anyone want some fame being a leadership philosopher?
+</p><p>
+Last week I gave a 3-minute talk at the <a href="http://conferences.ted.com/TED2010/">TED Conference</a> called “<a href="http://sivers.org/ff">How to Make a Movement - Leadership Lessons from Dancing Guy</a>”.
+</p><p>
+I expected nothing, but it got a standing ovation.  Peter Gabriel came up to me afterwards and said it was “funny, profound, and important.”
+</p><p>
+It was twittered and blogged about by <a href="http://twitter.com/tonyrobbins/status/9051718581">Tony Robbins</a>, <a href="http://twitter.com/jasonfried/status/8965575435">Jason Fried</a>, <a href="http://twitter.com/loic/statuses/8910545875">Loic Le Meur</a>, <a href="http://twitter.com/Bill_Gross/statuses/8910773300">Bill Gross</a>, and over 1000 other people.
+</p><p>
+Some powerful people have told me the ”First Follower” is a hit idea - that I should develop it and turn it into a book or a series of talks - the next Tipping Point, Purple Cow, etc.
+</p><p>
+Only problem is: I don't want to.
+</p><p>
+I don't want to drop my other projects to dive into this subject, even though it seems it would be successful.  I don't have any special insights.  I've said all I have to say about it.
+</p><p>
+So although it's usually understood that ideas are up for grabs, I should state it clearly:
+</p><p>
+<strong>If this “<a href="http://sivers.org/ff">First Follower</a>” idea inspires you to elaborate on it, please do.  Feel free to write a hit book about it, tour the corporate speaking circuit talking about it, or anything else.  I won't.</strong>
+</p><p>
+You don't have to ask my permission, pay me, or even credit me.
+</p><p>
+I've been very lucky with lots of opportunities.  This one's all yours.
+</p>
+<a href="http://www.flickr.com/photos/h-k-d/3063566547/"><img src="/images/uncaged.jpg" alt="http://www.flickr.com/photos/h-k-d/3063566547/" /></a>
+
+
+    <footer>
+      © 2010 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

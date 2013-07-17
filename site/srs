@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Memorizing a programming language using spaced repetition software | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/srs">Memorizing a programming language using spaced repetition software</a></h1>
+      <p class="postdate">2013-01-06</p>
+    </header>
+
+<p>
+I've been doing this for a year, and it's <strong>the most helpful learning technique I've found in 14 years of computer programming</strong>.
+</p>
+
+<h2>Background:</h2>
+<p>
+I'm an intermediate programmer. I didn't go to school for it. I just learned by necessity because I started a little website called CD Baby that just kept growing and growing, and I couldn't afford to hire a programmer, so I picked up a few $25 books on PHP, SQL, Linux, and Apache, and <strong>learned just enough to make it work, then used that little knowledge for years.</strong>
+</p><p>
+But later, <strong>when I worked along side a REAL programmer</strong>, I was blown away by their vocabulary!  All of these <strong>commands and functions just flowing effortlessly out of their fingers</strong>.  We were using the same language, but they had memorized so much of it, that I felt like a 3-year-old next to a university professor.  I really wanted to get that kind of fluency.
+</p><p>
+It made me think about <strong>how much I've learned then immediately forgotten</strong>, over the years.  I read books or articles about some useful feature, and try it once, but then I get distracted, forget about it, and go about my normal way of doing things.
+</p><p>
+I wanted to deeply memorize the commands and techniques of the language, and not forget them, so that they stay at the forefront of my mind whenever I need them.
+</p>
+
+<h2>Spaced Repetition:</h2>
+<p>
+When you hear a new fact, it's forgotten pretty quickly unless it's brought back to the forefront of your mind repeatedly.
+</p><p>
+You can do this haphazardly by immersing yourself in a language, for example, where the new words you learn will be brought up by chance occasionally.
+</p><p>
+But memory research shows that <strong>the most effective and efficient time for a new fact to be remembered is right before you were about to forget it</strong>.
+</p><p>
+<a href="http://quantifiedself.com/2012/06/spaced-repetition-and-learning/"><img src="/images/forgetting-curve-srs.jpg" alt="forgetting curve" /></a>
+</p><p>
+Say if you learn a new word in a foreign language, you'd want to practice it again a few minutes after hearing it, then a few hours, then the next day, then in 2 days, then 5 days, then 10 days, 3 weeks, 6 weeks, 3 months, 8 months, etc.  After a while it's basically permanently memorized with a rare reminder.
+</p><p>
+<strong>Spaced Repetition Software does this for you</strong>, so you can just <strong>give it a bunch of facts you want to remember, then have it quiz you once a day, and it manages the intervals based on your feedback.</strong> After each quiz question, if you say that one was easy, it won't be introduced for a long time, but if you were stumped, then it'll ask it again in a few minutes, until you've got it.
+</p><p>
+<strong>Go to <a href="http://ankisrs.net/">http://ankisrs.net</a> and download Anki</strong> - the free, open source, most popular spaced repetition software program. Available for Mac, Windows, Linux, iPhone, Android, etc. Written in Python.
+</p><p>
+As for programming, you get where I'm going with this.
+</p><p>
+What if you could <strong>memorize everything about the programming language</strong> of your choice?  Every command, every parameter, every function.  Every solution to hundreds of the most common problems, all completely memorized at your fingertips?  Imagine going through the documentation or a book, and <strong>permanently remembering every single thing in it?</strong>
+</p><p>
+Enough of the intro, let's get to the HOW-TO:
+</p>
+
+<h2>First, learn!</h2>
+<p>
+First, I have to make something really clear:
+</p><p>
+<strong>Flash cards are for <em>remembering</em> what you’ve learned.</strong>
+</p><p>
+Before you create a flash card for something, you need to actually <strong>learn and understand it, first.</strong>  Whether you learn from books, lectures, videos, reading through source code, online tutorials, or anything else, create the flash card after you’ve learned and understood.
+</p><p>
+(This is why it’s not that helpful to look at someone else’s deck.  Those are just reminders.)
+</p>
+
+<h2>Convert Knowledge into Small Facts:</h2>
+<p>
+You're going to be making a bunch of flash cards.  Question on the front.  Answer on the back.
+</p><p>
+If you were just using this to memorize foreign language vocabulary, then the formatting would be easy.  The front would have a word or phrase, and the back would have its translation, and vice-versa.
+</p><p>
+<img src="/images/anki-cn-1.png" alt="example chinese flash card question" /><br>
+<img src="/images/anki-cn-2.png" alt="example chinese flash card answer" />
+</p><p>
+<img src="/images/anki-cn-3.png" alt="example chinese flash card question" /><br>
+<img src="/images/anki-cn-4.png" alt="example chinese flash card answer" />
+</p><p>
+But if you're learning anything else, you're going to have to put a little craft and creativity into making your own flash cards.
+</p><p>
+It takes some effort to <strong>read through paragraphs of stuff you want to remember, pick out the key facts, break them down into their smallest form, and turn them into quiz questions, for quizzing your future self</strong>.
+</p><p>
+Here are my best time-saving tips from a year of doing this:
+</p>
+
+<h3>Turn prose into code</h3>
+<p>
+If you're learning JavaScript, you come across this information:
+</p>
+<blockquote>“The add (+) operator... if only one operand is a string, the other operand is converted to a string and the result is the concatenation of the two strings.”</blockquote>
+<p>
+You test this out yourself, play around with it, and find out that 1 + '1' is '11'.  So you make a flashcard to remember this fact:
+</p>
+<pre class="anki1">
+var a = 5 + '5';
+// what is a?
+</pre><pre class="anki2">
+'55'
+If either side of + is a string, the other is
+converted to a string before adding like strings.
+</pre>
+<p>
+Sometimes I write an explanation.  Sometimes there's no need, because the answer itself is enough of a reminder of the reason.
+</p>
+
+<h3>Try to trick your future self</h3>
+<p>
+Here's another JavaScript fact:
+</p>
+<blockquote>“If the new Array constructor is passed a single number, it creates an empty Array with a length of that number. Any other combination of arguments creates an Array of those arguments.”</blockquote>
+<p>
+You test this out yourself, play around with it, and make two flash cards to try to trick your future self:
+</p>
+<pre class="anki1">
+var a = new Array('5');
+// what is a?
+</pre><pre class="anki2">
+An array with one item, the string '5': ['5'];
+</pre>
+... and then an almost-identical question ...
+<pre class="anki1">
+var a = new Array(5);
+// what is a?
+</pre><pre class="anki2">
+An empty array with a length of 5.
+</pre>
+<p>
+When the program quizzes you, it will shuffle the cards, so that hopefully these examples will intentionally catch you by surprise.
+</p><p>
+You can also try to trick yourself with more complicated examples, to keep these gotchas fresh in your mind:
+</p>
+<pre class="anki1">
+var a = [20, 10, 5, 1];
+// what is a.sort()?
+</pre><pre class="anki2">
+[1, 10, 20, 5]
+// sort treats all values as strings
+</pre>
+<p>
+Don't forget to <strong>quiz yourself on the solution, too:</strong>
+<pre class="anki1">
+var a = [20, 10, 5, 1];
+// sort these in numeric order
+</pre><pre class="anki2">
+function compare(v1, v2) { return(v1 - v2); }
+a.sort(compare);
+</pre>
+
+<h3>Save the cool tricks</h3>
+<p>
+If you find a cool trick you want to remember, turn it into the answer of a small challenge.
+</p>
+<pre class="anki1">
+var albums = [
+  {name: 'Beatles', title: 'White Album', price: 15},
+  {name: 'Zeppelin', title: 'II', price: 7}];
+// make this work:
+albums.sort(by('name'));
+albums.sort(by('title'));
+albums.sort(by('price'));
+</pre><pre class="anki2">
+function by(propName) {
+  return function(obj1, obj2) {
+    v1 = obj1[propName];
+    v2 = obj2[propName];
+    if (v1 < v2) { return -1; }
+    else if (v1 > v2) { return 1; }
+    else { return 0; }
+  };
+}
+</pre>
+
+<h3>Make the answer require multiple solutions</h3>
+<p>
+If there's more than one way of doing something, and you want to remember both, make your future self come up with more than one solution, so you can keep both alternatives in mind.  (Note, I'm switching from JavaScript to Ruby examples now.)
+</p>
+<pre class="anki1">
+s = 'string like this'
+# Show two ways to turn it into 'String Like This'
+</pre><pre class="anki2">
+s.split.map(&amp;:capitalize).join(' ')
+s.gsub(/\b\S/) {|x| x.upcase}
+</pre>
+
+<h3>Turn broad concepts into succinct examples</h3>
+<p>
+Say you just spent 20 minutes learning something that's more conceptual, and not as much about remembering specific functions.  Sometimes all you need is one succinct example to remind yourself of the concept.
+</p>
+<pre class="anki1">
+/(a(b)((c)d))/.match('abcd')
+# What will $1, $2, $3, $4 be?
+</pre><pre class="anki2">
+$1 = 'abcd'
+$2 = 'b'
+$3 = 'cd'
+$4 = 'c'
+</pre>
+Another example:
+<pre class="anki1">
+class C
+  self
+end
+class D < C
+end
+d1 = D.new
+# which object is self?
+</pre><pre class="anki2">
+class D
+</pre>
+
+<h3>Read “<a href="http://www.supermemo.com/articles/20rules.htm">20 Rules of Formulating Knowledge</a>” by Piotr Wozniak</h3>
+<p>
+The best advice on this stuff is an article called “20 Rules of Formulating Knowledge” by Piotr Wozniak at <a href="http://www.supermemo.com/articles/20rules.htm">http://www.supermemo.com/articles/20rules.htm</a>.  So please read that one.
+</p>
+
+<h2>Run Through it Daily</h2>
+<p>
+For most efficient results, turn on your spaced repetition software once a day.  If you go too long without, you'll screw up all the timings, and have to re-learn stuff you would have remembered.
+</p><p>
+<strong>You can remember thousands of these facts in only 20 minutes a day</strong>.  I just make it a morning routine.  Make a cup of boiling tea.  Do my Anki.  Drink my tea.
+</p><p>
+It's fun when quizzing yourself to add a little adrenaline, and make yourself go as fast as you can.
+</p><p>
+It's like a mental visit to the gym.  A little intense 20 minutes a day is so worth it for the immediate and long-term results.
+</p><p>
+Add some new cards whenever you can, and you'll be amazed that everything you saved stays fresh in your mind.
+</p>
+
+<h2>Conclusion</h2>
+<p>
+I've been doing this for a year, and it's been a HUGE boost to my fluency.  I highly recommend it, as you can tell.
+</p><p>
+If you're interested, you can also use this approach to learn all kinds of things.  See <a href="http://quantifiedself.com/2012/06/spaced-repetition-and-learning/">this primer</a> and <a href="http://www.wired.com/medtech/health/magazine/16-05/ff_wozniak?currentPage=all">this interview with Piotr Wozniak</a> for more inspiration.
+</p><p>
+Feel free to email me anytime (<a href="mailto:derek@sivers.org">derek@sivers.org</a>) to ask any questions, or just to let me know how it goes for you.
+</p>
+
+<h2>UPDATE:</h2>
+<p>
+After I posted this, someone showed me <a href="http://www.jackkinsella.ie/2011/12/05/janki-method.html">this great article on similar approach</a> - which I think explains it even better than I did here, so <strong>please read that one, too.</strong>
+</p><p>
+Also I got many requests to share my Ruby and JavaScript Anki decks.  I don't think it's very useful, because the whole point is that the Anki card is not where you learn - it's more of a reminder you give your future self about something you have already learned.  The learning itself requires more context.  But that said, if you want, <strong>here are my JavaScript and Ruby decks</strong> as of January 7 2013.  You'll have to use Anki's “File → Import” function to import them.
+</p>
+<ul>
+<li><a href="http://sivers.s3.amazonaws.com/JavaScript-sivers.apkg.zip">JavaScript Anki deck</a></li>
+<li><a href="http://sivers.s3.amazonaws.com/Ruby-sivers.apkg.zip">Ruby Anki deck</a></li>
+</ul>
+
+
+    <footer>
+      © 2013 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

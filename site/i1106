@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Interviews | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/i1106">Interviews</a></h1>
+      <p class="postdate">2011-06-30</p>
+    </header>
+
+<p>
+Here are some of my recent interviews, that I think you will like:
+</p>
+
+<h3>
+<a href="http://www.twistimage.com/podcast/archives/spos-263---anything-you-want-with-derek-sivers/">Mitch Joel - Six Pixels of Separation podcast</a>
+</h3>
+<p>
+50-minute audio podcast you can stream or download for later listening. Great conversation about a variety of things.
+</p>
+
+<h3>
+<a href="http://www.convinceandconvert.com/video/perception-happiness-and-getting-anything-you-want/">Jay Baer - Convince &amp; Convert</a>
+</h3>
+<p>
+35-minute video interview about business, self-belief, and other good stuff. Great rapport.
+</p>
+
+<h3>
+<a href="http://mixergy.com/derek-sivers-blog-interview/">Mixergy</a>
+</h3>
+<p>
+Fun hour-long video interview where we talk about business intuition, story-telling, and more.
+</p>
+
+<h3>
+<a href="http://blogs.forbes.com/michaelellsberg/2011/06/29/one-of-the-best-hours-youll-ever-spend/">Forbes - Michael Ellsberg</a>
+</h3>
+<p>
+A great review of the book, followed by a great interview about minimalism in business.
+</p>
+
+<h3>
+<a href="http://www.escapefromcubiclenation.com/2011/06/29/do-whatever-the-hell-makes-you-happy-interview-with-derek-sivers/">Escape from Cubicle Nation</a>
+</h3>
+<p>
+Do whatever the hell makes you happy! A 30-minute audio interview about business plans, freedom and happiness.
+</p>
+
+<h3>
+<a href="http://www.eventualmillionaire.com/blog/2011/06/dereksivers/">Eventual Millionaire</a>
+</h3>
+<p>
+Audio interview with Jaime. Great questions. Fun conversation.
+</p>
+
+<h3>
+<a href="http://www.brainpickings.org/index.php/2011/06/29/anything-you-want-derek-sivers-interview/">Brain Pickings - by Maria Popova</a>
+</h3>
+<p>
+Succinct 5-question interview, trying to summarize everything I've ever learned.
+</p>
+
+<h3>
+<a href="http://tumblr.heyamberrae.com/post/7042365626/ayw">Amber Rae</a>
+</h3>
+<p>
+My friend and the CEO of my book! Fun 50-minute video interview about the book and related things.
+</p>
+
+<h3>
+<a href="http://ideamensch.com/derek-sivers/">IdeaMensch</a>
+</h3>
+<p>
+Short and snappy. Giving away a business idea, and the best joke I've ever heard.
+</p>
+
+<h3>
+<a href="http://www.ducttapemarketing.com/blog/2011/07/01/anything-you-want/">Duct Tape Marketing</a>
+</h3>
+<p>
+MP3 audio interview. Talking about how/when to sell your company, and other business/marketing things.
+</p>
+
+<h3>
+<a href="http://www.musicthinktank.com/blog/celebrating-derek-sivers-new-book-anything-you-want-40-lesso.html">Ariel Hyatt</a>
+</h3>
+<p>
+My best friend and music publicist. About being an entrepreneur in the music industry.
+</p>
+
+<h3>
+<a href="http://www.marketingovercoffee.com/2011/07/13/special-interview-with-derek-sivers/">Marketing Over Coffee</a>
+</h3>
+<p>
+30-minute audio interview mostly about my book.  Great questions.
+</p>
+
+<h3>
+<a href="http://pickuppodcast.com/2011/04/28/episode-128-derek-sivers/">Pickup Podcast</a>
+</h3>
+<p>
+Audio interview about all kinds of random social and entrepreneurial things.
+</p>
+
+<h3>
+My favorite interview ever. Ronnie Overgoor in Rotterdam, Holland. (Warning: swear words.)
+</h3>
+<iframe src="http://www.youtube.com/embed/Cdq2aAqrQ4c" frameborder="0"></iframe>
+
+
+    <footer>
+      © 2011 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

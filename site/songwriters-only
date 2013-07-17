@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Songwriters / Lyricists / Composers (who don't perform) | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/songwriters-only">Songwriters / Lyricists / Composers (who don't perform)</a></h1>
+      <p class="postdate">2008-07-09</p>
+    </header>
+
+<p>
+I did an interview today with Diana from “Save the Songwriter”, and she said it was OK to republish some of it here:
+</p>
+
+<h3>
+Q.  Not every good performer is a good writer, nor is every good writer a good performer.  Do you have <strong>any suggestions as to how a writer</strong> (i.e. lyricist and/or composer) <strong>should proceed in order to get their songs covered?</strong>
+</h3>
+<p>
+<strong>Work backwards</strong>.  See <a href="http://sivers.org/call-the-destination">sivers.org/call-the-destination</a> and <a href="http://sivers.org/get-specific">sivers.org/get-specific</a>.
+</p><p>
+First, figure out exactly who should be recording your song.  <strong>Do your research</strong> and find out what songs that artist has recorded by other writers.  Then Google those songwriters and song titles to see if interviews have revealed how that writer got that cut.
+</p><p>
+If nothing is found online, ask Diana if you can contact the writer in the name of “Save the Songwriter” to interview them about how that artist chose to record their song.
+</p><p>
+Once you've done this research (which really only took you an hour, tops) write down at least five different ways you can reach this artist the way they like to be reached.  Don't stop at one idea.  Come up with five and do at least three of them.   Persistence really pays off.
+</p>
+
+<h3>
+Q.  While becoming known is a desireable goal for a performer, many excellent songwriters will never be famous, nor is that necessarily a goal.  <strong>How do you suggest a songwriter proceed in order to have their songs covered</strong> and develop a source of income?
+</h3>
+<p>
+<strong>Be where music is being made.</strong>
+</p><p>
+I used to work at Warner/Chappell Music Publishing in New York City.  One of our most successful writers was only a lyrics-and-melody guy.  So he would <strong>hang out at studios where many of the producer types, especially in R&amp;B, had leftover grooves and tracks that they had never turned into songs</strong>.  He'd just say, “Toss me your leftovers.  Let me see if I can turn it into something even more valuable for you.  If you don't like my ideas, no problem, it's still your track.”  He'd just take home a copy of their groove/track for the night and sing to it, seeing if he could turn into into a cool song.  About one out of every five songs he co-wrote like this was impressive enough that the producer liked it, and would often get it cut by whatever artist he was working with.
+</p><p>
+On the flip side, if you're more of a music-only person, not so into writing lyrics or melodies, <strong>co-write with recording artists, letting them come up with the words and melody</strong> to your tracks.  They'll be happier with that because they can sing words they wrote, and the song is almost sure to be cut that way.
+</p>
+
+<h3>
+Q: What words of <strong>advice</strong> do you have <strong>for the new, up-and-coming songwriter</strong>?
+</h3>
+<p>
+<strong>Commit to constantly improving.</strong>
+</p><p>
+Don't think your songs are etched in stone.  Every song can be improved.  Changing a single note or word can make or break a song.
+</p><p>
+<strong>Read all songwriting books</strong>.  Read <a href="http://www.amazon.com/dp/0306812657/cdbaby">Paul Zollo's interviews with the legendary songwriters</a>.  Read <a href="http://www.amazon.com/dp/063400638X/cdbaby">Jack Perricone's book about melody</a>.  Read slowly, thinking how these ideas can not only inspire new songs, but improve your existing songs.
+</p><p>
+Never underestimate the power of an <strong>arrangement</strong>.  Prince's song “Kiss” is loved by millions because it had such a unique arrangement.  If it had been a typical bar-band blues arrangement (the chords are just a I-IV-V blues) - it would have been unimpressive.
+</p><p>
+Maybe you've got great songs that aren't getting the attention they deserve because you didn't continue your creativity into the arrangement and instrumentation.  People think they can hear though things like that, but they usually can't, so it's up to the writer.  Maybe <strong>try never calling a song done until you've recorded it in five radically different arrangements</strong>.
+</p><p>
+Which comes to the last point : <strong>have a home studio</strong>.  If you need to spend a ton of money at someone else's studio every time you want to record your songs, it'll hold you back.  Spending just $1000 on equipment (decent mic, compressor, input adaptor, and software), then taking even 10 hours to learn how to run your home multi-track studio setup well, will pay off immensely.
+</p>
+
+
+    <footer>
+      © 2008 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

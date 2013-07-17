@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Are foreign accents a reflection of identity? | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/accents">Are foreign accents a reflection of identity?</a></h1>
+      <p class="postdate">2008-10-21</p>
+    </header>
+
+<p>
+I'm trying to understand self-identity and native accents in a foreign country.
+</p><p>
+My friend Aurelie from Paris has a beautiful French accent, so when she orders a ham sandwich in English it sounds like, “Allo, good I ove an om sondweech, pleece?”  Even though she's lived in New York for 15 years, her accent is as strong as ever.
+</p><p>
+When I was in Paris, I met a man who'd been living there 20 years, but still had this strong American cowboy twang when he'd say, “Donny-mwa un sandwich doo jam-bone, see voo play.”
+</p><p>
+(Sorry - it's hard to type accents.)
+</p><p>
+When I heard the ugly American accent speaking French, I thought, “Can't you hear yourself? Can't you hear you sound nothing like them? You're saying it all wrong!”  He's saying the correct syllables, but with the wrong accent it sounds ridiculous.
+</p><p>
+Then I thought of my friend Aurelie, and realized it's no different.
+</p><p>
+This guy may be in France, but obviously holds strongly to his identity as an American, so he'll say the words correctly, but keep the American twang that he knows as his voice.  Aurelie still clearly identifies as French, just living in New York for now.
+</p><p>
+If you asked either of them to imitate a native, they can pull off a convincing American or French accent, but do it mockingly and laugh afterwards, because “that's not me!”
+</p><p>
+Then I think of my ex from Sweden, who moved to America to be with me.  When we first met, she had a strong accent, but almost immediately her accent became totally 100% California, which matched her self-image as a girl who was born in Sweden but is quite American now.
+</p><p>
+Does Governor Schwartzenegger still feel Austrian?  Or is he just living up to the public image of him with his strong accent, now, where changing would feel ridiculous?
+</p><p>
+I don't know much besides English.  A tiny bit of French, Japanese, Spanish, and Mandarin.  But it seems the first thing I'd want to do with my first 100 words is to imitate the accent completely, to get that sound in my mouth, to sound as native as I can, which would build my identity and confidence of, “I don't know much yet - but I sound good,” - then take that confidence to learn new words.
+</p><p>
+More succinctly put : identity first, words second.
+</p><p>
+Anyone reading this living in a country where you have a strong foreign accent?
+</p><p>
+Anyone successfully changed your original accent to sound like the natives in your new home?
+</p><p>
+Any insight into this accent-identity thing or accent-adoption thing?  Please leave a comment, below, if you have a minute.  I'm really curious about this.
+</p>
+<img src="/images/marypoppins.jpg" alt="" />
+
+
+    <footer>
+      © 2008 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

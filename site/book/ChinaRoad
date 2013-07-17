@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>China Road - by Rob Gifford | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="onebook">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+    <header>
+      <figure><img src="/images/ChinaRoad.gif" alt="China Road - by Rob Gifford" /></figure>
+      <h1>China Road - by Rob Gifford</h1>
+      <p class="postdate">
+        ISBN: 0812975243<br>
+        READ: 2009-06-02<br>
+        RATING: 3/10<br>
+      </p>
+      <p>Go to <a href="http://www.amazon.com/dp/0812975243?tag=sivers-20">Amazon</a></p>
+    </header>
+
+    <p>Not a business book, unless you want to understand China a bit more. Journalist who's worked in China for 10 years decides to move back to London, but takes one last cross-country trip and gets first-time insights into rural Chinese life and how the country has changed.</p>
+    <h2>my notes<h2>
+
+In 1989, the Communist Party leaders made an unwritten, unspoken deal with the people of China: stay out of politics, and you can do anything you want.
+
+If in the United States you need money to get power, in China you need power to get money.
+
+There is nothing anymore in China that defines orthodoxy, in morality or anything else, so people just do what they want.
+
+The Dao in Daoism, the Way itself, is by its nature unknowable. The first line of the classic Daoist text, the Dao De Jing, lays this out very clearly: “The way that can be walked is not the True Way, the name that can be named is not the True Name.” I always feel this single line has had more impact on the Chinese psyche than almost any other. There is no absolute spiritual truth. Truth, if it even exists, is unknowable.
+
+To write on a computer in Chinese, you must write the character’s transliteration in the Western alphabet (qiu, xia, zhao, meng, or whatever—all of which have multiple characters that make the same sound), hit Return, and a choice of the characters romanized that way comes up. You then choose the one you want.
+
+Brilliant book, China Shakes the World, by the former Beijing correspondent of the Financial Times James Kynge.
+
+In the West, our better future is supposedly already here, so life is no longer as much of a journey. We have (so we think) reached our destination, so we’ve sat down, put our feet up, and poured ourselves a large drink. In France, workers are restricted by law to a thirty-five-hour workweek. Many Chinese people work that in two days.
+
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

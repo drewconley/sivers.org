@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Derek Sivers Blog</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="bloglist">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <h1>Blog</h1>
+  <ul>
+    <li><a href="/robust">Fragile Plan vs Robust Plan</a></li>
+    <li><a href="/eg">Wood Egg (my new company)</a></li>
+    <li><a href="/wrong">Some will always say you're wrong</a></li>
+    <li><a href="/360">No rules in this game</a></li>
+    <li><a href="/io">Seeking inspiration?</a></li>
+    <li><a href="/ebert2">The Great Movies</a></li>
+    <li><a href="/learn-js">Learning JavaScript - my experience and advice</a></li>
+    <li><a href="/hi">Human Intervention as a Competitive Advantage</a></li>
+    <li><a href="/os">Changing my operating system</a></li>
+    <li><a href="/xn">It's all who you know?</a></li>
+    <li><a href="/boring">Focus, entertain, or both?</a></li>
+    <li><a href="/prog">Yes, learn basic programming</a></li>
+    <li><a href="/srs">Memorizing a programming language using spaced repetition software</a></li>
+    <li><a href="/my-fault">Everything is my fault</a></li>
+    <li><a href="/local">You don't have to be local</a></li>
+    <li><a href="/comfort">Push, push, push. Expanding your comfort zone.</a></li>
+    <li><a href="/ss">Smart people don't think others are stupid</a></li>
+    <li><a href="/la">Advice on moving to Los Angeles</a></li>
+    <li><a href="/friends">Friends from memory</a></li>
+    <li><a href="/sharing">The co-op business model: share whatever you've got</a></li>
+    <li><a href="/232">232 sand dollars</a></li>
+    <li><a href="/andor">Procrastination Hack : change and to or</a></li>
+    <li><a href="/i1106">Interviews</a></li>
+    <li><a href="/ayw">Anything You Want (my first book)</a></li>
+    <li><a href="/meaning">Projecting meaning</a></li>
+    <li><a href="/fish">Fish don't know they're in water</a></li>
+    <li><a href="/donkey">Trying to pursue many different directions at once?</a></li>
+    <li><a href="/singapore">I moved to Singapore</a></li>
+    <li><a href="/aq">Any questions?</a></li>
+    <li><a href="/homeless">There's no place like home</a></li>
+    <li><a href="/delegate">Delegate or die: the self-employed trap.</a></li>
+    <li><a href="/obvious">Obvious to you. Amazing to others.</a></li>
+    <li><a href="/blank">Why wreck a blank canvas?</a></li>
+    <li><a href="/itunes">The day Steve Jobs dissed me in a keynote</a></li>
+    <li><a href="/kl">KarmaList wishlist?</a></li>
+    <li><a href="/starving-artist">Valuable to others, or only you?</a></li>
+    <li><a href="/quirks">Quit quirks when working with others</a></li>
+    <li><a href="/loss">My loss</a></li>
+    <li><a href="/below-average">I assume I'm below average</a></li>
+    <li><a href="/gethired">How to get hired</a></li>
+    <li><a href="/how2hire">How to hire a programmer to make your ideas happen</a></li>
+    <li><a href="/15-years">After 15 years of practice...</a></li>
+    <li><a href="/sakamoto">How I became Ryuichi Sakamoto's guitarist</a></li>
+    <li><a href="/nq">Naïve Quitting</a></li>
+    <li><a href="/thor">Thursday = Thor's day</a></li>
+    <li><a href="/married">Architecture awards and relationships</a></li>
+    <li><a href="/real">A real person, a lot like you</a></li>
+    <li><a href="/flipstick">Flip the stick</a></li>
+    <li><a href="/sxsw">Successful SxSW: the Tao of the Conference</a></li>
+    <li><a href="/weidman">The Night I Met Einstein - by Jerome Weidman</a></li>
+    <li><a href="/ff2">First Follower idea is all yours</a></li>
+    <li><a href="/ff">Leadership Lessons from Dancing Guy</a></li>
+    <li><a href="/punish">Resist the urge to punish everyone for one person's mistake</a></li>
+    <li><a href="/options">There are always more than two options</a></li>
+    <li><a href="/prism">Big catalog = infinite specialty shops</a></li>
+    <li><a href="/seth-godin">Seth Godin on spreading music and selling intimacy</a></li>
+    <li><a href="/ie2">Musician feedback on Ignore Everybody</a></li>
+    <li><a href="/papabill">Papa Bill: I don't need to worry about you.</a></li>
+    <li><a href="/busk">Put buskers online</a></li>
+    <li><a href="/tv">"Online" marketing = "Color" TV</a></li>
+    <li><a href="/trust">Why I gave away my company to charity</a></li>
+    <li><a href="/kimo">There's no speed limit. (The lessons that changed my life.)</a></li>
+    <li><a href="/jaddr">Japanese Addresses: the opposite is also true</a></li>
+    <li><a href="/1idea">Present one idea at a time and let others build upon it</a></li>
+    <li><a href="/compose-key">Linux Compose Key</a></li>
+    <li><a href="/futuretense">The challenge: Don't speak in future tense</a></li>
+    <li><a href="/trust-but-verify">Trust but verify</a></li>
+    <li><a href="/walkways">Let pedestrians define the walkways</a></li>
+    <li><a href="/fela-kuti">Fela Kuti</a></li>
+    <li><a href="/confidence">Confidence required</a></li>
+    <li><a href="/passion">If you think you haven't found your passion...</a></li>
+    <li><a href="/notwork">Doesn't feel like work (or I've forgotten)</a></li>
+    <li><a href="/metaphor">Learning the theme, not the example.</a></li>
+    <li><a href="/done">How I knew I was done with my company</a></li>
+    <li><a href="/unclear">You should feel pain when unclear</a></li>
+    <li><a href="/grade">How do you grade yourself?</a></li>
+    <li><a href="/makenew">Not happy with existing venues? Make a new one.</a></li>
+    <li><a href="/inlove">What's the difference between like, love, and in-love?</a></li>
+    <li><a href="/ie">Highest book recommendation: Ignore Everybody</a></li>
+    <li><a href="/tori-sparks">How to get on a magazine cover</a></li>
+    <li><a href="/1pct">And if only 1% of those people...</a></li>
+    <li><a href="/sms">Does your company really want to hang out with me?</a></li>
+    <li><a href="/biking">Biking</a></li>
+    <li><a href="/venuemix">Venue for audience to mix their own audio</a></li>
+    <li><a href="/livecd">Emphasize meaning over price = More paid sales</a></li>
+    <li><a href="/freedom">Is there such a thing as too much freedom?</a></li>
+    <li><a href="/dont-fight-it">Write? Write. Sleep? Sleep. Read? Read. Don't fight it.</a></li>
+    <li><a href="/safety">Safety</a></li>
+    <li><a href="/steps">Imagining lots of tedious steps? Or one fun step?</a></li>
+    <li><a href="/desperate2">... desperate? Part 2</a></li>
+    <li><a href="/desperate">Does it help to be desperate?</a></li>
+    <li><a href="/ladders">climbing ladders</a></li>
+    <li><a href="/unlearning">Unlearning</a></li>
+    <li><a href="/heroes">My heroes</a></li>
+    <li><a href="/hog-whitman">How Hog Whitman got heard by 15 million people</a></li>
+    <li><a href="/drama">Kurt Vonnegut explains drama</a></li>
+    <li><a href="/emailer">How to send personalized emails</a></li>
+    <li><a href="/sprezzatura">Sprezzatura</a></li>
+    <li><a href="/hatenot">What do you hate not doing?</a></li>
+    <li><a href="/mhost">Idea: Musician's own website as definitive source of all info</a></li>
+    <li><a href="/tweet">How I use Twitter</a></li>
+    <li><a href="/hellyeah">No more yes. It's either HELL YEAH! or no.</a></li>
+    <li><a href="/multiply">Ideas are just a multiplier of execution</a></li>
+    <li><a href="/kidspc">A computer that would require kids to be creative to use it</a></li>
+    <li><a href="/ted09">TED Conferences</a></li>
+    <li><a href="/the-mob">I miss the mob</a></li>
+    <li><a href="/letmeknow2">Listen to my music, and let me know what I should do</a></li>
+    <li><a href="/barking">Barking</a></li>
+    <li><a href="/no-reward">The power of no reward</a></li>
+    <li><a href="/you-not-them">The mirror: It's about you, not them.</a></li>
+    <li><a href="/tom-williams">Tom Williams: Hired by Apple at 14. His full story.</a></li>
+    <li><a href="/semi-expert">Semi-experts: profit by saving us time</a></li>
+    <li><a href="/novc">Nothing to waste: The advantage of being under-funded</a></li>
+    <li><a href="/lofi">Version 0.1 = Start lo-fi</a></li>
+    <li><a href="/early">Early drafts of great work are encouraging</a></li>
+    <li><a href="/mktg101">Fundamental reading on marketing</a></li>
+    <li><a href="/contrarian">Doing the opposite of everyone is valuable.</a></li>
+    <li><a href="/ppdp">Long interview from Practical Personal Development Podcast.</a></li>
+    <li><a href="/jadr">Japanese addresses: No street names. Block numbers.</a></li>
+    <li><a href="/jam">Customers given too many choices are 10x less likely to buy</a></li>
+    <li><a href="/whystuck">Why do we get some songs stuck in our head?</a></li>
+    <li><a href="/air">Grow your own fresh air</a></li>
+    <li><a href="/zipit">Shut up! Announcing your plans makes you less motivated to accomplish them.</a></li>
+    <li><a href="/infinity">That's version ∞. First launch version 0.1.</a></li>
+    <li><a href="/success-first">Show success before asking for help</a></li>
+    <li><a href="/laboratory">Why you need your own company</a></li>
+    <li><a href="/musicthoughts2">MusicThoughts update : inspiring quotes for music-makers</a></li>
+    <li><a href="/qlq">Does quantity + learning = quality?</a></li>
+    <li><a href="/dance-lessons">How to make a movement. Lessons learned from dancing guy.</a></li>
+    <li><a href="/time">Are you future-focused or present-focused? The marshmallow experiment.</a></li>
+    <li><a href="/enough">You have enough.</a></li>
+    <li><a href="/ppay">Some people like to pay. Let them.</a></li>
+    <li><a href="/purplecow">Are fans telling friends? If not, improve, don't promote.</a></li>
+    <li><a href="/no9to5">What do musicians and entrepreneurs have in common?</a></li>
+    <li><a href="/ciraa">Interviewed by CIRAA</a></li>
+    <li><a href="/super-power">What super-power do you want?</a></li>
+    <li><a href="/sustainable">Talent increases. Resourcefulness decreases. Are you sustainable?</a></li>
+    <li><a href="/mistake">My $3.3M mistake</a></li>
+    <li><a href="/chickens">Have you looked under the chickens?</a></li>
+    <li><a href="/decaying">Not what it used to be!</a></li>
+    <li><a href="/details">Dreams are here. Details have changed.</a></li>
+    <li><a href="/backwards">Backwards</a></li>
+    <li><a href="/character">Character predicts your future</a></li>
+    <li><a href="/goals">Goals shape the present, not the future.</a></li>
+    <li><a href="/sammy-cahn">Sammy Cahn said thank you</a></li>
+    <li><a href="/soundadvice">video interview about promoting and marketing your music</a></li>
+    <li><a href="/2009-interview">Interview</a></li>
+    <li><a href="/aimee-mullins">Aimee Mullins</a></li>
+    <li><a href="/accelerate-change">Accelerate change</a></li>
+    <li><a href="/horses">My favorite fable</a></li>
+    <li><a href="/songfeedback">What do you do for feedback on a new song you're writing?</a></li>
+    <li><a href="/in2power">Me, we.</a></li>
+    <li><a href="/ideas2">Ideas to Reality</a></li>
+    <li><a href="/song-contest-idea">A free, open song contest idea</a></li>
+    <li><a href="/genius">Elizabeth Gilbert on creative genius</a></li>
+    <li><a href="/ted1">TED Conference : opening night party is already overwhelming</a></li>
+    <li><a href="/see-musicthoughts">MusicThoughts.com</a></li>
+    <li><a href="/amber-rubarth">Success Stories : Amber Rubarth (how to be a full-time touring musician)</a></li>
+    <li><a href="/bizcard">My new business cards : guitar picks</a></li>
+    <li><a href="/session-musician">Advice for a 19-year-old guitarist who wants to be a session musician.</a></li>
+    <li><a href="/dokkodo">The Dokkodo</a></li>
+    <li><a href="/complainers">Complainers</a></li>
+    <li><a href="/make-you-happy">Don't... if you think it's going to make you happy</a></li>
+    <li><a href="/getting-past-it">Getting past it</a></li>
+    <li><a href="/up2you">Nobody's going to help you. Does that encourage you or discourage you?</a></li>
+    <li><a href="/villain">Happiness is letting someone make you the villain</a></li>
+    <li><a href="/conferences">Attending a music biz conference? Here's the REAL way to do it....</a></li>
+    <li><a href="/mystery">Mystery : Are people asking themselves questions about you?</a></li>
+    <li><a href="/realrebel">Real rebellion is going to school wearing a clown suit</a></li>
+    <li><a href="/more-than-one">Double-speed! Half-speed! Up an octave! Down an octave!</a></li>
+    <li><a href="/accents">Are foreign accents a reflection of identity?</a></li>
+    <li><a href="/truisms">Song lyric inspiration from Jenny Holzer's Truisms</a></li>
+    <li><a href="/no-oracle">Nobody knows the future - and it doesn't matter!</a></li>
+    <li><a href="/book-picks">Books you need to read first!</a></li>
+    <li><a href="/grand-pursuit">The Grand Pursuit</a></li>
+    <li><a href="/uncomparable">Uncomparable: anchor a new mama</a></li>
+    <li><a href="/list-books">The list of books I've read in the past year</a></li>
+    <li><a href="/be-there">Should I put my music on LOTS of websites, or just a few?</a></li>
+    <li><a href="/lines">Is your album a starting line or a finish line?</a></li>
+    <li><a href="/ebert">Ebert is reviewing again!</a></li>
+    <li><a href="/mastering-entrepreneurship">Mastering entrepreneurship?</a></li>
+    <li><a href="/small-actions-changing-identity">Small actions changing self-identity</a></li>
+    <li><a href="/iceland">Iceland</a></li>
+    <li><a href="/berklee">6 things I wish I knew the day I started Berklee</a></li>
+    <li><a href="/inspiration-is-a-good-start">Inspiration is a good start...</a></li>
+    <li><a href="/wired-interview">Interview at Wired Listening Post</a></li>
+    <li><a href="/reversible">Reversible business models</a></li>
+    <li><a href="/tim-ferriss">Tim Ferriss interview</a></li>
+    <li><a href="/bye-bye-baby">Bye-Bye, Baby!</a></li>
+    <li><a href="/maslow">Abraham Maslow's 8 Ways to Self-Actualize</a></li>
+    <li><a href="/dd-only">Should you go digital-only, and skip the CD?</a></li>
+    <li><a href="/own-nothing">Ah, to own nothing!</a></li>
+    <li><a href="/songwriters-only">Songwriters / Lyricists / Composers (who don't perform)</a></li>
+    <li><a href="/who-to-ask">Who to ask for recommendations</a></li>
+    <li><a href="/action-reaction">Action-Reaction</a></li>
+    <li><a href="/aww-shucks">Heartwarming compliments about my e-book</a></li>
+    <li><a href="/asia-diary">Trip diary from Japan, Vietnam, Hong Kong</a></li>
+    <li><a href="/across-the-universe">Across the Universe</a></li>
+    <li><a href="/college">A Musician's Advice About the College Market</a></li>
+    <li><a href="/learn-unlearn-and-relearn">Learn, Unlearn, and Relearn</a></li>
+    <li><a href="/stereotype">I'm a stereotypical entrepreneur</a></li>
+    <li><a href="/candles">Selling music by solving a specific need</a></li>
+    <li><a href="/sakurajima">Sakurajima</a></li>
+    <li><a href="/how-was-india">How was India?</a></li>
+    <li><a href="/buyable">Avoid advance promotion. Be buyable first.</a></li>
+    <li><a href="/rr">... until I know how to do it, then I stop</a></li>
+    <li><a href="/rule-breaking-songs">Rule-breaking songs?</a></li>
+    <li><a href="/fela">two three four ONE, two three four ONE</a></li>
+    <li><a href="/no-bullseye">Aim for the edges.</a></li>
+    <li><a href="/moving-to-a-new-country">Moving to a new country</a></li>
+    <li><a href="/wrap-my-head">Some things I've learned this year that turned my world upside-down and I'm still trying to wrap my head around</a></li>
+    <li><a href="/twistori">Lyric inspiration : listening in to others' loves, hates, wishes, feelings</a></li>
+    <li><a href="/restrictions-will-set-you-free">Restrictions will set you free</a></li>
+    <li><a href="/get-specific">Get specific!</a></li>
+    <li><a href="/thinking-doing">eliminating the time between thinking something and doing it</a></li>
+    <li><a href="/label-list">If I had a record label, would you be signed to it?</a></li>
+    <li><a href="/microcredit-q">How would microcredit work for musicians?</a></li>
+    <li><a href="/circles">Circle of influence - Circle of concern</a></li>
+    <li><a href="/pigs-sharks">What's really keeping you from where you need to be? (It's not piracy.)</a></li>
+    <li><a href="/5-tips">5 tips for musicians</a></li>
+    <li><a href="/beginner">It's great to be a beginner again</a></li>
+    <li><a href="/letmeknow">What should I do when someone says, “Let me know what you think!” of their music?</a></li>
+    <li><a href="/nolimit">Never have a limit on your income</a></li>
+    <li><a href="/piracy">Best articles on piracy I've ever seen</a></li>
+    <li><a href="/scares-excites-do-it">Whatever scares you or excites you, go do it</a></li>
+    <li><a href="/bilbo">Happy 10th Birthday to CD Baby - and an announcement</a></li>
+    <li><a href="/big-vs-little-clients">Aiming to please big clients versus little clients</a></li>
+    <li><a href="/the-public-you-is-not-you">the public you is not you</a></li>
+    <li><a href="/wikinomics-at-work">Wikinomics at work</a></li>
+    <li><a href="/rails2php">7 reasons I switched back to PHP after 2 years on Rails</a></li>
+    <li><a href="/openbaby">What it would be like to open up ALL aspects of CD Baby</a></li>
+    <li><a href="/good-biz-plan">A good biz plan wins no matter what happens</a></li>
+    <li><a href="/touch-all-senses">Touch as many of their senses as you can</a></li>
+    <li><a href="/keep-in-touch">Keep in touch!</a></li>
+    <li><a href="/thousand-actors">Imagine a play with 1000 actors on stage</a></li>
+    <li><a href="/sound-like-someone">Tell people why they should care</a></li>
+    <li><a href="/internet-skills">Know the important skills</a></li>
+    <li><a href="/was-10-now-90">Was 10%, now 90%</a></li>
+    <li><a href="/say-what-you-sound-like">If you don't say what you sound like, you won't make any fans</a></li>
+    <li><a href="/ask-favors">Don't be afraid to ask for favors</a></li>
+    <li><a href="/someone-you-know">Someone you know</a></li>
+    <li><a href="/not-corporate">Have fun - do NOT be corporate</a></li>
+    <li><a href="/interactive-website">Your Interactive Website</a></li>
+    <li><a href="/what-worked-on-you">Read about new music.  Use the tricks that worked on you.</a></li>
+    <li><a href="/persistence">Persistence is Polite</a></li>
+    <li><a href="/extreme-version">Be an extreme version of yourself</a></li>
+    <li><a href="/reach-like-you">Reach them like you would want to be reached</a></li>
+    <li><a href="/wanting-more">Leave 'em wanting more</a></li>
+    <li><a href="/not-musician">Think like a person or poet, not a musician</a></li>
+    <li><a href="/this-is-a-test">This is only a test. See what happens.</a></li>
+    <li><a href="/get-filtered">Go where the filters are</a></li>
+    <li><a href="/small-gifts">Small gifts go a long way</a></li>
+    <li><a href="/progrock-teenybop">Bad Targeting Example: progressive rocker targeting teenybopper</a></li>
+    <li><a href="/quantity">Assume the basic sale, and go for quantity</a></li>
+    <li><a href="/close-with-hundreds">Stay in close touch with hundreds of people</a></li>
+    <li><a href="/target-sharp">If you target sharp enough, you will own your niche</a></li>
+    <li><a href="/high-school">Life is like High School</a></li>
+    <li><a href="/database-tips">Database tips</a></li>
+    <li><a href="/short-description">A short description - 10 seconds or less</a></li>
+    <li><a href="/novice-not-expert">Be a novice marketer, not an expert</a></li>
+    <li><a href="/conservatives-were-extreme">Even conservative legends were extreme</a></li>
+    <li><a href="/keep-in-touch2">More thoughts about people</a></li>
+    <li><a href="/captain-t">Captain T</a></li>
+    <li><a href="/dont-drain">If this is draining your energy, please stop!</a></li>
+    <li><a href="/call-the-destination">Call the destination, and ask for directions</a></li>
+    <li><a href="/desktop-box">Promo box on your desktop</a></li>
+    <li><a href="/no-corporate-speak">Never use corporate-speak</a></li>
+    <li><a href="/test-marketing">Test. Improve. Perfect. Announce.</a></li>
+    <li><a href="/what-do-they-really-want">Constantly ask, What do they really want?</a></li>
+    <li><a href="/people-per-week">Meet three new people every week</a></li>
+    <li><a href="/hillbilly-flamenco">Hillbilly Flamenco</a></li>
+    <li><a href="/what-not-to-say">Blah blah blah...  What NOT to say</a></li>
+    <li><a href="/include-everyone">Make your success a we or us. Include everyone.</a></li>
+    <li><a href="/creative-business">Business is Creative</a></li>
+    <li><a href="/how-you-help">Always think how you can help someone</a></li>
+    <li><a href="/dont-assume">They know nothing about you. Don't assume anything.</a></li>
+    <li><a href="/proudly-exclude-most">Proudly exclude some people</a></li>
+    <li><a href="/photos-of-audience">Photos of your audience on your website</a></li>
+    <li><a href="/description-how">How to describe your music</a></li>
+    <li><a href="/diy">DIY = Decide It Yourself</a></li>
+    <li><a href="/habits-not-hard">Make these habits, and they won't seem hard</a></li>
+    <li><a href="/fans-to-work">Put your fans to work</a></li>
+    <li><a href="/get-personal">Get personal</a></li>
+    <li><a href="/work-industry">Have someone work the inside of the industry</a></li>
+    <li><a href="/extreme-results">Extreme results = extreme actions</a></li>
+    <li><a href="/not-talk">Or you can not talk at all</a></li>
+    <li><a href="/rayko-example">Shining example: Rayko</a></li>
+    <li><a href="/mosquito">Be a friend, not a mosquito</a></li>
+    <li><a href="/well-rounded">Well-Rounded Doesn't Cut</a></li>
+    <li><a href="/over-your-head">Stay In Over Your Head</a></li>
+    <li><a href="/words-matter">Why words matter more than ever</a></li>
+    <li><a href="/most-expensive-vodka">The Most Expensive Vodka</a></li>
+    <li><a href="/database-quantity">Get used to the idea of database and quantity</a></li>
+    <li><a href="/compass">Compass in Your Gut</a></li>
+  </ul>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

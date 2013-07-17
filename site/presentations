@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Derek Sivers Presentations</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="presentations">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <h1>Presentations</h1>
+
+  <figure>
+    <a href="/nextbank"><img src="/images/nextbank.jpg" width="200" height="150" alt="Next Bank Asia : Disrupting Banking" /></a>
+    <figcaption>
+      <h3><a href="/nextbank">Next Bank Asia : Disrupting Banking</a></h3>
+      <h5>Length: <strong>16 minutes</strong>. &nbsp; Date: 2012-05</h5>
+      <p>Addressing a room of bankers in Singapore about eliminating friction and serving tech entrepreneurs.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <a href="/uncommon"><img src="/images/uncommon.jpg" width="200" height="150" alt="Uncommon Sense" /></a>
+    <figcaption>
+      <h3><a href="/uncommon">Uncommon Sense</a></h3>
+      <h5>Length: <strong>47 minutes</strong>. &nbsp; Date: 2011-08</h5>
+      <p>All of my business advice for entrepreneurs. A quick summary of almost everything I've learned. One of my most popular talks.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <a href="/anything"><img src="/images/anything.jpg" width="200" height="150" alt="Anything You Want cartoons" /></a>
+    <figcaption>
+      <h3><a href="/anything">Anything You Want cartoons</a></h3>
+      <h5>Length: <strong>16 minutes</strong>. &nbsp; Date: 2011-07</h5>
+      <p>Philosophies on life and business, 7 chapters from my book, turned into short little animations.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <a href="/failure"><img src="/images/failure.jpg" width="200" height="150" alt="Why You Need to Fail" /></a>
+    <figcaption>
+      <h3><a href="/failure">Why You Need to Fail</a></h3>
+      <h5>Length: <strong>15 minutes</strong>. &nbsp; Date: 2010-12</h5>
+      <p>The importance of failure - for effective learning, growth mindset, and quality through experimentation.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <a href="/tedxnus"><img src="/images/tedxnus.jpg" width="200" height="150" alt="TEDxNUS - 9 stories in 18 minutes" /></a>
+    <figcaption>
+      <h3><a href="/tedxnus">TEDxNUS - 9 stories in 18 minutes</a></h3>
+      <h5>Length: <strong>22 minutes</strong>. &nbsp; Date: 2010-10</h5>
+      <p>9 short stories to a TEDx crowd at the National University of Singapore.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <a href="/aopv"><img src="/images/aopv.jpg" width="200" height="150" alt="The Art of Profitability" /></a>
+    <figcaption>
+      <h3><a href="/aopv">The Art of Profitability</a></h3>
+      <h5>Length: <strong>27 minutes</strong>. &nbsp; Date: 2010-09</h5>
+      <p>Examples of 8 profit models from the book “The Art of Profitability”</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <a href="/zipit2"><img src="/images/zipit2.jpg" width="200" height="150" alt="Keep your goals to yourself" /></a>
+    <figcaption>
+      <h3><a href="/zipit2">Keep your goals to yourself</a></h3>
+      <h5>Length: <strong>3 minutes</strong>. &nbsp; Date: 2010-07</h5>
+      <p>Psychology tests show that announcing your goals makes you less motivated to accomplish them.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <a href="/railsconf"><img src="/images/railsconf.jpg" width="200" height="150" alt="Rails Conf Keynote" /></a>
+    <figcaption>
+      <h3><a href="/railsconf">Rails Conf Keynote</a></h3>
+      <h5>Length: <strong>44 minutes</strong>. &nbsp; Date: 2010-05</h5>
+      <p>Short stories about programming, accents, quirks, delegating, confabulation, instinct, etc.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <a href="/sxswv"><img src="/images/sxswv.jpg" width="200" height="150" alt="Successful SxSW: the Tao of the Conference" /></a>
+    <figcaption>
+      <h3><a href="/sxswv">Successful SxSW: the Tao of the Conference</a></h3>
+      <h5>Length: <strong>5 minutes</strong>. &nbsp; Date: 2010-03</h5>
+      <p>Advice for musicians on how to get the most out of the SxSW Music Conference.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <a href="/dancingguy"><img src="/images/dancingguy.jpg" width="200" height="150" alt="Leadership Lessons from Dancing Guy" /></a>
+    <figcaption>
+      <h3><a href="/dancingguy">Leadership Lessons from Dancing Guy</a></h3>
+      <h5>Length: <strong>3 minutes</strong>. &nbsp; Date: 2010-02</h5>
+      <p>First follower. How to start a movement. My most popular talk.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <a href="/opposite"><img src="/images/opposite.jpg" width="200" height="150" alt="The opposite may also be true" /></a>
+    <figcaption>
+      <h3><a href="/opposite">The opposite may also be true</a></h3>
+      <h5>Length: <strong>2 minutes</strong>. &nbsp; Date: 2009-11</h5>
+      <p>Japanese addresses, Chinese doctors, Nigerian music, and an upside-down map.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <a href="/berklee6"><img src="/images/berklee6.jpg" width="200" height="150" alt="Berklee College of Music keynote" /></a>
+    <figcaption>
+      <h3><a href="/berklee6">Berklee College of Music keynote</a></h3>
+      <h5>Length: <strong>10 minutes</strong>. &nbsp; Date: 2008-09</h5>
+      <p>6 things I wish I knew the day I started Berklee. Lessons apply to other aspects of life, too.</p>
+    </figcaption>
+  </figure>
+
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Keep in touch! | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+</head>
+<body id="oneblog">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/keep-in-touch">Keep in touch!</a></h1>
+      <p class="postdate">2007-08-18</p>
+    </header>
+
+<p>
+<strong>Sometimes the difference between success and failure is just a matter of keeping in touch!</strong>
+</p>
+<p>
+There are some AMAZING musicians who have sent a CD to CD Baby, and when I heard it, I flipped.  In a few cases, I've stopped what I was doing at that moment, picked up the phone and called them wherever they were to tell them I thought they were a total genius.  (Believe me - this is rare.  Maybe 1 in 500 CDs that I hear.)
+</p>
+<p>
+Often I get an answering machine, and guess what...  they don't call back!!  What masochistic anti-social success-sabotaging kind of thing is that to do?
+</p>
+<p>
+Then 2 weeks later I've forgotten about their CD as new ones came in.
+</p>
+<p>
+The lesson:  If they would have just called back, and kept in touch, they may have a fan like no other at the head of one of the largest distributors of independent music on the web.  A fan that would go out on a limb to help their career in ways others just dream of.  But they never kept in touch and now I can't remember their names.
+</p>
+<p>
+Some others whose CDs didn't really catch my attention the first time around, just keep in touch so well that I often find myself helping them more as a friend than a fan.
+</p>
+<p>
+Keep in touch, keep in touch, keep in touch!
+</p>
+<p>
+People forget you very fast.
+</p>
+
+<img src="/images/keep-in-touch.gif" alt="Keep in touch!" />
+
+
+    <footer>
+      © 2007 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <section id="comments">
+
+    <header>
+      <h1>Your thoughts? Please leave a reply:</h1>
+      <form action="/comment" method="post">
+        <label for="name_field">Your Name</label>
+        <input type="text" name="name" id="name_field" value="" />
+        <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
+        <input type="email" name="email" id="email_field" value="" />
+        <label for="url_field">Your Website</label>
+        <input type="text" name="url" id="url_field" value="" />
+        <label for="comment">Comment</label>
+        <textarea name="comment" id="comment" cols="35" rows="10"></textarea>
+        <br /><input name="submit" type="submit" class="submit" value="submit comment" />
+      </form>
+    </header>
+
+    <h1>Comments</h1>
+    <!-- JavaScript will appendChild comments here -->
+
+  </section>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-40785106-1', 'sivers.org');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+
