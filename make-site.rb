@@ -18,15 +18,13 @@ Dir['content/blog/20*'].each do |infile|
   lines = File.readlines(infile)
   /<!--\s+(.+)\s+-->/.match lines.shift
   @title = $1
-  body = lines.join('')
+  @body = lines.join('')
   @pagetitle = "#{@title} | Derek Sivers"
   @bodyid = 'oneblog'
 
-  # merge with templates and WRITE each
+  # merge with templates and WRITE file
   html = template('header').result
-  html << template('bloghead').result
-  html << body
-  html << template('blogfoot').result
+  html << template('blog').result
   html << template('comments').result
   html << template('footer').result
   File.open("site/#{@url}", 'w') {|f| f.puts html }
@@ -63,15 +61,13 @@ Dir['content/presentations/20*'].each do |infile|
   @subhead = $1
   /<!-- MINUTES: ([0-9]+)\s+-->/.match lines.shift
   @minutes = $1
-  body = lines.join('')
+  @body = lines.join('')
   @pagetitle = "#{@title} | Derek Sivers"
   @bodyid = 'prez'
 
-  # merge with templates and WRITE each
+  # merge with templates and WRITE file
   html = template('header').result
-  html << template('prezhead').result
-  html << body
-  html << template('blogfoot').result
+  html << template('prez').result
   html << template('comments').result
   html << template('footer').result
   File.open("site/#{@url}", 'w') {|f| f.puts html }
@@ -95,7 +91,7 @@ File.open('site/presentations', 'w') {|f| f.puts html }
 
 ########## READ, PARSE, AND WRITE BOOK NOTES
 @books = []
-ir['content/books/20*'].each do |infile|
+Dir['content/books/20*'].each do |infile|
 
   # PARSE. Filename: yyyy-mm-dd-uri
   /(\d{4}-\d{2}-\d{2})-(\S+)/.match File.basename(infile)
@@ -115,7 +111,7 @@ ir['content/books/20*'].each do |infile|
   @pagetitle = "#{@title} | Derek Sivers"
   @bodyid = 'onebook'
 
-  # merge with templates and WRITE each
+  # merge with templates and WRITE file
   html = template('header').result
   html << template('book').result
   html << template('footer').result
@@ -186,7 +182,7 @@ Dir['content/pages/*'].each do |infile|
   body = lines.join('')
   @pagetitle = "#{@title} | Derek Sivers"
 
-  # merge with templates and WRITE each
+  # merge with templates and WRITE file
   html = template('header').result
   html << body
   html << template('footer').result
