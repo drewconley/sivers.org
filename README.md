@@ -11,11 +11,11 @@ A 2013 rewrite, moving content from database to static files.
 
 I write my stuff in plain text files in one of the content/{blog,books,pages,presentations,tweets}/ directories.
 
-* The date is in the filename.  (Pages have no date.)
-* The URI for final publishing is in the filename.  (Tweets have no URI.)
+* The date is in the filename.
+* The URI for final publishing is in the filename.
 * The title is in the first line of the file.
 * Any other metadata needed is at the top.
-* The rest is the content body.  (Often written in HTML.)
+* The rest is the content body, often written in HTML.
 
 ### Templates:
 
@@ -39,7 +39,7 @@ A Ruby script goes through all the content directories and reads the files.
 
 Zurb Foundation gem + SCSS + Compass is used to create the minified site/css/site.css file.
 
-Changes made by @extend'ing in the SCSS file, instead of adding HTML attributes.
+Styling made by @extend'ing in the SCSS file, instead of adding HTML attributes.
 
 
 ### Serving:
