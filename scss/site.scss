@@ -9,6 +9,10 @@ body {
   @extend .row;
   font-family: "Trebuchet MS", sans-serif;
 }
+.small {
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 0.75em;
+}
 
 p, li {
   font-family: Georgia, serif;
@@ -25,7 +29,7 @@ p, li {
 }
 
 #content {
-  @extend .small-6;
+  @extend .small-9;
   @extend .small-centered;
   @extend .columns;
 }
