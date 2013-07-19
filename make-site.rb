@@ -130,7 +130,7 @@ end
 html = template('header').result
 html << template('booklist').result
 html << template('footer').result
-File.open('site/book/index.html', 'w') {|f| f.puts html }
+File.open('site/book/home', 'w') {|f| f.puts html }
 
 
 
