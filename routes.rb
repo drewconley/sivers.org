@@ -7,3 +7,5 @@ get %r{/comments/([a-z0-9_-]+).json} do |uri|
   Comment.for_uri(uri).to_json
 end
 
+post '/comments' do
+end
