@@ -59,7 +59,7 @@ Would you stand out?  Would people remember you? <strong>Are you being a strong 
 
     <header>
       <h1>Your thoughts? Please leave a reply:</h1>
-      <form action="/comment" method="post">
+      <form action="/comments" method="post">
         <label for="name_field">Your Name</label>
         <input type="text" name="name" id="name_field" value="" />
         <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>

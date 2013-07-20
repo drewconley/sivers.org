@@ -42,7 +42,7 @@ Great quotes from <a href="http://www.nytimes.com/2008/05/14/arts/design/14rausc
 
     <header>
       <h1>Your thoughts? Please leave a reply:</h1>
-      <form action="/comment" method="post">
+      <form action="/comments" method="post">
         <label for="name_field">Your Name</label>
         <input type="text" name="name" id="name_field" value="" />
         <label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label>
