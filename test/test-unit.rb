@@ -51,7 +51,7 @@ class TestComments < Test::Unit::TestCase
 
   def test_clean
     h = @good['rack.request.form_hash']
-    nu = {name: h['name'], email: h['email'], ip: @good['REMOTE_ADDR'], url: h['url'], html: h['comment']}
+    nu = {uri: 'trust', name: h['name'], email: h['email'], ip: @good['REMOTE_ADDR'], url: h['url'], html: h['comment']}
     assert_equal nu, Comment.clean(@good)
     bad = @good.clone
     bad['rack.request.form_hash']['name'] = '  Some Name '
@@ -60,4 +60,19 @@ class TestComments < Test::Unit::TestCase
     bad['rack.request.form_hash']['comment'] = 'Sure is a nice day for <a href="http://yeah.xxx">this</a>'
     assert_equal nu, Comment.clean(bad)
   end
+
+  def test_person_id
+    nu = Comment.clean(@good)
+    assert Comment.person_id(nu) < 10
+    nu[:email] = 'abc@defg.hi'
+    assert Comment.person_id(nu) > 300000
+    Person[email: nu[:email]].destroy
+  end
+
+  def test_add
+    comment_id = Comment.add(@good)
+    assert comment_id.instance_of? Fixnum
+    assert comment_id > 40000
+  end
 end
+

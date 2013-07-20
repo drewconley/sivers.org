@@ -7,7 +7,7 @@ class Sivers
   def self.config
     unless @config
       @config = JSON.parse(File.read(File.dirname(__FILE__) + '/config.json'))
-      @config['url_regex'] = %r{\Ahttps?://sivers\.(dev|org)/[a-z0-9_-]{1,32}\Z}
+      @config['url_regex'] = %r{\Ahttps?://sivers\.(dev|org)/([a-z0-9_-]{1,32})\Z}
     end
     @config
   end
@@ -52,13 +52,13 @@ class Comment < Sequel::Model(:comments)
       require 'resolv'
       query = Sivers.config['project_honeypot_key'] + '.' + ip.split('.').reverse.join('.') + '.dnsbl.httpbl.org'
       begin
-	Timeout::timeout(1) do
-	  response = Resolv::DNS.new.getaddress(query).to_s
-	  if /127\.[0-9]+\.([0-9]+)\.[0-9]+/.match response
-	    return true if $1.to_i > 5
-	  end
-	  false
-	end
+        Timeout::timeout(1) do
+        response = Resolv::DNS.new.getaddress(query).to_s
+        if /127\.[0-9]+\.([0-9]+)\.[0-9]+/.match response
+          return true if $1.to_i > 5
+        end
+        false
+      end
       rescue
         false
       end
@@ -67,15 +67,16 @@ class Comment < Sequel::Model(:comments)
     # return params, cleaned up values & keys, ready to insert
     def clean(request_env)
       h = request_env['rack.request.form_hash'].clone
-      nu = {}
+      Sivers.config['url_regex'].match request_env['HTTP_REFERER']
+      nu = {uri: $2}
       nu[:name] = h['name'].strip
       nu[:email] = h['email'].strip
       nu[:ip] = request_env['REMOTE_ADDR']
       h['url'].strip!
       if h['url'].size > 5
-	unless %r{\Ahttps?://} === h['url']
-	  h['url'] = 'http://' + h['url']
-	end
+        unless %r{\Ahttps?://} === h['url']
+          h['url'] = 'http://' + h['url']
+        end
         nu[:url] = h['url']
       end
       nu[:html] = h['comment'].gsub(%r{</?[^>]+?>}, '')
@@ -85,7 +86,11 @@ class Comment < Sequel::Model(:comments)
     # find or add person in peeps.people. return person_id either way.
     def person_id(params)
       require 'peeps'
-
+      p = Person[email: params[:email]]
+      if p.nil?
+        p = Person.create(name: params[:name], email: params[:email])
+      end
+      p.id
     end
 
     # USE THIS from controller. Pass request.env as-is.
@@ -96,6 +101,7 @@ class Comment < Sequel::Model(:comments)
       nu = clean(request_env)
       nu[:person_id] = person_id(nu)
       c = create(nu)
+      c.id
     end
 
   end
