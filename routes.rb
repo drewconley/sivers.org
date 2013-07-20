@@ -8,9 +8,9 @@ get %r{/comments/([a-z0-9_-]+).json} do |uri|
 end
 
 post '/comments' do
-  c = Comment.add(params)
+  c = Comment.add(request.env)
   if c
-    redirect '%s#comment-%d' % [request.referrer, c.id]
+    redirect '%s#comment-%d' % [request.referrer, c]
   else
     redirect request.referrer
   end
