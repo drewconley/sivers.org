@@ -49,14 +49,43 @@ class Comment < Sequel::Model(:comments)
 
     # Project Honeypot DNS lookup of commenter's IP
     def spammer?(ip)
+      require 'resolv'
+      query = Sivers.config['project_honeypot_key'] + '.' + ip.split('.').reverse.join('.') + '.dnsbl.httpbl.org'
+      begin
+	Timeout::timeout(1) do
+	  response = Resolv::DNS.new.getaddress(query).to_s
+	  if /127\.[0-9]+\.([0-9]+)\.[0-9]+/.match response
+	    return true if $1.to_i > 5
+	  end
+	  false
+	end
+      rescue
+        false
+      end
     end
 
     # return params, cleaned up values & keys, ready to insert
     def clean(request_env)
+      h = request_env['rack.request.form_hash'].clone
+      nu = {}
+      nu[:name] = h['name'].strip
+      nu[:email] = h['email'].strip
+      nu[:ip] = request_env['REMOTE_ADDR']
+      h['url'].strip!
+      if h['url'].size > 5
+	unless %r{\Ahttps?://} === h['url']
+	  h['url'] = 'http://' + h['url']
+	end
+        nu[:url] = h['url']
+      end
+      nu[:html] = h['comment'].gsub(%r{</?[^>]+?>}, '')
+      nu
     end
 
     # find or add person in peeps.people. return person_id either way.
     def person_id(params)
+      require 'peeps'
+
     end
 
     # USE THIS from controller. Pass request.env as-is.

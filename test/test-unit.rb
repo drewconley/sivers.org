@@ -43,4 +43,21 @@ class TestComments < Test::Unit::TestCase
     bad_fields['rack.request.form_hash']['email'] = 'mac@aol'
     refute Comment.valid?(bad_fields)
   end
+
+  def test_spammer
+    refute Comment.spammer?(@good['REMOTE_ADDR'])
+    assert Comment.spammer?('127.1.80.1')
+  end
+
+  def test_clean
+    h = @good['rack.request.form_hash']
+    nu = {name: h['name'], email: h['email'], ip: @good['REMOTE_ADDR'], url: h['url'], html: h['comment']}
+    assert_equal nu, Comment.clean(@good)
+    bad = @good.clone
+    bad['rack.request.form_hash']['name'] = '  Some Name '
+    bad['rack.request.form_hash']['email'] = '  derek@sivers.org '
+    bad['rack.request.form_hash']['url'] = 'sivers.org/'
+    bad['rack.request.form_hash']['comment'] = 'Sure is a nice day for <a href="http://yeah.xxx">this</a>'
+    assert_equal nu, Comment.clean(bad)
+  end
 end
