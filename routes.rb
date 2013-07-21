@@ -28,6 +28,9 @@ end
 
 # LIST: just show the static form
 get '/list' do
+  @bodyid = 'list'
+  @pagetitle = 'email list'
+  erb :list
 end
 
 # PASSWORD: semi-authorized. show form to make/change real password
