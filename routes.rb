@@ -30,31 +30,31 @@ end
 get '/list' do
 end
 
-# PASSWORD: semi-authorized. show form to make/change real password.
+# PASSWORD: semi-authorized. show form to make/change real password
 get %r{\A/u/([0-9]+)/([a-zA-Z0-9]{8})\Z} do |person_id, newpass|
 end
 
 # PASSWORD: posted here to make/change it. then log in with cookie
-post '/u' do
+post '/u/password' do
 end
 
 # PASSWORD: forgot? form to enter email
-get '/f' do
+get '/u/forgot' do
 end
 
 # PASSWORD: email posted here. send password reset link
-post '/f' do
+post '/u/forgot' do
 end
 
 # AYW post code word + name & email. if right, emails login link
-post '/a' do
+post '/ayw/proof' do
 end
 
 # AYW list of MP3 downloads - only for the authorized
-get '/b' do
+get '/ayw/list' do
 end
 
 # AYW MP3 downloads - if authorized, redirect to S3
-get %r{\A/aywb/([A-Za-z-]+.zip)\Z} do |zipfile|
+get %r{\A/ayw/download/([A-Za-z-]+.zip)\Z} do |zipfile|
 end
 
