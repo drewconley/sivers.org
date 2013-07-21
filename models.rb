@@ -1,8 +1,10 @@
 require 'json'
 require 'sequel'
-DB = Sequel.postgres('sivers', user: 'sivers')
+require 'peeps'
 
 class Sivers
+  DB = Sequel.postgres('sivers', user: 'sivers')
+
   # config keys: 'project_honeypot_key', 'url_regex'
   def self.config
     unless @config
@@ -14,7 +16,7 @@ class Sivers
 end
 
 # comments stored in database
-class Comment < Sequel::Model(:comments)
+class Comment < Sequel::Model(Sivers::DB)
   class << self
 
     # return array of hashes of comments for this URI
@@ -85,7 +87,6 @@ class Comment < Sequel::Model(:comments)
 
     # find or add person in peeps.people. return person_id either way.
     def person_id(params)
-      require 'peeps'
       p = Person[email: params[:email]]
       if p.nil?
         p = Person.create(name: params[:name], email: params[:email])

@@ -20,17 +20,27 @@ end
 
 # LIST: pre-authorized URL to show form for changing settings / unsubscribing
 get %r{\A/list/([0-9]+)/([a-zA-Z0-9]{4})\Z} do |person_id, lopass|
-end
-
-# LIST: handle posting of list signup or changing settings
-post '/list' do
+  @show_name = @show_email = ''
+  p = Person.where(id: person_id, lopass: lopass).first
+  if p
+    @show_name = p.name
+    @show_email = p.email
+  end
+  @bodyid = 'list'
+  @pagetitle = 'email list'
+  erb :list
 end
 
 # LIST: just show the static form
 get '/list' do
   @bodyid = 'list'
   @pagetitle = 'email list'
+  @show_name = @show_email = ''
   erb :list
+end
+
+# LIST: handle posting of list signup or changing settings
+post '/list' do
 end
 
 # PASSWORD: semi-authorized. show form to make/change real password

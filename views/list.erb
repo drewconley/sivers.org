@@ -6,10 +6,10 @@
   <form action="/list" method="post">
   
     <label for="name">Your Name</label>
-    <input type="text" name="name" id="name" value=""/>
+    <input type="text" name="name" id="name" value="<%= @show_name %>"/>
     
     <label for="email">Your Email <span class="small">(kept private! never shared.)</span></label>
-    <input type="email" name="email" id="email" value=""/>
+    <input type="email" name="email" id="email" value="<%= @show_email %>"/>
     
     <h2><label for="listype">how often?</label></h2>
     <div id="listype">
