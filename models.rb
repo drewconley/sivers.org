@@ -72,7 +72,7 @@ class Comment < Sequel::Model(Sivers::DB)
       Sivers.config['url_regex'].match request_env['HTTP_REFERER']
       nu = {uri: $2}
       nu[:name] = h['name'].strip
-      nu[:email] = h['email'].strip
+      nu[:email] = h['email'].strip.downcase
       nu[:ip] = request_env['REMOTE_ADDR']
       h['url'].strip!
       if h['url'].size > 5
@@ -107,3 +107,41 @@ class Comment < Sequel::Model(Sivers::DB)
 
   end
 end
+
+# wrapper around peeps.userstats
+class EmailList
+  class << self
+    def valid?(request_env)
+      return false unless request_env['rack.request.form_hash']['name'].size > 0
+      /\A\S+@\S+\.\S+\Z/ === request_env['rack.request.form_hash']['email'].strip
+    end
+
+    # return params, cleaned up values & keys, ready to insert
+    def clean(request_env)
+      h = request_env['rack.request.form_hash'].clone
+      nu = {statkey: 'listype', ip: request_env['REMOTE_ADDR']}
+      nu[:statvalue] = (%w(some all none).include? h['listype']) ? h['listype'] : 'some'
+      nu
+    end
+
+    def person_id(request_env)
+      name = request_env['rack.request.form_hash']['name'].strip
+      email = request_env['rack.request.form_hash']['email'].strip.downcase
+      p = Person[email: email]
+      if p.nil?
+        p = Person.create(name: name, email: email)
+      end
+      p.id
+    end
+
+    def update(request_env)
+      return false unless valid?(request_env)
+      return false if Comment.spammer?(request_env['REMOTE_ADDR'])
+      nu = clean(request_env)
+      nu[:person_id] = person_id(request_env)
+      Userstat.create(nu)
+      Person[nu[:person_id]].update(listype: nu[:statvalue])
+    end
+  end
+end
+
