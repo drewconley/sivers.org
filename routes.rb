@@ -34,6 +34,7 @@ class SiversOrg < Sinatra::Base
     @pagetitle = 'Thank you!'
     thanks = Hash.new('')  # default message?
     thanks['list'] = 'I updated your email list settings.</p><p>Your info is private and will never be sold to anyone else, ever.</p><p>Of course you can email me anytime at <a href="mailto:derek@sivers.org">derek@sivers.org</a>'
+    thanks['reset'] = 'Wait a minute, then check your inbox for an email from derek@sivers.org with the subject “your password reset link”.</p><p>If you don’t get it in a minute or two, please email me to let me know.'
     @message = thanks[forwhat]
     erb :oneliner
   end
@@ -45,6 +46,7 @@ class SiversOrg < Sinatra::Base
     sorry = Hash.new('')  # default message?
     sorry['badurlid'] = 'That unique URL is not right, for some reason.</p><p>Maybe it expired? Maybe it has changed since I emailed it to you?</p><p>Go back a few steps and try the process again, or email me at <a href="mailto:derek@sivers.org">derek@sivers.org</a>'
     sorry['shortpass'] = 'Your password needs to be at least 4 characters long.</p><p>Please go back to try again.'
+    sorry['noemail'] = 'That email address wasn’t found. Do you have another?</p><p>Please go back to try again.'
     @message = sorry[forwhat]
     erb :oneliner
   end
@@ -99,10 +101,20 @@ class SiversOrg < Sinatra::Base
 
   # PASSWORD: forgot? form to enter email
   get '/u/forgot' do
+    @bodyid = 'forgot'
+    @pagetitle = 'forgot password'
+    erb :forgot
   end
 
   # PASSWORD: email posted here. send password reset link
   post '/u/forgot' do
+    p = Person[email: params[:email]]
+    redirect '/sorry/noemail' unless p
+    p.set_newpass
+    f = Formletter[Sivers.config['formletter_password_reset']]
+    h = {profile: 'derek@sivers', subject: p.firstname + ' - your password reset link'}
+    f.send_to(p, h)
+    redirect '/thanks/reset'
   end
 
   # AYW post code word + name & email. if right, emails login link
