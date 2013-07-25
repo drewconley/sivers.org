@@ -1,11 +1,12 @@
 require 'json'
 require 'sequel'
 require 'peeps'
+require 'aws/s3'
 
 class Sivers
   DB = Sequel.postgres('sivers', user: 'sivers')
 
-  # config keys: 'project_honeypot_key', 'url_regex'
+  # config keys: 'project_honeypot_key', 's3key', 's3secret'
   def self.config
     unless @config
       @config = JSON.parse(File.read(File.dirname(__FILE__) + '/config.json'))
@@ -173,6 +174,14 @@ class AYW
       nu = {person_id: person_id(request_env), statkey: 'ayw', statvalue: 'a'}
       Userstat.create(nu)
       Person[nu[:person_id]]
+    end
+
+    def url_for(filename)
+      AWS::S3::DEFAULT_HOST.replace 's3-us-west-1.amazonaws.com'
+      AWS::S3::Base.establish_connection!(
+        access_key_id: Sivers.config['s3key'],
+        secret_access_key: Sivers.config['s3secret'])
+      AWS::S3::S3Object.url_for(filename, 'aywb', :use_ssl => true)
     end
   end
 end

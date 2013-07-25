@@ -97,6 +97,10 @@ class SiversOrgTest < Test::Unit::TestCase
   end
 
   def test_ayw_mp3_list
+    get '/ayw/list'
+    assert_equal 302, last_response.status
+    follow_redirect!
+    assert_match /\/sorry\/login\Z/, last_request.url
     set_cookie 'ok=' + @fixtures['Login']['ayw']['ignore']
     get '/ayw/list'
     assert_equal 200, last_response.status
@@ -104,8 +108,15 @@ class SiversOrgTest < Test::Unit::TestCase
   end
 
   def test_ayw_mp3_download
+    zip = 'SINGSONG-AnythingYouWant.zip'
+    get "/ayw/download/#{zip}"
+    assert_equal 302, last_response.status
+    follow_redirect!
+    assert_match /\/sorry\/login\Z/, last_request.url
     set_cookie 'ok=' + @fixtures['Login']['ayw']['ignore']
-    get '/ayw/list'
+    get "/ayw/download/#{zip}"
+    follow_redirect!
+    assert last_request.url.include? zip
   end
 
 end

@@ -74,5 +74,12 @@ class TestComments < Test::Unit::TestCase
     assert comment_id.instance_of? Fixnum
     assert comment_id > 40000
   end
+
+  def test_ayw_download
+    file = 'JAZZ-AnythingYouWant.zip'
+    u = AYW.url_for(file)
+    assert u.start_with? "https://s3-us-west-1.amazonaws.com/aywb/#{file}?AWSAccessKeyId="
+  end
+
 end
 

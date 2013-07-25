@@ -144,6 +144,9 @@ class SiversOrg < Sinatra::Base
 
   # AYW MP3 downloads - if authorized, redirect to S3
   get %r{\A/ayw/download/([A-Za-z-]+.zip)\Z} do |zipfile|
+    p = Login.get_person_from_cookie(cookies['ok'])
+    redirect '/sorry/login' unless p
+    redirect AYW.url_for(zipfile)
   end
 
 end
