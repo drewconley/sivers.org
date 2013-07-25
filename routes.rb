@@ -1,4 +1,5 @@
 require 'sinatra/base'
+require 'sinatra/cookies'
 require 'json'
 require_relative 'models.rb'
 
@@ -11,6 +12,7 @@ require_relative 'models.rb'
 # /ayw/
 
 class SiversOrg < Sinatra::Base
+  helpers Sinatra::Cookies
 
   # COMMENTS: JavaScript get JSON
   get %r{\A/comments/([a-z0-9_-]+).json\Z} do |uri|
@@ -49,6 +51,7 @@ class SiversOrg < Sinatra::Base
     sorry['shortpass'] = 'Your password needs to be at least 4 characters long.</p><p>Please go back to try again.'
     sorry['noemail'] = 'That email address wasn’t found. Do you have another?</p><p>Please go back to try again.'
     sorry['aywcode'] = 'That wasn’t the code word.</p><p>HINT: It starts with a U and ends with an A.</p><p>Please go back to try again.'
+    sorry['login'] = 'You need to login to be here'
     @message = sorry[forwhat]
     erb :oneliner
   end
@@ -95,8 +98,8 @@ class SiversOrg < Sinatra::Base
     redirect '/sorry/shortpass' unless params[:password].to_s.size >= 4
     p.set_password(params[:password])
     p.set_newpass
-    if ['sivers.org', 'sivers.dev'].include? request.env['SERVER_NAME']
-      Login.set_auth(p.id, request.env['SERVER_NAME'])
+    if ['sivers.org', 'sivers.dev', 'example.org'].include? request.env['SERVER_NAME']
+      cookies['ok'] = Login.set_auth(p.id, request.env['SERVER_NAME'])
     end
     redirect '/ayw/list'   # TODO: other destinations in future
   end
@@ -132,6 +135,11 @@ class SiversOrg < Sinatra::Base
 
   # AYW list of MP3 downloads - only for the authorized
   get '/ayw/list' do
+    p = Login.get_person_from_cookie(cookies['ok'])
+    redirect '/sorry/login' unless p
+    @bodyid = 'ayw'
+    @pagetitle = 'MP3 downloads for Anything You Want book'
+    erb :ayw_list
   end
 
   # AYW MP3 downloads - if authorized, redirect to S3

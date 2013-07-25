@@ -3,6 +3,7 @@ require 'test/unit'
 require 'rack/test'
 require_relative '../routes.rb'
 
+
 class SiversOrgTest < Test::Unit::TestCase
   include Rack::Test::Methods
   include Fixtures::Tools
@@ -53,6 +54,13 @@ class SiversOrgTest < Test::Unit::TestCase
     p2 = Person.find_by_email_pass(p.email, nupass)
     assert_equal p.email, p2.email
     refute_equal newpass, p2.newpass
+    ok = rack_mock_session.cookie_jar['ok']
+    assert ok.include? ':'
+    p3 = Login.get_person_from_cookie(ok)
+    assert_equal p3.email, p2.email
+    assert_equal 302, last_response.status
+    follow_redirect!
+    assert_match /\/ayw\/list\Z/, last_request.url
   end
 
   def test_forgot
@@ -86,6 +94,18 @@ class SiversOrgTest < Test::Unit::TestCase
     e = p.emails.pop
     assert_instance_of Email, e
     assert_match /your MP3 download/, e.subject
+  end
+
+  def test_ayw_mp3_list
+    set_cookie 'ok=' + @fixtures['Login']['ayw']['ignore']
+    get '/ayw/list'
+    assert_equal 200, last_response.status
+    assert_match /AnythingYouWant.zip/, last_response.body
+  end
+
+  def test_ayw_mp3_download
+    set_cookie 'ok=' + @fixtures['Login']['ayw']['ignore']
+    get '/ayw/list'
   end
 
 end
