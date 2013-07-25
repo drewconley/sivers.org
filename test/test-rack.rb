@@ -55,4 +55,16 @@ class SiversOrgTest < Test::Unit::TestCase
     refute_equal newpass, p2.newpass
   end
 
+  def test_forgot
+    p = Person[4]
+    newpass1 = p.newpass
+    post '/u/forgot', {email: p.email}
+    assert_equal '', last_response.body
+    #assert_equal 302, last_response.status
+    p2 = Person[4]
+    refute_equal newpass1, p2.newpass
+    follow_redirect!
+    assert_match /\/thanks\/reset\Z/, last_request.url
+  end
+
 end

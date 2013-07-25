@@ -10,8 +10,7 @@ class Sivers
     unless @config
       @config = JSON.parse(File.read(File.dirname(__FILE__) + '/config.json'))
       @config['url_regex'] = %r{\Ahttps?://sivers\.(dev|org)/([a-z0-9_-]{1,32})\Z}
-      @config['formletter_password_reset'] = 217
-      f = Formletter[WoodEgg.config['formletter_thanks_buying'].to_i]
+      @config['formletter_password_reset'] = 1
     end
     @config
   end
