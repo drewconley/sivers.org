@@ -14,6 +14,11 @@ require_relative 'models.rb'
 class SiversOrg < Sinatra::Base
   helpers Sinatra::Cookies
 
+  # nginx might rewrite looking for /uri/home or just /uri/. both are wrong.
+  get %r{/home\Z|/\Z} do
+    redirect '/'
+  end
+
   # COMMENTS: JavaScript get JSON
   get %r{\A/comments/([a-z0-9_-]+).json\Z} do |uri|
     content_type 'application/json'
