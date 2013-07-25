@@ -35,6 +35,7 @@ class SiversOrg < Sinatra::Base
     thanks = Hash.new('')  # default message?
     thanks['list'] = 'I updated your email list settings.</p><p>Your info is private and will never be sold to anyone else, ever.</p><p>Of course you can email me anytime at <a href="mailto:derek@sivers.org">derek@sivers.org</a>'
     thanks['reset'] = 'Wait a minute, then check your inbox for an email from derek@sivers.org with the subject “your password reset link”.</p><p>If you don’t get it in a minute or two, please email me to let me know.'
+    thanks['ayw'] = 'Wait a minute, then check your inbox for an email from derek@sivers.org with the subject “your MP3 download link”.</p><p>If you don’t get it in a minute or two, please email me to let me know.'
     @message = thanks[forwhat]
     erb :oneliner
   end
@@ -47,6 +48,7 @@ class SiversOrg < Sinatra::Base
     sorry['badurlid'] = 'That unique URL is not right, for some reason.</p><p>Maybe it expired? Maybe it has changed since I emailed it to you?</p><p>Go back a few steps and try the process again, or email me at <a href="mailto:derek@sivers.org">derek@sivers.org</a>'
     sorry['shortpass'] = 'Your password needs to be at least 4 characters long.</p><p>Please go back to try again.'
     sorry['noemail'] = 'That email address wasn’t found. Do you have another?</p><p>Please go back to try again.'
+    sorry['aywcode'] = 'That wasn’t the code word.</p><p>HINT: It starts with a U and ends with an A.</p><p>Please go back to try again.'
     @message = sorry[forwhat]
     erb :oneliner
   end
@@ -118,7 +120,14 @@ class SiversOrg < Sinatra::Base
   end
 
   # AYW post code word + name & email. if right, emails login link
+  # (if you are reading this, yes the codeword is here. it's intentionally not very secret.)
   post '/ayw/proof' do
+    redirect '/sorry/aywcode' unless /utopia/i === params[:code]
+    p = AYW.update(request.env)
+    f = Formletter[Sivers.config['formletter_ayw_bought']]
+    h = {profile: 'derek@sivers', subject: p.firstname + ' - your MP3 download link'}
+    f.send_to(p, h)
+    redirect '/thanks/ayw'
   end
 
   # AYW list of MP3 downloads - only for the authorized

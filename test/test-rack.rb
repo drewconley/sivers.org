@@ -59,12 +59,33 @@ class SiversOrgTest < Test::Unit::TestCase
     p = Person[4]
     newpass1 = p.newpass
     post '/u/forgot', {email: p.email}
-    assert_equal '', last_response.body
-    #assert_equal 302, last_response.status
+    assert_equal 302, last_response.status
     p2 = Person[4]
     refute_equal newpass1, p2.newpass
     follow_redirect!
     assert_match /\/thanks\/reset\Z/, last_request.url
+    e = p.emails.first
+    assert_instance_of Email, e
+    assert_match /your password reset/, e.subject
+    assert e.body.include? p2.newpass
+  end
+
+  def test_post_proof
+    refute Person[email: @newemail]
+    post '/ayw/proof', {code: 'utopia', name: @newname, email: @newemail}
+    p = Person[email: @newemail]
+    assert_instance_of Person, p
+    u = p.userstats.pop
+    assert_instance_of Userstat, u
+    assert_equal 'ayw', u.statkey
+    assert_equal 'a', u.statvalue
+    assert_equal 302, last_response.status
+    follow_redirect!
+    assert_match /\/thanks\/ayw\Z/, last_request.url
+    assert_equal 1, p.emails.size
+    e = p.emails.pop
+    assert_instance_of Email, e
+    assert_match /your MP3 download/, e.subject
   end
 
 end

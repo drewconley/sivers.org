@@ -11,6 +11,7 @@ class Sivers
       @config = JSON.parse(File.read(File.dirname(__FILE__) + '/config.json'))
       @config['url_regex'] = %r{\Ahttps?://sivers\.(dev|org)/([a-z0-9_-]{1,32})\Z}
       @config['formletter_password_reset'] = 1
+      @config['formletter_ayw_bought'] = 4
     end
     @config
   end
@@ -142,6 +143,36 @@ class EmailList
       nu[:person_id] = person_id(request_env)
       Userstat.create(nu)
       Person[nu[:person_id]].update(listype: nu[:statvalue])
+    end
+  end
+end
+
+# need to merge these some day soon
+# this one is logging proof they bought AYW book, and sending reset email
+class AYW
+  class << self
+    def valid?(request_env)
+      return false unless request_env['rack.request.form_hash']['name'].size > 0
+      /\A\S+@\S+\.\S+\Z/ === request_env['rack.request.form_hash']['email'].strip
+    end
+
+    def person_id(request_env)
+      name = request_env['rack.request.form_hash']['name'].strip
+      email = request_env['rack.request.form_hash']['email'].strip.downcase
+      p = Person[email: email]
+      if p.nil?
+        p = Person.create(name: name, email: email)
+      else
+	p.set_newpass
+      end
+      p.id
+    end
+
+    def update(request_env)
+      return false unless valid?(request_env)
+      nu = {person_id: person_id(request_env), statkey: 'ayw', statvalue: 'a'}
+      Userstat.create(nu)
+      Person[nu[:person_id]]
     end
   end
 end
