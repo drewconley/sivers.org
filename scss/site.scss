@@ -7,11 +7,16 @@
 
 body {
 	@extend .row;
-	font-family: "Trebuchet MS", sans-serif;
 }
 
-.small, #masthead h2, p.postdate {
-	font-family: "Trebuchet MS", sans-serif;
+.small,
+#masthead h2,
+p.postdate,
+body#presentations figcaption > h5,
+body#booklist #content header p,
+body#presentations section#content figure > figcaption > p,
+body#booklist section#content figure > figcaption > p {
+	font-family: $body-font-family;
 	font-size: 0.9em;
 	font-weight: normal;
 }
@@ -55,7 +60,7 @@ body#oneblog > section#content > article > header > h1, body#prez > section#cont
 	}
 }
 
-p.postdate {
+p.postdate, body#presentations figcaption > h5 {
 	margin-top: 0.25em;
 }
 
@@ -89,4 +94,24 @@ body#bloglist {
 	}
 }
 
+body#presentations section#content figure,
+body#booklist section#content figure {
+	@extend .row;
+	margin-bottom: 4em;
+}
+body#presentations section#content figure > a,
+body#booklist section#content figure > a {
+	@extend .small-4;
+	@extend .columns;
+}
+body#presentations section#content figure > figcaption,
+body#booklist section#content figure > figcaption {
+	@extend .small-8;
+	@extend .columns;
+}
+body#presentations section#content figure > figcaption > h3,
+body#booklist section#content figure > figcaption > h2 {
+	margin: 0;
+	font-size: emCalc(20px);
+}
 
