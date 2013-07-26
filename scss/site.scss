@@ -115,5 +115,20 @@ body#booklist section#content figure > figcaption > h2 {
 	font-size: emCalc(20px);
 }
 
-body#onebook {
+body#onebook section#content header h1 {
+	margin: 0;
+	font-size: emCalc(24px);
+}
+
+body#onebook #content > header > figure {
+	float: left;
+	margin-right: 1em;
+}
+
+body#onebook p#booksummary {
+	clear: both;
+}
+
+body#onebook p#booknotes {
+	font-size: emCalc(16px);
 }

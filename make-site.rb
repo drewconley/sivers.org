@@ -107,7 +107,7 @@ Dir['content/books/20*'].each do |infile|
   /^SUMMARY: (.+)$/.match lines.shift
   @summary = $1
   lines.shift  # the line that says 'NOTES:'
-  @notes = lines.join('')
+  @notes = lines.join('').gsub("\n", "<br>\n")
   @pagetitle = "#{@title} | Derek Sivers"
   @bodyid = 'onebook'
 
