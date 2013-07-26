@@ -29,7 +29,7 @@
     </header>
 
     <p>Classic book for computer programmers. I read it first in 2003 before I was taking book notes, so I read it again now to take notes. Great wisdom in here. Amazing to see how much of its advice was adopted as norms by Ruby on Rails.</p>
-    <h2>my notes<h2>
+    <h2>my notes</h2>
 
 Don't leave "broken windows" (bad designs, wrong decisions, or poor code) unrepaired. Fix each one as soon as it is discovered. If there is insufficient time to fix it properly, then board it up.
 
