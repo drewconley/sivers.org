@@ -6,40 +6,87 @@
 @import "foundation/components/forms";
 
 body {
-  @extend .row;
-  font-family: "Trebuchet MS", sans-serif;
+	@extend .row;
+	font-family: "Trebuchet MS", sans-serif;
 }
-.small {
-  font-family: "Trebuchet MS", sans-serif;
-  font-size: 0.75em;
+
+.small, #masthead h2, p.postdate {
+	font-family: "Trebuchet MS", sans-serif;
+	font-size: 0.9em;
+	font-weight: normal;
 }
 
 p, li {
-  font-family: Georgia, serif;
-  line-height: 1.3em;
+	font-family: Georgia, serif;
+	line-height: 1.4em;
+	font-size: emCalc(20px);
 }
 
 #masthead h1 {
-  margin-bottom: 0.2em;
+	margin-top: 0;
+	margin-bottom: 0.2em;
+	font-size: 3em;
 }
 
 #masthead h2 {
-  font-size: 1em;
-  margin-top: 0;
+	margin-top: 0;
 }
 
-#content {
-  @extend .small-9;
-  @extend .small-centered;
-  @extend .columns;
+#masthead, #content {
+	@extend .small-8;
+	@extend .small-centered;
+	@extend .columns;
 }
 
 input[type=submit] {
-  @extend .button;
-  @extend .success;
-  @extend .small;
+	@extend .button;
+	@extend .success;
+	@extend .small;
 }
 
 body#home li {
-  margin-bottom: 0.5em;
+	margin-bottom: 0.5em;
 }
+
+body#oneblog > section#content > article > header > h1, body#prez > section#content > article > header > h1 {
+	margin-bottom: 0;
+	a {
+		text-decoration: none;
+	}
+}
+
+p.postdate {
+	margin-top: 0.25em;
+}
+
+section#comments textarea {
+	height: 6em;
+}
+
+section#comments > ol > li, section#comments > ol > li > p {
+	font-family: "Trebuchet MS", sans-serif;
+	font-size: 1em;
+}
+
+section#comments > ol > li {
+	margin-bottom: 4em;
+}
+
+body#oneblog section#comments span.response, body#prez section#comments span.response {
+	display: block;
+	font-weight: bold;
+	background-color: #cfc;
+	margin: 1em 0 0 2em;
+	padding: 3px;
+}	
+body#bloglist {
+	ul {
+		padding: 0;
+	}
+	li {
+		list-style-type: none;
+		margin-bottom: 1em;
+	}
+}
+
+
