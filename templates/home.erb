@@ -51,13 +51,6 @@
     </ul>
   </section>
   
-  <section id="tweets">
-    <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
-    <ul><% @new_tweets.each do |b| %>
-      <li><%= b[:show_date] %> &nbsp; <%= b[:tweet] %></li><% end %>
-    </ul>
-  </section>
-  
   <section id="companies">
     <h2>Projects</h2>
     <figure id="woodegg">
@@ -147,6 +140,13 @@
       <li><a href="/images/DerekSivers-headshot-face.jpg"><img src="/images/DerekSivers-headshot-face-100.jpg" alt="Derek Sivers" /></a></li>
       <li><a href="/images/DerekSivers-headshot-ted.jpg"><img src="/images/DerekSivers-headshot-ted-100.jpg" alt="Derek Sivers" /></a></li>
       <li><a href="/images/DerekSivers-headshot-head.jpg"><img src="/images/DerekSivers-headshot-head-100.jpg" alt="Derek Sivers" /></a></li>
+    </ul>
+  </section>
+  
+  <section id="tweets">
+    <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
+    <ul><% @new_tweets.each do |b| %>
+      <li><%= b[:show_date] %> &nbsp; <%= b[:tweet] %></li><% end %>
     </ul>
   </section>
   

@@ -75,18 +75,6 @@
     </ul>
   </section>
   
-  <section id="tweets">
-    <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
-    <ul>
-      <li>June 16 &nbsp; Why my baby's photos aren't online: We should be able to choose when we are ready to have an online presence, not have it forced upon us.</li>
-      <li>June 16 &nbsp; Fragile Plan vs Robust Plan : http://sivers.org/robust</li>
-      <li>June 13 &nbsp; Anyone else think of music this way? http://youtu.be/Av_Us6xHkUc I tend to draw in the air like this, as I sing or listen to anything.</li>
-      <li>June 9 &nbsp; Story behind Wood Egg (my new company): http://sivers.org/eg</li>
-      <li>June 3 &nbsp; Some will always say you're wrong: http://sivers.org/wrong</li>
-      <li>May 27 &nbsp; Think the Chinese are just copycats? Check out these DIY inventors: http://www.theatlantic.com/infocus/2013/05/chinese-diy-inventions/100511</li>
-    </ul>
-  </section>
-  
   <section id="companies">
     <h2>Projects</h2>
     <figure id="woodegg">
@@ -176,6 +164,18 @@
       <li><a href="/images/DerekSivers-headshot-face.jpg"><img src="/images/DerekSivers-headshot-face-100.jpg" alt="Derek Sivers" /></a></li>
       <li><a href="/images/DerekSivers-headshot-ted.jpg"><img src="/images/DerekSivers-headshot-ted-100.jpg" alt="Derek Sivers" /></a></li>
       <li><a href="/images/DerekSivers-headshot-head.jpg"><img src="/images/DerekSivers-headshot-head-100.jpg" alt="Derek Sivers" /></a></li>
+    </ul>
+  </section>
+  
+  <section id="tweets">
+    <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
+    <ul>
+      <li>June 16 &nbsp; Why my baby's photos aren't online: We should be able to choose when we are ready to have an online presence, not have it forced upon us.</li>
+      <li>June 16 &nbsp; Fragile Plan vs Robust Plan : http://sivers.org/robust</li>
+      <li>June 13 &nbsp; Anyone else think of music this way? http://youtu.be/Av_Us6xHkUc I tend to draw in the air like this, as I sing or listen to anything.</li>
+      <li>June 9 &nbsp; Story behind Wood Egg (my new company): http://sivers.org/eg</li>
+      <li>June 3 &nbsp; Some will always say you're wrong: http://sivers.org/wrong</li>
+      <li>May 27 &nbsp; Think the Chinese are just copycats? Check out these DIY inventors: http://www.theatlantic.com/infocus/2013/05/chinese-diy-inventions/100511</li>
     </ul>
   </section>
   
