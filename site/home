@@ -19,22 +19,21 @@
 
   <section id="aboutme">
     <h2>Me in 10 seconds</h2>
-    <ul>
-      <li>I’m an entrepreneur. I treat <a href="/laboratory">work as play</a>.</li>
-      <li>I live by “<a href="/scares-excites-do-it">whatever scares you, go do it</a>”.</li>
-      <li>I’m a <a href="/own-nothing">minimalist</a>. The less I own, the happier I am.</li>
-      <li>I’m a <a href="/book">learning addict</a>.</li>
-      <li>I’m very comfortable <a href="/in2power">being the leader</a> and being on stage.</li>
-      <li><a href="/horses">This is my favorite fable</a>.</li>
-    </ul>
-    <div id="headshots">
-      <figure class="headshot"><a href="/images/DerekSivers-headshot-yellow.jpg"><img src="/images/DerekSivers-headshot-yellow-100.jpg" alt="Derek Sivers" /></a></figure>
-      <figure class="headshot"><a href="/images/DerekSivers-headshot-face.jpg"><img src="/images/DerekSivers-headshot-face-100.jpg" alt="Derek Sivers" /></a></figure>
-      <figure class="headshot"><a href="/images/DerekSivers-headshot-ted.jpg"><img src="/images/DerekSivers-headshot-ted-100.jpg" alt="Derek Sivers" /></a></figure>
-      <figure class="headshot"><a href="/images/DerekSivers-headshot-head.jpg"><img src="/images/DerekSivers-headshot-head-100.jpg" alt="Derek Sivers" /></a></figure>
-    </div>
+    <p>
+    I’m an entrepreneur. I treat <a href="/laboratory">work as play</a>.
+    </p><p>
+    I live by “<a href="/scares-excites-do-it">whatever scares you, go do it</a>”.
+    </p><p>
+    I’m a <a href="/own-nothing">minimalist</a>. The less I own, the happier I am.
+    </p><p>
+    I’m a <a href="/book">learning addict</a>.
+    </p><p>
+    I’m very comfortable <a href="/in2power">being the leader</a> and being on stage.
+    </p><p>
+    <a href="/horses">This is my favorite fable</a>.
+    </p>
   </section>
-  
+
   <section id="fullbio">
     <h2>Official Bragging Bio</h2>
     <p>
@@ -53,7 +52,7 @@
   </section>
   
   <section id="newestarticles">
-    <h2>Newest Articles</h2>
+    <h2>Newest Articles <span class="small"><a href="/blog">all articles</a></span></h2>
     <ul>
       <li><a href="/robust">Fragile Plan vs Robust Plan</a></li>
       <li><a href="/eg">Wood Egg (my new company)</a></li>
@@ -62,11 +61,10 @@
       <li><a href="/io">Seeking inspiration?</a></li>
       <li><a href="/ebert2">The Great Movies</a></li>
     </ul>
-    <p class="link2more">(<a href="/blog">more articles</a>)</p>
   </section>
   
   <section id="populararticles">
-    <h2>Popular Articles</h2>
+    <h2>Popular Articles <span class="small"><a href="/blog">all articles</a></span></h2>
     <ul>
       <li><a href="/ff">Leadership Lessons from Dancing Guy</a></li>
       <li><a href="/trust">Why I gave away my company to charity</a></li>
@@ -75,20 +73,18 @@
       <li><a href="/multiply">Ideas are just a multiplier of execution</a></li>
       <li><a href="/zipit">Shut up! Announcing your plans makes you less motivated to accomplish them.</a></li>
     </ul>
-    <p class="link2more">(<a href="/blog">more articles</a>)</p>
   </section>
   
   <section id="tweets">
-    <h2>Tweets</h2>
+    <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <ul>
-      <li>June 16 &nbsp; Fragile Plan vs Robust Plan : http://sivers.org/robust</li>
       <li>June 16 &nbsp; Why my baby's photos aren't online: We should be able to choose when we are ready to have an online presence, not have it forced upon us.</li>
+      <li>June 16 &nbsp; Fragile Plan vs Robust Plan : http://sivers.org/robust</li>
       <li>June 13 &nbsp; Anyone else think of music this way? http://youtu.be/Av_Us6xHkUc I tend to draw in the air like this, as I sing or listen to anything.</li>
       <li>June 9 &nbsp; Story behind Wood Egg (my new company): http://sivers.org/eg</li>
       <li>June 3 &nbsp; Some will always say you're wrong: http://sivers.org/wrong</li>
       <li>May 27 &nbsp; Think the Chinese are just copycats? Check out these DIY inventors: http://www.theatlantic.com/infocus/2013/05/chinese-diy-inventions/100511</li>
     </ul>
-    <p class="link2more">(<a href="/tweets">more tweets</a>)</p>
   </section>
   
   <section id="companies">
@@ -171,6 +167,16 @@
       <p>Talks from other conferences, all subjects.</p>
       </figcaption>
     </figure>
+  </section>
+  
+  <section id="photos">
+    <h2>Photos</h2>
+    <ul>
+      <li><a href="/images/DerekSivers-headshot-yellow.jpg"><img src="/images/DerekSivers-headshot-yellow-100.jpg" alt="Derek Sivers" /></a></li>
+      <li><a href="/images/DerekSivers-headshot-face.jpg"><img src="/images/DerekSivers-headshot-face-100.jpg" alt="Derek Sivers" /></a></li>
+      <li><a href="/images/DerekSivers-headshot-ted.jpg"><img src="/images/DerekSivers-headshot-ted-100.jpg" alt="Derek Sivers" /></a></li>
+      <li><a href="/images/DerekSivers-headshot-head.jpg"><img src="/images/DerekSivers-headshot-head-100.jpg" alt="Derek Sivers" /></a></li>
+    </ul>
   </section>
   
   <section id="follow">
