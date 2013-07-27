@@ -43,6 +43,7 @@ class SiversOrg < Sinatra::Base
     thanks['list'] = 'I updated your email list settings.</p><p>Your info is private and will never be sold to anyone else, ever.</p><p>Of course you can email me anytime at <a href="mailto:derek@sivers.org">derek@sivers.org</a>'
     thanks['reset'] = 'Wait a minute, then check your inbox for an email from derek@sivers.org with the subject “your password reset link”.</p><p>If you don’t get it in a minute or two, please email me to let me know.'
     thanks['ayw'] = 'Wait a minute, then check your inbox for an email from derek@sivers.org with the subject “your MP3 download link”.</p><p>If you don’t get it in a minute or two, please email me to let me know.'
+    thanks['pdf'] = 'Wait a minute, then check your inbox for an email from derek@sivers.org with the subject “How to Call Attention to Your Music”.</p><p>If you don’t get it in a minute or two, please email me to let me know.'
     @message = thanks[forwhat]
     erb :oneliner
   end
@@ -83,6 +84,12 @@ class SiversOrg < Sinatra::Base
   post '/list' do
     EmailList.update(request.env)
     redirect '/thanks/list'
+  end
+
+  # PDF: signed up to receive Marketing Your Music ebook
+  post '/pdf' do
+    # TODO: teach email QUEUE to send attachment? or send now?
+    redirect '/thanks/pdf'
   end
 
   # PASSWORD: semi-authorized. show form to make/change real password
