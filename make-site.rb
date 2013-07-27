@@ -1,5 +1,11 @@
 require 'erb'
 require 'date'
+require 'atom'
+# gem install libxml-ruby
+# git clone git://github.com/seangeo/ratom.git
+# remove dependencies
+# gem build ratom.gemspec
+# gem install ratom-*.gem
 
 def template(name)
   ERB.new(File.read("templates/#{name}.erb"))
@@ -36,7 +42,7 @@ Dir['content/blog/20*'].each do |infile|
   File.open("site/#{@url}", 'w') {|f| f.puts html }
 
   # save to array for later use in index and home page
-  @blogs << {date: @date, url: @url, title: @title}
+  @blogs << {date: @date, url: @url, title: @title, html: @body}
 end
 
 
@@ -49,6 +55,27 @@ html = template('header').result
 html << template('bloglist').result
 html << template('footer').result
 File.open('site/blog', 'w') {|f| f.puts html }
+
+
+########## WRITE BLOG RSS/ATOM FEED
+feed = Atom::Feed.new do |f|
+  f.id = 'http://sivers.org/en.atom'
+  f.title = 'Derek Sivers'
+  f.links << Atom::Link.new(:href => 'http://sivers.org/')
+  f.updated = DateTime.now.to_s
+  f.authors << Atom::Person.new(:name => 'Derek Sivers')
+  @blogs[0,20].each do |r|
+    f.entries << Atom::Entry.new do |e|
+      e.id = 'http://sivers.org/' + r[:url]
+      e.published = DateTime.parse(r[:date]).to_s
+      e.updated = e.published
+      e.title = r[:title]
+      e.links << Atom::Link.new(:href => 'http://sivers.org/' + r[:url])
+      e.content = Atom::Content::Html.new(r[:html])
+    end
+  end
+end
+File.open('site/en.atom', 'w') {|f| f.puts feed.to_xml }
 
 
 ########## READ, PARSE, AND WRITE PRESENTATIONS

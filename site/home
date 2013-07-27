@@ -186,7 +186,7 @@
   <section id="follow">
     <h2>Keep in touch</h2>
     <div id="emailform">
-      <p>Please give your name and email, so I’ll keep in touch.</p>
+      <p>Please give me your name and email, and I’ll keep in touch.</p>
       <form action="/list" method="post">
         <label for="name">Your Name</label>
         <input type="text" id="name" name="name" value="" />
@@ -198,8 +198,8 @@
     <div id="otherservices">
       <ul>
         <li><a href="https://twitter.com/sivers"><img src="/images/twitter.png" height="16" width="16" alt="Twitter" />Twitter</a></li>
-        <li><a href="http://www.facebook.com/sivers"><img src="/images/facebook.png" height="16" width="16" alt="Facebook" />Facebook</a></li>
-        <li><a href="https://plus.google.com/106663215390211735917/"><img src="/images/google.png" height="16" width="16" alt="Google" />Google+</a></li>
+        <li><a href="https://www.facebook.com/sivers"><img src="/images/facebook.png" height="16" width="16" alt="Facebook" />Facebook</a></li>
+        <li><a href="https://plus.google.com/100552380444521018196/"><img src="/images/google.png" height="16" width="16" alt="Google" />Google+</a></li>
         <li><a href="http://sg.linkedin.com/in/dereksivers"><img src="/images/linkedin.png" height="16" width="16" alt="LinkedIn" />LinkedIn</a></li>
         <li><a href="/en.atom"><img src="/images/rss.png" height="16" width="16" alt="RSS" />RSS</a></li>
       </ul>
