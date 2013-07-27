@@ -110,7 +110,7 @@ body#home section#companies figure,
 body#home section#mybooks figure,
 body#home section#videos figure,
 body#presentations section#content figure,
-body#mybooklist section#content figure {
+body#booklist section#content figure {
 	@extend .row;
 	margin-bottom: 4em;
 }
@@ -118,7 +118,7 @@ body#home section#companies figure > a,
 body#home section#mybooks figure > a,
 body#home section#videos figure > a,
 body#presentations section#content figure > a,
-body#mybooklist section#content figure > a {
+body#booklist section#content figure > a {
 	@extend .small-4;
 	@extend .columns;
 }
@@ -126,7 +126,7 @@ body#home section#companies figure > figcaption,
 body#home section#mybooks figure > figcaption,
 body#home section#videos figure > figcaption,
 body#presentations section#content figure > figcaption,
-body#mybooklist section#content figure > figcaption {
+body#booklist section#content figure > figcaption {
 	@extend .small-8;
 	@extend .columns;
 }
