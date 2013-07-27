@@ -28,7 +28,7 @@ body#tweets dt {
 p, li, dt, dd {
 	font-family: Georgia, serif;
 	line-height: 1.4em;
-	font-size: emCalc(18px);
+	font-size: emCalc(20px);
 }
 
 #masthead h1 {
@@ -158,5 +158,8 @@ body#tweets dd {
 
 body#home section#content > section > h2 {
 	@extend .panel;
+	span {
+		float: right;
+	}
 }
 

@@ -863,7 +863,7 @@ $input-font-size: emCalc(18px);
 // Inner padding and bottom margin
 
 $panel-margin-bottom: emCalc(12px);
-$panel-padding: emCalc(6px);
+$panel-padding: emCalc(6px) emCalc(6px) emCalc(6px) 0;
 
 // Font colors
 
