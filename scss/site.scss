@@ -18,7 +18,7 @@ body#presentations figcaption > h5,
 body#booklist #content header p,
 body#presentations section#content figure > figcaption > p,
 body#booklist section#content figure > figcaption > p,
-body#home section#tweets ul li,
+body#home section#tweets dt,
 body#tweets dt {
 	font-family: $body-font-family;
 	font-size: 0.9em;
@@ -103,21 +103,33 @@ body#bloglist {
 	}
 }
 
+body#home section#companies figure,
+body#home section#mybooks figure,
+body#home section#videos figure,
 body#presentations section#content figure,
-body#booklist section#content figure {
+body#mybooklist section#content figure {
 	@extend .row;
 	margin-bottom: 4em;
 }
+body#home section#companies figure > a,
+body#home section#mybooks figure > a,
+body#home section#videos figure > a,
 body#presentations section#content figure > a,
-body#booklist section#content figure > a {
+body#mybooklist section#content figure > a {
 	@extend .small-4;
 	@extend .columns;
 }
+body#home section#companies figure > figcaption,
+body#home section#mybooks figure > figcaption,
+body#home section#videos figure > figcaption,
 body#presentations section#content figure > figcaption,
-body#booklist section#content figure > figcaption {
+body#mybooklist section#content figure > figcaption {
 	@extend .small-8;
 	@extend .columns;
 }
+body#home section#companies figure > figcaption > h3,
+body#home section#mybooks figure > figcaption > h3,
+body#home section#videos figure > figcaption > h3,
 body#presentations section#content figure > figcaption > h3,
 body#booklist section#content figure > figcaption > h2 {
 	margin: 0;
@@ -156,10 +168,17 @@ body#tweets dd {
 	margin-bottom: 4em;
 }
 
+body#home section#tweets dd {
+	margin-bottom: 2em;
+}
+
 body#home section#content > section > h2 {
 	@extend .panel;
 	span {
 		float: right;
 	}
+}
+body#home section#photos img {
+	width: 20%;
 }
 

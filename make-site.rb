@@ -5,6 +5,12 @@ def template(name)
   ERB.new(File.read("templates/#{name}.erb"))
 end
 
+class String
+  def autolink
+    self.gsub(/(http\S*)/, '<a href="\1">\1</a>')
+  end
+end
+
 
 ########## READ, PARSE, AND WRITE BLOG POSTS
 @blogs = []
@@ -142,7 +148,7 @@ Dir['content/tweets/20*'].each do |infile|
   /^(\d{4}-\d{2}-\d{2})/.match File.basename(infile)
   date = $1
   d = Date.parse(date)
-  tweet = File.read(infile).strip
+  tweet = File.read(infile).strip.autolink
 
   # save to array for later use in index and home page
   @tweets << {date: date, show_date: d.strftime('%B %-d'), show_year: d.strftime('%B %-d, %Y'), tweet: tweet}

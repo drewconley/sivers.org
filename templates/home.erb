@@ -1,15 +1,15 @@
   <section id="aboutme">
     <h2>Me in 10 seconds</h2>
     <p>
-    I'm a <a href="/music">musician</a>, programmer, writer, entrepreneur, and <a href="/book">student</a>. Not in that order.
+    I'm a <a href="/music">musician</a>, programmer, writer, entrepreneur, and <a href="/book">student</a> — though not in that order.
     </p><p>
     Total introvert (<a href="http://typelogic.com/intj.html">INTJ</a>). Very <a href="/time">future-focused</a>.
     </p><p>
-    I'm fascinated with the usable psychology of self-improvement, business, philosophy, and cross-cultural relativism. I love seeing a <a href="/comfort">different point of view</a>.
+    I'm a minimalist. I prefer <a href="/232">giving</a> to getting. 
     </p><p>
     California native, I now <a href="/local">live</a> in <a href="/singapore">Singapore</a> and New Zealand.
     </p><p>
-    I'm a minimalist. I prefer <a href="/232">giving</a> to getting. 
+    I'm fascinated with the usable psychology of self-improvement, communication, business, philosophy, and cross-cultural relativism. I love seeing a <a href="/comfort">different point of view</a>.
     </p><p>
     Deeply happy and <a href="/drama">anti-drama</a>, my favorite fable is <a href="/horses">塞翁失马</a>.
     </p>
@@ -54,45 +54,38 @@
   <section id="companies">
     <h2>Projects</h2>
     <figure id="woodegg">
-      <a href="http://woodegg.com/"><img src="/images/woodegg-36x50.png" alt="Wood Egg logo" /></a>
+      <a href="http://woodegg.com/"><img src="/images/wood-egg-200-200.jpg" alt="Wood Egg logo" /></a>
       <figcaption>
       <h3><a href="http://woodegg.com/">Wood Egg</a></h3>
-      <p>Entrepreneur’s Guides to Asia</p>
-      </figcaption>
-    </figure>
-    <figure id="50pop">
-      <a href="http://50pop.com/"><img src="/images/50pop-pot-48x50.png" alt="50 Pop logo" /></a>
-      <figcaption>
-      <h3><a href="http://50pop.com/">50 Pop</a></h3>
-      <p>Code, creations, ideas</p>
-      </figcaption>
-    </figure>
-    <figure id="booknotes">
-      <a href="/book"><img src="/images/stack_of_books.jpg" alt="stack of books" /></a>
-      <figcaption>
-      <h3><a href="/book">Book Notes</a></h3>
-      <p>Books I’ve finished recently</p>
+      <p>16 books per year about starting a business Cambodia, China, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Mongolia, Myanmar, Philippines, Singapore, Sri Lanka, Taiwan, Thailand, and Vietnam.</p>
       </figcaption>
     </figure>
     <figure id="musicthoughts">
-      <a href="http://musicthoughts.com/"><img src="/images/musicthoughts-rock.png" alt="MusicThoughts icon" /></a>
+      <a href="http://musicthoughts.com/"><img src="/images/musicthoughts-200x200.jpg" alt="MusicThoughts icon" /></a>
       <figcaption>
       <h3><a href="http://musicthoughts.com/">MusicThoughts</a></h3>
-      <p>Inspiring quotes about music</p>
+      <p>Inspiring quotes about music, for music-makers, translated into Español, Français, Deutsch, Italiano, Português, Русский, العربية, 日本, and 中文</p>
+      </figcaption>
+    </figure>
+    <figure id="booknotes">
+      <a href="/book"><img src="/images/stack-of-books-200x200.jpg" alt="stack of books" /></a>
+      <figcaption>
+      <h3><a href="/book">Book Notes</a></h3>
+      <p>Detailed notes from the last 150+ books I’ve read.</p>
       </figcaption>
     </figure>
   </section>
   
   <section id="mybooks">
     <h2>Books</h2>
-    <figure id="bookayw" class="book">
+    <figure id="bookayw">
       <a href="/a"><img src="/images/DerekSivers-AnythingYouWant-200x252.jpg" alt="Anything You Want - book cover" /></a>
       <figcaption>
       <h3><a href="/a">Anything You Want</a></h3>
       <p>Tales from my CD Baby experience: Entrepreneur lessons learned from starting, building, and selling CD Baby.</p>
       </figcaption>
     </figure>
-    <figure id="bookmym" class="book">
+    <figure id="bookmym">
       <a href="/pdf"><img src="/images/MarketingYourMusic-200x252.png" alt="Marketing Your Music - book cover" /></a>
       <figcaption>
       <h3><a href="/pdf">Marketing Your Music</a></h3>
@@ -134,20 +127,19 @@
   </section>
   
   <section id="photos">
-    <h2>Photos</h2>
-    <ul>
-      <li><a href="/images/DerekSivers-headshot-yellow.jpg"><img src="/images/DerekSivers-headshot-yellow-100.jpg" alt="Derek Sivers" /></a></li>
-      <li><a href="/images/DerekSivers-headshot-face.jpg"><img src="/images/DerekSivers-headshot-face-100.jpg" alt="Derek Sivers" /></a></li>
-      <li><a href="/images/DerekSivers-headshot-ted.jpg"><img src="/images/DerekSivers-headshot-ted-100.jpg" alt="Derek Sivers" /></a></li>
-      <li><a href="/images/DerekSivers-headshot-head.jpg"><img src="/images/DerekSivers-headshot-head-100.jpg" alt="Derek Sivers" /></a></li>
-    </ul>
+    <h2>Photos <span class="small">(click the small to get the big)</span></h2>
+    <a href="/images/DerekSivers-headshot-yellow.jpg"><img src="/images/DerekSivers-headshot-yellow-100.jpg" alt="Derek Sivers" /></a>
+    <a href="/images/DerekSivers-headshot-face.jpg"><img src="/images/DerekSivers-headshot-face-100.jpg" alt="Derek Sivers" /></a>
+    <a href="/images/DerekSivers-headshot-ted.jpg"><img src="/images/DerekSivers-headshot-ted-100.jpg" alt="Derek Sivers" /></a>
+    <a href="/images/DerekSivers-headshot-head.jpg"><img src="/images/DerekSivers-headshot-head-100.jpg" alt="Derek Sivers" /></a>
   </section>
   
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
-    <ul><% @new_tweets.each do |b| %>
-      <li><%= b[:show_date] %> &nbsp; <%= b[:tweet] %></li><% end %>
-    </ul>
+    <dl><% @new_tweets.each do |t| %>
+      <dt><%= t[:show_date] %></dt>
+      <dd><%= t[:tweet] %></dd><% end %>
+    </dl>
   </section>
   
   <section id="follow">
