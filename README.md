@@ -46,6 +46,7 @@ Styling made by @extend'ing in the SCSS file, instead of adding HTML attributes.
 
 Nginx serves the final static site from the site/ directory.
 
-For any files not found, it passes the proxy to the dynamic Sinatra server, for those few remaining dynamic pages.
+Nginx passes certain paths by proxy to the dynamic Sinatra server, for dynamic pages.
 
+Sinatra gets its templates from views/ including layout.erb, a clone of templates/header.erb and templates/footer.erb
 
