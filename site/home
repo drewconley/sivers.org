@@ -81,14 +81,14 @@
       <a href="http://woodegg.com/"><img src="/images/wood-egg-200-200.jpg" alt="Wood Egg logo" /></a>
       <figcaption>
       <h3><a href="http://woodegg.com/">Wood Egg</a></h3>
-      <p>16 books per year about starting a business Cambodia, China, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Mongolia, Myanmar, Philippines, Singapore, Sri Lanka, Taiwan, Thailand, and Vietnam.</p>
+      <p>16 books per year about starting a business in Cambodia, China, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Mongolia, Myanmar, Philippines, Singapore, Sri Lanka, Taiwan, Thailand, and Vietnam.</p>
       </figcaption>
     </figure>
     <figure id="musicthoughts">
       <a href="http://musicthoughts.com/"><img src="/images/musicthoughts-200x200.jpg" alt="MusicThoughts icon" /></a>
       <figcaption>
       <h3><a href="http://musicthoughts.com/">MusicThoughts</a></h3>
-      <p>Inspiring quotes about music, for music-makers, translated into Español, Français, Deutsch, Italiano, Português, Русский, العربية, 日本, and 中文</p>
+      <p>Inspiring quotes about music, translated into Español, Français, Deutsch, Italiano, Português, Русский, العربية, 日本, and 中文.</p>
       </figcaption>
     </figure>
     <figure id="booknotes">
@@ -107,6 +107,13 @@
       <figcaption>
       <h3><a href="/a">Anything You Want</a></h3>
       <p>Tales from my CD Baby experience: Entrepreneur lessons learned from starting, building, and selling CD Baby.</p>
+      </figcaption>
+    </figure>
+    <figure id="we13">
+      <a href="http://woodegg.com/"><img src="/images/we13-SG.jpg" alt="Wood Egg" /></a>
+      <figcaption>
+      <h3><a href="http://woodegg.com/">Wood Egg Startup Guides</a></h3>
+      <p>16 books per year about starting a business in Cambodia, China, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Mongolia, Myanmar, Philippines, Singapore, Sri Lanka, Taiwan, Thailand, and Vietnam.</p>
       </figcaption>
     </figure>
     <figure id="bookmym">
