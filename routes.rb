@@ -10,6 +10,7 @@ require_relative 'models.rb'
 # /list/
 # /u/
 # /ayw/
+# /download/
 
 class SiversOrg < Sinatra::Base
   helpers Sinatra::Cookies
@@ -86,9 +87,25 @@ class SiversOrg < Sinatra::Base
     redirect '/thanks/list'
   end
 
-  # PDF: signed up to receive Marketing Your Music ebook
-  post '/pdf' do
-    # TODO: teach email QUEUE to send attachment? or send now?
+  # DOWNLOAD: lopass auth to get a file from S3
+  get %r{\A/download/([0-9]+)/([a-zA-Z0-9]{4})/([a-zA-Z0-9\._-]+)\Z} do |person_id, lopass, filename|
+    p = Person.where(id: person_id, lopass: lopass).first
+    redirect '/sorry/login' unless p
+    nu = {person_id: p.id, statkey: 'download', statvalue: filename}
+    Userstat.create(nu)
+    redirect AYW.url_for(filename)
+  end
+
+  # sivers.org/pdf posts here to get ebook
+  # TODO: merge this AYW stuff into others
+  post '/download/ebook' do
+    redirect '/pdf' unless AYW.valid?(request.env)
+    nu = {person_id: AYW.person_id(request.env), statkey: 'ebook', statvalue: 'requested'}
+    Userstat.create(nu)
+    p = Person[nu[:person_id]]
+    f = Formletter[Sivers.config['formletter_download_pdf']]
+    h = {profile: 'derek@sivers', subject: p.firstname + ' - How to Call Attention To Your Music'}
+    f.send_to(p, h)
     redirect '/thanks/pdf'
   end
 

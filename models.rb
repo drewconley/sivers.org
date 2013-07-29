@@ -13,6 +13,7 @@ class Sivers
       @config['url_regex'] = %r{\Ahttps?://sivers\.(dev|org)/([a-z0-9_-]{1,32})\Z}
       @config['formletter_password_reset'] = 1
       @config['formletter_ayw_bought'] = 4
+      @config['formletter_download_pdf'] = 5
     end
     @config
   end
@@ -164,6 +165,7 @@ class AYW
       if p.nil?
         p = Person.create(name: name, email: email)
       else
+	p.set_lopass
 	p.set_newpass
       end
       p.id

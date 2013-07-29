@@ -118,5 +118,38 @@ class SiversOrgTest < Test::Unit::TestCase
     follow_redirect!
     assert last_request.url.include? zip
   end
+ 
+  def test_pdf_post
+    refute Person[email: @newemail]
+    post '/download/ebook', {name: @newname, email: @newemail}
+    p = Person[email: @newemail]
+    u = p.userstats.pop
+    assert_instance_of Userstat, u
+    assert_equal 'ebook', u.statkey
+    assert_equal 'requested', u.statvalue
+    assert_equal 302, last_response.status
+    follow_redirect!
+    assert_match /\/thanks\/pdf\Z/, last_request.url
+    assert_equal 1, p.emails.size
+    e = p.emails.pop
+    assert_instance_of Email, e
+    assert_match /How to Call Attention/, e.subject
+  end
 
+  def test_pdf_get
+    get '/download/1/xxxx/DerekSivers.pdf'
+    assert_equal 302, last_response.status
+    follow_redirect!
+    assert_match /\/sorry\/login\Z/, last_request.url
+    p = Person[4]
+    get '/download/%d/%s/DerekSivers.pdf' % [p.id, p.lopass]
+    assert_equal 302, last_response.status
+    follow_redirect!
+    assert last_request.url.include? 'DerekSivers.pdf'
+    assert last_request.url.include? 's3-us-west-1.amazonaws.com'
+    u = p.userstats.pop
+    assert_instance_of Userstat, u
+    assert_equal 'download', u.statkey
+    assert_equal 'DerekSivers.pdf', u.statvalue
+  end
 end
