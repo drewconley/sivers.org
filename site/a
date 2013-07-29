@@ -165,7 +165,7 @@
   Use your real name and email, please, as I'll be emailing you a link to download the MP3s.
   </p>
   
-  <form action="/a" method="post">
+  <form action="/ayw/proof" method="post">
   <label for="code">Code word:</label>
   <input id="code" name="code" type="text" value="" size="10">
   <label for="name">Your Name</label>
