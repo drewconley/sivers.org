@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/WhatWouldGoogleDo.gif" alt="What Would Google Do?  -  by Jeff Jarvis" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0061709719?tag=sivers-20"><img src="/images/WhatWouldGoogleDo.gif" alt="What Would Google Do?  -  by Jeff Jarvis"></a></figure>
       <h1>What Would Google Do?  -  by Jeff Jarvis</h1>
       <p class="postdate">
         ISBN: 0061709719<br>
         READ: 2009-03-05<br>
         RATING: 8/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0061709719?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0061709719?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Great think-piece about lessons learned from Google's approach to things, and how they might approach different industries like airlines, real estate, education, etc.</p>

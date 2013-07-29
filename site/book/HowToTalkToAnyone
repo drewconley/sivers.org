@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/HowToTalkToAnyone.gif" alt="How to Talk to Anyone - by Leil Lowndes" /></figure>
+      <figure><a href="http://www.amazon.com/dp/007141858X?tag=sivers-20"><img src="/images/HowToTalkToAnyone.gif" alt="How to Talk to Anyone - by Leil Lowndes"></a></figure>
       <h1>How to Talk to Anyone - by Leil Lowndes</h1>
       <p class="postdate">
         ISBN: 007141858X<br>
         READ: 2008-09-12<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/007141858X?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/007141858X?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Wonderful considerate book about conversational people skills.</p>

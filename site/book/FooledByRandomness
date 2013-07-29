@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/FooledByRandomness.gif" alt="Fooled by Randomness - by Nassim Nicholas Taleb" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1400067936?tag=sivers-20"><img src="/images/FooledByRandomness.gif" alt="Fooled by Randomness - by Nassim Nicholas Taleb"></a></figure>
       <h1>Fooled by Randomness - by Nassim Nicholas Taleb</h1>
       <p class="postdate">
         ISBN: 1400067936<br>
         READ: 2008-04-05<br>
         RATING: 4/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1400067936?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1400067936?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Mr Black Swan sure does love the sound of his own voice. Interesting thoughts on investing and misjudging randomness inside lots of blather.</p>

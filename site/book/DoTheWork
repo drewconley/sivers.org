@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/DoTheWork.gif" alt="Do the Work - by Steven Pressfield" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1936719010?tag=sivers-20"><img src="/images/DoTheWork.gif" alt="Do the Work - by Steven Pressfield"></a></figure>
       <h1>Do the Work - by Steven Pressfield</h1>
       <p class="postdate">
         ISBN: 1936719010<br>
         READ: 2011-10-25<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1936719010?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1936719010?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">A true manifesto. A call to action. A kick in the butt for any creative person. Great thoughts on overcoming the resistance to creating.</p>

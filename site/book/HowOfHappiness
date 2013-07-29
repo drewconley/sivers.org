@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/HowOfHappiness.gif" alt="The How of Happiness - by Sonja Lyubomirsky" /></figure>
+      <figure><a href="http://www.amazon.com/dp/159420148X?tag=sivers-20"><img src="/images/HowOfHappiness.gif" alt="The How of Happiness - by Sonja Lyubomirsky"></a></figure>
       <h1>The How of Happiness - by Sonja Lyubomirsky</h1>
       <p class="postdate">
         ISBN: 159420148X<br>
         READ: 2009-06-01<br>
         RATING: 2/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/159420148X?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/159420148X?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Since I loved Stumbling on Happiness, I was prepared to love this, but the big difference is that Stumbling on Happiness showed tests and experiments to prove their points, whereas this book only presents conclusions. Maybe equally accurate but less convincing.</p>

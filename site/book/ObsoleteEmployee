@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/ObsoleteEmployee.gif" alt="The Obsolete Employee - by Michael Russer" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0966248465?tag=sivers-20"><img src="/images/ObsoleteEmployee.gif" alt="The Obsolete Employee - by Michael Russer"></a></figure>
       <h1>The Obsolete Employee - by Michael Russer</h1>
       <p class="postdate">
         ISBN: 0966248465<br>
         READ: 2007-10-01<br>
         RATING: 4/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0966248465?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0966248465?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">How to run a company without employees, but with a loose network of work-from-home freelance agents. Very instructive, but also good perspective like how until the industrial revolution, there were no employees: everyone was freelance.</p>

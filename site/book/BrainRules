@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/BrainRules.gif" alt="Brain Rules - by John Medina" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0979777704?tag=sivers-20"><img src="/images/BrainRules.gif" alt="Brain Rules - by John Medina"></a></figure>
       <h1>Brain Rules - by John Medina</h1>
       <p class="postdate">
         ISBN: 0979777704<br>
         READ: 2008-08-26<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0979777704?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0979777704?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">New scientific insights into why our brains work this way, and how to use what we now know to learn or work better.</p>

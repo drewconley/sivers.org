@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Focus.gif" alt="Focus - by Leo Babauta" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1434103072?tag=sivers-20"><img src="/images/Focus.gif" alt="Focus - by Leo Babauta"></a></figure>
       <h1>Focus - by Leo Babauta</h1>
       <p class="postdate">
         ISBN: 1434103072<br>
         READ: 2011-01-17<br>
         RATING: 5/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1434103072?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1434103072?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Nice short reminder of the importance of solitude and focus. Single-tasking. Only doing your most important things, and let the rest go.</p>

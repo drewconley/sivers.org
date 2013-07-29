@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/DevelopingWorld.gif" alt="The Developing World - by Fredrik Härén" /></figure>
+      <figure><a href="http://www.amazon.com/dp/9197547077?tag=sivers-20"><img src="/images/DevelopingWorld.gif" alt="The Developing World - by Fredrik Härén"></a></figure>
       <h1>The Developing World - by Fredrik Härén</h1>
       <p class="postdate">
         ISBN: 9197547077<br>
         READ: 2011-12-28<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/9197547077?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/9197547077?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">This is a wonderfully one-sided book that shows how exciting the big growth of China, India, Sri Lanka, Singapore, Myanmar, Malaysia, Indonesia, South Africa, Turkey, and Korea are. He's found great examples of people and companies doing really innovative things, but most of all it's a mindset.</p>

@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Nudge.gif" alt="Nudge - by Richard Thaler and Cass Sunstein" /></figure>
+      <figure><a href="http://www.amazon.com/dp/014311526X?tag=sivers-20"><img src="/images/Nudge.gif" alt="Nudge - by Richard Thaler and Cass Sunstein"></a></figure>
       <h1>Nudge - by Richard Thaler and Cass Sunstein</h1>
       <p class="postdate">
         ISBN: 014311526X<br>
         READ: 2010-08-15<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/014311526X?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/014311526X?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Introducing the idea of Libertarian Paternalism: influencing people's behavior for their own benefit, without forbidding any options or significantly changing their economic incentives.</p>

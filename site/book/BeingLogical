@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/BeingLogical.gif" alt="Being Logical: A Guide to Good Thinking - by D.Q. McInerny" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0812971159?tag=sivers-20"><img src="/images/BeingLogical.gif" alt="Being Logical: A Guide to Good Thinking - by D.Q. McInerny"></a></figure>
       <h1>Being Logical: A Guide to Good Thinking - by D.Q. McInerny</h1>
       <p class="postdate">
         ISBN: 0812971159<br>
         READ: 2010-03-15<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0812971159?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0812971159?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">World getting too fuzzy and unreasonable? Watching too much TV? A good book on logic is a great antidote. I'd never read one before, so I don't know how to compare it to others, but I really loved the clear thinking and deep insights here.</p>

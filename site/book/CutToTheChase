@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/CutToTheChase.gif" alt="Cut to the Chase - by Stuart Levine" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0385516207?tag=sivers-20"><img src="/images/CutToTheChase.gif" alt="Cut to the Chase - by Stuart Levine"></a></figure>
       <h1>Cut to the Chase - by Stuart Levine</h1>
       <p class="postdate">
         ISBN: 0385516207<br>
         READ: 2008-07-26<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0385516207?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0385516207?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Tips on more effective communication.</p>

@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/BusinessStrippedBare.gif" alt="Business Stripped Bare - by Richard Branson" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1905264429?tag=sivers-20"><img src="/images/BusinessStrippedBare.gif" alt="Business Stripped Bare - by Richard Branson"></a></figure>
       <h1>Business Stripped Bare - by Richard Branson</h1>
       <p class="postdate">
         ISBN: 1905264429<br>
         READ: 2010-02-17<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1905264429?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1905264429?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">A real and specific description of the inner workings of the Virgin companies. Every entrepreneur, investor, and manager should appreciate this detailed account of practices, philosophies and stories from the core.</p>

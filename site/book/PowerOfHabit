@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/PowerOfHabit.gif" alt="The Power of Habit - by Charles Duhigg" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1400069289?tag=sivers-20"><img src="/images/PowerOfHabit.gif" alt="The Power of Habit - by Charles Duhigg"></a></figure>
       <h1>The Power of Habit - by Charles Duhigg</h1>
       <p class="postdate">
         ISBN: 1400069289<br>
         READ: 2012-03-01<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1400069289?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1400069289?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Great dissection and analysis of what creates habits, and the power of changing just one of three steps in the habit loop.</p>

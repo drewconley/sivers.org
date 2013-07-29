@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/WiredForStory.gif" alt="Wired for Story - by Lisa Cron" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1607742454?tag=sivers-20"><img src="/images/WiredForStory.gif" alt="Wired for Story - by Lisa Cron"></a></figure>
       <h1>Wired for Story - by Lisa Cron</h1>
       <p class="postdate">
         ISBN: 1607742454<br>
         READ: 2012-11-18<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1607742454?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1607742454?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">If you've read other books on how to write a great story, this probably won't hold much new for you. But this was my first book on this subject, and I loved it. Changed the way I pay attention to movies and novels. Makes me want to write a novel.</p>

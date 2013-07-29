@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Influence.gif" alt="Influence - by Robert Cialdini" /></figure>
+      <figure><a href="http://www.amazon.com/dp/006124189X?tag=sivers-20"><img src="/images/Influence.gif" alt="Influence - by Robert Cialdini"></a></figure>
       <h1>Influence - by Robert Cialdini</h1>
       <p class="postdate">
         ISBN: 006124189X<br>
         READ: 2009-08-15<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/006124189X?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/006124189X?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Classic book on the psychology of persuasion.  I read it 15 years ago, thought about it ever since, and re-read it now. How to get a 700% improvement in volunteers. How to sell more by doubling your prices. How to make people feel they made a choice, when really you made it for them.</p>

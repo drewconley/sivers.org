@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/HotCommodities.gif" alt="Hot Commodities - by Jim Rogers" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0812973712?tag=sivers-20"><img src="/images/HotCommodities.gif" alt="Hot Commodities - by Jim Rogers"></a></figure>
       <h1>Hot Commodities - by Jim Rogers</h1>
       <p class="postdate">
         ISBN: 0812973712<br>
         READ: 2008-08-11<br>
         RATING: 3/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0812973712?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0812973712?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Very specific book about understanding the commodity markets.</p>

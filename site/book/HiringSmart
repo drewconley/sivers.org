@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/HiringSmart.gif" alt="Hiring Smart - by Pierre Mornell" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1580085148?tag=sivers-20"><img src="/images/HiringSmart.gif" alt="Hiring Smart - by Pierre Mornell"></a></figure>
       <h1>Hiring Smart - by Pierre Mornell</h1>
       <p class="postdate">
         ISBN: 1580085148<br>
         READ: 2011-08-07<br>
         RATING: 4/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1580085148?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1580085148?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Good advice on hiring. No big surprises, but some useful tips.</p>

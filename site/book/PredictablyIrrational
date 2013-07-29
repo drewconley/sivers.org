@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/PredictablyIrrational.gif" alt="Predictably Irrational - by Dan Ariely" /></figure>
+      <figure><a href="http://www.amazon.com/dp/006135323X?tag=sivers-20"><img src="/images/PredictablyIrrational.gif" alt="Predictably Irrational - by Dan Ariely"></a></figure>
       <h1>Predictably Irrational - by Dan Ariely</h1>
       <p class="postdate">
         ISBN: 006135323X<br>
         READ: 2008-08-11<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/006135323X?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/006135323X?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">My favorite type of book: pointing out and understanding all of the counter-intuitive things people do.</p>

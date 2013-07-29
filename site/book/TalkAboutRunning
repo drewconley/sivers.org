@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/TalkAboutRunning.gif" alt="What I Talk About When I Talk About Running - by Haruki Murakami" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0307389839?tag=sivers-20"><img src="/images/TalkAboutRunning.gif" alt="What I Talk About When I Talk About Running - by Haruki Murakami"></a></figure>
       <h1>What I Talk About When I Talk About Running - by Haruki Murakami</h1>
       <p class="postdate">
         ISBN: 0307389839<br>
         READ: 2010-12-27<br>
         RATING: 2/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0307389839?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0307389839?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">This novelist runs every day, including many marathons. This book is his thoughts about running and how it relates to other things in work and life.</p>

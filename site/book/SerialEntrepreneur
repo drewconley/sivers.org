@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/SerialEntrepreneur.gif" alt="Confessions of a Serial Entrepreneur - by Stuart Skorman" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0787987328?tag=sivers-20"><img src="/images/SerialEntrepreneur.gif" alt="Confessions of a Serial Entrepreneur - by Stuart Skorman"></a></figure>
       <h1>Confessions of a Serial Entrepreneur - by Stuart Skorman</h1>
       <p class="postdate">
         ISBN: 0787987328<br>
         READ: 2010-12-24<br>
         RATING: 2/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0787987328?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0787987328?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Personal tales, almost an autobiography, of someone who created a wide range of businesses, both successful and not.  Some insights along the way, but not many surprising ones.  I'd recommend “How to Get Rich” by Felix Dennis instead, also reviewed on this website.</p>

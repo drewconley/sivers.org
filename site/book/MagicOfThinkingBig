@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/MagicOfThinkingBig.gif" alt="The Magic of Thinking Big - by David Schwartz" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0671646788?tag=sivers-20"><img src="/images/MagicOfThinkingBig.gif" alt="The Magic of Thinking Big - by David Schwartz"></a></figure>
       <h1>The Magic of Thinking Big - by David Schwartz</h1>
       <p class="postdate">
         ISBN: 0671646788<br>
         READ: 2008-07-26<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0671646788?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0671646788?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">A classic self-help book. Exactly what you'd expect. But very good.</p>

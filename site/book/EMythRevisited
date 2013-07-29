@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/EMythRevisited.gif" alt="E-Myth Revisited - by Michael Gerber" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0887307280?tag=sivers-20"><img src="/images/EMythRevisited.gif" alt="E-Myth Revisited - by Michael Gerber"></a></figure>
       <h1>E-Myth Revisited - by Michael Gerber</h1>
       <p class="postdate">
         ISBN: 0887307280<br>
         READ: 2004-02-26<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0887307280?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0887307280?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Everything needs to be a system. Think of your business as a franchise prototype. You should be able to hand the “how-to” manual to just anyone, to do it as good as you.</p>

@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/FoundersAtWork.gif" alt="Founders at Work - by Jessica Livingston" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1430210788?tag=sivers-20"><img src="/images/FoundersAtWork.gif" alt="Founders at Work - by Jessica Livingston"></a></figure>
       <h1>Founders at Work - by Jessica Livingston</h1>
       <p class="postdate">
         ISBN: 1430210788<br>
         READ: 2008-02-12<br>
         RATING: 2/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1430210788?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1430210788?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Long in-depth interviews with company founders, telling their tales of how they started. Lots of stories with a few usable gems.</p>

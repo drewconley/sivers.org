@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/WhatTheDogSaw.gif" alt="What the Dog Saw - by Malcolm Gladwell" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0316075841?tag=sivers-20"><img src="/images/WhatTheDogSaw.gif" alt="What the Dog Saw - by Malcolm Gladwell"></a></figure>
       <h1>What the Dog Saw - by Malcolm Gladwell</h1>
       <p class="postdate">
         ISBN: 0316075841<br>
         READ: 2009-12-05<br>
         RATING: 3/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0316075841?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0316075841?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">A pretty-good collection of his articles from the past few years.  While most are somewhat interesting, it felt a little like surfing the net or TV.  Lots of “huh”, but no lasting insights.  More entertainment than education.</p>

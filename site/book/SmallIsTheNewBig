@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/SmallIsTheNewBig.gif" alt="Small is the New Big - by Seth Godin" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1591841267?tag=sivers-20"><img src="/images/SmallIsTheNewBig.gif" alt="Small is the New Big - by Seth Godin"></a></figure>
       <h1>Small is the New Big - by Seth Godin</h1>
       <p class="postdate">
         ISBN: 1591841267<br>
         READ: 2006-09-08<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1591841267?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1591841267?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">My favorite author, by far. I’m a massive fan and disciple. A collection of his short insightful posts from his blog, all thought-provoking and inspiring for anybody marketing anything, even music. (Seth was a CD Baby client and fan.)</p>

@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/UpsideOfIrrationality.gif" alt="The Upside of Irrationality - by Dan Ariely" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0061995037?tag=sivers-20"><img src="/images/UpsideOfIrrationality.gif" alt="The Upside of Irrationality - by Dan Ariely"></a></figure>
       <h1>The Upside of Irrationality - by Dan Ariely</h1>
       <p class="postdate">
         ISBN: 0061995037<br>
         READ: 2010-07-05<br>
         RATING: 5/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0061995037?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0061995037?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">First read his amazing book “Predictably Irrational.”  But if you read and loved it, then this is a continuation with some more examples - mostly organizational.  He also catharticly details his own painful injuries in every chapter.</p>

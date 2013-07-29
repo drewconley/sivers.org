@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/NotSoSmart.gif" alt="You Are Not So Smart - by David McRaney" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1592406599?tag=sivers-20"><img src="/images/NotSoSmart.gif" alt="You Are Not So Smart - by David McRaney"></a></figure>
       <h1>You Are Not So Smart - by David McRaney</h1>
       <p class="postdate">
         ISBN: 1592406599<br>
         READ: 2011-11-15<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1592406599?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1592406599?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Great summary of 46 cognitive biases. Much of it covered in other books like Predictably Irrational, but if you haven't read those, this is a great starting book. Otherwise, just a good reminder, and worth reading.</p>

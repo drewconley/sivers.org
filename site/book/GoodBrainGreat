@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/GoodBrainGreat.gif" alt="Making a Good Brain Great - by Daniel G. Amen" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1400082099?tag=sivers-20"><img src="/images/GoodBrainGreat.gif" alt="Making a Good Brain Great - by Daniel G. Amen"></a></figure>
       <h1>Making a Good Brain Great - by Daniel G. Amen</h1>
       <p class="postdate">
         ISBN: 1400082099<br>
         READ: 2010-07-28<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1400082099?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1400082099?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">About the care of the physical brain - the goo in your skull - from a doctor who scans brains and has linked specific behavior to brain chemistry.</p>

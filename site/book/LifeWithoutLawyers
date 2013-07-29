@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/LifeWithoutLawyers.gif" alt="Life Without Lawyers - by Philip K. Howard" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0393065669?tag=sivers-20"><img src="/images/LifeWithoutLawyers.gif" alt="Life Without Lawyers - by Philip K. Howard"></a></figure>
       <h1>Life Without Lawyers - by Philip K. Howard</h1>
       <p class="postdate">
         ISBN: 0393065669<br>
         READ: 2010-04-24<br>
         RATING: 2/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0393065669?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0393065669?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">I really liked his TED talk (search ted.com), and this book elaborates on the idea.  Makes a good point, but should just be a long article - not a whole book.</p>

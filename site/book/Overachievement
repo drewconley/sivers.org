@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Overachievement.gif" alt="Overachievement - by John Eliot" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1591841313?tag=sivers-20"><img src="/images/Overachievement.gif" alt="Overachievement - by John Eliot"></a></figure>
       <h1>Overachievement - by John Eliot</h1>
       <p class="postdate">
         ISBN: 1591841313<br>
         READ: 2009-07-04<br>
         RATING: 5/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1591841313?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1591841313?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Performance coach, with a bent towards sports, surgery, and executive performance, gives his thoughts on being a top performer.  The key is the "Trusting Mindset": like a squirrel runs across a telephone wire.  Just doing it, without thought, because you've trained yourself plenty until that point.</p>

@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/NeverEatAlone.gif" alt="Never Eat Alone - by Keith Ferrazzi and Tahl Raz" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0385512058?tag=sivers-20"><img src="/images/NeverEatAlone.gif" alt="Never Eat Alone - by Keith Ferrazzi and Tahl Raz"></a></figure>
       <h1>Never Eat Alone - by Keith Ferrazzi and Tahl Raz</h1>
       <p class="postdate">
         ISBN: 0385512058<br>
         READ: 2009-07-26<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0385512058?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0385512058?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">A good book that's mostly about networking, but also some general business smarts. Definitely read if you need more work being social.</p>

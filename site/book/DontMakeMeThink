@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/DontMakeMeThink.gif" alt="Don't Make Me Think - by Steve Krug" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0321344758?tag=sivers-20"><img src="/images/DontMakeMeThink.gif" alt="Don't Make Me Think - by Steve Krug"></a></figure>
       <h1>Don't Make Me Think - by Steve Krug</h1>
       <p class="postdate">
         ISBN: 0321344758<br>
         READ: 2007-08-08<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0321344758?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0321344758?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">The classic book of web usability. Required reading for anyone who makes websites.</p>

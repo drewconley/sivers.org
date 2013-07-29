@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/InnovatorsSolution.gif" alt="The Innovator's Solution - by Clayton Christensen" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1578518520?tag=sivers-20"><img src="/images/InnovatorsSolution.gif" alt="The Innovator's Solution - by Clayton Christensen"></a></figure>
       <h1>The Innovator's Solution - by Clayton Christensen</h1>
       <p class="postdate">
         ISBN: 1578518520<br>
         READ: 2006-09-21<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1578518520?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1578518520?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Required reading for business-owners and investors. Shows how technology improves faster than people's ability to use it, so when someone says a technology is “not good enough”, add “yet” and prepare for disruption.</p>

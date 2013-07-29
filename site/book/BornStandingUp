@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/BornStandingUp.gif" alt="Born Standing Up - by Steve Martin" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1416553657?tag=sivers-20"><img src="/images/BornStandingUp.gif" alt="Born Standing Up - by Steve Martin"></a></figure>
       <h1>Born Standing Up - by Steve Martin</h1>
       <p class="postdate">
         ISBN: 1416553657<br>
         READ: 2010-01-09<br>
         RATING: 3/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1416553657?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1416553657?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">A simple autobiography of his early years.  Interesting tale, though no usable lessons for me.</p>

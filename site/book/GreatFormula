@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/GreatFormula.gif" alt="The Great Formula - by Mark Joyner" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0471778230?tag=sivers-20"><img src="/images/GreatFormula.gif" alt="The Great Formula - by Mark Joyner"></a></figure>
       <h1>The Great Formula - by Mark Joyner</h1>
       <p class="postdate">
         ISBN: 0471778230<br>
         READ: 2009-06-06<br>
         RATING: 3/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0471778230?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0471778230?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Create an irresistable offer. Present it to people who need it. Sell them more afterwards. Lots of examples of this.</p>

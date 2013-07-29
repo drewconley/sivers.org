@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/TalentCode.gif" alt="The Talent Code - by Daniel Coyle" /></figure>
+      <figure><a href="http://www.amazon.com/dp/055380684X?tag=sivers-20"><img src="/images/TalentCode.gif" alt="The Talent Code - by Daniel Coyle"></a></figure>
       <h1>The Talent Code - by Daniel Coyle</h1>
       <p class="postdate">
         ISBN: 055380684X<br>
         READ: 2009-08-22<br>
         RATING: 8/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/055380684X?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/055380684X?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">A great book showing that deep practice - (struggling in certain targeted ways - operating at the edges of your ability, where you make mistakes - experiences where you're forced to slow down, make errors, and correct them) - is what really makes you improve at anything.</p>

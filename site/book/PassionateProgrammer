@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/PassionateProgrammer.gif" alt="The Passionate Programmer - by Chad Fowler" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1934356344?tag=sivers-20"><img src="/images/PassionateProgrammer.gif" alt="The Passionate Programmer - by Chad Fowler"></a></figure>
       <h1>The Passionate Programmer - by Chad Fowler</h1>
       <p class="postdate">
         ISBN: 1934356344<br>
         READ: 2012-01-15<br>
         RATING: 8/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1934356344?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1934356344?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Wonderful book about the art, craft, and passion of being a great computer programmer. Loved the analogies to being a musician: sight-reading, being the worst member of the band, understanding new styles of music, practicing just for improvement, etc.</p>

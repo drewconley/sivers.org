@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/TimeParadox.gif" alt="The Time Paradox - by Philip Zimbardo and John Boyd" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1416541993?tag=sivers-20"><img src="/images/TimeParadox.gif" alt="The Time Paradox - by Philip Zimbardo and John Boyd"></a></figure>
       <h1>The Time Paradox - by Philip Zimbardo and John Boyd</h1>
       <p class="postdate">
         ISBN: 1416541993<br>
         READ: 2009-04-03<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1416541993?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1416541993?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">See my in-depth article about this book at sivers.org/time</p>

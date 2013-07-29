@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/ProfitZone.gif" alt="The Profit Zone - by Adrian Slywotzky" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0812933044?tag=sivers-20"><img src="/images/ProfitZone.gif" alt="The Profit Zone - by Adrian Slywotzky"></a></figure>
       <h1>The Profit Zone - by Adrian Slywotzky</h1>
       <p class="postdate">
         ISBN: 0812933044<br>
         READ: 2009-10-14<br>
         RATING: 5/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0812933044?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0812933044?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Dryer but deeper prequel to the great “Art of Profitability” book, also recommended here. Start with that one. Only read this if that one fascinated you.</p>

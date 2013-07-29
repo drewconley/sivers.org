@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/PragmaticThinking.gif" alt="Pragmatic Thinking and Learning - by Andy Hunt" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1934356050?tag=sivers-20"><img src="/images/PragmaticThinking.gif" alt="Pragmatic Thinking and Learning - by Andy Hunt"></a></figure>
       <h1>Pragmatic Thinking and Learning - by Andy Hunt</h1>
       <p class="postdate">
         ISBN: 1934356050<br>
         READ: 2009-11-03<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1934356050?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1934356050?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">A great curated collection of facts about how to learn effectively and think clearly. Since it's written by a programmer, it makes many computer analogies that fellow programmers will appreciate. Non-programmers might feel a little left out.</p>

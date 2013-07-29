@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/CultureCode.gif" alt="The Culture Code - by Clotaire Rapaille" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0767920570?tag=sivers-20"><img src="/images/CultureCode.gif" alt="The Culture Code - by Clotaire Rapaille"></a></figure>
       <h1>The Culture Code - by Clotaire Rapaille</h1>
       <p class="postdate">
         ISBN: 0767920570<br>
         READ: 2008-11-01<br>
         RATING: 5/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0767920570?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0767920570?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Weird look at how different cultures (mostly Europe versus U.S. in this book) see things differently. Example: British luxury is about detachment whereas U.S. luxury is about rank.</p>

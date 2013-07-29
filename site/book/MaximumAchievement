@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/MaximumAchievement.gif" alt="Maximum Achievement - by Brian Tracy" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0684803313?tag=sivers-20"><img src="/images/MaximumAchievement.gif" alt="Maximum Achievement - by Brian Tracy"></a></figure>
       <h1>Maximum Achievement - by Brian Tracy</h1>
       <p class="postdate">
         ISBN: 0684803313<br>
         READ: 2006-11-12<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0684803313?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0684803313?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">A classic self-help book. Exactly what you'd expect. But very good.</p>

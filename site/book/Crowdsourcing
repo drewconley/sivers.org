@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Crowdsourcing.gif" alt="CrowdSourcing - by Jeff Howe" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0307396207?tag=sivers-20"><img src="/images/Crowdsourcing.gif" alt="CrowdSourcing - by Jeff Howe"></a></figure>
       <h1>CrowdSourcing - by Jeff Howe</h1>
       <p class="postdate">
         ISBN: 0307396207<br>
         READ: 2008-08-27<br>
         RATING: 8/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0307396207?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0307396207?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Great look at a different way of getting a project done: not outsourcing it to a person, but developing a system where thousands of people can contribute a little bit.</p>

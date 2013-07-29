@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/ManagementOfTheAbsurd.gif" alt="Management of the Absurd - by Richard Farson" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0684830442?tag=sivers-20"><img src="/images/ManagementOfTheAbsurd.gif" alt="Management of the Absurd - by Richard Farson"></a></figure>
       <h1>Management of the Absurd - by Richard Farson</h1>
       <p class="postdate">
         ISBN: 0684830442<br>
         READ: 2009-04-14<br>
         RATING: 4/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0684830442?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0684830442?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Counter-intuitive lessons about management. Highly recommended for managers and leaders, but also teachers and parents.</p>

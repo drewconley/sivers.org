@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/LittleBookOfTalent.gif" alt="The Little Book of Talent - by Daniel Coyle" /></figure>
+      <figure><a href="http://www.amazon.com/dp/034553025X?tag=sivers-20"><img src="/images/LittleBookOfTalent.gif" alt="The Little Book of Talent - by Daniel Coyle"></a></figure>
       <h1>The Little Book of Talent - by Daniel Coyle</h1>
       <p class="postdate">
         ISBN: 034553025X<br>
         READ: 2012-09-08<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/034553025X?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/034553025X?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">First he wrote The Talent Code, which I also highly recommend, then he distilled all that research about deliberate practice into 52 actionable tips. Amazing and inspiring, you can read the whole thing in 90 minutes, then get to work!</p>

@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/CognitiveSurplus.gif" alt="Cognitive Surplus - by Clay Shirky" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1594202532?tag=sivers-20"><img src="/images/CognitiveSurplus.gif" alt="Cognitive Surplus - by Clay Shirky"></a></figure>
       <h1>Cognitive Surplus - by Clay Shirky</h1>
       <p class="postdate">
         ISBN: 1594202532<br>
         READ: 2010-12-10<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1594202532?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1594202532?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">I always love Clay Shirky's insights into the internet culture. This is about how all the spare time people are using to add to Wikipedia, create YouTube videos or LOLCats, is previously time they were passively watching TV. Perhaps passive watching was a temporary habit that lasted 80 years, and now we're going back to a more participatory culture?</p>

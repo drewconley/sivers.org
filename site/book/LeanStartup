@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/LeanStartup.gif" alt="The Lean Startup - by Eric Ries" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0307887898?tag=sivers-20"><img src="/images/LeanStartup.gif" alt="The Lean Startup - by Eric Ries"></a></figure>
       <h1>The Lean Startup - by Eric Ries</h1>
       <p class="postdate">
         ISBN: 0307887898<br>
         READ: 2011-10-23<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0307887898?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0307887898?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">EVERY entrepreneur should read this book! Its methodology is the one I recommend the most. The stuff I preach is like a cute casual intro to the real deal: the Lean Startup methodology. (As an aside: this book is the one that pushed my book out of the #1 slot on Amazon's Entrepreneur charts. Quite an honor.)</p>

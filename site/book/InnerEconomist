@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/InnerEconomist.gif" alt="Discover Your Inner Economist - by Tyler Cowen" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0452289637?tag=sivers-20"><img src="/images/InnerEconomist.gif" alt="Discover Your Inner Economist - by Tyler Cowen"></a></figure>
       <h1>Discover Your Inner Economist - by Tyler Cowen</h1>
       <p class="postdate">
         ISBN: 0452289637<br>
         READ: 2009-10-19<br>
         RATING: 4/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0452289637?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0452289637?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">The book title is misleading. It ends up being mostly the author's recommendations for the transactions of life. When to give to charity, what restaurants to choose, what insurance to buy, etc. He makes a rational case for these, that is often very interesting, but still feels like just his opinion.</p>

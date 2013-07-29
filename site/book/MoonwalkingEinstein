@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/MoonwalkingEinstein.gif" alt="Moonwalking with Einstein - by Joshua Foer" /></figure>
+      <figure><a href="http://www.amazon.com/dp/159420229X?tag=sivers-20"><img src="/images/MoonwalkingEinstein.gif" alt="Moonwalking with Einstein - by Joshua Foer"></a></figure>
       <h1>Moonwalking with Einstein - by Joshua Foer</h1>
       <p class="postdate">
         ISBN: 159420229X<br>
         READ: 2011-06-18<br>
         RATING: 8/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/159420229X?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/159420229X?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">For those fascinated with memory. Riveting page-turner about a journalist (with no particularly good memory) who went to cover a memory championship event. Intrigued and befriending some competitors, he starts practicing, and a year later wins the U.S. memory championship event himself.  Inspiring dive into the subject of memorization.</p>

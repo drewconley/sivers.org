@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/SeekingWisdom.gif" alt="Seeking Wisdom - by Peter Bevelin" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1578644283?tag=sivers-20"><img src="/images/SeekingWisdom.gif" alt="Seeking Wisdom - by Peter Bevelin"></a></figure>
       <h1>Seeking Wisdom - by Peter Bevelin</h1>
       <p class="postdate">
         ISBN: 1578644283<br>
         READ: 2011-01-03<br>
         RATING: 10/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1578644283?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1578644283?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Maybe my favorite book ever. Read many times. Incredibly rich. It's a great overview of the lessons of Charlie Munger (partner of Warren Buffett) - and his approach to checklists of multi-disciplinary models to guide clear thinking. Main point: if you can just avoid mistakes, you're doing better than most. So it's a catalog of the most common or important mistakes. Focused on investing, but can be applied to life.</p>

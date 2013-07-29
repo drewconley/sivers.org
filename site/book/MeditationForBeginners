@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/MeditationForBeginners.gif" alt="Meditation for Beginners - by Jack Kornfield" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1591799422?tag=sivers-20"><img src="/images/MeditationForBeginners.gif" alt="Meditation for Beginners - by Jack Kornfield"></a></figure>
       <h1>Meditation for Beginners - by Jack Kornfield</h1>
       <p class="postdate">
         ISBN: 1591799422<br>
         READ: 2012-01-12<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1591799422?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1591799422?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Just some nice thoughts on meditation.</p>

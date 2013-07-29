@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/OnWriting.gif" alt="On Writing - by Stephen King" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0743455967?tag=sivers-20"><img src="/images/OnWriting.gif" alt="On Writing - by Stephen King"></a></figure>
       <h1>On Writing - by Stephen King</h1>
       <p class="postdate">
         ISBN: 0743455967<br>
         READ: 2010-05-05<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0743455967?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0743455967?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Great thoughts about writing (mostly books) from one of the most successful writers ever. Oddly doubles as an autobiography, telling many stories about his life from childhood.</p>

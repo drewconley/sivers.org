@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/IWillTeachYouToBeRich.gif" alt="I Will Teach You To Be Rich - by Ramit Sethi" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0761147489?tag=sivers-20"><img src="/images/IWillTeachYouToBeRich.gif" alt="I Will Teach You To Be Rich - by Ramit Sethi"></a></figure>
       <h1>I Will Teach You To Be Rich - by Ramit Sethi</h1>
       <p class="postdate">
         ISBN: 0761147489<br>
         READ: 2010-03-23<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0761147489?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0761147489?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">An amazing book about consumer finance and a healthy approach to managing your money. If you are age 18-35, this is a must-read!  My notes are scarce, so get the book.  Even if over 35, you might find some good tips on lowering your fees on various services, and a good reminder of good savings practices.</p>

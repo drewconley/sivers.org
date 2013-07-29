@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/ProductiveProgrammer.gif" alt="The Productive Programmer - by Neal Ford" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0596519788?tag=sivers-20"><img src="/images/ProductiveProgrammer.gif" alt="The Productive Programmer - by Neal Ford"></a></figure>
       <h1>The Productive Programmer - by Neal Ford</h1>
       <p class="postdate">
         ISBN: 0596519788<br>
         READ: 2009-11-01<br>
         RATING: 2/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0596519788?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0596519788?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">I thought it was going to be more general or philosophical tips, but seemed to be more about IDE-specific tips instead.  Then it crashed my Kindle (and still does). Oh well.</p>

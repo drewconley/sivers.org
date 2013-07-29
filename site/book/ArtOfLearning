@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/ArtOfLearning.gif" alt="The Art of Learning - by Josh Waitzkin" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0743277457?tag=sivers-20"><img src="/images/ArtOfLearning.gif" alt="The Art of Learning - by Josh Waitzkin"></a></figure>
       <h1>The Art of Learning - by Josh Waitzkin</h1>
       <p class="postdate">
         ISBN: 0743277457<br>
         READ: 2008-05-30<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0743277457?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0743277457?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Chess master becomes Tai Chi master, realizes his real genius is learning, and shares his insights and stories.</p>

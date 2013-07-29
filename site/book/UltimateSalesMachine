@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/UltimateSalesMachine.gif" alt="The Ultimate Sales Machine - by Chet Holmes" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1591842158?tag=sivers-20"><img src="/images/UltimateSalesMachine.gif" alt="The Ultimate Sales Machine - by Chet Holmes"></a></figure>
       <h1>The Ultimate Sales Machine - by Chet Holmes</h1>
       <p class="postdate">
         ISBN: 1591842158<br>
         READ: 2008-06-12<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1591842158?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1591842158?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">After reading E-Myth Revisited, this is the best book I’ve seen on how to turn it into real results, step-by-step. Not ambiguous. Very “do it like this”.</p>

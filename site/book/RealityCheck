@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/RealityCheck.gif" alt="Reality Check - by Guy Kawasaki" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1591842239?tag=sivers-20"><img src="/images/RealityCheck.gif" alt="Reality Check - by Guy Kawasaki"></a></figure>
       <h1>Reality Check - by Guy Kawasaki</h1>
       <p class="postdate">
         ISBN: 1591842239<br>
         READ: 2009-03-08<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1591842239?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1591842239?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Great collection of essays about entrepreneurship from his blog at blog.guykawasaki.com</p>

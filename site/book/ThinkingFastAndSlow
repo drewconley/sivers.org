@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/ThinkingFastAndSlow.gif" alt="Thinking, Fast and Slow - by Daniel Kahneman" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0374275637?tag=sivers-20"><img src="/images/ThinkingFastAndSlow.gif" alt="Thinking, Fast and Slow - by Daniel Kahneman"></a></figure>
       <h1>Thinking, Fast and Slow - by Daniel Kahneman</h1>
       <p class="postdate">
         ISBN: 0374275637<br>
         READ: 2011-12-08<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0374275637?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0374275637?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">If you liked “Predictably Irrational” or “Stumbling on Happiness” or any of those pop-psychology books, well, this is the Godfather of all of their work. Huge thorough book gives a great overview of much of his work. Read the other quotes on Amazon about it.</p>

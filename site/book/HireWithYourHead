@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/HireWithYourHead.gif" alt="Hire With Your Head - by Lou Adler" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0470128356?tag=sivers-20"><img src="/images/HireWithYourHead.gif" alt="Hire With Your Head - by Lou Adler"></a></figure>
       <h1>Hire With Your Head - by Lou Adler</h1>
       <p class="postdate">
         ISBN: 0470128356<br>
         READ: 2010-12-15<br>
         RATING: 3/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0470128356?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0470128356?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Great advice on hiring, but insanely repetitive.  Maybe this was an editing mistake - that the exact same points are made over and over and over and over - often with the exact same words, sentences, even paragraphs.  But those key points are great.</p>

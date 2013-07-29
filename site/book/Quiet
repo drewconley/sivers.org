@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Quiet.gif" alt="Quiet - by Susan Cain" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0307352145?tag=sivers-20"><img src="/images/Quiet.gif" alt="Quiet - by Susan Cain"></a></figure>
       <h1>Quiet - by Susan Cain</h1>
       <p class="postdate">
         ISBN: 0307352145<br>
         READ: 2012-09-22<br>
         RATING: 8/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0307352145?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0307352145?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Any introvert should like this book. Wonderful info and insights about introversion. It'll help you defend your preference for low-stimulus environments. Since reading it, I feel better about insisting on my quiet/alone time.</p>

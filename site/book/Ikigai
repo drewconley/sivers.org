@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Ikigai.gif" alt="Ikigai - by Sebastian Marshall" /></figure>
+      <figure><a href="http://www.amazon.com/dp/B006M9T8NI?tag=sivers-20"><img src="/images/Ikigai.gif" alt="Ikigai - by Sebastian Marshall"></a></figure>
       <h1>Ikigai - by Sebastian Marshall</h1>
       <p class="postdate">
         ISBN: B006M9T8NI<br>
         READ: 2013-07-06<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/B006M9T8NI?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/B006M9T8NI?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Essays on history, power, self-discipline, negotiation, and the hustle. I especially liked his philosophy on luck, building universally valuable skills, and producing/shipping something from even fleeting interests.</p>

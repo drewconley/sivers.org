@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/FourPillarsOfInvesting.gif" alt="The Four Pillars of Investing - by William Bernstein" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0071385290?tag=sivers-20"><img src="/images/FourPillarsOfInvesting.gif" alt="The Four Pillars of Investing - by William Bernstein"></a></figure>
       <h1>The Four Pillars of Investing - by William Bernstein</h1>
       <p class="postdate">
         ISBN: 0071385290<br>
         READ: 2008-06-07<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0071385290?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0071385290?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">If you've already read and loved The Smartest Investment Book You'll Ever Read, above, then read this more in-depth book next.</p>

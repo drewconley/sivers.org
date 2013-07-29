@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/GeographyOfBliss.gif" alt="The Geography of Bliss - by Eric Weiner" /></figure>
+      <figure><a href="http://www.amazon.com/dp/044669889X?tag=sivers-20"><img src="/images/GeographyOfBliss.gif" alt="The Geography of Bliss - by Eric Weiner"></a></figure>
       <h1>The Geography of Bliss - by Eric Weiner</h1>
       <p class="postdate">
         ISBN: 044669889X<br>
         READ: 2010-01-20<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/044669889X?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/044669889X?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Cranky NPR reporter dives deep into Iceland, Bhutan, Qatar, Holland, Switzerland, Thailand, India and Moldova to find out why people are happy (or not) in each. So beautifully written with astounding insights into culture and happiness. Amazing. Been thinking about it for weeks afterwards.</p>

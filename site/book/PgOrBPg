@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/PgOrBPg.gif" alt="Program or Be Programmed - by Douglas Rushkoff and Leland Purvis" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1935928155?tag=sivers-20"><img src="/images/PgOrBPg.gif" alt="Program or Be Programmed - by Douglas Rushkoff and Leland Purvis"></a></figure>
       <h1>Program or Be Programmed - by Douglas Rushkoff and Leland Purvis</h1>
       <p class="postdate">
         ISBN: 1935928155<br>
         READ: 2011-07-20<br>
         RATING: 2/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1935928155?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1935928155?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Maybe I'm just too immersed in this, but everything said here seems to be the most conventional wisdom - nothing I haven't heard.  Shame, because I thought it was going to be about teaching the lay-person the importance of programming.</p>

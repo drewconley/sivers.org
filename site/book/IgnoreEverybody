@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/IgnoreEverybody.gif" alt="Ignore Everybody - by Hugh MacLeod" /></figure>
+      <figure><a href="http://www.amazon.com/dp/159184259X?tag=sivers-20"><img src="/images/IgnoreEverybody.gif" alt="Ignore Everybody - by Hugh MacLeod"></a></figure>
       <h1>Ignore Everybody - by Hugh MacLeod</h1>
       <p class="postdate">
         ISBN: 159184259X<br>
         READ: 2009-06-28<br>
         RATING: 8/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/159184259X?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/159184259X?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Brilliant succinct wisdom on creativity from an artist. Seth Godin says, "Hugh harangues and encourages and pushes and won't sit still until you, like him, are unwilling to settle."  I highly recommend this to all musicians, artists, and entrepreneurs.  Even those that prefer not to read much.  :-)</p>

@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/ConfessionsPublicSpeaker.gif" alt="Confessions of a Public Speaker - by Scott Berkun" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0596801998?tag=sivers-20"><img src="/images/ConfessionsPublicSpeaker.gif" alt="Confessions of a Public Speaker - by Scott Berkun"></a></figure>
       <h1>Confessions of a Public Speaker - by Scott Berkun</h1>
       <p class="postdate">
         ISBN: 0596801998<br>
         READ: 2010-06-28<br>
         RATING: 8/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0596801998?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0596801998?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Best book on public speaking.  A must-read if you do this at all.  Great concrete advice and personal tales.</p>

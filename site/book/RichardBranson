@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/RichardBranson.gif" alt="Richard Branson - Losing My Virginity" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0812932293?tag=sivers-20"><img src="/images/RichardBranson.gif" alt="Richard Branson - Losing My Virginity"></a></figure>
       <h1>Richard Branson - Losing My Virginity</h1>
       <p class="postdate">
         ISBN: 0812932293<br>
         READ: 2008-06-01<br>
         RATING: 5/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0812932293?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0812932293?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Autobiography of his life from childhood through 2004. Interesting how he was always over-leveraged and how that drove him forward. Amazing how he negotiated Necker Island from £3 million down to £180k.</p>

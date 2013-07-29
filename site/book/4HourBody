@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/4HourBody.gif" alt="The 4-Hour Body - by Tim Ferriss" /></figure>
+      <figure><a href="http://www.amazon.com/dp/030746363X?tag=sivers-20"><img src="/images/4HourBody.gif" alt="The 4-Hour Body - by Tim Ferriss"></a></figure>
       <h1>The 4-Hour Body - by Tim Ferriss</h1>
       <p class="postdate">
         ISBN: 030746363X<br>
         READ: 2010-12-18<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/030746363X?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/030746363X?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Amazing book for anyone wanting to improve their body. Core concept is the “minimum effective dose”: the smallest dose that will produce a desired outcome. Anything beyond that is wasteful. This documents Tim's years-long pursuit of the minimum effective dose of everything, from weight loss to muscle-building. Related subjects include orgasm, sleep, and medical tourism.</p>

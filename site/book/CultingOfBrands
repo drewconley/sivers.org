@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/CultingOfBrands.gif" alt="The Culting of Brands - by Douglas Atkin" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1591840961?tag=sivers-20"><img src="/images/CultingOfBrands.gif" alt="The Culting of Brands - by Douglas Atkin"></a></figure>
       <h1>The Culting of Brands - by Douglas Atkin</h1>
       <p class="postdate">
         ISBN: 1591840961<br>
         READ: 2008-02-08<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1591840961?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1591840961?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Unique fascinating dissection of cults and why they work. Then how to apply those lessons to marketing your business.</p>

@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/SoGood.gif" alt="So Good They Can't Ignore You - by Cal Newport" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1455509124?tag=sivers-20"><img src="/images/SoGood.gif" alt="So Good They Can't Ignore You - by Cal Newport"></a></figure>
       <h1>So Good They Can't Ignore You - by Cal Newport</h1>
       <p class="postdate">
         ISBN: 1455509124<br>
         READ: 2012-10-07<br>
         RATING: 10/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1455509124?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1455509124?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Shockingly smart thoughts about your career. A MUST-READ for anyone who is not loving their work, wanting to quit their job, and follow their passion, or not sure what to do next.  I'm recommending this many times a week to people who email me with these kinds of questions. Best book I've ever read on the subject.</p>

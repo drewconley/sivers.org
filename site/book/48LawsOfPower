@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/48LawsOfPower.gif" alt="The 48 Laws of Power - by Robert Greene and Joost Elffers" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0140280197?tag=sivers-20"><img src="/images/48LawsOfPower.gif" alt="The 48 Laws of Power - by Robert Greene and Joost Elffers"></a></figure>
       <h1>The 48 Laws of Power - by Robert Greene and Joost Elffers</h1>
       <p class="postdate">
         ISBN: 0140280197<br>
         READ: 2003-05-06<br>
         RATING: 8/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0140280197?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0140280197?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Warning: some think this book is pure evil. But power exists, so it can only help to understand it better, even if you choose not to wield it.</p>

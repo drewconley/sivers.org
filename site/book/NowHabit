@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/NowHabit.gif" alt="The Now Habit - by Neil Fiore" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1585425524?tag=sivers-20"><img src="/images/NowHabit.gif" alt="The Now Habit - by Neil Fiore"></a></figure>
       <h1>The Now Habit - by Neil Fiore</h1>
       <p class="postdate">
         ISBN: 1585425524<br>
         READ: 2013-04-05<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1585425524?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1585425524?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Good book with insights and advice on overcoming procrastination.</p>

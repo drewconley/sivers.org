@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Pomodoro.gif" alt="Pomodoro Technique Illustrated - by Staffan Nöteberg" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1934356506?tag=sivers-20"><img src="/images/Pomodoro.gif" alt="Pomodoro Technique Illustrated - by Staffan Nöteberg"></a></figure>
       <h1>Pomodoro Technique Illustrated - by Staffan Nöteberg</h1>
       <p class="postdate">
         ISBN: 1934356506<br>
         READ: 2010-01-11<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1934356506?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1934356506?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Pretty cool technique of working in 25-minute chunks. Better to start with a simple article about it, then read the book after if you love it. I do, so far.</p>

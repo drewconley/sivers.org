@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Antifragile.gif" alt="Antifragile - by Nassim Nicholas Taleb" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1400067820?tag=sivers-20"><img src="/images/Antifragile.gif" alt="Antifragile - by Nassim Nicholas Taleb"></a></figure>
       <h1>Antifragile - by Nassim Nicholas Taleb</h1>
       <p class="postdate">
         ISBN: 1400067820<br>
         READ: 2013-05-15<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1400067820?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1400067820?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Bold perspectives, unusual ideas, and surprisingly wise advice around an interesting subject of the “opposite of fragile.” Looking through that lens at health, education, governments, business, and life philosophy. Very inspiring, and sparks a lot of further discussion.</p>

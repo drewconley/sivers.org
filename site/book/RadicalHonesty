@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/RadicalHonesty.gif" alt="Radical Honesty - by Brad Blanton" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0970693842?tag=sivers-20"><img src="/images/RadicalHonesty.gif" alt="Radical Honesty - by Brad Blanton"></a></figure>
       <h1>Radical Honesty - by Brad Blanton</h1>
       <p class="postdate">
         ISBN: 0970693842<br>
         READ: 2009-06-20<br>
         RATING: 2/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0970693842?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0970693842?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">First read the great article in Esquire magazine: http://www.esquire.com/features/honesty0707  This book just elaborates on that philosophy.</p>

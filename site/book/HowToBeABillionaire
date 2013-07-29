@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/HowToBeABillionaire.gif" alt="How to be a Billionaire - by Martin Fridson" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0471416177?tag=sivers-20"><img src="/images/HowToBeABillionaire.gif" alt="How to be a Billionaire - by Martin Fridson"></a></figure>
       <h1>How to be a Billionaire - by Martin Fridson</h1>
       <p class="postdate">
         ISBN: 0471416177<br>
         READ: 2009-04-23<br>
         RATING: 4/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0471416177?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0471416177?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Biographical look at billionaires from the last 200 years, and lessons learned from how they did it. Some lessons aren't really applicable to the rest of us, like changing government laws to protect your monopoly. But some are.</p>

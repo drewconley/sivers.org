@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Rapt.gif" alt="Rapt - by Winifred Gallagher" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1594202109?tag=sivers-20"><img src="/images/Rapt.gif" alt="Rapt - by Winifred Gallagher"></a></figure>
       <h1>Rapt - by Winifred Gallagher</h1>
       <p class="postdate">
         ISBN: 1594202109<br>
         READ: 2009-07-26<br>
         RATING: 2/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1594202109?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1594202109?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Well-intentioned book I couldn't stomach because of her awkwardly flowerly writing style. Also I've read a lot about focus and flow, so this was mostly a repeat covered better in other books.</p>

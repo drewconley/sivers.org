@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/HackersPainters.gif" alt="Hackers & Painters - by Paul Graham" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1449389554?tag=sivers-20"><img src="/images/HackersPainters.gif" alt="Hackers & Painters - by Paul Graham"></a></figure>
       <h1>Hackers & Painters - by Paul Graham</h1>
       <p class="postdate">
         ISBN: 1449389554<br>
         READ: 2010-08-20<br>
         RATING: 8/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1449389554?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1449389554?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">A collection of essays from one of the best. Loosely about intelligence, entrepreneurship, programming, and questioning norms. Many brilliant ideas and insights.</p>

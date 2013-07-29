@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/WhatGotYouThere.gif" alt="What Got You Here Won't Get You There - by  Marshall Goldsmith" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1401301304?tag=sivers-20"><img src="/images/WhatGotYouThere.gif" alt="What Got You Here Won't Get You There - by  Marshall Goldsmith"></a></figure>
       <h1>What Got You Here Won't Get You There - by  Marshall Goldsmith</h1>
       <p class="postdate">
         ISBN: 1401301304<br>
         READ: 2011-08-22<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1401301304?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1401301304?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Aimed at already-successful people. The personality traits that brought you to success (personal discipline, saying yes to everything, over-confidence) are the same traits that hold you back from going further! (Where you need to listen to lead, and don't let over-confidence make you over-commit.) Stinging counter-intuitive insights that hit very close to home for me. Great specific suggestions for how to improve.</p>

@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/ChinaStudy.gif" alt="The China Study - by Campbell and Campbell" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1932100660?tag=sivers-20"><img src="/images/ChinaStudy.gif" alt="The China Study - by Campbell and Campbell"></a></figure>
       <h1>The China Study - by Campbell and Campbell</h1>
       <p class="postdate">
         ISBN: 1932100660<br>
         READ: 2009-04-23<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1932100660?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1932100660?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Biggest study ever on the effects of diet on health. The multiple health benefits of plant-based foods, and dangers of animal-based foods, including all types of meat, dairy and eggs.</p>

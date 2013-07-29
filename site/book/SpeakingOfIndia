@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/SpeakingOfIndia.gif" alt="Speaking of India - by Craig Sorti" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1931930341?tag=sivers-20"><img src="/images/SpeakingOfIndia.gif" alt="Speaking of India - by Craig Sorti"></a></figure>
       <h1>Speaking of India - by Craig Sorti</h1>
       <p class="postdate">
         ISBN: 1931930341<br>
         READ: 2008-09-30<br>
         RATING: 5/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1931930341?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1931930341?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Required reading for anyone doing business in India, with detailed analysis of cultural and communication differences. Example: in India a lack of emphatic “yes!” means “no”. Teaches Westerners to adapt to this.</p>

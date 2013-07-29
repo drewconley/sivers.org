@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Mindset.gif" alt="Mindset - by Carol Dweck" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0345472322?tag=sivers-20"><img src="/images/Mindset.gif" alt="Mindset - by Carol Dweck"></a></figure>
       <h1>Mindset - by Carol Dweck</h1>
       <p class="postdate">
         ISBN: 0345472322<br>
         READ: 2010-11-27<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0345472322?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0345472322?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Crucial distinction: People in a “fixed” mindset believe that you *are* great or flawed. People in a “growth” mindset believe your greatness (or flaws) are because of your actions. The fixed mindset is very harmful in every area of life (work, art, relationships, business, etc.) We get our initial mindset from our environment. When parents say, “You are great,” instead of ”You did great work,” they accidently create the “fixed” mindset.</p>

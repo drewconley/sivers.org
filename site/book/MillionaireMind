@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/MillionaireMind.gif" alt="Secrets of the Millionaire Mind - by T. Harv Ecker" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0060763280?tag=sivers-20"><img src="/images/MillionaireMind.gif" alt="Secrets of the Millionaire Mind - by T. Harv Ecker"></a></figure>
       <h1>Secrets of the Millionaire Mind - by T. Harv Ecker</h1>
       <p class="postdate">
         ISBN: 0060763280<br>
         READ: 2007-06-12<br>
         RATING: 4/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0060763280?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0060763280?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">If you suspect that your mindset is holding you back from making more money, read this. Identifies and dissolves the mental baggage we've built up that believes money is evil and those who have it are greedy.</p>

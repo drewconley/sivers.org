@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/GettingThingsDone.gif" alt="Getting Things Done - by David Allen" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0142000280?tag=sivers-20"><img src="/images/GettingThingsDone.gif" alt="Getting Things Done - by David Allen"></a></figure>
       <h1>Getting Things Done - by David Allen</h1>
       <p class="postdate">
         ISBN: 0142000280<br>
         READ: 2005-04-30<br>
         RATING: 8/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0142000280?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0142000280?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Classic book with near-cult following. How to manage every last itty bitty tiny thing in your life. Keep your inbox empty.</p>

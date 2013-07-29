@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/KnowHow.gif" alt="Know-How - by Ram Charan with Geri Willigan" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0307341518?tag=sivers-20"><img src="/images/KnowHow.gif" alt="Know-How - by Ram Charan with Geri Willigan"></a></figure>
       <h1>Know-How - by Ram Charan with Geri Willigan</h1>
       <p class="postdate">
         ISBN: 0307341518<br>
         READ: 2007-02-12<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0307341518?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0307341518?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Acquired expertise in big business. Subtitle: 8 Skills That Separate People Who Perform from Those Who Don't.</p>

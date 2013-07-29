@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/DropDeadHealthy.gif" alt="Drop Dead Healthy - by A. J. Jacobs" /></figure>
+      <figure><a href="http://www.amazon.com/dp/141659907X?tag=sivers-20"><img src="/images/DropDeadHealthy.gif" alt="Drop Dead Healthy - by A. J. Jacobs"></a></figure>
       <h1>Drop Dead Healthy - by A. J. Jacobs</h1>
       <p class="postdate">
         ISBN: 141659907X<br>
         READ: 2012-05-22<br>
         RATING: 5/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/141659907X?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/141659907X?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Funny and informative book by the always-brilliant A.J. Jacobs - about trying every health remedy and suggestion. Some surprising ones are effective.</p>

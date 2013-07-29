@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Tribes.gif" alt="Tribes - by Seth Godin" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1591842336?tag=sivers-20"><img src="/images/Tribes.gif" alt="Tribes - by Seth Godin"></a></figure>
       <h1>Tribes - by Seth Godin</h1>
       <p class="postdate">
         ISBN: 1591842336<br>
         READ: 2008-11-17<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1591842336?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1591842336?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Inspiring look at what it takes to organize and mobilize groups of people.</p>

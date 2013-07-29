@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/CausingAScene.gif" alt="Causing a Scene - by Charlie Todd" /></figure>
+      <figure><a href="http://www.amazon.com/dp/006170363X?tag=sivers-20"><img src="/images/CausingAScene.gif" alt="Causing a Scene - by Charlie Todd"></a></figure>
       <h1>Causing a Scene - by Charlie Todd</h1>
       <p class="postdate">
         ISBN: 006170363X<br>
         READ: 2009-08-18<br>
         RATING: 4/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/006170363X?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/006170363X?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Fun tales from the guy that invented Improv Everywhere. Not really educational as much as just fun, and I'm a huge fan of their “missions”.</p>

@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Mastery2.gif" alt="Mastery - by Robert Greene" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0670024961?tag=sivers-20"><img src="/images/Mastery2.gif" alt="Mastery - by Robert Greene"></a></figure>
       <h1>Mastery - by Robert Greene</h1>
       <p class="postdate">
         ISBN: 0670024961<br>
         READ: 2012-12-06<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0670024961?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0670024961?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Mostly detailed historical biographical tales of ”masters” like DaVinci, Darwin, Mozart, Proust, Goethe, Wright Brothers, Einstein, Coltrane, Martha Graham, etc. Lessons dissected from their successes, and categorized. Similar format to his great book “48 Laws of Power”, but a little less effective here. The biographies were interesting, but lessons were mostly conventional wisdom.</p>

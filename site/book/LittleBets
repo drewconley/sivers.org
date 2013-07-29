@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/LittleBets.gif" alt="Little Bets - by Peter Sims" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1439170428?tag=sivers-20"><img src="/images/LittleBets.gif" alt="Little Bets - by Peter Sims"></a></figure>
       <h1>Little Bets - by Peter Sims</h1>
       <p class="postdate">
         ISBN: 1439170428<br>
         READ: 2011-05-10<br>
         RATING: 5/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1439170428?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1439170428?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Examples of the fact that much success or creativity comes from trying many things, failing fast, getting feedback, trying more things, and deliberate practice.  Stories from Pixar, Chris Rock, Silicon Valley, Frank Gehry.</p>

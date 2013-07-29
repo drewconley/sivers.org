@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Enough.gif" alt="Enough - by John Bogle" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0470398515?tag=sivers-20"><img src="/images/Enough.gif" alt="Enough - by John Bogle"></a></figure>
       <h1>Enough - by John Bogle</h1>
       <p class="postdate">
         ISBN: 0470398515<br>
         READ: 2009-04-23<br>
         RATING: 4/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0470398515?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0470398515?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Legendary investor, now 80, looks back with long-view wisdom on investing, living, and giving.</p>

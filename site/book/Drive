@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Drive.gif" alt="Drive - by Daniel Pink" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1594488843?tag=sivers-20"><img src="/images/Drive.gif" alt="Drive - by Daniel Pink"></a></figure>
       <h1>Drive - by Daniel Pink</h1>
       <p class="postdate">
         ISBN: 1594488843<br>
         READ: 2010-09-01<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1594488843?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1594488843?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Essential for all managers. Deep surprising study of motivation at work. Extrinsic vs intrinsic. Work vs play. When money is used as an external reward for some activity, the subjects lose intrinsic interest for the activity. See http://www.youtube.com/watch?v=u6XAPnuFjJc</p>

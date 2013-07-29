@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/PleasuresAndSorrowsOfWork.gif" alt="The Pleasures and Sorrows of Work - by Alain De Botton" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0307277259?tag=sivers-20"><img src="/images/PleasuresAndSorrowsOfWork.gif" alt="The Pleasures and Sorrows of Work - by Alain De Botton"></a></figure>
       <h1>The Pleasures and Sorrows of Work - by Alain De Botton</h1>
       <p class="postdate">
         ISBN: 0307277259<br>
         READ: 2010-12-12<br>
         RATING: 3/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0307277259?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0307277259?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Thoughtful rambling observations on different lines of work. Personal tales of his time spent observing different industries like fishing, counseling, shipyards, or walking along electric towers.  Some tangential insights along the way.</p>

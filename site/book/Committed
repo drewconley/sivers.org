@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Committed.gif" alt="Committed - by Elizabeth Gilbert" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0670021652?tag=sivers-20"><img src="/images/Committed.gif" alt="Committed - by Elizabeth Gilbert"></a></figure>
       <h1>Committed - by Elizabeth Gilbert</h1>
       <p class="postdate">
         ISBN: 0670021652<br>
         READ: 2010-01-07<br>
         RATING: 3/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0670021652?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0670021652?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">If listening to someone think out loud about marriage for 12 hours interests you, you will like this. Since I was newly engaged, I did.</p>

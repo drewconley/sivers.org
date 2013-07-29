@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Mastery.gif" alt="Mastery - by George Leonard" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0452267560?tag=sivers-20"><img src="/images/Mastery.gif" alt="Mastery - by George Leonard"></a></figure>
       <h1>Mastery - by George Leonard</h1>
       <p class="postdate">
         ISBN: 0452267560<br>
         READ: 2012-10-01<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0452267560?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0452267560?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">A description of the path to mastery in any field: to enjoy regular practice for its own sake, to push your capabilities but to accept the plateau, to surrender to the path and exercises your teacher gives you. Stay focused, not distracted like the dabbler, impatient like the obsessive, or complacent like the hacker.</p>

@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Meditations.gif" alt="Meditations - The Emperor's Handbook - by Marcus Aurelius - translation by C Scot Hicks and David V Hicks" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0743233832?tag=sivers-20"><img src="/images/Meditations.gif" alt="Meditations - The Emperor's Handbook - by Marcus Aurelius - translation by C Scot Hicks and David V Hicks"></a></figure>
       <h1>Meditations - The Emperor's Handbook - by Marcus Aurelius - translation by C Scot Hicks and David V Hicks</h1>
       <p class="postdate">
         ISBN: 0743233832<br>
         READ: 2012-02-04<br>
         RATING: 7/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0743233832?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0743233832?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">A true classic, filled with stoic wisdom mostly about being your best rational self, doing good for its own sake, and not letting other people upset you.</p>

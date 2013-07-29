@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/StumblingOnHappiness.gif" alt="Stumbling on Happiness - by Daniel Gilbert" /></figure>
+      <figure><a href="http://www.amazon.com/dp/1400077427?tag=sivers-20"><img src="/images/StumblingOnHappiness.gif" alt="Stumbling on Happiness - by Daniel Gilbert"></a></figure>
       <h1>Stumbling on Happiness - by Daniel Gilbert</h1>
       <p class="postdate">
         ISBN: 1400077427<br>
         READ: 2007-07-11<br>
         RATING: 10/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/1400077427?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/1400077427?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Not at all new-agey, as the title might suggest. Harvard professor of psychology has studied happiness for years, and shares factual findings that will change the way you look at the world.</p>

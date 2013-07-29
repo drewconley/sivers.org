@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/4HourWorkWeek.gif" alt="The 4-Hour Work Week - by Tim Ferriss" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0307353133?tag=sivers-20"><img src="/images/4HourWorkWeek.gif" alt="The 4-Hour Work Week - by Tim Ferriss"></a></figure>
       <h1>The 4-Hour Work Week - by Tim Ferriss</h1>
       <p class="postdate">
         ISBN: 0307353133<br>
         READ: 2008-05-15<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0307353133?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0307353133?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Brilliant reversal of all of the “how to manage all your crap” books. This one tells you how to say “no” to the crap, set expectations on your terms, and be just as effective in a fraction of the time. This is perfect for musicians with other responsibilities (day jobs) that need more free time to actually make music!</p>

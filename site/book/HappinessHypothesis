@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/HappinessHypothesis.gif" alt="The Happiness Hypothesis  -  by Jonathan Haidt" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0465028020?tag=sivers-20"><img src="/images/HappinessHypothesis.gif" alt="The Happiness Hypothesis  -  by Jonathan Haidt"></a></figure>
       <h1>The Happiness Hypothesis  -  by Jonathan Haidt</h1>
       <p class="postdate">
         ISBN: 0465028020<br>
         READ: 2010-05-01<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0465028020?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0465028020?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Psychology professor's digestible but deep insight into how our minds work, around the topic of happiness. Great metaphor of a rider on the back of an elephant. Rider is reasoning, elephant is emotions. Rider has limited control of what the elephant does. Surprising insights into ethics and morality. See my notes for great quotes, but read the whole well-written book.</p>

@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/WhatTechnologyWants.gif" alt="What Technology Wants - by Kevin Kelly" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0143120174?tag=sivers-20"><img src="/images/WhatTechnologyWants.gif" alt="What Technology Wants - by Kevin Kelly"></a></figure>
       <h1>What Technology Wants - by Kevin Kelly</h1>
       <p class="postdate">
         ISBN: 0143120174<br>
         READ: 2012-04-26<br>
         RATING: 9/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0143120174?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0143120174?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Fascinating historical and philosophical perspective on technology, where it's come from, where it's going.</p>

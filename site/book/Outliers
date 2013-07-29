@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/Outliers.gif" alt="Outliers: The Story of Success - by Malcolm Gladwell" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0316017922?tag=sivers-20"><img src="/images/Outliers.gif" alt="Outliers: The Story of Success - by Malcolm Gladwell"></a></figure>
       <h1>Outliers: The Story of Success - by Malcolm Gladwell</h1>
       <p class="postdate">
         ISBN: 0316017922<br>
         READ: 2009-04-23<br>
         RATING: 6/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0316017922?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0316017922?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Deep study of why some people are so much more successful. Often due to circumstances and early opportunities, but really comes down to the fact that it takes about 10,000 hours of hard work to master something.</p>

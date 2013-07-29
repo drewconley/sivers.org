@@ -18,14 +18,14 @@
 <section id="content">
 
     <header>
-      <figure><img src="/images/ChinaRoad.gif" alt="China Road - by Rob Gifford" /></figure>
+      <figure><a href="http://www.amazon.com/dp/0812975243?tag=sivers-20"><img src="/images/ChinaRoad.gif" alt="China Road - by Rob Gifford"></a></figure>
       <h1>China Road - by Rob Gifford</h1>
       <p class="postdate">
         ISBN: 0812975243<br>
         READ: 2009-06-02<br>
         RATING: 3/10<br>
       </p>
-      <p>Go to <a href="http://www.amazon.com/dp/0812975243?tag=sivers-20">Amazon</a></p>
+      <p><a href="http://www.amazon.com/dp/0812975243?tag=sivers-20">Amazon page</a> for details and reviews.</p>
     </header>
 
     <p id="booksummary">Not a business book, unless you want to understand China a bit more. Journalist who's worked in China for 10 years decides to move back to London, but takes one last cross-country trip and gets first-time insights into rural Chinese life and how the country has changed.</p>
