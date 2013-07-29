@@ -25,7 +25,7 @@ body#tweets dt {
 	font-weight: normal;
 }
 
-p, li, dt, dd {
+p, li, dt, dd, blockquote {
 	font-family: Georgia, serif;
 	line-height: 1.4em;
 	font-size: emCalc(20px);
@@ -150,6 +150,7 @@ body#onebook #content > header > figure {
 }
 
 body#onebook p#booksummary {
+	margin-top: 2em;
 	clear: both;
 }
 
@@ -192,3 +193,24 @@ body#home section#follow div#emailform {
 	@extend .small-8;
 	@extend .columns;
 }
+body#oneblog article.post blockquote {
+	background-color: #eee;
+	padding: 0.5em;
+	border: 1px solid #ccc;
+	font-size: 1.2em;
+}
+.anki1, .anki2 {
+	padding: 1em;
+	font-size: 1.2em;
+	border: 1px solid #000;
+	font-weight: bold;
+}
+.anki1 {
+	background-color: #cf9;
+	margin-bottom: 0;
+}
+.anki2 {
+	background-color: yellow;
+	margin-top: 0;
+}
+
