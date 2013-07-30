@@ -24,7 +24,6 @@ body#booklist #content header p,
 body#presentations section#content figure > figcaption > p,
 body#booklist section#content figure > figcaption > p,
 body#home section#tweets dt,
-body#home div#emailform > p,
 body#tweets dt {
 	font-family: $body-font-family;
 	font-size: 0.9em;
@@ -198,11 +197,11 @@ body#home section#follow {
 	@extend .row;
 }
 body#home section#follow div#otherservices {
-	@extend .small-4;
+	@extend .large-4;
 	@extend .columns;
 }
 body#home section#follow div#emailform {
-	@extend .small-8;
+	@extend .large-8;
 	@extend .columns;
 }
 body#oneblog article.post blockquote {

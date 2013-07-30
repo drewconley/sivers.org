@@ -37,7 +37,7 @@
   <section id="fullbio">
     <h2>Official Bragging Bio</h2>
     <p>
-    Originally a professional musician and circus clown, Derek Sivers created CD Baby in 1998.
+    Originally a professional musician and circus clown, Derek Sivers created CD&nbsp;Baby in 1998.
     </p><p>
     It became the largest seller of independent music online, with <a href="/done">$100M in sales for 150,000 musicians</a>.
     </p><p>
@@ -183,10 +183,23 @@
     </dl>
   </section>
   
+  <section id="search">
+    <h2>Search</h2>
+    <form action="/search" method="get">
+      <label for="q"><p>Search sivers.org for anything:</p></label>
+      <input type="text" name="q" value="">
+    </form>
+  </section>
+
   <section id="follow">
     <h2>Keep in touch</h2>
+    <p>
+    Please email me at <strong><a href="mailto:derek@sivers.org">derek@sivers.org</a></strong> for any reason.
+    </p><p>
+    I reply to all, and much prefer email over social networks.
+    </p>
     <div id="emailform">
-      <p>Please give me your name and email, and I’ll keep in touch.</p>
+      <p>Get on my private email list, here:</p>
       <form action="/list" method="post">
         <label for="name">Your Name</label>
         <input type="text" id="name" name="name" value="" />
@@ -205,15 +218,7 @@
       </ul>
     </div>
   </section>
-  
-  <section id="contact">
-    <p>
-    Feel free to email me at <strong><a href="mailto:derek@sivers.org">derek@sivers.org</a></strong>
-    </p><p>
-    I respond to all.
-    </p>
-  </section>
-  
+
 
 </section>
 </body>
