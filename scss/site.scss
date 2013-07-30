@@ -6,8 +6,14 @@
 @import "foundation/components/panels";
 @import "foundation/components/forms";
 
-body {
+rody {
 	@extend .row;
+}
+
+body {
+	width: 95%;
+	max-width: 700px;
+	margin: 0 auto;
 }
 
 .small,
@@ -35,10 +41,16 @@ p, li, dt, dd, blockquote {
 	margin-top: 4px;
 	margin-bottom: 0.2em;
 	font-size: 3em;
-	background: url(/images/DerekSivers-50x50.jpg) no-repeat bottom left;
 	a {
-		margin-left: 52px;
 		text-decoration: none;
+	}
+}
+@media only screen and (min-width: 400px) {
+	#masthead h1 {
+		background: url(/images/DerekSivers-50x50.jpg) no-repeat bottom left;
+		a {
+			margin-left: 52px;
+		}
 	}
 }
 
@@ -46,7 +58,7 @@ p, li, dt, dd, blockquote {
 	margin-top: 0;
 }
 
-#masthead, #content {
+#rasthead, #rontent {
 	@extend .small-8;
 	@extend .small-centered;
 	@extend .columns;
