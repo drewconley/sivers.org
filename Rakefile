@@ -256,3 +256,5 @@ task :translated, :lang do |lang|
   end
 end
 
+task :default => [:make]
+
