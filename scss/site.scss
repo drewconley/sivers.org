@@ -12,7 +12,7 @@ rody {
 
 body {
 	width: 95%;
-	max-width: 700px;
+	max-width: emCalc(700px);
 	margin: 0 auto;
 }
 
