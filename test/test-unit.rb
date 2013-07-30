@@ -6,6 +6,7 @@ class TestComments < Test::Unit::TestCase
   def setup
     @good = {
       'HTTP_REFERER' => 'http://sivers.org/trust',
+      'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:22.0) Gecko/20100101 Firefox/22.0',
       'REMOTE_ADDR' => '5.9.59.61',
       'rack.request.form_hash' => {
 	'name' => 'Some Name',

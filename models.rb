@@ -2,11 +2,13 @@ require 'json'
 require 'sequel'
 require 'peeps'
 require 'aws/s3'
+require 'resolv'
+require 'rakismet'
 
 class Sivers
   DB = Sequel.postgres('sivers', user: 'sivers')
 
-  # config keys: 'project_honeypot_key', 's3key', 's3secret'
+  # config keys: 'project_honeypot_key', 's3key', 's3secret', 'akismet'
   def self.config
     unless @config
       @config = JSON.parse(File.read(File.dirname(__FILE__) + '/config.json'))
@@ -16,6 +18,24 @@ class Sivers
       @config['formletter_download_pdf'] = 5
     end
     @config
+  end
+end
+
+# https://github.com/joshfrench/rakismet
+Rakismet.key = Sivers.config['akismet']
+Rakismet.url = 'http://sivers.org/'
+Rakismet.host= 'rest.akismet.com'
+class Akismet
+  include Rakismet::Model
+  def initialize(uri, env)
+    @author = env['rack.request.form_hash']['name']
+    @author_url = env['rack.request.form_hash']['url']
+    @author_email = env['rack.request.form_hash']['email']
+    @content = env['rack.request.form_hash']['comment']
+    @permalink = "http://sivers.org/#{uri}"
+    @user_ip = env['REMOTE_ADDR']
+    @user_agent = env['HTTP_USER_AGENT']
+    @referrer = env['HTTP_REFERER']
   end
 end
 
@@ -55,7 +75,6 @@ class Comment < Sequel::Model(Sivers::DB)
 
     # Project Honeypot DNS lookup of commenter's IP
     def spammer?(ip)
-      require 'resolv'
       query = Sivers.config['project_honeypot_key'] + '.' + ip.split('.').reverse.join('.') + '.dnsbl.httpbl.org'
       begin
         Timeout::timeout(1) do
@@ -104,6 +123,8 @@ class Comment < Sequel::Model(Sivers::DB)
       return false unless valid?(request_env)
       return false if spammer?(request_env['REMOTE_ADDR'])
       nu = clean(request_env)
+      a = Akismet.new(nu[:uri], request_env)
+      return false if a.spam?
       nu[:person_id] = person_id(nu)
       c = create(nu)
       c.id
