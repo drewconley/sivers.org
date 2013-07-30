@@ -20,7 +20,7 @@ end
 
 ########## READ, PARSE, AND WRITE BLOG POSTS
 @blogs = []
-Dir['content/blog/20*'].each do |infile|
+Dir['content/blog/20*'].sort.each do |infile|
 
   # PARSE. Filename: yyyy-mm-dd-uri
   /(\d{4}-\d{2}-\d{2})-(\S+)/.match File.basename(infile)
@@ -47,7 +47,6 @@ end
 
 
 ########## WRITE BLOG INDEX PAGE
-@blogs.sort_by!{|x| x[:date]}
 @blogs.reverse!
 @pagetitle = 'Derek Sivers Blog'
 @bodyid = 'bloglist'
