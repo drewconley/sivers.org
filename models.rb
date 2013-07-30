@@ -104,7 +104,7 @@ class Comment < Sequel::Model(Sivers::DB)
         end
         nu[:url] = h['url']
       end
-      nu[:html] = h['comment'].force_encoding('utf8').gsub(%r{</?[^>]+?>}, '')
+      nu[:html] = h['comment'].force_encoding('UTF-8').gsub(%r{</?[^>]+?>}, '')
       nu
     end
 
