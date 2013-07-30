@@ -169,7 +169,7 @@ File.open('site/book/home', 'w') {|f| f.puts html }
 
 ########## READ AND PARSE TWEETS
 @tweets = []
-Dir['content/tweets/20*'].each do |infile|
+Dir['content/tweets/20*'].sort.each do |infile|
 
   # PARSE. Filename: yyyy-mm-dd-##  (a at end means favorite)
   /^(\d{4}-\d{2}-\d{2})/.match File.basename(infile)
@@ -183,7 +183,6 @@ end
 
 
 ########## WRITE TWEETS INDEX PAGE
-@tweets.sort_by!{|x| x[:date]}
 @tweets.reverse!
 @pagetitle = 'Derek Sivers Tweets'
 @bodyid = 'tweets'
