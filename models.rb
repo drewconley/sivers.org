@@ -3,7 +3,7 @@ require 'sequel'
 require 'peeps'
 require 'aws/s3'
 require 'resolv'
-require 'rakismet'
+require 'net/http'
 
 class Sivers
   DB = Sequel.postgres('sivers', user: 'sivers')
@@ -18,24 +18,6 @@ class Sivers
       @config['formletter_download_pdf'] = 5
     end
     @config
-  end
-end
-
-# https://github.com/joshfrench/rakismet
-Rakismet.key = Sivers.config['akismet']
-Rakismet.url = 'http://sivers.org/'
-Rakismet.host= 'rest.akismet.com'
-class Akismet
-  include Rakismet::Model
-  def initialize(uri, env)
-    @author = env['rack.request.form_hash']['name']
-    @author_url = env['rack.request.form_hash']['url']
-    @author_email = env['rack.request.form_hash']['email']
-    @content = env['rack.request.form_hash']['comment']
-    @permalink = "http://sivers.org/#{uri}"
-    @user_ip = env['REMOTE_ADDR']
-    @user_agent = env['HTTP_USER_AGENT']
-    @referrer = env['HTTP_REFERER']
   end
 end
 
@@ -89,6 +71,23 @@ class Comment < Sequel::Model(Sivers::DB)
       end
     end
 
+    # Akismet analysis of commend
+    def spam?(env)
+      params = { blog: 'http://sivers.org/',
+	user_ip: env['REMOTE_ADDR'],
+	user_agent: env['HTTP_USER_AGENT'],
+	referrer: env['HTTP_REFERER'],
+	comment_type: 'comment',
+	comment_author: env['rack.request.form_hash']['name'],
+	comment_author_email: env['rack.request.form_hash']['email'],
+	comment_author_url: env['rack.request.form_hash']['url'],
+	comment_content: env['rack.request.form_hash']['comment'] }
+      params.each {|k,v| params[k] = URI.encode_www_form_component(v)}
+      key = Sivers.config['akismet']
+      uri = URI("http://#{key}.rest.akismet.com/1.1/comment-check")
+      'true' == Net::HTTP.post_form(uri, params).body
+    end
+
     # return params, cleaned up values & keys, ready to insert
     def clean(request_env)
       h = request_env['rack.request.form_hash'].clone
@@ -122,9 +121,8 @@ class Comment < Sequel::Model(Sivers::DB)
     def add(request_env)
       return false unless valid?(request_env)
       return false if spammer?(request_env['REMOTE_ADDR'])
+      return false if spam?(request_env)
       nu = clean(request_env)
-      a = Akismet.new(nu[:uri], request_env)
-      return false if a.spam?
       nu[:person_id] = person_id(nu)
       c = create(nu)
       c.id

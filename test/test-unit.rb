@@ -50,6 +50,13 @@ class TestComments < Test::Unit::TestCase
     assert Comment.spammer?('127.1.80.1')
   end
 
+  def test_spam
+    refute Comment.spam?(@good)
+    bad = @good.dup
+    bad['rack.request.form_hash']['name'] = 'viagra-test-123'
+    assert Comment.spam?(bad)
+  end
+
   def test_clean
     h = @good['rack.request.form_hash']
     nu = {uri: 'trust', name: h['name'], email: h['email'], ip: @good['REMOTE_ADDR'], url: h['url'], html: h['comment']}
