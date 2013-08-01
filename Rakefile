@@ -236,6 +236,12 @@ task :console do
   sh 'irb -r ./models.rb'
 end
 
+desc 'make a new tweet'
+task :tweet do
+  filename = Time.now.strftime('%Y-%m-%d-00')
+  system "vi content/tweets/#{filename}"
+end
+
 desc 'rarely-used: write translated blog posts to HTML files'
 task :translated, :lang do |lang|
   require 'sequel'
