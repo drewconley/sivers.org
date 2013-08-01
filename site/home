@@ -168,6 +168,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>August 1</dt>
+      <dd>Rewrite of <a href="http://sivers.org/">http://sivers.org/</a>  Scroll to CODE section if interested in seeing open source Ruby code behind it.</dd>
       <dt>July 19</dt>
       <dd>#1 top-selling nonfiction book on Kindle today. Had to screenshot the moment. <a href="http://sivers.org/images/sivers-amazon-2013-07-19.png">http://sivers.org/images/sivers-amazon-2013-07-19.png</a></dd>
       <dt>July 18</dt>
@@ -178,9 +180,18 @@
       <dd>Why my baby's photos aren't online: We should be able to choose when we are ready to have an online presence, not have it forced upon us.</dd>
       <dt>June 13</dt>
       <dd>Anyone else think of music this way? <a href="http://youtu.be/Av_Us6xHkUc">http://youtu.be/Av_Us6xHkUc</a> I tend to draw in the air like this, as I sing or listen to anything.</dd>
-      <dt>June 9</dt>
-      <dd>Story behind Wood Egg (my new company): <a href="http://sivers.org/eg">http://sivers.org/eg</a></dd>
     </dl>
+  </section>
+  
+  <section id="code">
+    <h2>Code</h2>
+    <p>Programming is my main activity these days. I love it. I'll add details here soon, but for now, here are <strong>my current projects</strong>, all open source for you to check out if interested:</p>
+    <ul>
+      <li><a href="https://github.com/sivers/sivers.org">sivers.org</a> (new rewrite)</li>
+      <li><a href="https://github.com/50pop/woodegg">Wood Egg</a> (front and back)</li>
+      <li>MusicThoughts: <a href="https://github.com/50pop/musicthoughts-api">API</a>, <a href="https://github.com/50pop/musicthoughts-gem">gem</a>, and <a href="https://github.com/50pop/musicthoughts-web">site</a></li>
+      <li><a href="https://github.com/50pop/peeps">peeps</a> (library)</li>
+    </ul>
   </section>
   
   <section id="search">
