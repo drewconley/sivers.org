@@ -6,6 +6,9 @@
 @import "foundation/components/panels";
 @import "foundation/components/forms";
 
+html {
+	background-color: $body-bg;
+}
 body {
 	width: 95%;
 	max-width: emCalc(700px);
