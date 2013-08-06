@@ -156,7 +156,7 @@ task :make do
 
 
   ########## WRITE BOOKS INDEX PAGE
-  @books.sort_by!{|x| '%02d%s' % [x[:rating], x[:date]]}
+  @books.sort_by!{|x| '%02d%s%s' % [x[:rating], x[:date], x[:url]]}
   @books.reverse!
   @pagetitle = 'BOOKS | Derek Sivers'
   @bodyid = 'booklist'

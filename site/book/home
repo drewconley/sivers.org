@@ -856,6 +856,15 @@
       </figcaption>
     </figure>
 
+    <figure class="abook" data-rating="6" data-title="Outliers: The Story of Success - by Malcolm Gladwell" data-date="2009-04-23">
+      <a href="/book/Outliers"><img src="/images/Outliers.gif" alt="Outliers: The Story of Success - by Malcolm Gladwell" /></a>
+      <figcaption>
+        <h2><a href="/book/Outliers">Outliers: The Story of Success - by Malcolm Gladwell</a></h2>
+        <p>ISBN: 0316017922 READ: 2009-04-23 RATING: 6/10</p>
+        <p>Deep study of why some people are so much more successful. Often due to circumstances and early opportunities, but really comes down to the fact that it takes about 10,000 hours of hard work to master something.</p>
+      </figcaption>
+    </figure>
+
     <figure class="abook" data-rating="6" data-title="Lucky Or Smart? - by Bo Peabody" data-date="2009-04-23">
       <a href="/book/LuckyOrSmart"><img src="/images/LuckyOrSmart.gif" alt="Lucky Or Smart? - by Bo Peabody" /></a>
       <figcaption>
@@ -871,15 +880,6 @@
         <h2><a href="/book/ChinaStudy">The China Study - by Campbell and Campbell</a></h2>
         <p>ISBN: 1932100660 READ: 2009-04-23 RATING: 6/10</p>
         <p>Biggest study ever on the effects of diet on health. The multiple health benefits of plant-based foods, and dangers of animal-based foods, including all types of meat, dairy and eggs.</p>
-      </figcaption>
-    </figure>
-
-    <figure class="abook" data-rating="6" data-title="Outliers: The Story of Success - by Malcolm Gladwell" data-date="2009-04-23">
-      <a href="/book/Outliers"><img src="/images/Outliers.gif" alt="Outliers: The Story of Success - by Malcolm Gladwell" /></a>
-      <figcaption>
-        <h2><a href="/book/Outliers">Outliers: The Story of Success - by Malcolm Gladwell</a></h2>
-        <p>ISBN: 0316017922 READ: 2009-04-23 RATING: 6/10</p>
-        <p>Deep study of why some people are so much more successful. Often due to circumstances and early opportunities, but really comes down to the fact that it takes about 10,000 hours of hard work to master something.</p>
       </figcaption>
     </figure>
 
@@ -1126,21 +1126,21 @@
       </figcaption>
     </figure>
 
-    <figure class="abook" data-rating="4" data-title="Enough - by John Bogle" data-date="2009-04-23">
-      <a href="/book/Enough"><img src="/images/Enough.gif" alt="Enough - by John Bogle" /></a>
-      <figcaption>
-        <h2><a href="/book/Enough">Enough - by John Bogle</a></h2>
-        <p>ISBN: 0470398515 READ: 2009-04-23 RATING: 4/10</p>
-        <p>Legendary investor, now 80, looks back with long-view wisdom on investing, living, and giving.</p>
-      </figcaption>
-    </figure>
-
     <figure class="abook" data-rating="4" data-title="How to be a Billionaire - by Martin Fridson" data-date="2009-04-23">
       <a href="/book/HowToBeABillionaire"><img src="/images/HowToBeABillionaire.gif" alt="How to be a Billionaire - by Martin Fridson" /></a>
       <figcaption>
         <h2><a href="/book/HowToBeABillionaire">How to be a Billionaire - by Martin Fridson</a></h2>
         <p>ISBN: 0471416177 READ: 2009-04-23 RATING: 4/10</p>
         <p>Biographical look at billionaires from the last 200 years, and lessons learned from how they did it. Some lessons aren't really applicable to the rest of us, like changing government laws to protect your monopoly. But some are.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="4" data-title="Enough - by John Bogle" data-date="2009-04-23">
+      <a href="/book/Enough"><img src="/images/Enough.gif" alt="Enough - by John Bogle" /></a>
+      <figcaption>
+        <h2><a href="/book/Enough">Enough - by John Bogle</a></h2>
+        <p>ISBN: 0470398515 READ: 2009-04-23 RATING: 4/10</p>
+        <p>Legendary investor, now 80, looks back with long-view wisdom on investing, living, and giving.</p>
       </figcaption>
     </figure>
 
