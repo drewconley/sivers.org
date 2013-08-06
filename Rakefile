@@ -19,6 +19,9 @@ end
 
 desc "build site/ from content/ and templates/"
 task :make do
+  # collection of all URLs, for making Sitemap
+  @urls = []
+
   ########## READ, PARSE, AND WRITE BLOG POSTS
   @blogs = []
   Dir['content/blog/20*'].sort.each do |infile|
@@ -44,6 +47,7 @@ task :make do
 
     # save to array for later use in index and home page
     @blogs << {date: @date, url: @url, title: @title, html: @body}
+    @urls << @url
   end
 
 
@@ -107,6 +111,7 @@ task :make do
 
     # save to array for later use in index
     @presentations << {date: @month, url: @url, title: @title, minutes: @minutes, subhead: @subhead}
+    @urls << @url
   end
 
 
@@ -152,6 +157,7 @@ task :make do
 
     # save to array for later use in index and home page
     @books << {date: @date, url: @url, title: @title, isbn: @isbn, rating: @rating, summary: @summary}
+    @urls << @url
   end
 
 
@@ -219,7 +225,26 @@ task :make do
     html << body
     html << template('footer').result
     File.open("site/#{@uri}", 'w') {|f| f.puts html }
+    @urls << @uri
   end
+
+  ########## SITEMAP
+  today = Time.new.strftime('%Y-%m-%d')
+  xml = <<XML
+<?xml version="1.0" encoding="utf-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>http://sivers.org/</loc><lastmod>#{today}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://sivers.org/blog</loc><lastmod>#{today}</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+<url><loc>http://sivers.org/tweets</loc><lastmod>#{today}</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+<url><loc>http://sivers.org/book</loc><lastmod>#{today}</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>http://sivers.org/presentations</loc><lastmod>#{today}</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+XML
+  @urls.each do |u|
+    xml << "<url><loc>http://sivers.org/#{u}</loc></url>\n"
+  end
+  xml << '</urlset>'
+  File.open('site/sitemap.xml', 'w') {|f| f.puts xml }
+ 
 end   # task :make
 
 desc 'Run all tests in test/test-*.rb'
