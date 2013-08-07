@@ -5,7 +5,6 @@
 <title>Touch as many of their senses as you can | Derek Sivers</title>
 <meta name="description" content="Derek Sivers home, blog, projects" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
 <link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
 </head>
 <body id="oneblog">
@@ -81,6 +80,10 @@ Get onto any TV shows you can.  Scent your album with patchouli oil.  Make your 
 
 
 </section>
+<script type="text/javascript">
+var h = document.head || document.getElementsByTagName('head')[0];
+h.innerHTML += '<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />';
+</script>
 </body>
 </html>
 
