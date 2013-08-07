@@ -168,6 +168,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>August 7</dt>
+      <dd>Forbes put me in "25 Entrepreneurs To Follow" list with Richard Branson, Tony Hsieh, Craig Newmark and other bigshots. <a href="http://www.forbes.com/sites/natalierobehmed/2013/07/31/25-entrepreneurs-to-follow-on-twitter/">http://www.forbes.com/sites/natalierobehmed/2013/07/31/25-entrepreneurs-to-follow-on-twitter/</a></dd>
       <dt>August 1</dt>
       <dd>Rewrite of <a href="http://sivers.org/">http://sivers.org/</a> as generated static site. Code section near bottom has open source Ruby code behind it, if interested.</dd>
       <dt>July 19</dt>
@@ -178,8 +180,6 @@
       <dd>Fragile Plan vs Robust Plan : <a href="http://sivers.org/robust">http://sivers.org/robust</a></dd>
       <dt>June 16</dt>
       <dd>Why my baby's photos aren't online: We should be able to choose when we are ready to have an online presence, not have it forced upon us.</dd>
-      <dt>June 13</dt>
-      <dd>Anyone else think of music this way? <a href="http://youtu.be/Av_Us6xHkUc">http://youtu.be/Av_Us6xHkUc</a> I tend to draw in the air like this, as I sing or listen to anything.</dd>
     </dl>
   </section>
   
