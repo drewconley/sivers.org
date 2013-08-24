@@ -54,11 +54,12 @@ class SiversOrg < Sinatra::Base
     @bodyid = 'sorry'
     @pagetitle = 'Sorry!'
     sorry = Hash.new('')  # default message?
-    sorry['badurlid'] = 'That unique URL is not right, for some reason.</p><p>Maybe it expired? Maybe it has changed since I emailed it to you?</p><p>Go back a few steps and try the process again, or email me at <a href="mailto:derek@sivers.org">derek@sivers.org</a>'
+    sorry['badurlid'] = 'That unique URL is not right, for some reason.</p><p>Maybe it expired? Maybe it has changed since I emailed it to you?</p><p><a href="/ayw/login">Click here to try to log in</a>.</p><p>If that doesn’t work, email me at <a href="mailto:derek@sivers.org">derek@sivers.org</a>'
     sorry['shortpass'] = 'Your password needs to be at least 4 characters long.</p><p>Please go back to try again.'
     sorry['noemail'] = 'That email address wasn’t found. Do you have another?</p><p>Please go back to try again.'
     sorry['aywcode'] = 'That wasn’t the code word.</p><p>HINT: It starts with a U and ends with an A.</p><p>Please go back to try again.'
     sorry['login'] = 'You need to login to be here'
+    sorry['badlogin'] = 'Either the email address or password wasn’t right.</p><p>Please go back to try again.'
     @message = sorry[forwhat]
     erb :oneliner
   end
@@ -162,10 +163,30 @@ class SiversOrg < Sinatra::Base
     redirect '/thanks/ayw'
   end
 
+  # log in form to get to AYW MP3 download area
+  get '/ayw/login' do
+    p = Login.get_person_from_cookie(cookies['ok'])
+    redirect '/ayw/list' if p
+    @bodyid = 'ayw'
+    @pagetitle = 'log in for MP3 downloads'
+    erb :ayw_login
+  end
+
+  # post login form to get into list of MP3s
+  post '/ayw/login' do
+    p = Person.find_by_email_pass(params[:email], params[:password])
+    if p && (['sivers.org', 'sivers.dev', 'example.org'].include? request.env['SERVER_NAME'])
+      cookies['ok'] = Login.set_auth(p.id, request.env['SERVER_NAME'])
+      redirect '/ayw/list'
+    else
+      redirect '/sorry/badlogin'
+    end
+  end
+
   # AYW list of MP3 downloads - only for the authorized
   get '/ayw/list' do
     p = Login.get_person_from_cookie(cookies['ok'])
-    redirect '/sorry/login' unless p
+    redirect '/ayw/login' unless p
     @bodyid = 'ayw'
     @pagetitle = 'MP3 downloads for Anything You Want book'
     erb :ayw_list
