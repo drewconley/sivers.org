@@ -505,6 +505,15 @@
       </figcaption>
     </figure>
 
+    <figure class="abook" data-rating="7" data-title="A Short History of Nearly Everything - by Bill Bryson" data-date="2013-08-25">
+      <a href="/book/ShortHistoryNE"><img src="/images/ShortHistoryNE.gif" alt="A Short History of Nearly Everything - by Bill Bryson" /></a>
+      <figcaption>
+        <h2><a href="/book/ShortHistoryNE">A Short History of Nearly Everything - by Bill Bryson</a></h2>
+        <p>ISBN: 0767908171 READ: 2013-08-25 RATING: 7/10</p>
+        <p>Fun read of everything from the big bang to tectonic plates to the evolution of early man.</p>
+      </figcaption>
+    </figure>
+
     <figure class="abook" data-rating="7" data-title="Ikigai - by Sebastian Marshall" data-date="2013-07-06">
       <a href="/book/Ikigai"><img src="/images/Ikigai.gif" alt="Ikigai - by Sebastian Marshall" /></a>
       <figcaption>
