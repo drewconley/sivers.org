@@ -71,7 +71,7 @@ class Comment < Sequel::Model(Sivers::DB)
       end
     end
 
-    # Akismet analysis of commend
+    # Akismet analysis of comment
     def spam?(env)
       params = { blog: 'http://sivers.org/',
 	user_ip: env['REMOTE_ADDR'],
