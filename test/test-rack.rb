@@ -97,7 +97,7 @@ class SiversOrgTest < Test::Unit::TestCase
     get '/ayw/list'
     assert_equal 302, last_response.status
     follow_redirect!
-    assert_match /\/sorry\/login\Z/, last_request.url
+    assert_match /\/ayw\/login\Z/, last_request.url
     set_cookie 'ok=' + @fixtures['Login']['ayw']['ignore']
     get '/ayw/list'
     assert_equal 200, last_response.status
