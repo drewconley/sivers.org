@@ -128,6 +128,16 @@ class Comment < Sequel::Model(Sivers::DB)
       c.id
     end
 
+    # for debugging only. can turn this off when happy with spam count
+    def log(bad_or_good, request_env)
+      outfile = (bad_or_good == 'good') ? '/tmp/comments-good' : '/tmp/comments-bad'
+      File.open(outfile, 'a') do |f|
+	f.puts "\n\n#{'=' * 80}\n"
+	request_env.each do |k,v|
+	  f.puts "#{k}:\n#{v}\n"
+	end
+      end
+    end
   end
 end
 

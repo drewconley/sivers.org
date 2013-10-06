@@ -30,8 +30,10 @@ class SiversOrg < Sinatra::Base
   post '/comments' do
     comment_id = Comment.add(request.env)
     if comment_id
+      Comment.log('good', request.env)
       redirect '%s#comment-%d' % [request.referrer, comment_id]
     else
+      Comment.log('bad', request.env)
       redirect request.referrer
     end
   end
