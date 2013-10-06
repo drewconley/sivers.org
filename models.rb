@@ -134,7 +134,7 @@ class Comment < Sequel::Model(Sivers::DB)
       File.open(outfile, 'a') do |f|
 	f.puts "\n\n#{'=' * 80}\n"
 	request_env.each do |k,v|
-	  f.puts "#{k}:\n#{v}\n"
+	  f.puts "#{k}: #{v}\n"
 	end
       end
     end
