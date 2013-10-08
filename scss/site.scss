@@ -83,20 +83,20 @@ p.postdate, body#presentations figcaption > h5 {
 	margin-top: 0.25em;
 }
 
-section#comments textarea {
+div#comments textarea {
 	height: 6em;
 }
 
-section#comments > ol > li, section#comments > ol > li > p {
+div#comments > ol > li, div#comments > ol > li > p {
 	font-family: "Trebuchet MS", sans-serif;
 	font-size: 1em;
 }
 
-section#comments > ol > li {
+div#comments > ol > li {
 	margin-bottom: 4em;
 }
 
-body#oneblog section#comments span.response, body#prez section#comments span.response {
+body#oneblog div#comments span.response, body#prez div#comments span.response {
 	display: block;
 	font-weight: bold;
 	background-color: #cfc;
