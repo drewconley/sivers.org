@@ -57,7 +57,9 @@
   
   function weHitBottom() {
     var contentHeight = document.getElementById('content').offsetHeight;
-    var y = window.pageYOffset + window.innerHeight;
+    var y1 = (window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop;
+    var y2 = (window.innerHeight !== undefined) ? window.innerHeight : document.documentElement.clientHeight;
+    var y = y1 + y2;
     if (y >= contentHeight) {
       showComments();
     }
