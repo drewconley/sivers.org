@@ -1,4 +1,5 @@
 (function() {
+
   function getComments(uri) {
     var comments = [];
     try {
@@ -41,64 +42,39 @@
     return ol;
   }
   
-  // infinite scrolling: https://github.com/alexblack/infinite-scroll
-  function infiniteScroll(options) {
-    var scroller = { options: options, updateInitiated: false };
-    window.onscroll = function(event) {
-      handleScroll(scroller, event);
-    };
-    document.ontouchmove = function(event) {
-      handleScroll(scroller, event);
-    };
-  }
-  
-  function getScrollPos() {
-    if (document.documentElement && document.documentElement.scrollTop) {
-      return document.documentElement.scrollTop;
-    } else {
-      return window.pageYOffset;
-    }
-  }
-  
-  var prevScrollPos = getScrollPos();
-  function handleScroll(scroller, event) {
-    if (scroller.updateInitiated) { return; }   
-    var scrollPos = getScrollPos();
-    if (scrollPos == prevScrollPos) { return; }
-    var pageHeight = document.documentElement.scrollHeight;
-    var clientHeight = document.documentElement.clientHeight;
-    if (pageHeight - (scrollPos + clientHeight) < scroller.options.distance) {
-      scroller.updateInitiated = true;
-      scroller.options.callback(function() {
-        scroller.updateInitiated = false;
-      });
-    }
-    prevScrollPos = scrollPos;  
-  }
-  //  END infiniteScroll stuff
-  
   var isLoaded = false;
-  
   function showComments() {
-    var ol = commentsToHTML(getComments(location.pathname));
-    if(ol) {
-      document.getElementById('comments').appendChild(ol);
+    if(isLoaded === false) {
+      var commentSection = document.getElementById('comments');
+      commentSection.innerHTML = '<header><h1>Your thoughts? Please leave a reply:</h1><form action="/comments" method="post"><label for="name_field">Your Name</label><input type="text" name="name" id="name_field" value="" /><label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label><input type="email" name="email" id="email_field" value="" /><label for="url_field">Your Website</label><input type="text" name="url" id="url_field" value="" /><label for="comment">Comment</label><textarea name="comment" id="comment" cols="35" rows="10"></textarea><br /><input name="submit" type="submit" class="submit" value="submit comment" /></form></header><h1>Comments</h1>';
+      var ol = commentsToHTML(getComments(location.pathname));
+      if(ol) {
+	commentSection.appendChild(ol);
+      }
+      isLoaded = true;
     }
-    isLoaded = true;
   }
   
-  // if URL has #comment-21084 then show comments immediately
+  function weHitBottom() {
+    var contentHeight = document.getElementById('content').offsetHeight;
+    var y = window.pageYOffset + window.innerHeight;
+    if (y >= contentHeight) {
+      showComments();
+    }
+  }
+
+  // check for bottom now
+  weHitBottom();
+
+  // check again when scrolling
+  if(isLoaded === false) {
+    window.onscroll = weHitBottom;
+  }
+
+  // if URL has #comment-12345 then show comments immediately
   if(/comment-\d+/.test(location.hash)) {
     showComments();
   }
   
-  var nowShowComments = function(done) {
-    if(isLoaded === false) {
-      showComments();
-    }
-    done();
-  };
-  
-  infiniteScroll({ distance: 50, callback: nowShowComments });
 })();
 
