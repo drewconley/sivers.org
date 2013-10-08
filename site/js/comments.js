@@ -46,7 +46,7 @@
   function showComments() {
     if(isLoaded === false) {
       var commentSection = document.getElementById('comments');
-      commentSection.innerHTML = '<header><h1>Your thoughts? Please leave a reply:</h1><form action="/comments" method="post"><label for="name_field">Your Name</label><input type="text" name="name" id="name_field" value="" /><label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label><input type="email" name="email" id="email_field" value="" /><label for="url_field">Your Website</label><input type="text" name="url" id="url_field" value="" /><label for="comment">Comment</label><textarea name="comment" id="comment" cols="35" rows="10"></textarea><br /><input name="submit" type="submit" class="submit" value="submit comment" /></form></header><h1>Comments</h1>';
+      commentSection.innerHTML = '<header><h1>Your thoughts? Please leave a reply:</h1><form action="/comments" method="post"><label for="name_field">Your Name</label><br><input type="text" name="name" id="name_field" value="" /><br><label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label><br><input type="email" name="email" id="email_field" value="" /><br><label for="url_field">Your Website</label><br><input type="text" name="url" id="url_field" value="" /><br><label for="comment">Comment</label><br><textarea name="comment" id="comment" cols="35" rows="10"></textarea><br><input name="submit" type="submit" class="submit" value="submit comment" /></form></header><h1>Comments</h1>';
       var ol = commentsToHTML(getComments(location.pathname));
       if(ol) {
 	commentSection.appendChild(ol);
