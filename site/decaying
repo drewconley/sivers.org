@@ -53,8 +53,8 @@ Wouldn't it be interesting to get a panel of under-20 musicians and entrepreneur
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -49,8 +49,8 @@ I think other musicians would be curious to hear your thoughts on this too, sinc
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

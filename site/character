@@ -66,8 +66,8 @@ And luckily, it's completely under your control, and seems to be a great indicat
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

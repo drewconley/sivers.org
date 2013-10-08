@@ -69,8 +69,8 @@ Even if you remember it right now, will you remember it next time you're overwhe
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

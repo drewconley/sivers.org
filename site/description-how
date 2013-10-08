@@ -58,8 +58,8 @@ When you've got a great one, you'll know it.  Use it for years and years.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -50,8 +50,8 @@ The scary part for me is that I'm pretty good at designing the tech and business
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

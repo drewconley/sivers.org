@@ -54,8 +54,8 @@ Now I have to pay attention to that, <strong>with each new project I start:  How
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

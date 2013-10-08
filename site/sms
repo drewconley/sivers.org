@@ -56,8 +56,8 @@ But <strong>unless they learn how to stop selling, listen, and be real</strong> 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

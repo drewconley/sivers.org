@@ -54,8 +54,8 @@ I think of this every time I hear business plans that say, “With over 30 milli
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

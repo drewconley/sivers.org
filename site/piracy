@@ -42,8 +42,8 @@ Actually, the <a href="http://newmusicstrategies.com/">New Music Strategies</a> 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

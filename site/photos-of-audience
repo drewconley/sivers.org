@@ -56,8 +56,8 @@ The other hidden idea in this is to make every show a Real Event.  A Big Deal.  
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

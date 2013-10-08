@@ -55,8 +55,8 @@ There are no rules in this game. You change them as you go.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

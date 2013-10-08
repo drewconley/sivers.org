@@ -322,8 +322,8 @@ At least if you just want to be touring and supporting yourself with it I think 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

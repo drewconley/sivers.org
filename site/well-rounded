@@ -57,8 +57,8 @@ Each of these albums got a LOT of press and a lot of sales, because they were sh
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

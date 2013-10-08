@@ -56,8 +56,8 @@ When things aren't working, think “smarter” not “louder”.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

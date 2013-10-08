@@ -66,8 +66,8 @@ So, since we're here talking anyway, I'm asking you now: <strong>What super-powe
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

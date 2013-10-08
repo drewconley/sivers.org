@@ -63,8 +63,8 @@ If you can share a recording of an early demo of a song that went on to become a
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -104,8 +104,8 @@ It’s an amazing learning experience, and as you’ve noticed, I’m endlessly 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

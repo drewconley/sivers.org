@@ -50,8 +50,8 @@ Write down a list of artists who you don't like, and whose fans probably wouldn'
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -60,8 +60,8 @@ He said, “Yeah. I commute an hour each way to Apple's office. <strong>I do all
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

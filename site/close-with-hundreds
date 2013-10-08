@@ -50,8 +50,8 @@ In other words, don't *only* call to say “How are you?” when it's always goi
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -43,8 +43,8 @@ Then afterwards, on a personal note, I can say, “There! See? Told you it could
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

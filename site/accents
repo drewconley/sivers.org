@@ -62,8 +62,8 @@ Any insight into this accent-identity thing or accent-adoption thing?  Please le
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

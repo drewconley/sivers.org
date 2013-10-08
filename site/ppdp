@@ -388,8 +388,8 @@ Alright. Thank you Derek Sivers for stopping by The Practical Personal Developme
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

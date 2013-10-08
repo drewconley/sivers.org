@@ -53,8 +53,8 @@ If you try to just “let the music speak for itself” most people will never h
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

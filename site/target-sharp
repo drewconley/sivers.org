@@ -53,8 +53,8 @@ If you do it persistently enough, you will OWN that niche.  People will not be a
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

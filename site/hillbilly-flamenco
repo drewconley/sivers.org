@@ -56,8 +56,8 @@ Now David Feder and his band are playing the festivals they always dreamed of.  
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

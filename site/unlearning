@@ -59,8 +59,8 @@ But the “industry” around it?  Eh.  No interest.  Sorry.  I'm burnt-out on t
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

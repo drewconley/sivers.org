@@ -52,8 +52,8 @@ Therefore: <strong>smart people don’t think others are stupid.</strong>
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

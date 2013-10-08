@@ -46,8 +46,8 @@ Read the full transcript at http://sivers.org/berklee
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -53,8 +53,8 @@ Do with your business what you would tell a new, stiff, scared musician to do wi
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

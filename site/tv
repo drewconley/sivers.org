@@ -44,8 +44,8 @@ But now that all marketing is online, it's funny to hear someone (especially a b
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -59,8 +59,8 @@ In other words: <strong>No more “yes”.  It's either “HELL YEAH!” or “n
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

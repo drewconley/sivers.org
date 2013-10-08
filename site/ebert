@@ -56,8 +56,8 @@ Bookmark his <a href="http://rogerebert.suntimes.com/apps/pbcs.dll/section?categ
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

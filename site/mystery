@@ -101,8 +101,8 @@ Of course this is taken to extremes by TV news channels, when they give the earl
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

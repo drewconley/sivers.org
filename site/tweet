@@ -95,8 +95,8 @@ You can follow my posts at <a href="http://twitter.com/sivers">twitter.com/siver
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

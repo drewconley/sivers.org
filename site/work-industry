@@ -56,8 +56,8 @@ It IS possible.  There are lots of people in this world.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

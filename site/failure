@@ -40,8 +40,8 @@ So I put together this talk, sharing what I had learned from some books and expe
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

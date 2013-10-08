@@ -66,8 +66,8 @@ It's <a href="http://www.startuplessonslearned.com/2008/09/lean-startup.html">ea
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

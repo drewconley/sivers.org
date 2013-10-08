@@ -44,8 +44,8 @@ Imagine that!  Three new people every single week - people that could actually h
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

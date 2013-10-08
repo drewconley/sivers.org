@@ -89,8 +89,8 @@ In the picture, below, are our translator Mei Fang, <a href="http://www.discogs.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

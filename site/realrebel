@@ -43,8 +43,8 @@ Every other expert on the show is <strong>laughing out loud</strong> (literally)
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

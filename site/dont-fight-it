@@ -60,8 +60,8 @@ But <strong>we're so much more effective when we follow what our body wants to d
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

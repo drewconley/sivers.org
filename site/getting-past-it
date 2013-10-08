@@ -67,8 +67,8 @@ Maybe we need more vivid stories that can help people feel the pain of the mista
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

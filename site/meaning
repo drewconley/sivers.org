@@ -193,8 +193,8 @@ P.S.  Appropriate video: <a href="http://www.youtube.com/watch?v=OQSNhk5ICTI">â€
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

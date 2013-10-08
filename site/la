@@ -58,8 +58,8 @@ It may feel fake, but faking it is fine. (Kurt Vonnegut wrote, “You are whatev
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

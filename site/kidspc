@@ -50,8 +50,8 @@ My first computer was a <a href="http://en.wikipedia.org/wiki/TRS-80">Radio Shac
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

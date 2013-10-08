@@ -113,8 +113,8 @@ No need to attend Harvard with Mark Zuckerburg.  No need to become a cousin of R
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

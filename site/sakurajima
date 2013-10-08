@@ -42,8 +42,8 @@ Of course I'm SO relaxed now, that I'm DONE relaxing, and damn ready to start a 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

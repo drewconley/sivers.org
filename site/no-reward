@@ -89,8 +89,8 @@ Next time you're thinking of rewarding your friends or customers with cash, thin
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

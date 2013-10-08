@@ -46,8 +46,8 @@ This does NOT apply to things like starting a company, brainstorming, or other p
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

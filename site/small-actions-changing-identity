@@ -68,8 +68,8 @@ Like those life-changing coincidences - (how did you meet your spouse?) - <stron
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

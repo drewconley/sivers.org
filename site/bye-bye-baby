@@ -42,8 +42,8 @@ So, this isn't big news.  Just letting you know that CD Baby is in better hands 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

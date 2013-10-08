@@ -44,8 +44,8 @@ Don't be afraid to be as extreme as you can imagine. Being in the spotlight is t
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

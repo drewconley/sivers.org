@@ -64,8 +64,8 @@ NOTE: the exception to this rule is when you're raising money by letting hardcor
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

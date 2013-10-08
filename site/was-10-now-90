@@ -43,8 +43,8 @@ You have to make a great recording, a great show, a great image.  You have to co
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

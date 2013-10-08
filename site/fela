@@ -48,8 +48,8 @@ Which of course makes me wonder about all the other beginnings and endings and t
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

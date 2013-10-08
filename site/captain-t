@@ -69,8 +69,8 @@ Every now and then, my friend Captain T gets approached by someone that used to 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

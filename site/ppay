@@ -62,8 +62,8 @@ Some will feel good about paying.  <strong>It will actually make them happy to g
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -59,8 +59,8 @@ I wrote <a href="/mp3/DEREK_SIVERS-Still_Too_Soon_to_Tell-1998-08.mp3">a song</a
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -89,8 +89,8 @@ In the end, I had to pay $3.3 million dollars to buy back that 90%.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

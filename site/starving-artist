@@ -83,8 +83,8 @@ You'll probably be happier with your art because of this change in mindset.  Iro
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

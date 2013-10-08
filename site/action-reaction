@@ -83,8 +83,8 @@ I have the feeling this little brainstorm just barely scratched the surface, so 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

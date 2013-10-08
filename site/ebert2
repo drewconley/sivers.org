@@ -428,8 +428,8 @@ So, yeah.  I recommend you watch as many of these movies and read as many of the
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

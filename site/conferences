@@ -97,8 +97,8 @@ After 15 years of 100-or-so conferences, I can tell you from experience that onl
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

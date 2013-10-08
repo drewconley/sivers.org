@@ -56,8 +56,8 @@ It's best for a career to start from a place of absolute resourcefulness.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

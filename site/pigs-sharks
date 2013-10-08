@@ -48,8 +48,8 @@ That's the real reason I often tell musicians not to worry about piracy.  I'm no
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

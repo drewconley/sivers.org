@@ -42,8 +42,8 @@ Just don't expect it to be a movie, really.  It's really more of a <strong>2-hou
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

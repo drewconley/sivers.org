@@ -53,8 +53,8 @@ Analyze that.  Use that.  Adapt those techniques to try writing a headline or ar
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

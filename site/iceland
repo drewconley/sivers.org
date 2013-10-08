@@ -104,8 +104,8 @@ I just spent a few weeks in Iceland, and here's what I found interesting:
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

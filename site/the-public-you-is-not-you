@@ -59,8 +59,8 @@ Publicly say something controversial.&nbsp; &nbsp;I wonder if the Dixie Chicks w
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

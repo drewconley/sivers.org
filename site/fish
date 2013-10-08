@@ -111,8 +111,8 @@ UPDATE: A few people have linked me to <a href="http://online.wsj.com/article/SB
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

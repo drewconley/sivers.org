@@ -61,8 +61,8 @@ Work towards this ideal, and soon you'll be doing only what excites you the most
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

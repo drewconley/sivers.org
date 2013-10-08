@@ -38,8 +38,8 @@ I said, “I couldn't have a job. I need safety. I need the certainty of my own 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

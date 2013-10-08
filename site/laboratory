@@ -78,8 +78,8 @@ But for those of us who think that an eternal escape from work would be paradise
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -65,8 +65,8 @@ Don't forget that <strong>to most people, the music business is pure magic</stro
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

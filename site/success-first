@@ -54,8 +54,8 @@ If you're just starting out, don't ask the industry for help yet.  Make somethin
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

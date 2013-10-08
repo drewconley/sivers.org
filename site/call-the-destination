@@ -54,8 +54,8 @@ You'll get there much faster than just blindly walking out your front door, hopi
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

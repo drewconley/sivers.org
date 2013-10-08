@@ -55,8 +55,8 @@ Would you stand out?  Would people remember you? <strong>Are you being a strong 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

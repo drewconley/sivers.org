@@ -73,8 +73,8 @@ In this business, you have to <strong>prove that something is important to you</
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

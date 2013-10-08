@@ -68,8 +68,8 @@ Lastly, remember that the daily actions have to be exciting, too.  “Speak flue
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

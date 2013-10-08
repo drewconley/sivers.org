@@ -65,8 +65,8 @@ The reason I'm telling all this is because I've been asked the question a few ti
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

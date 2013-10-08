@@ -79,8 +79,8 @@ But then it's also good for other artists if you quietly <strong>reveal how much
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

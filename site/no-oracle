@@ -81,8 +81,8 @@ If you're a performer, make weekly improvements on your ability to captivate an 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

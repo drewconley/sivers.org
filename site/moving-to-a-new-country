@@ -69,8 +69,8 @@ Any other stories of a big move being the best thing you ever did?  Please leave
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

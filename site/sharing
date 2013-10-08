@@ -135,8 +135,8 @@ I tell them the only thing I know how to recommend: “<strong>Start by sharing 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

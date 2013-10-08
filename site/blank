@@ -89,8 +89,8 @@ The one thing that would be even <strong>better</strong> is if you
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

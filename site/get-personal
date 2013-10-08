@@ -59,8 +59,8 @@ Have the confidence to know that being a cool person, being a friend, will sell 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

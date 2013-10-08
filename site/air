@@ -49,8 +49,8 @@ I just wanted to post it here in case this appeals to you, too.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

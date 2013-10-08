@@ -38,8 +38,8 @@ Great quotes from <a href="http://www.nytimes.com/2008/05/14/arts/design/14rausc
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

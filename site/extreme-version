@@ -40,8 +40,8 @@ Your public persona, the image you show to the world, should be an extreme versi
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

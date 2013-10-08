@@ -51,8 +51,8 @@ In my first two hours I had good conversations with:</p><ul>
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -36,8 +36,8 @@ My first TED talk. In India. Still my favorite.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -59,8 +59,8 @@ Be generous.  It will be returned.  As you stay in the music biz, you're going t
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

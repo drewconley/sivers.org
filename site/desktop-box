@@ -68,8 +68,8 @@ IF YOU DO THIS, JUST ONCE, then the job of uploading your information to another
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

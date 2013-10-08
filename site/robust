@@ -99,8 +99,8 @@ Then, when you find some <a href="http://sivers.org/book/Linchpin">brilliant peo
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

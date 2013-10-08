@@ -50,8 +50,8 @@ For me, CD Baby was just a curiosity: that little hobby that kept me up until 2a
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

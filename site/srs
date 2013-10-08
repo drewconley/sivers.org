@@ -260,8 +260,8 @@ Also I got many requests to share my Ruby and JavaScript Anki decks.  I don't th
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

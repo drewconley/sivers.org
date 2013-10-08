@@ -44,8 +44,8 @@ Cut off my legs, and I'll still find a way to <a href="http://sivers.org/aimee-m
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

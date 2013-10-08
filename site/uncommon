@@ -61,8 +61,8 @@ It's split into 8 parts, one subject each:<br>
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

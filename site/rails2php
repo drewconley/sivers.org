@@ -123,8 +123,8 @@ But I hope that this reaches someone somewhere thinking, “God our old code is 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

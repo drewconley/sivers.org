@@ -52,8 +52,8 @@ Heller said, “Yes, but <strong>I have something he will never have: Enough.</s
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

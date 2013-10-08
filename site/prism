@@ -112,8 +112,8 @@ Whereas you wouldn't have been so inspired to get your album selling in a big ge
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

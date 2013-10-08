@@ -74,8 +74,8 @@ Which comes to the last point : <strong>have a home studio</strong>.  If you nee
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

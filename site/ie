@@ -48,8 +48,8 @@ See my notes at <a href="http://sivers.org/book/IgnoreEverybody">http://sivers.o
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

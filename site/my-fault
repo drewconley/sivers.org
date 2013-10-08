@@ -87,8 +87,8 @@ P.S. Also see “<a href="http://sivers.org/villain">Happiness is letting someon
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

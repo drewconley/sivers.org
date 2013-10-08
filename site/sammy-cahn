@@ -101,8 +101,8 @@ I didn't believe in any of that stuff before, but couldn't help but wonder about
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

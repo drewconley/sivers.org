@@ -70,8 +70,8 @@ I don't know the answer.  Do you have any ideas?  Please read the comments below
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

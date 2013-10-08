@@ -65,8 +65,8 @@ See the <a href="http://en.wikipedia.org/wiki/Compose_key">Wikipedia page</a> fo
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

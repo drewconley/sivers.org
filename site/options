@@ -65,8 +65,8 @@ It takes under an hour, but has always helped my friends feel less stressed, thi
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

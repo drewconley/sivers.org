@@ -72,8 +72,8 @@ It may take me another 15 years, but I'm determined.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

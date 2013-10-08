@@ -368,8 +368,8 @@ And I got an incredible response rate from that. Because most people don’t wri
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

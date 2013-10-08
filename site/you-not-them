@@ -59,8 +59,8 @@ You would benefit from <a href="http://sivers.org/tim-ferriss">micro-testing the
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

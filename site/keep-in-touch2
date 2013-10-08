@@ -92,8 +92,8 @@ Oh, and try to sense when they don't like you. Sometimes they just don't like yo
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

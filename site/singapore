@@ -80,8 +80,8 @@ If you’re coming to Singapore, <a href="http://sivers.org/contact">email me</a
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

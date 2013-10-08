@@ -53,8 +53,8 @@ Then they'll feel confident that their big money is being well invested.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

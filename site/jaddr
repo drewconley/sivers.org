@@ -37,8 +37,8 @@ It came from two previous posts: <a href="http://sivers.org/jadr">Japanese Addre
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

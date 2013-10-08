@@ -78,8 +78,8 @@ Like I said, the spaghetti approach, combined with patience and cajones, is your
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

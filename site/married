@@ -59,8 +59,8 @@ And with that in mind, Saj and I are getting married today.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

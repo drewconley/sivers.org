@@ -100,8 +100,8 @@ Play for 2 hours.  Drive for 14.  Play for 2.  Drive for 16.  Repeat and fade...
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

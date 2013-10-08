@@ -63,8 +63,8 @@ Don't reinvent any of these wheels. Focus on what's left - what hasn't been done
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

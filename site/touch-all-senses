@@ -56,8 +56,8 @@ Get onto any TV shows you can.  Scent your album with patchouli oil.  Make your 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

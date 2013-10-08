@@ -73,8 +73,8 @@ I'm really interested to hear everyone's honest answer.  Please leave a reply in
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -39,8 +39,8 @@ The best opportunities will come from real friends, not “contacts”.  Be a go
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

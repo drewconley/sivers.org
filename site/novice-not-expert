@@ -50,8 +50,8 @@ Maybe it's time to admit your weakness as a booking agent, and hand it off to so
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

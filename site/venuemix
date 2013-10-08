@@ -64,8 +64,8 @@ Anyone want to do it?  Talk with the brilliant <a href="http://www.petergregson.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

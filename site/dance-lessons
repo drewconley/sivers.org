@@ -71,8 +71,8 @@ But this is also the most obvious, instant, and visual example of <strong>how to
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

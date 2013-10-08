@@ -73,8 +73,8 @@ Then every time they say you’re wrong, that’s a sign you’re doing it right
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

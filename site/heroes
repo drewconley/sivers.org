@@ -98,8 +98,8 @@ Harry's book “<a href="http://beckwithpartners.com/sellingtheinvisible.aspx">S
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

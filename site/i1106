@@ -129,8 +129,8 @@ My favorite interview ever. Ronnie Overgoor in Rotterdam, Holland. (Warning: swe
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

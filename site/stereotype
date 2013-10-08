@@ -44,8 +44,8 @@ Oh and just to rub it in, I was born in Silicon Valley, California.  Sheesh.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

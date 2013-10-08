@@ -62,8 +62,8 @@ Your descriptions of your music should be almost as exciting (or touching, or sa
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

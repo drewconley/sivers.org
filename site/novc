@@ -52,8 +52,8 @@ By then they'd decided I was just crazy and would surely fail, which was fine wi
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

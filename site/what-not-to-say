@@ -59,8 +59,8 @@ Get out of your own skin, and describe things in a way that's interesting to oth
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

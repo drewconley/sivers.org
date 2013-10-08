@@ -71,8 +71,8 @@ But whatever you do, stay away from the words “everything”, “nothing”, �
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

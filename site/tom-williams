@@ -259,8 +259,8 @@ For more info on Tom Williams, check out his current projects: <a href="http://g
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

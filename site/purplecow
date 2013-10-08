@@ -50,8 +50,8 @@ And that’s only limited by your creativity and persistence, not budget.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

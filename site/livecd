@@ -73,8 +73,8 @@ Save these specific numbers, and either post them as a comment below, or email m
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -45,8 +45,8 @@ Yes, it's hard to find these people.  But it's harder to watch your career crawl
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

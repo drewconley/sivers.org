@@ -53,8 +53,8 @@ But there are <strong>millions</strong> who will buy the second.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

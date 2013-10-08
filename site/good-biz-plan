@@ -53,8 +53,8 @@ Make the kind of business plan that will get you to a good sustainable level of 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

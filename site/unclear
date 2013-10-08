@@ -52,8 +52,8 @@ I feel bad that they haven't felt the pain of trying to email that text to thous
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

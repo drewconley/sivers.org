@@ -84,8 +84,8 @@ If there are sincerely a few different companies you would love to work for, and
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

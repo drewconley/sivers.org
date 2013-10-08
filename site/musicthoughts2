@@ -55,8 +55,8 @@ Now I've approved hundreds of new quotes submitted by others, paid the translato
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

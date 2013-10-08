@@ -70,8 +70,8 @@ But most of all, I get the constant priceless reminder that I have <strong>enoug
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

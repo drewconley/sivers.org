@@ -92,8 +92,8 @@ On the command-line, where the <strong>mailer.php</strong> and <strong>list.txt<
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

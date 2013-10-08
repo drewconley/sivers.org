@@ -65,8 +65,8 @@ Seems it'd take nothing but one programmer and one organizer to make it happen. 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

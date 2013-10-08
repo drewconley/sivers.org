@@ -40,8 +40,8 @@ Buy the book or read my notes on this great book at http://sivers.org/book/ArtOf
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

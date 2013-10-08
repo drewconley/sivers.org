@@ -71,8 +71,8 @@ And still somehow balance this with making the best music you can and constantly
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

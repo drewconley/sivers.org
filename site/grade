@@ -80,8 +80,8 @@ So <strong>what's that measure, for you?</strong>  What are the common threads r
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

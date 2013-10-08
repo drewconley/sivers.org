@@ -90,8 +90,8 @@ If this kind of stuff intrigues you, check out some <a href="http://www.crazyguy
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

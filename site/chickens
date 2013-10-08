@@ -52,8 +52,8 @@ I like getting these questions, though.  They're a good reminder of beginner's m
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

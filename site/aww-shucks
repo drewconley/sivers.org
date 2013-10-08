@@ -49,8 +49,8 @@ If you haven't read it yet, <a href="http://sivers.org/pdf/DerekSivers.pdf">plea
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

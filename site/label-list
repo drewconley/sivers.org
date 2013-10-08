@@ -63,8 +63,8 @@ I haven't talked to any labels about this yet, but I wonder what their perspecti
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

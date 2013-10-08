@@ -53,8 +53,8 @@ P.S.  Here's my <a href="http://www.bikingviking.is/?id=64">next daydream bike r
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

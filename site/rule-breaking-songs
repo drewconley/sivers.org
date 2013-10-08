@@ -41,8 +41,8 @@ Feel free to include a link to your own rule-breaking song, here, in comments.  
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

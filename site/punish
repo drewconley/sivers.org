@@ -67,8 +67,8 @@ Resist the urge to punish everyone for one person's mistake.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

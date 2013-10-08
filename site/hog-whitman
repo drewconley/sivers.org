@@ -85,8 +85,8 @@ Have a success story of your own to share?  Please write a short version and pos
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

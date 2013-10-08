@@ -47,8 +47,8 @@ Feel free to ask any questions about them or just let me know if you've read the
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

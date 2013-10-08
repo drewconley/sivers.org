@@ -80,8 +80,8 @@ P.S.  On a related note, <a href="http://sivers.org/berklee">see my talk to inco
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

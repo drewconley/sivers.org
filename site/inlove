@@ -56,8 +56,8 @@ C'mon songwriters, I know you've thought about this.  <img src="/images/icon_smi
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

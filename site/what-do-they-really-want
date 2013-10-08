@@ -68,8 +68,8 @@ And maybe, just maybe, they'll be or do exactly what you want.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

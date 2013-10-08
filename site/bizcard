@@ -52,8 +52,8 @@ If I see you at a conference, I'll be glad to hand you my business card for the 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

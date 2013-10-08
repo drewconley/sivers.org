@@ -109,8 +109,8 @@ I'm sure there are more I'll think of after posting this, but in the meantime, I
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

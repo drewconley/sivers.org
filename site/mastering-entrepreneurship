@@ -52,8 +52,8 @@ Sorry I'm all questions and no answers today, but I'm really curious to hear you
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

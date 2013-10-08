@@ -50,8 +50,8 @@ Get used to this concept, and we'll go into detail on the next page.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

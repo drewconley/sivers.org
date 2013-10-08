@@ -59,8 +59,8 @@ And you'll find many more opportunities open to you once you've earned your way 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

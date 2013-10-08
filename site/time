@@ -122,8 +122,8 @@ Sure enough, in 2006, with their great combination of present-focused creativity
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

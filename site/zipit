@@ -61,8 +61,8 @@ It may seem unnatural to keep your intentions and plans private, but try it.  If
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

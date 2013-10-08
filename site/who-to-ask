@@ -42,8 +42,8 @@ It's always best to <strong>get recommendations directly from the source</strong
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

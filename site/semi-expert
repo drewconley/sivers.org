@@ -60,8 +60,8 @@ The pitch is a humble one: “I'm only doing what you could do yourself, if you 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

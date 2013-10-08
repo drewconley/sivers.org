@@ -84,8 +84,8 @@ Time to go make <a href="http://muckwork.com">something</a> happen.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

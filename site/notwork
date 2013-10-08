@@ -54,8 +54,8 @@ On the other hand, they say <a href="http://sivers.org/book/StumblingOnHappiness
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

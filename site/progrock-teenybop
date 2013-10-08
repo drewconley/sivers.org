@@ -56,8 +56,8 @@ He's selling more CDs than ever!  He found his true fans.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -50,8 +50,8 @@ The shorter, the better.  Give them one good sentence (a few good words), and st
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

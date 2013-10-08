@@ -70,8 +70,8 @@ I spend a LOT of money on music, but haven't been to a live concert in years.  T
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

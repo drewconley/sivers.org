@@ -98,8 +98,8 @@ I was still at <a href="http://hostbaby.com/">HostBaby</a> then, and everything 
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

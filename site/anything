@@ -54,8 +54,8 @@ If the videos are not showing, below, you can also see them at http://vimeo.com/
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

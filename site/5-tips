@@ -46,8 +46,8 @@ Bring out your weird side.  What's great about the long tail is that there can b
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

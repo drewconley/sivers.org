@@ -53,8 +53,8 @@ Make the wheels in their head turn.  Make them taste it, hear it, see it, want i
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

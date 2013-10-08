@@ -87,8 +87,8 @@ Hugh MacLeod has <a href="http://gapingvoid.com/2010/01/21/linchpin-ten-question
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

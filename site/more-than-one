@@ -100,8 +100,8 @@ Realizing <strong>the initial choices you made are just one of many</strong> bri
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

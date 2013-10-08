@@ -67,8 +67,8 @@ So, those are mine, but <strong>what's YOUR grand pursuit?</strong>  I'm sincere
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -50,8 +50,8 @@ Some rare and lucky folks (perhaps on your “band mailing list”) have time on
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

@@ -38,8 +38,8 @@ For the full version, including advice from many musicians, go to http://sivers.
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

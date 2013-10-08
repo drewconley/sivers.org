@@ -72,8 +72,8 @@ My favorite example of this is Firefox's <a href="http://www.mozillazine.org/mis
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

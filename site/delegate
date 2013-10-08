@@ -171,8 +171,8 @@ Being self-employed feels like freedom until you realize that if you take time o
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

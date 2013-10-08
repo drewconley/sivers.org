@@ -58,8 +58,8 @@ Please check it out.  And if you’re also interested in this subject, <a href="
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

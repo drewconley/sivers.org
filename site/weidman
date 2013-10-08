@@ -140,8 +140,8 @@ Einstein smiled and put his arm across my shoulders. And he uttered ten words th
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

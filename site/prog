@@ -78,8 +78,8 @@ This will give you a good foundation if you want to go on to make iPhone or Andr
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

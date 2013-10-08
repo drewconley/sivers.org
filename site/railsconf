@@ -42,8 +42,8 @@ Overall, I felt this was a TERRIBLE unfocused presentation, but some people have
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 

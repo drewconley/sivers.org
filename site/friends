@@ -901,8 +901,8 @@ Sajitha Begum Jahangir (now Saj Sivers)
     </footer>
   </article>
 
-  <section id="comments">
-  </section>
+  <div id="comments">
+  </div>
   <script type="text/javascript" src="/js/comments.js"></script>
 
 
