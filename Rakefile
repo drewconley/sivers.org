@@ -267,8 +267,10 @@ task :tweet do
   system "vi content/tweets/#{filename}"
 end
 
-desc 'rarely-used: write translated blog posts to HTML files'
-task :translated, :lang do |lang|
+desc "USAGE: rake translated['zh']"
+task :translated, :lang do |t, args|
+  lang = args[:lang]
+  puts "doing language #{lang}"
   require 'sequel'
   DB = Sequel.postgres('sivers', user: 'sivers')
   DB[:posts].where(lang: lang).each do |p|
