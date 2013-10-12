@@ -101,7 +101,8 @@ class Comment < Sequel::Model(Sivers::DB)
         unless %r{\Ahttps?://} === h['url']
           h['url'] = 'http://' + h['url']
         end
-        nu[:url] = h['url']
+	# If I take URLs again, uncomment this next line:
+        # nu[:url] = h['url']
       end
       nu[:html] = h['comment'].force_encoding('UTF-8').gsub(%r{</?[^>]+?>}, '')
       nu
