@@ -32,7 +32,7 @@ body#tweets dt {
 p, li, dt, dd, blockquote {
 	font-family: Georgia, serif;
 	line-height: 1.4em;
-	font-size: emCalc(20px);
+	font-size: emCalc(18px);
 }
 
 #masthead h1 {
@@ -54,12 +54,6 @@ p, li, dt, dd, blockquote {
 
 #masthead h2 {
 	margin-top: 0;
-}
-
-#rasthead, #rontent {
-	@extend .small-8;
-	@extend .small-centered;
-	@extend .columns;
 }
 
 input[type=submit] {
