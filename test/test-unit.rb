@@ -59,7 +59,7 @@ class TestComments < Test::Unit::TestCase
 
   def test_clean
     h = @good['rack.request.form_hash']
-    nu = {uri: 'trust', name: h['name'], email: h['email'], ip: @good['REMOTE_ADDR'], url: h['url'], html: h['comment']}
+    nu = {uri: 'trust', name: h['name'], email: h['email'], ip: @good['REMOTE_ADDR'], html: h['comment']}
     assert_equal nu, Comment.clean(@good)
     bad = @good.clone
     bad['rack.request.form_hash']['name'] = '  Some Name '

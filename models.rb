@@ -80,7 +80,7 @@ class Comment < Sequel::Model(Sivers::DB)
 	comment_type: 'comment',
 	comment_author: env['rack.request.form_hash']['name'],
 	comment_author_email: env['rack.request.form_hash']['email'],
-	comment_author_url: env['rack.request.form_hash']['url'],
+	#comment_author_url: env['rack.request.form_hash']['url'],   # NO FORM COMMENTS FOR NOW
 	comment_content: env['rack.request.form_hash']['comment'] }
       params.each {|k,v| params[k] = URI.encode_www_form_component(v)}
       key = Sivers.config['akismet']
@@ -96,13 +96,14 @@ class Comment < Sequel::Model(Sivers::DB)
       nu[:name] = h['name'].strip
       nu[:email] = h['email'].strip.downcase
       nu[:ip] = request_env['REMOTE_ADDR']
-      h['url'].strip!
-      if h['url'].size > 5
-        unless %r{\Ahttps?://} === h['url']
-          h['url'] = 'http://' + h['url']
-        end
-        nu[:url] = h['url']
-      end
+#      NO URL FOR NOW
+#      h['url'].strip!
+#      if h['url'].size > 5
+#        unless %r{\Ahttps?://} === h['url']
+#          h['url'] = 'http://' + h['url']
+#        end
+#        nu[:url] = h['url']
+#      end
       nu[:html] = h['comment'].force_encoding('UTF-8').gsub(%r{</?[^>]+?>}, '')
       nu
     end
