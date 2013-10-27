@@ -92,9 +92,10 @@ class Comment < Sequel::Model(Sivers::DB)
     def clean(request_env)
       h = request_env['rack.request.form_hash'].clone
       Sivers.config['url_regex'].match request_env['HTTP_REFERER']
+      re = %r{</?[^>]+?>}
       nu = {uri: $2}
-      nu[:name] = h['name'].strip
-      nu[:email] = h['email'].strip.downcase
+      nu[:name] = h['name'].force_encoding('UTF-8').strip.gsub(re, '')
+      nu[:email] = h['email'].force_encoding('UTF-8').strip.downcase.gsub(re, '')
       nu[:ip] = request_env['REMOTE_ADDR']
 #      NO URL FOR NOW
 #      h['url'].strip!
@@ -104,7 +105,7 @@ class Comment < Sequel::Model(Sivers::DB)
 #        end
 #        nu[:url] = h['url']
 #      end
-      nu[:html] = h['comment'].force_encoding('UTF-8').gsub(%r{</?[^>]+?>}, '')
+      nu[:html] = h['comment'].force_encoding('UTF-8').gsub(re, '')
       nu
     end
 
