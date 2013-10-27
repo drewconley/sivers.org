@@ -6,6 +6,17 @@
 @import "foundation/components/panels";
 @import "foundation/components/forms";
 
+@font-face {
+    font-family: 'loraregular';
+    src: url('Lora-Regular-webfont.eot');
+    src: url('Lora-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Lora-Regular-webfont.woff') format('woff'),
+         url('Lora-Regular-webfont.ttf') format('truetype'),
+         url('Lora-Regular-webfont.svg#loraregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 html {
 	background-color: $body-bg;
 }
@@ -30,7 +41,7 @@ body#tweets dt {
 }
 
 p, li, dt, dd, blockquote {
-	font-family: Georgia, serif;
+	font-family: 'loraregular', Georgia, serif;
 	line-height: 1.4em;
 	font-size: emCalc(18px);
 }
