@@ -168,6 +168,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>November 2</dt>
+      <dd>New book notes from "How to Fail at Almost Everything and Still Win Big" by Scott Adams: <a href="http://sivers.org/book/HowToFail">http://sivers.org/book/HowToFail</a></dd>
       <dt>September 12</dt>
       <dd>“If it sounds like writing, rewrite it.” — Elmore Leonard</dd>
       <dt>September 10</dt>
@@ -178,8 +180,6 @@
       <dd>"I Forgot My Phone" video is brilliant & powerful: <a href="http://youtu.be/OINa46HeWg8">http://youtu.be/OINa46HeWg8</a></dd>
       <dt>August 7</dt>
       <dd>Forbes put me in "25 Entrepreneurs To Follow" list with Richard Branson, Tony Hsieh, Craig Newmark and other bigshots. <a href="http://www.forbes.com/sites/natalierobehmed/2013/07/31/25-entrepreneurs-to-follow-on-twitter/">http://www.forbes.com/sites/natalierobehmed/2013/07/31/25-entrepreneurs-to-follow-on-twitter/</a></dd>
-      <dt>August 1</dt>
-      <dd>Rewrite of <a href="http://sivers.org/">http://sivers.org/</a> as generated static site. Code section near bottom has open source Ruby code behind it, if interested.</dd>
     </dl>
   </section>
   

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2013-09-20T13:57:02+12:00</updated>
+  <updated>2013-11-02T16:47:04+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -660,7 +660,7 @@ So, yeah.  I recommend you watch as many of these movies and read as many of the
 &lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-yellow-submarine-1968"&gt;Yellow Submarine&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-yojimbo-1961"&gt;Yojimbo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p class="small"&gt;(and a cache of them &lt;a href="http://sivers.s3.amazonaws.com/ebert.zip"&gt;here&lt;/a&gt;, just in case)&lt;/p&gt;
+&lt;p class="small"&gt;(and a cache of them &lt;a href="http://sivers.org/file/ebert.zip"&gt;here&lt;/a&gt;, just in case)&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -821,7 +821,7 @@ A few months ago, I did &lt;a href="http://foolishadventure.com/audio/derek-sive
 &lt;/p&gt;&lt;p&gt;
 I got a bunch of emails from people who really seem to like it, so the brilliant &lt;a href="http://emarmusic.com/"&gt;Melissa Rebronja&lt;/a&gt; transcribed it, below.
 &lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;You can &lt;a href="http://sivers.s3.amazonaws.com/fa132-derek-sivers-success-mindset.mp3"&gt;download the MP3 of the hour-long conversation, here&lt;/a&gt;&lt;/strong&gt; - or just read the transcript, below.
+&lt;strong&gt;You can &lt;a href="http://sivers.org/file/fa132-derek-sivers-success-mindset.mp3"&gt;download the MP3 of the hour-long conversation, here&lt;/a&gt;&lt;/strong&gt; - or just read the transcript, below.
 &lt;/p&gt;&lt;p&gt;
 He brought up some interesting subjects, so I'd love to hear your thoughts or feedback. Leave a comment here, or &lt;a href="mailto:derek@sivers.org"&gt;email me at derek@sivers.org&lt;/a&gt; anytime. 
 &lt;/p&gt;
@@ -1895,8 +1895,8 @@ After I posted this, someone showed me &lt;a href="http://www.jackkinsella.ie/20
 Also I got many requests to share my Ruby and JavaScript Anki decks.  I don't think it's very useful, because the whole point is that the Anki card is not where you learn - it's more of a reminder you give your future self about something you have already learned.  The learning itself requires more context.  But that said, if you want, &lt;strong&gt;here are my JavaScript and Ruby decks&lt;/strong&gt; as of January 7 2013.  You'll have to use Anki's “File → Import” function to import them.
 &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://sivers.s3.amazonaws.com/JavaScript-sivers.apkg.zip"&gt;JavaScript Anki deck&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://sivers.s3.amazonaws.com/Ruby-sivers.apkg.zip"&gt;Ruby Anki deck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sivers.org/file/JavaScript-sivers.apkg.zip"&gt;JavaScript Anki deck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sivers.org/file/Ruby-sivers.apkg.zip"&gt;Ruby Anki deck&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
   </entry>
