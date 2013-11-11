@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>http://sivers.org/</loc><lastmod>2013-11-02</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-<url><loc>http://sivers.org/blog</loc><lastmod>2013-11-02</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
-<url><loc>http://sivers.org/tweets</loc><lastmod>2013-11-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-<url><loc>http://sivers.org/book</loc><lastmod>2013-11-02</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>http://sivers.org/presentations</loc><lastmod>2013-11-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>http://sivers.org/</loc><lastmod>2013-11-11</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://sivers.org/blog</loc><lastmod>2013-11-11</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+<url><loc>http://sivers.org/tweets</loc><lastmod>2013-11-11</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+<url><loc>http://sivers.org/book</loc><lastmod>2013-11-11</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>http://sivers.org/presentations</loc><lastmod>2013-11-11</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://sivers.org/ask-favors</loc></url>
 <url><loc>http://sivers.org/call-the-destination</loc></url>
 <url><loc>http://sivers.org/captain-t</loc></url>
@@ -330,6 +330,7 @@
 <url><loc>http://sivers.org/MoonwalkingEinstein</loc></url>
 <url><loc>http://sivers.org/SoGood</loc></url>
 <url><loc>http://sivers.org/HowToTalkToAnyone</loc></url>
+<url><loc>http://sivers.org/StartingStrength.txt</loc></url>
 <url><loc>http://sivers.org/MillionaireMind</loc></url>
 <url><loc>http://sivers.org/GettingThingsDone</loc></url>
 <url><loc>http://sivers.org/HiringSmart</loc></url>
@@ -426,6 +427,7 @@
 <url><loc>http://sivers.org/ConfessionsPublicSpeaker</loc></url>
 <url><loc>http://sivers.org/ChecklistManifesto</loc></url>
 <url><loc>http://sivers.org/HappinessHypothesis</loc></url>
+<url><loc>http://sivers.org/SelfReliance.txt</loc></url>
 <url><loc>http://sivers.org/ProjectManagement</loc></url>
 <url><loc>http://sivers.org/PowerOfFullEngagement</loc></url>
 <url><loc>http://sivers.org/ProductiveProgrammer</loc></url>

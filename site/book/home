@@ -343,6 +343,15 @@
       </figcaption>
     </figure>
 
+    <figure class="abook" data-rating="8" data-title="Self Reliance - by Ralph Waldo Emerson" data-date="2013-11-08">
+      <a href="/book/SelfReliance.txt"><img src="/images/SelfReliance.txt.gif" alt="Self Reliance - by Ralph Waldo Emerson" /></a>
+      <figcaption>
+        <h2><a href="/book/SelfReliance.txt">Self Reliance - by Ralph Waldo Emerson</a></h2>
+        <p>ISBN: 1936719061 READ: 2013-11-08 RATING: 8/10</p>
+        <p>Pow! This punched me in the gut from page one. Takes a tiny effort to read the English of the 1840s, but what a reward. A masterpiece essay (manifesto?) on independence, non-conformity, and trusting oneself. </p>
+      </figcaption>
+    </figure>
+
     <figure class="abook" data-rating="8" data-title="How to Fail at Almost Everything and Still Win Big - by Scott Adams" data-date="2013-10-28">
       <a href="/book/HowToFail"><img src="/images/HowToFail.gif" alt="How to Fail at Almost Everything and Still Win Big - by Scott Adams" /></a>
       <figcaption>
@@ -736,6 +745,15 @@
         <h2><a href="/book/MaximumAchievement">Maximum Achievement - by Brian Tracy</a></h2>
         <p>ISBN: 0684803313 READ: 2006-11-12 RATING: 7/10</p>
         <p>A classic self-help book. Exactly what you'd expect. But very good.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="6" data-title="Starting Strength - by Mark Rippetoe" data-date="2013-11-01">
+      <a href="/book/StartingStrength.txt"><img src="/images/StartingStrength.txt.gif" alt="Starting Strength - by Mark Rippetoe" /></a>
+      <figcaption>
+        <h2><a href="/book/StartingStrength.txt">Starting Strength - by Mark Rippetoe</a></h2>
+        <p>ISBN: 0982522738 READ: 2013-11-01 RATING: 6/10</p>
+        <p>For those who ever considered getting fit, this is the way to do it, and the best book on the subject. Not sure if I should put this in my book list, because it's not something you read, but something you do.</p>
       </figcaption>
     </figure>
 
