@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Bird by Bird - by Anne Lamott | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+</head>
+<body id="onebook">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+    <header>
+      <figure><a href="http://www.amazon.com/dp/0385480016?tag=sivers-20"><img src="/images/BirdByBird.gif" alt="Bird by Bird - by Anne Lamott"></a></figure>
+      <h1>Bird by Bird - by Anne Lamott</h1>
+      <p class="postdate">
+        ISBN: 0385480016<br>
+        READ: 2013-11-11<br>
+        RATING: 3/10<br>
+      </p>
+      <p><a href="http://www.amazon.com/dp/0385480016?tag=sivers-20">Amazon page</a> for details and reviews.</p>
+    </header>
+
+    <p id="booksummary">So many people love this book, but it just wasn't my style. Aiming to be funny and describing a crazy mindset, but I couldn't relate to either. Mostly about writing novels.</p>
+    <h2>my notes</h2>
+    <p id="booknotes">
+Writing motivates you to look closely at life.<br>
+<br>
+Do it every day.  Do it as you would do scales on the piano. Do it by prearrangement with yourself. Do it as a debt of honor. And make a commitment to finishing things.<br>
+<br>
+Take people out of themselves and then back to themselves.<br>
+<br>
+Good writing is about telling the truth.<br>
+<br>
+Anyone who survived childhood has enough material to write for life.<br>
+<br>
+Sit down at approximately the same time every day. This is how you train your unconscious to kick in for you creatively.<br>
+<br>
+All I have to do is to write down as much as I can see through a one-inch picture frame.<br>
+<br>
+Writing a novel is like driving a car at night. You can see only as far as your headlights, but you can make the whole trip that way.<br>
+<br>
+A person’s faults are largely what make him or her likable.  They shouldn’t be too perfect; perfect means shallow and unreal and fatally uninteresting. I like for them to have a nice sick sense of humor.<br>
+<br>
+The writer is a person who is standing apart.<br>
+<br>
+“A writer is someone on whom nothing is lost.” - Henry James<br>
+<br>
+
+    </p>
+
+
+</section>
+</body>
+</html>
+

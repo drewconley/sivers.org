@@ -1225,6 +1225,15 @@
       </figcaption>
     </figure>
 
+    <figure class="abook" data-rating="3" data-title="Bird by Bird - by Anne Lamott" data-date="2013-11-11">
+      <a href="/book/BirdByBird"><img src="/images/BirdByBird.gif" alt="Bird by Bird - by Anne Lamott" /></a>
+      <figcaption>
+        <h2><a href="/book/BirdByBird">Bird by Bird - by Anne Lamott</a></h2>
+        <p>ISBN: 0385480016 READ: 2013-11-11 RATING: 3/10</p>
+        <p>So many people love this book, but it just wasn't my style. Aiming to be funny and describing a crazy mindset, but I couldn't relate to either. Mostly about writing novels.</p>
+      </figcaption>
+    </figure>
+
     <figure class="abook" data-rating="3" data-title="One Simple Idea - by Stephen Key" data-date="2011-04-29">
       <a href="/book/OneSimpleIdea"><img src="/images/OneSimpleIdea.gif" alt="One Simple Idea - by Stephen Key" /></a>
       <figcaption>
