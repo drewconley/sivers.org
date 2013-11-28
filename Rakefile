@@ -272,8 +272,8 @@ task :translated, :lang do |t, args|
   lang = args[:lang]
   puts "doing language #{lang}"
   require 'sequel'
-  DB = Sequel.postgres('sivers', user: 'sivers')
-  DB[:posts].where(lang: lang).each do |p|
+  DB = Sequel.postgres('d50b', user: 'd50b')
+  DB[:sivers__posts].where(lang: lang).each do |p|
     @date = p[:created_at].to_s
     @url = p[:uri]
     @year = @date[0,4]

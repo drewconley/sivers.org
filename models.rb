@@ -6,7 +6,7 @@ require 'resolv'
 require 'net/http'
 
 class Sivers
-  DB = Sequel.postgres('sivers', user: 'sivers')
+  DB = Sequel.postgres('d50b', user: 'd50b')
 
   # config keys: 'project_honeypot_key', 's3key', 's3secret', 'akismet'
   def self.config
@@ -22,7 +22,7 @@ class Sivers
 end
 
 # comments stored in database
-class Comment < Sequel::Model(Sivers::DB)
+class Comment < Sequel::Model(:sivers__comments)
   class << self
 
     # return array of hashes of comments for this URI
