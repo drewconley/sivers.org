@@ -6,7 +6,7 @@ SET search_path = sivers;
 CREATE TABLE comments (
 	id serial primary key,
 	uri varchar(32) not null,
-	person_id integer,
+	person_id integer not null REFERENCES peeps.people(id),
 	created_at date not null default CURRENT_DATE,
 	html text not null,
 	name text,
