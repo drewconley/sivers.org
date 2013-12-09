@@ -168,6 +168,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>December 10</dt>
+      <dd>OK, Milt Olin, I'll start writing again : <a href="http://sivers.org/milt">http://sivers.org/milt</a></dd>
       <dt>November 27</dt>
       <dd>Confirmed I'll be at TED 2014 in Vancouver, and TED Global 2014 in Rio de Janeiro. Email me to meet up: derek@sivers.org</dd>
       <dt>November 11</dt>
@@ -178,8 +180,6 @@
       <dd>“If it sounds like writing, rewrite it.” — Elmore Leonard</dd>
       <dt>September 10</dt>
       <dd>Every smart person I know has read “Paradox of Choice”: <a href="http://sivers.org/book/ParadoxOfChoice">http://sivers.org/book/ParadoxOfChoice</a></dd>
-      <dt>August 28</dt>
-      <dd>Memorizing <a href="http://underscorejs.org/">http://underscorejs.org/</a> using <a href="http://ankisrs.net/">http://ankisrs.net/</a> like this: <a href="http://sivers.org/srs">http://sivers.org/srs</a></dd>
     </dl>
   </section>
   
