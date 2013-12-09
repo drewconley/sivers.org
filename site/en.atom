@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2013-11-12T11:28:22+13:00</updated>
+  <updated>2013-12-10T12:10:37+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>OK, Milt Olin, I'll start writing again</title>
+    <id>http://sivers.org/milt</id>
+    <updated>2013-12-09T00:00:00+00:00</updated>
+    <published>2013-12-09T00:00:00+00:00</published>
+    <link href="http://sivers.org/milt"/>
+    <content type="html">&lt;p&gt;
+Last night I spent far too much time tinkering with setting up both the &lt;a href="http://www.freebsd.org/"&gt;FreeBSD&lt;/a&gt; and &lt;a href="http://www.openbsd.org/"&gt;OpenBSD&lt;/a&gt; operating systems to dual-boot on my laptop.
+&lt;/p&gt;&lt;p&gt;
+This morning I found out one of my best friends died yesterday.  He was in great health, was out on a bike ride on a quiet street, and a car swerved into the bike lane, &lt;a href="http://losangeles.cbslocal.com/2013/12/08/bicyclist-struck-and-killed-by-sheriffs-radio-car-in-calabasas/"&gt;killing him instantly&lt;/a&gt;.
+&lt;/p&gt;&lt;p&gt;
+I let him share my online music account.  He had just downloaded the entire Bruce Springsteen and Neil Young catalog yesterday before he left on his ride.
+&lt;/p&gt;&lt;p&gt;
+I've been crying off and on all morning, thinking about the things we do with our time.  What's worthy and what's a waste.
+&lt;/p&gt;&lt;p&gt;
+It really is limited.  We can't pretend it's not.  Time spent doing one thing is time spent not doing something else.
+&lt;/p&gt;&lt;p&gt;
+It's so easy to waste time doing that stuff that's of no importance, no challenge, no benefit to anyone, not even yourself.
+&lt;/p&gt;&lt;p&gt;
+It's so hard to fight the &lt;a href="/book/WarOfArt"&gt;resistance&lt;/a&gt; to do the more difficult but more important thing.  Finishing that book.  Writing that song.  Launching that project.  Making that call.
+&lt;/p&gt;&lt;p&gt;
+I spent this morning thinking about what doesn't matter (like dual-booting FreeBSD and OpenBSD) and what does.  For me, &lt;strong&gt;writing&lt;/strong&gt; is about the most worthy thing I can do with my time.  I love how the distributed word is eternal - that every day I get emails from strangers thanking me for things I wrote years ago that helped them today.  I love how those things will continue to help people long after I'm gone.
+&lt;/p&gt;&lt;p&gt;
+So this lesson is dedicated to you, Milt.  I'm going to start writing again.
+&lt;/p&gt;
+&lt;img src="/images/miltolin.jpg" width="315" height="199" alt="Milt Olin Twitter page"&gt;
+</content>
+  </entry>
   <entry>
     <title>Fragile Plan vs Robust Plan</title>
     <id>http://sivers.org/robust</id>
@@ -3050,119 +3078,6 @@ Sajitha Begum Jahangir (now Saj Sivers)
 &lt;p&gt;
 &lt;strong&gt;To those not listed:&lt;/strong&gt;  Memory isn’t perfect.  Sorry!
 &lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>The co-op business model: share whatever you've got</title>
-    <id>http://sivers.org/sharing</id>
-    <updated>2011-11-20T00:00:00+00:00</updated>
-    <published>2011-11-20T00:00:00+00:00</published>
-    <link href="http://sivers.org/sharing"/>
-    <content type="html">&lt;p&gt;
-I feel like I know almost nothing about business, because the only business I’ve ever done is the &lt;strong&gt;co-op / sharing&lt;/strong&gt; model.
-&lt;/p&gt;
-&lt;p&gt;
-It goes like this:
-&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;1. You already have something that people want.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;
-It might be something you own, something you’ve learned how to do, or access to valuable resources, space, or people.
-&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;2. Find a way to share it with everyone who needs it.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;
-Share because it’s what you do for friends, because it’s the right thing to do, because it makes the world a better place, and because it’ll make you deeply happy. 
-&lt;/p&gt;
-&lt;p&gt;
-Share as your contribution in return for all the things and ideas that people have shared with you.
-&lt;/p&gt;
-&lt;p&gt;
-(If you’re having a bad day, or someone has recently wronged you, you may not feel the world has shared much with you, but &lt;a href="http://www.dailymotion.com/video/x8m5d0_everything-is-amazing-and-nobody-i_fun"&gt;here’s a reminder&lt;/a&gt;.)
-&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;3. If it takes some effort for you to share it, you can charge a little something for your effort, to ensure that this giving can continue.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;h3&gt;
-My examples:
-&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-In 1994, the U.S. Copyright office still didn’t have their &lt;strong&gt;copyright forms&lt;/strong&gt; online.
-You still had to mail a letter to Washington DC to ask them to mail you some blank forms, if you wanted to copyright your songs.
-&lt;br /&gt;
-I scanned all the forms, and put them on my website for free as printable downloads, for any musician who needed them.
-&lt;br /&gt;
-For the next year or two, until the government started putting the forms online, my site was the only place to get them.
-This was my first effort to contribute back to this great invention of the internet.
-&lt;/li&gt;
-&lt;li&gt;
-In 1995, I learned &lt;strong&gt;how to trademark my band name.&lt;/strong&gt;
-It took many hours of work to figure out the legalese, but I did it.
-&lt;br /&gt;
-I wrote out the step-by-step instructions and put them on my band’s website for free.
-&lt;br /&gt;
-For years it was the go-to resource for musicians who wanted to trademark their name.
-&lt;/li&gt;
-&lt;li&gt;
-In 1996, I had &lt;a href="http://artificialrecords.com/"&gt;a little record label&lt;/a&gt;, so I got a &lt;strong&gt;UPC barcode account&lt;/strong&gt;, so I could put unique UPC barcodes on my CDs.
-I had to pay $750 to the Universal Code Council to get a company account, but that meant I was allowed to create 100,000 products under my account.
-Musician friends asked how, so I showed them how, but also said they could use one of my product IDs.
-&lt;br /&gt;
-At first, I did this for free, as a favor, until friends started sending strangers my way.
-Because it took a little work to generate the number, create their EPS/TIFF graphic barcode, and keep track of their unique IDs forever, I charged $20.
-&lt;br /&gt;
-Over the next 12 years, this made me almost $2 million.
-&lt;/li&gt;
-&lt;li&gt;
-In 1997, I got a &lt;strong&gt;credit card merchant account&lt;/strong&gt; to sell my own CD at live shows.
-It cost $1000 in set-up fees and took three months of red-tape paperwork.
-Then I built a little online shopping cart, which also took months of work, just to sell my own CD.
-Musician friends asked if they could use mine instead of having to go through all of that work, so I said OK.
-&lt;br /&gt;
-At first, I did this for free, as a favor, until it was taking up all of my time.
-Because it took me 45 minutes of work to digitize, stock, set up a new album in my system, I charged $35 per new album.
-Because it took 10 minutes of work to pick, pack, and ship a purchased CD, I charged $4 per CD sold.
-&lt;br /&gt;
-Over the next 12 years, this made me about $20 million.
-&lt;/li&gt;
-&lt;li&gt;
-In 1999, I had learned a lot about &lt;strong&gt;hosting websites.&lt;/strong&gt;
-Linux, Apache, PHP, SQL, FTP, DNS, Qmail, SpamAssassin, etc.
-I had done it for myself for my band’s website, then for CD Baby, and bought my own servers.
-So when friends would complain about their existing web-hosting company, I’d host them on my servers instead.
-&lt;br /&gt;
-At first, I did this for free, as a favor, until it was filling up my server.
-Because each server cost me $300/month, and I had to hire a full-time person to manage this, I charged $20 per month.
-(In 1999 this was way cheap.)
-&lt;br /&gt;
-Over the next 9 years, this made me about $5 million.
-&lt;/li&gt;
-&lt;li&gt;
-Since 2000, I’ve been sharing &lt;strong&gt;everything I’ve learned&lt;/strong&gt; for free.
-I’m not the smartest guy, &lt;a href="/below-average"&gt;probably below average&lt;/a&gt;, but it costs nothing to share, and it’s the right thing to do, so I do.
-&lt;br /&gt;
-Over the last 11 years, this made me incredibly happy and lucky, because of all the interesting people I’ve met by doing it.
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-Point being:
-&lt;/p&gt;
-&lt;p&gt;
-None of these things looked like a business venture.
-&lt;/p&gt;
-&lt;p&gt;
-All of them were just sharing something I already had.
-&lt;/p&gt;
-&lt;p&gt;
-People often ask me if I have any suggestions for what kind of business they should get into.
-&lt;/p&gt;
-&lt;p&gt;
-I tell them the only thing I know how to recommend: “&lt;strong&gt;Start by sharing whatever you’ve got.&lt;/strong&gt;”
-&lt;/p&gt;
-&lt;img src="/images/sharing.jpg" alt="http://www.sexysocialmedia.com/brrwr-sharing-is-caring/" /&gt;
 </content>
   </entry>
 </feed>
