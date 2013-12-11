@@ -23,9 +23,9 @@
 <h1>Projects</h1>
 <dl>
 <dt><a href="https://github.com/sivers/sivers.org">sivers.org</a></dt>
-  <dd>This site. There’s the code that generates it.</dd>
+  <dd>The code that generates this site</dd>
 <dt><a href="/woodegg">Wood Egg</a></dt>
-  <dd>16 books per year about culture &amp; business in 16 countries.</dd>
+  <dd>16 books per year about culture &amp; business in 16 countries</dd>
 <dt><a href="/musicthoughts">MusicThoughts</a></dt>
   <dd>Inspiring quotes about music</dd>
 <dt><a href="/muckwork">Muckwork</a></dt>
@@ -36,6 +36,8 @@
   <dd>Someone witty tweets for you, as you</dd>
 <dt><a href="/karmalist">KarmaList</a></dt>
   <dd>Open noncommercial database of contacts and referrals</dd>
+<dt><a href="/nnn">Now Now Now</a></dt>
+  <dd>Android app for logging how I spend my time</dd>
 <dt><a href="/langpro">Lang.pro</a></dt>
   <dd>Language translation project manager</dd>
 </dl>
