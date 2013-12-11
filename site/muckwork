@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Muckwork | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+</head>
+<body id="muckwork">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+
+<h1>Muckwork</h1>
+
+<p>
+Management of remote assistants doing projects for clients.  See the story in the Schema, below, to understand the process.
+</p>
+
+<h3>status: unfinished</h3>
+
+<h2>Schema</h2>
+<p>
+A <strong>client</strong> submits a <strong>project</strong> - something they need done.  They have already made a <strong>payment</strong> so their account has a positive balance.
+</p><p>
+A <strong>manager</strong> breaks it into a TO-DO list: each step called a <strong>task</strong>.  If it's a common project, the manager will pull up a <strong>template</strong> and copy each <strong>template_task</strong> into that project's tasks.
+</p><p>
+The manager shows the tasks and estimated cost to the client for approval.  The client's balance needs to be enough to cover the project before we begin.
+</p><p>
+A <strong>worker</strong>, a person paid by the second for their time, is alerted when there are unassigned tasks to do.  They claim them if they have time, which assigns the task.worker_id to theirs, and have to start or finish soon or else the tasks are unassigned and put back into the pool so that other workers can be alerted.
+</p><p>
+As the worker marks a task as finished, the total number of seconds spent on that task are multiplied by the worker's fee per-second, to create a <strong>charge</strong>, which is subtracted from the client's balance, and a <strong>worker_charge</strong>.  These are separate because sometimes the client will be charged a flate rate for a task, and not billed by the second, but the worker still needs to get paid for their time.
+</p><p>
+When Muckwork pays the worker, we log a <strong>worker_payment</strong>, and the corresponding worker_charges are updated with its worker_payment.id, to mark those worker_charges as paid.
+</p><p>
+All activity through PayPal is saved as a <strong>paypaltxn</strong> (<em>“txn” = transaction</em>) - usually corresponding to a payment_id.
+</p>
+
+<h2>Site</h2>
+<p>
+The muckwork.com website has all of the functionality described above, plus the REST URLs.  All URLs except home/login/signup require authentication.
+</p><p>
+The REST interface needs to have the full functionality of the site, because many clients will choose to assign and monitor projects from alternate interfaces like mobile apps.  So consider all website pages as just views, with all real POST/PUT/DELETE action run through the REST interface.
+</p><p>
+On muckwork.com, each of the three roles of browser-users have a subdirectory: /c/ for client, /m/ for manager, /w/ for worker.  When a person successfully logs in, they are sent to the appropriate subdirectory. This allows for uniformity of URLs, but with the appropriate views and permissions.
+</p><p>
+For the client, the site gives a full transparent window into the execution of their project and its tasks.  They can see exact time worked, by who, and the worker's notes for each task.  If emails are sent and received for a project by the worker or manager, both are saved in the database and viewable by the client.  If phone calls are made for a project, the audio recording of the call is saved as an MP3 and attached to that project.  The client can interrupt a project at any time, or add comments/questions for the manager or worker.
+</p><p>
+For the worker, the site is an efficient TO-DO list, with quick and easy communication with the manager, an easy email interface for sending and receiving emails for the project.
+</p><p>
+For the manager, a central dashboard shows the status of all projects and tasks, with clear visual feedback when a task is taking longer than it should.  Very easy to send and receive emails to the worker and client regarding a project.  A manager will spend most time turning incoming project requests into specific tasks, and ensuring that current projects are being done well.
+</p>
+
+<h2>REST API</h2>
+<table class="table table-striped table-bordered">
+<thead><tr>
+	<th>URI</th>
+	<th>GET</th>
+	<th>POST</th>
+	<th>PUT</th>
+	<th>DELETE</th>
+</tr></thead>
+<tr>
+	<th>/person/2</th>
+	<td>person info</td> 
+	<td>.</td>
+	<td>update person</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/manager</th>
+	<td>list all managers</td> 
+	<td>person_id to create new manager</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/manager/2</th>
+	<td>manager info</td>
+	<td>.</td>
+	<td>update manager</td>
+	<td>delete manager</td>
+</tr>   
+<tr>
+	<th>/client</th>
+	<td>list all clients</td> 
+	<td>person_id to create new client</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/client/2</th>
+	<td>client info</td>
+	<td>.</td>
+	<td>update client</td>
+	<td>delete client</td>
+</tr>   
+<tr>
+	<th>/worker</th>
+	<td>list all workers</td> 
+	<td>person_id to create new worker</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/worker/2</th>
+	<td>worker info</td>
+	<td>.</td>
+	<td>update worker</td>
+	<td>delete worker</td>
+</tr>   
+<tr>
+	<th>/worker/2/tasks</th>
+	<td>worker's unfinished tasks</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/worker/2/finished</th>
+	<td>worker's finished tasks</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/worker/2/payments</th>
+	<td>worker's payments</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/worker/2/all</th>
+	<td>all worker's related info</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/project</th>
+	<td>list all projects</td> 
+	<td>client_id, title, description to create new project</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/project/2</th>
+	<td>project info</td>
+	<td>.</td>
+	<td>update project</td>
+	<td>delete project</td>
+</tr>   
+<tr>
+	<th>/project/2/tasks</th>
+	<td>project tasks</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/project/2/unfinished</th>
+	<td>project unfinished tasks</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/project/2/finished</th>
+	<td>project finished tasks</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/project/2/charges</th>
+	<td>project charges</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/project/2/emails</th>
+	<td>project emails</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/project/2/all</th>
+	<td>all project's info (see above)</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/task</th>
+	<td>list all tasks</td> 
+	<td>project_id, title, description to create new task</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/task/unfinished</th>
+	<td>list all unfinished tasks (across all projects)</td> 
+	<td>.</td> 
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/task/2</th>
+	<td>task info</td>
+	<td>.</td>
+	<td>update task</td>
+	<td>delete task</td>
+</tr>   
+<tr>
+	<th>/charge</th>
+	<td>list all charges</td> 
+	<td>project_id, currency, millicents, notes to create new charge</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/charge/2</th>
+	<td>charge info</td>
+	<td>.</td>
+	<td>update charge</td>
+	<td>delete charge</td>
+</tr>   
+<tr>
+	<th>/payment</th>
+	<td>list all payments</td> 
+	<td>client_id, currency, millicents, notes to create new payment</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/payment/2</th>
+	<td>payment info</td>
+	<td>.</td>
+	<td>update payment</td>
+	<td>delete payment</td>
+</tr>   
+<tr>
+	<th>/worker_charge</th>
+	<td>list all worker_charges</td> 
+	<td>task_id, notes to create new worker_charge based on time spent times worker rate</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/worker_charge/2</th>
+	<td>worker_charge info</td>
+	<td>.</td>
+	<td>update worker_charge</td>
+	<td>delete worker_charge</td>
+</tr>   
+<tr>
+	<th>/worker_payment</th>
+	<td>list all worker_payments</td> 
+	<td>worker_id, currency, millicents, notes to create new payment IF millicents exactly match outstanding worker_charges updates worker_charges with payment_id</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/worker_payment/2</th>
+	<td>worker_payment info</td>
+	<td>.</td>
+	<td>update worker_payment</td>
+	<td>delete worker_payment</td>
+</tr>   
+<tr>
+	<th>/template</th>
+	<td>list all templates</td> 
+	<td>title, description to create new template</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/template/2</th>
+	<td>template info and its template_tasks</td>
+	<td>.</td>
+	<td>update template</td>
+	<td>delete template</td>
+</tr>   
+<tr>
+	<th>/template_task</th>
+	<td>.</td> 
+	<td>template_id, sortid, title, description to create new template_task</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/template_task/2</th>
+	<td>template_task info</td>
+	<td>.</td>
+	<td>update template_task</td>
+	<td>delete template_task</td>
+</tr>   
+<tr>
+	<th>/paypaltxn</th>
+	<td>list all paypaltxns</td> 
+	<td>txn_id, txn_type, info to create new paypaltxn</td>
+	<td>.</td>
+	<td>.</td>
+</tr>   
+<tr>
+	<th>/paypaltxn/2</th>
+	<td>paypaltxn info</td>
+	<td>.</td>
+	<td>update paypaltxn</td>
+	<td>delete paypaltxn</td>
+</tr>   
+</table>
+
+
+<h2>Database Schema</h2>
+<pre>
+-- MuckWork has WORKERS that do the TASKS inside PROJECTS for CLIENTS.
+BEGIN;
+
+CREATE SCHEMA muckwork;
+SET search_path = muckwork;
+
+CREATE TABLE managers (
+	id serial primary key,
+	person_id integer not null UNIQUE
+);
+
+CREATE TABLE clients (
+	id serial primary key,
+	person_id integer not null UNIQUE,
+	currency char(3) not null default 'USD',
+	millicents_balance integer not null default 0
+);
+
+CREATE TABLE workers (
+	id serial primary key,
+	person_id integer not null UNIQUE,
+	rating integer not null default 50,
+	currency char(3),
+	millicents_per_second integer
+);
+
+CREATE TABLE projects (
+	id serial primary key,
+	client_id integer not null REFERENCES clients,
+	lang char(2) not null default 'en',
+	title text,
+	description text,
+	created_at timestamp(0) with time zone not null default CURRENT_TIMESTAMP,
+	quoted_at timestamp(0) with time zone,
+	approved_at timestamp(0) with time zone,
+	started_at timestamp(0) with time zone,
+	finished_at timestamp(0) with time zone,
+	seconds integer,
+	quoted_currency char(3),
+	quoted_millicents integer,
+	quoted_ratetype varchar(4),  -- time, fix
+	final_currency char(3),
+	final_millicents integer
+);
+CREATE INDEX pjci ON projects(client_id);
+CREATE INDEX pjsa ON projects(started_at);
+CREATE INDEX pjaa ON projects(finished_at);
+	
+CREATE TABLE tasks (
+	id serial primary key,
+	project_id integer REFERENCES projects,
+	worker_id integer REFERENCES workers,
+	sortid integer,
+	lang char(2) not null default 'en',
+	title text,
+	description text,
+	created_at timestamp(0) with time zone not null default CURRENT_TIMESTAMP,
+	started_at timestamp(0) with time zone,
+	finished_at timestamp(0) with time zone
+);
+CREATE INDEX tpi ON tasks(project_id);
+CREATE INDEX twi ON tasks(worker_id);
+CREATE INDEX tsa ON tasks(started_at);
+CREATE INDEX tfa ON tasks(finished_at);
+
+CREATE TABLE charges (
+	id serial primary key,
+	created_at timestamp(0) with time zone not null default CURRENT_TIMESTAMP,
+	project_id integer REFERENCES projects,
+	currency char(3) not null,
+	millicents integer not null,
+	notes text
+);
+CREATE INDEX chpi ON charges(project_id);
+
+CREATE TABLE payments (
+	id serial primary key,
+	created_at timestamp(0) with time zone not null default CURRENT_TIMESTAMP,
+	client_id integer REFERENCES clients,
+	currency char(3) not null,
+	millicents integer not null,
+	notes text
+);
+CREATE INDEX pci ON payments(client_id);
+
+CREATE TABLE worker_payments (
+	id serial primary key,
+	worker_id integer not null REFERENCES workers,
+	currency char(3) not null,
+	millicents integer,
+	created_at date not null default CURRENT_DATE,
+	notes text
+);
+CREATE INDEX wpwi ON worker_payments(worker_id);
+
+CREATE TABLE worker_charges (
+	id serial primary key,
+	task_id integer not null REFERENCES tasks,
+	currency char(3) not null,
+	millicents integer not null,
+	payment_id integer REFERENCES worker_payments  -- NULL until paid
+);
+CREATE INDEX wcpi ON worker_charges(payment_id);
+CREATE INDEX wcti ON worker_charges(task_id);
+
+CREATE TABLE templates (
+	id serial primary key,
+	title text,
+	description text
+);
+
+CREATE TABLE template_tasks (
+	id serial primary key,
+	template_id integer REFERENCES templates,
+	sortid integer,
+	title text,
+	description text
+);
+CREATE INDEX ttti ON template_tasks(template_id);
+
+CREATE TABLE paypaltxns (
+	id serial primary key,
+	payment_id integer REFERENCES payments(id),
+	created_at timestamp with time zone DEFAULT CURRENT_TIMESTAMP,
+	txn_id varchar(32),
+	txn_type varchar(35),
+	info text,
+        reconciled boolean not null default false
+);
+CREATE INDEX txpi ON paypaltxns(payment_id);
+CREATE INDEX txrc ON paypaltxns(reconciled);
+
+CREATE TABLE emails_projects (
+	project_id integer not null REFERENCES projects,
+	email_id integer not null, -- REFERENCES people::emails.id
+	PRIMARY KEY (project_id, email_id)
+);
+CREATE INDEX eppi ON emails_projects(project_id);
+CREATE INDEX epei ON emails_projects(email_id);
+
+CREATE TABLE words (
+	id serial primary key,
+	code varchar(127) unique,
+	lang char(2) not null default 'en',
+	phrase text,
+	comment text
+);
+
+COMMIT;
+</pre>
+
+
+</section>
+</body>
+</html>
+

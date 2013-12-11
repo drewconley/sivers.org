@@ -76,7 +76,7 @@
   </section>
   
   <section id="companies">
-    <h2>Projects</h2>
+    <h2>Projects <span class="small" id="code"><a href="/projects">all projects and code</a></span></h2>
     <figure id="woodegg">
       <a href="http://woodegg.com/"><img src="/images/wood-egg-200-200.jpg" alt="Wood Egg logo" /></a>
       <figcaption>
@@ -181,17 +181,6 @@
       <dt>September 10</dt>
       <dd>Every smart person I know has read “Paradox of Choice”: <a href="http://sivers.org/book/ParadoxOfChoice">http://sivers.org/book/ParadoxOfChoice</a></dd>
     </dl>
-  </section>
-  
-  <section id="code">
-    <h2>Code</h2>
-    <p>Programming is my main activity these days. I love it. I'll add details here soon, but for now, here are <strong>my current projects</strong>, all open source for you to check out if interested:</p>
-    <ul>
-      <li><a href="https://github.com/sivers/sivers.org">sivers.org</a> (new rewrite)</li>
-      <li><a href="https://github.com/50pop/woodegg">Wood Egg</a> (front and back)</li>
-      <li>MusicThoughts: <a href="https://github.com/50pop/musicthoughts-api">API</a>, <a href="https://github.com/50pop/musicthoughts-gem">gem</a>, and <a href="https://github.com/50pop/musicthoughts-web">site</a></li>
-      <li><a href="https://github.com/50pop/peeps">peeps</a> (library)</li>
-    </ul>
   </section>
   
   <section id="search">

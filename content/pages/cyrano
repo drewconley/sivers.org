@@ -1,0 +1,109 @@
+<!-- Cyrano -->
+
+<h1>Cyrano</h1>
+
+<p>
+Musicians (and others) are often told that we should be tweeting a lot.
+</p><p>
+But most of us don't feel like it, or just don't have that much to say.
+</p><p>
+Solution?  Get Cyrano to do it for you.
+</p><p>
+Cyrano hires some great writers to write thousands of great tweets in advance.  Group them by personality (funny, deep, etc).
+</p><p>
+Customer signs up, gives auth access to their Twitter/Facebook/etc status API.  Chooses a personality (funny, deep, etc), a frequency (daily?), and a time (9am? 9pm?).  Then Cyrano starts tweeting as them, unbeknownst to all.
+</p><p>
+Clearly, this is a goofy light-hearted thing, only meant for those who don't take any of this too seriously.  Though there should be enough tweets that people won't get “busted” for “hey - that's not you writing!”, someone should only sign up if they don't really care if they're busted or not.
+</p>
+
+<h3>Status: building. Not launched.</h3>
+
+<h3>CODE: <a href="https://github.com/50pop/cyrano-api">cyrano-api</a>, <a href="https://github.com/50pop/cyrano-gem">cyrano-gem</a>, <a href="https://github.com/50pop/cyrano-web">cyrano-web</a></h3>
+
+<h2>database schema</h2>
+<pre>
+CREATE SCHEMA cyrano;
+SET search_path = cyrano;
+
+CREATE TABLE managers (
+    id serial primary key,
+    person_id integer NOT NULL UNIQUE REFERENCES peeps.people(id),
+    created_at date NOT NULL DEFAULT CURRENT_DATE
+);
+
+CREATE TABLE customers (
+    id serial primary key,
+    person_id integer NOT NULL UNIQUE REFERENCES peeps.people(id),
+    created_at date NOT NULL DEFAULT CURRENT_DATE
+);
+
+CREATE TABLE writers (
+    id serial primary key,
+    person_id integer NOT NULL UNIQUE REFERENCES peeps.people(id),
+    created_at date NOT NULL DEFAULT CURRENT_DATE
+);
+
+CREATE TABLE accounts (
+    id serial primary key,
+    customer_id integer NOT NULL REFERENCES customers(id),
+    name varchar(32),
+    created_at date NOT NULL DEFAULT CURRENT_DATE
+);
+CREATE INDEX accounts_customer ON accounts (customer_id);
+
+CREATE TABLE loginfos (
+    id serial primary key,
+    account_id integer NOT NULL REFERENCES accounts(id),
+    service varchar(16) NOT NULL,
+    username varchar(127) NOT NULL,
+    password text NOT NULL,
+    created_at date NOT NULL DEFAULT CURRENT_DATE
+);
+CREATE INDEX loginfos_account ON loginfos (account_id);
+
+CREATE TABLE personalities (
+    id serial primary key,
+    name varchar(32) NOT NULL UNIQUE,
+    description text,
+    created_at date NOT NULL DEFAULT CURRENT_DATE
+);
+
+CREATE TABLE messages (
+    id serial primary key,
+    writer_id integer NOT NULL REFERENCES writers,
+    personality_id integer NOT NULL REFERENCES personalities,
+    created_at date NOT NULL DEFAULT CURRENT_DATE
+);
+CREATE INDEX messages_personality ON messages (personality_id);
+CREATE INDEX messages_writer ON messages (writer_id);
+
+CREATE TABLE translations (
+    id serial primary key,
+    message_id integer NOT NULL REFERENCES messages,
+    lang char(2) NOT NULL,
+    content varchar(140) NOT NULL,
+    UNIQUE (message_id, lang)
+);
+CREATE INDEX translations_lang ON translations (lang);
+CREATE INDEX translations_message ON translations (message_id);
+
+CREATE TABLE payins (
+    id serial primary key,
+    account_id integer NOT NULL REFERENCES accounts,
+    created_at date NOT NULL DEFAULT CURRENT_DATE,
+    currency varchar(3) DEFAULT 'USD'::varchar NOT NULL,
+    cents integer NOT NULL,
+    notes text
+);
+CREATE INDEX payins_account ON payins (account_id);
+
+CREATE TABLE tweets (
+    id serial primary key,
+    loginfo_id integer NOT NULL REFERENCES loginfos,
+    translation_id integer NOT NULL REFERENCES translations,
+    created_at date NOT NULL DEFAULT CURRENT_DATE,
+    UNIQUE (loginfo_id, translation_id)
+);
+CREATE INDEX tweets_loginfo ON tweets (loginfo_id);
+CREATE INDEX tweets_translation ON tweets (translation_id);
+</pre>

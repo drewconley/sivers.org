@@ -1,0 +1,36 @@
+<!-- PROJECTS -->
+
+<p>Programmers and techies, see <a href="/code">/code page</a> first.</p>
+
+<h1>Projects</h1>
+<dl>
+<dt><a href="https://github.com/sivers/sivers.org">sivers.org</a></dt>
+  <dd>This site, obviously. There's the code that generates it.</dd>
+<dt><a href="/woodegg">Wood Egg</a></dt>
+  <dd>16 books per year about culture &amp; business in 16 countries.</dd>
+<dt><a href="/musicthoughts">MusicThoughts</a></dt>
+  <dd>Inspiring quotes about music</dd>
+<dt><a href="/muckwork">Muckwork</a></dt>
+  <dd>Remote assistants do your dirty work</dd>
+<dt><a href="/songtest">Songtest</a></dt>
+  <dd>Open-source non-commercial song contest</dd>
+<dt><a href="/cyrano">Cyrano</a></dt>
+  <dd>Someone witty tweets for you, as you</dd>
+<dt><a href="/karmalist">KarmaList</a></dt>
+  <dd>Open noncommercial database of contacts and referrals</dd>
+<dt><a href="/langpro">Lang.pro</a></dt>
+  <dd>Language translation project manager</dd>
+</dl>
+
+<h1>Just code</h1>
+<dl>
+<dt><a href="/beekeep">Beekeep</a></dt>
+  <dd>Bookkeeper in the database</dd>
+<dt><a href="https://github.com/50pop/peeps">Peeps</a></dt>
+  <dd>Central database of people</dd>
+<dt><a href="https://github.com/50pop/langur">Langur</a></dt>
+  <dd>Ruby Rack middleware for language switching</dd>
+</dl>
+
+<h3>See all code at <a href="https://github.com/50pop/">github.com/50pop</a>.</h3>
+

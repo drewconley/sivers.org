@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Songtest | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+</head>
+<body id="songtest">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+
+<h1>Songtest</h1>
+
+<p>
+First, read “<a href="http://sivers.org/song-contest-idea">A free, open song contest idea</a>.”
+</p><p>
+The big idea is that this songwriting contest will mostly run itself, on a monthly loop.  A manager's role is only to contact companies to ask if they want to donate prizes for the winners, in return for the exposure of having the musicians pore over the list of prizes, with links back to the company's site for more info. (The power of drool.)  A little admin work to enter the prize info, make sure the winner gets it, and oversee the system to make sure it's not being gamed in some surprising way, and voilá!  Free song contest.
+</p>
+
+<h3>status: building</h3>
+
+<h2>Schema</h2>
+<p>
+A (musician) person creates a <strong>song</strong>, with a title, artist, lyrics, and <strong>genre</strong>.  They probably upload the audio to <a href="http://soundcloud.com/">SoundCloud</a>.
+</p><p>
+Then any (normal) person can create a <strong>vote</strong> for that song anonymously, (they can hear the song but don't know who it is until after they vote), which is a numeric rating with a comment and date.
+</p><p>
+The site manager is contacting companies to contribute prizes to the contest.  When one agrees, the manager creates a <strong>company</strong>, tied to a person_id, and at least one <strong>prize</strong>, with a name and description.
+</p><p>
+The musician who has added a song to the contest can browse through the prizes and add a <strong>wish</strong> for their song to win any number of available prizes for that contest.
+</p><p>
+At the end of the month, all votes are tallied to create a <strong>winner</strong>, which is really just a cached summary of that month's activity.
+</p><p>
+Then the manager goes through the winning songs to assign the prizes (based on the wishes, when possible), by updating that prize's song_id to match the winning song.
+</p>
+
+<h2>REST API</h2>
+<table class="table table-striped table-bordered">
+<thead><tr>
+	<th>URI</th>
+	<th>GET</th>
+	<th>POST</th>
+	<th>PUT</th>
+	<th>DELETE</th>
+</tr></thead>
+<tr>
+	<th>/person/2</th>
+	<td>person info</td> 
+	<td>.</td>
+	<td>update person</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/person/2/songs</th>
+	<td>songs by this person</td> 
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/person/2/votes</th>
+	<td>votes by this person</td> 
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/genre</th>
+	<td>list all genres</td>
+	<td>code to add new genre</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/genre/jazz</th>
+	<td>genre info</td>
+	<td>.</td>
+	<td>update genre</td>
+	<td>delete genre</td>
+</tr>
+<tr>
+	<th>/genre/jazz/songs</th>
+	<td>songs in this genre</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/genre/jazz/winners</th>
+	<td>winning songs in this genre</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/song</th>
+	<td>list all songs</td>
+	<td>person_id, artist, title, soundcloud_url, lyrics, genre to create new song</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/song/random</th>
+	<td>a random song, used for voting. redirects to a random temp-ID anonymizing of song</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/song/hf71oza9fea7</th>
+	<td>anonymous representation of song with one-time-use random ID. ID must be used for voting to prove vote was blind.</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/song/2</th>
+	<td>song info</td>
+	<td>.</td>
+	<td>update song</td>
+	<td>delete song</td>
+</tr>
+<tr>
+	<th>/song/2/votes</th>
+	<td>votes for song</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/song/2/wishes</th>
+	<td>list of prizes wished for by this song</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/vote/hf71oza9fea7</th>
+	<td>.</td>
+	<td>person_id, vote number, comment to create vote</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/vote/2</th>
+	<td>vote info</td>
+	<td>.</td>
+	<td>update vote</td>
+	<td>delete vote</td>
+</tr>
+<tr>
+	<th>/company</th>
+	<td>list all companies</td>
+	<td>person_id, name, url to add new company</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/company/2</th>
+	<td>company info and list of their prizes</td>
+	<td>.</td>
+	<td>update company</td>
+	<td>delete company</td>
+</tr>
+<tr>
+	<th>/prize</th>
+	<td>list all prizes</td>
+	<td>company_id, name, description to add new prize</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/prize/available</th>
+	<td>list of available prizes</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/prize/2</th>
+	<td>prize info</td>
+	<td>.</td>
+	<td>update prize</td>
+	<td>delete prize</td>
+</tr>
+<tr>
+	<th>/prize/2/wishes</th>
+	<td>list of songs that wished for this prize</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/wish</th>
+	<td>.</td>
+	<td>song_id, prize_id to create wish</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/wish/song.id/prize.id</th>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+	<td>remove this wish</td>
+</tr>
+<tr>
+	<th>/winner</th>
+	<td>list of winners</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+<tr>
+	<th>/winner/2</th>
+	<td>details about this winner</td>
+	<td>.</td>
+	<td>.</td>
+	<td>.</td>
+</tr>
+</table>
+
+<h2>Database Schema</h2>
+<pre>
+BEGIN;
+
+CREATE SCHEMA songtest;
+SET search_path = songtest;
+
+CREATE TABLE genres (
+	code varchar(16) primary key
+);
+
+CREATE TABLE songs (
+	id serial primary key,
+	person_id integer not null,
+	lang char(2) not null default 'en',
+	artist text,
+	title text,
+	soundcloud_url text,
+	lyrics text,
+	genre varchar(16) REFERENCES genres,
+	created_at timestamp with time zone not null default CURRENT_TIMESTAMP
+);
+CREATE INDEX songs_person ON songs(person_id);
+CREATE INDEX songs_genre ON songs(genre);
+
+CREATE TABLE votes (
+	id serial primary key,
+	person_id integer not null,
+	song_id integer not null REFERENCES songs,
+	vote integer,
+	comment text,
+	created_at timestamp with time zone not null default CURRENT_TIMESTAMP,
+	UNIQUE (person_id, song_id)
+);
+CREATE INDEX votes_person ON votes(person_id);
+CREATE INDEX votes_song ON votes(song_id);
+
+CREATE TABLE companies (
+	id serial primary key,
+	person_id integer not null,
+	name text,
+	url text
+);
+
+CREATE TABLE prizes (
+	id serial primary key,
+	company_id integer not null REFERENCES companies,
+	name text,
+	description text,  -- English
+	created_at timestamp with time zone not null default CURRENT_TIMESTAMP,
+	song_id integer REFERENCES songs  -- NULL until claimed
+);
+CREATE INDEX prizes_company ON prizes(company_id);
+CREATE INDEX prizes_song ON prizes(song_id);
+
+CREATE TABLE wishes (
+	song_id integer not null REFERENCES songs,
+	prize_id integer not null REFERENCES prizes,
+	PRIMARY KEY (song_id, prize_id)
+);
+
+CREATE TABLE winners (   -- cache/summary
+	id serial primary key,
+	month char(7) not null,
+	genre varchar(16) not null REFERENCES genres,
+	song_id integer not null REFERENCES songs,
+	votes integer not null,
+	average numeric
+);
+CREATE INDEX winner_month ON winners(month);
+CREATE INDEX winner_genre ON winners(genre);
+
+COMMIT;
+</pre>
+
+
+</section>
+</body>
+</html>
+
