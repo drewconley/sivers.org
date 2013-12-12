@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2013-12-12T18:28:06+13:00</updated>
+  <updated>2013-12-12T18:38:28+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -48,7 +48,8 @@ Actually all those business ideas have been posted freely on my site for over tw
 &lt;/p&gt;&lt;p&gt;
 Everything is listed at &lt;strong&gt;&lt;a href="http://sivers.org/projects"&gt;http://sivers.org/projects&lt;/a&gt;&lt;/strong&gt;.  Enjoy!
 &lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;Please note I never said everything should be public.&lt;/strong&gt;  I strongly believe in privacy.  And &lt;strong&gt;I would never tell someone what they should make public or keep secret.&lt;/strong&gt;  Everyone has different criteria.  The only point of this post was that &lt;strong&gt;it’s worth re-evaluating the decisions you’ve made, to see if they’re still applicable to you.&lt;/strong&gt;
+&lt;hr&gt;
+&lt;strong&gt;P.S. I never said everything should be public.  I only said I’m making my code and ideas public.  That’s all.&lt;/strong&gt;  I would never tell someone what they should make public or keep secret.  Everyone has different criteria.  Maybe it’s worth re-evaluating the decisions you’ve made, to see if they’re still applicable to you.
 &lt;/p&gt;
 &lt;img src="/images/diary.jpg" width="500" height="611" alt=""&gt;&lt;p class="small"&gt;Photo by &lt;a href="http://www.flickr.com/photos/insomnia90/3875374318/"&gt;Silvia Viñuales&lt;/a&gt;&lt;/p&gt;
 
