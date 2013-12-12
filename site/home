@@ -54,7 +54,7 @@
   <section id="newestarticles">
     <h2>Newest Posts <span class="small"><a href="/blog">all posts</a></span></h2>
     <ul>
-      <li><a href="/ws">Why was this secret?</a></li>
+      <li><a href="/ws">Why my code and ideas are open source</a></li>
       <li><a href="/milt">OK, Milt Olin, I’ll start writing again</a></li>
       <li><a href="/robust">Fragile Plan vs Robust Plan</a></li>
       <li><a href="/eg">Wood Egg (my new company)</a></li>
@@ -169,7 +169,7 @@
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
       <dt>December 12</dt>
-      <dd>Why was this secret? → <a href="http://sivers.org/ws">http://sivers.org/ws</a></dd>
+      <dd>Why my code and ideas are open source: <a href="http://sivers.org/ws">http://sivers.org/ws</a></dd>
       <dt>December 10</dt>
       <dd>OK, Milt Olin, I'll start writing again : <a href="http://sivers.org/milt">http://sivers.org/milt</a></dd>
       <dt>November 27</dt>
