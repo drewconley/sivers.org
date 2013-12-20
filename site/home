@@ -54,12 +54,12 @@
   <section id="newestarticles">
     <h2>Newest Posts <span class="small"><a href="/blog">all posts</a></span></h2>
     <ul>
+      <li><a href="/here"></a></li>
       <li><a href="/ws">Why my code and ideas are public</a></li>
       <li><a href="/milt">OK, Milt Olin, I’ll start writing again</a></li>
       <li><a href="/robust">Fragile Plan vs Robust Plan</a></li>
       <li><a href="/eg">Wood Egg (my new company)</a></li>
       <li><a href="/wrong">Some will always say you're wrong</a></li>
-      <li><a href="/360">No rules in this game</a></li>
     </ul>
   </section>
   
@@ -168,6 +168,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>December 20</dt>
+      <dd>“Why am I here?”  <a href="http://sivers.org/here">http://sivers.org/here</a></dd>
       <dt>December 12</dt>
       <dd>Why my code and ideas are public: <a href="http://sivers.org/ws">http://sivers.org/ws</a></dd>
       <dt>December 10</dt>
@@ -178,8 +180,6 @@
       <dd>2014 Wood Egg books almost done. Opinions or suggestions for book covers? (License a photo of yours?) <a href="http://woodegg.com/covers">http://woodegg.com/covers</a></dd>
       <dt>November 2</dt>
       <dd>New book notes from "How to Fail at Almost Everything and Still Win Big" by Scott Adams: <a href="http://sivers.org/book/HowToFail">http://sivers.org/book/HowToFail</a></dd>
-      <dt>September 12</dt>
-      <dd>“If it sounds like writing, rewrite it.” — Elmore Leonard</dd>
     </dl>
   </section>
   
