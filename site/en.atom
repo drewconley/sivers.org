@@ -2,17 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2013-12-20T13:06:53+13:00</updated>
+  <updated>2013-12-20T13:15:50+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
   <entry>
+    <title>Why am I here?</title>
     <id>http://sivers.org/here</id>
     <updated>2013-12-20T00:00:00+00:00</updated>
     <published>2013-12-20T00:00:00+00:00</published>
     <link href="http://sivers.org/here"/>
-    <content type="html">Looking around the room.
+    <content type="html">&lt;p&gt;
+Looking around the room.
 &lt;/p&gt;&lt;p&gt;
 “Why am I here?”
 &lt;/p&gt;&lt;p&gt;
@@ -24,15 +26,23 @@ In a little apartment in Singapore, I ask it again.
 &lt;/p&gt;&lt;p&gt;
 “Why am I here?”
 &lt;/p&gt;&lt;p&gt;
-Because of the brilliant and fascinating people here.  &lt;em&gt;(But I’m refusing all requests to meet, to stay focused on my work.  For the past 3 years I was very social, but now I’m not.)&lt;/em&gt;
+Because of the brilliant and fascinating people here.
 &lt;/p&gt;&lt;p&gt;
-Because I love learning about Asia, and Singapore is a great central home base for that.  &lt;em&gt;(But I’m not exploring Asia right now.  For the past 3 years I was, but now I’m inwardly-focused on my writing and programming.)&lt;/em&gt;
+&lt;em&gt;(But I’m refusing all requests to meet, to stay focused on my work.  For the past 3 years I was very social, but now I’m not.)&lt;/em&gt;
 &lt;/p&gt;&lt;p&gt;
-Because I love and admire it, and it feels like home.  &lt;em&gt;(But I’ve loved everywhere I’ve lived, from California to New York to London to Portland.  They’ve all felt like home.  Future places will feel like home, too.)&lt;/em&gt;
+Because I love learning about Asia, and Singapore is a great central home base for that.
 &lt;/p&gt;&lt;p&gt;
-Because I’m here right now.  &lt;em&gt;(But there are airplanes.  You can sit in them.)&lt;/em&gt;
+&lt;em&gt;(But I’m not exploring Asia right now.  For the past 3 years I was, but now I’m inwardly-focused on my writing and programming.)&lt;/em&gt;
 &lt;/p&gt;&lt;p&gt;
-Most of us are where we are because of decisions we made years ago.  But are those reasons still current for what we need now?
+Because I love and admire it, and it feels like home.
+&lt;/p&gt;&lt;p&gt;
+&lt;em&gt;(But I’ve loved everywhere I’ve lived, from California to New York to London to Portland.  They’ve all felt like home.  Future places will feel like home, too.)&lt;/em&gt;
+&lt;/p&gt;&lt;p&gt;
+Because I’m here right now.
+&lt;/p&gt;&lt;p&gt;
+&lt;em&gt;(But there are airplanes.  You can sit in them.)&lt;/em&gt;
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Most of us are where we are because of decisions we made years ago.  But are those reasons still current for what we need now?  Ask again.&lt;/strong&gt;
 &lt;/p&gt;&lt;p&gt;
 “Why am I here?”
 &lt;/p&gt;&lt;p&gt;
