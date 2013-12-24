@@ -54,12 +54,12 @@
   <section id="newestarticles">
     <h2>Newest Posts <span class="small"><a href="/blog">all posts</a></span></h2>
     <ul>
+      <li><a href="/jac">Jac Holzman</a></li>
       <li><a href="/here">Why am I here?</a></li>
       <li><a href="/ws">Why my code and ideas are public</a></li>
       <li><a href="/milt">OK, Milt Olin, I’ll start writing again</a></li>
       <li><a href="/robust">Fragile Plan vs Robust Plan</a></li>
       <li><a href="/eg">Wood Egg (my new company)</a></li>
-      <li><a href="/wrong">Some will always say you're wrong</a></li>
     </ul>
   </section>
   
