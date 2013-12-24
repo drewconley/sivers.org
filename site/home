@@ -168,6 +168,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>December 24</dt>
+      <dd>Jac Holzman : <a href="http://sivers.org/jac">http://sivers.org/jac</a></dd>
       <dt>December 22</dt>
       <dd>“When you are convinced that you alone are right, you are most likely to be deeply wrong.” — Malcom Brown</dd>
       <dt>December 21</dt>
@@ -178,8 +180,6 @@
       <dd>Why my code and ideas are public: <a href="http://sivers.org/ws">http://sivers.org/ws</a></dd>
       <dt>December 10</dt>
       <dd>OK, Milt Olin, I'll start writing again : <a href="http://sivers.org/milt">http://sivers.org/milt</a></dd>
-      <dt>November 27</dt>
-      <dd>Confirmed I'll be at TED 2014 in Vancouver, and TED Global 2014 in Rio de Janeiro. Email me to meet up: derek@sivers.org</dd>
     </dl>
   </section>
   
