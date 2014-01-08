@@ -1,5 +1,8 @@
 <!-- Wood Egg -->
-<h1>Wood Egg</h1>
+
+<h1><a href="/projects">Projects</a> » Wood Egg</h1>
+
+<h3>WEBSITE: <a href="http://woodegg.com/">http://woodegg.com/</a></h3>
 
 <p>16 books per year about starting a business in Cambodia, China, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Mongolia, Myanmar, Philippines, Singapore, Sri Lanka, Taiwan, Thailand, and Vietnam.</p>
 
@@ -7,8 +10,6 @@
 
 <p>Then, please see <a href="/robust">how it went from being self-authored books to a robust system</a> of over 100 researchers, writers, and editors.</p>
 
-
-<h3>STATUS: very live and active</h3>
 
 <h3>CODE: <a href="https://github.com/50pop/woodegg">/woodegg</a></h3>
 
