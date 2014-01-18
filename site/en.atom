@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2014-01-19T06:56:49+13:00</updated>
+  <updated>2014-01-19T07:10:13+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -84,7 +84,10 @@ In individualistic societies (America, Europe, Australia, etc.), the common beli
 &lt;a href="http://woodegg.com/tw"&gt;Taiwan&lt;/a&gt;,
 &lt;a href="http://woodegg.com/th"&gt;Thailand&lt;/a&gt;, and
 &lt;a href="http://woodegg.com/vn"&gt;Vietnam&lt;/a&gt;. They’re all ebooks for under $10 each, sold at LeanPub, Amazon, and Apple iBooks.&lt;/p&gt;
-=======
+
+</content>
+  </entry>
+  <entry>
     <title>Same word. Different places? Different meanings.</title>
     <id>http://sivers.org/quality</id>
     <updated>2014-01-16T00:00:00+00:00</updated>
@@ -142,7 +145,6 @@ Click any book cover, below, to jump to the page for it.&lt;/strong&gt;
 &lt;a href="http://woodegg.com/th" title="Thailand 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-TH-200.jpg" alt="Thailand 2014"&gt;&lt;/a&gt;
 &lt;a href="http://woodegg.com/vn" title="Vietnam 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-VN-200.jpg" alt="Vietnam 2014"&gt;&lt;/a&gt;
 &lt;a href="http://woodegg.com/aa" title="Asia 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-AA-200.jpg" alt="Asia 2014"&gt;&lt;/a&gt;
->>>>>>> 965c26ecd57feb811a3339fd23edbe855da7f26f
 
 </content>
   </entry>
@@ -2359,71 +2361,6 @@ Also I got many requests to share my Ruby and JavaScript Anki decks.  I don't th
 &lt;li&gt;&lt;a href="http://sivers.org/file/JavaScript-sivers.apkg.zip"&gt;JavaScript Anki deck&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://sivers.org/file/Ruby-sivers.apkg.zip"&gt;Ruby Anki deck&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Everything is my fault</title>
-    <id>http://sivers.org/my-fault</id>
-    <updated>2012-12-09T00:00:00+00:00</updated>
-    <published>2012-12-09T00:00:00+00:00</published>
-    <link href="http://sivers.org/my-fault"/>
-    <content type="html">&lt;p&gt;
-I cut two chapters out of &lt;a href="http://sivers.org/a"&gt;my book&lt;/a&gt; because they were too nasty.
-&lt;/p&gt;&lt;p&gt;
-They vented all the awful details about how my terrible employees staged a mutiny to try to get rid of me, and corrupted the culture of the company into a festering pool of entitlement, focused only on their benefits instead of our clients.
-&lt;/p&gt;&lt;p&gt;
-Afterwards, I spent a few years still mad at those evil brats for what they did.  So, like anyone feeling victimized and wronged, I needed to vent - to tell my side of the story.  Or so I thought.
-&lt;/p&gt;&lt;p&gt;
-So do you want to know &lt;strong&gt;the real reason I cut those chapters?&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-I realized it was all my fault.
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;I&lt;/em&gt; let the culture of the company get corrupted.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;I&lt;/em&gt; ignored problems instead of nipping them in the bud.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;I&lt;/em&gt; was aloof and away instead of managing or training managers.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;I&lt;/em&gt; confused everyone by sharing my daily thoughts before they had cemented into decisions.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;I&lt;/em&gt; announced decisions, then assumed they were being done, without following-up to ensure.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;I&lt;/em&gt; whimsically delegated to the wrong people, avoiding the mental work of choosing wisely.&lt;/li&gt;
-&lt;li&gt;(I could list another 20 of these, but you get the idea.)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-It felt so SO good to realize it was my fault!
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;This is way better than forgiving.&lt;/strong&gt;  When you forgive, you’re still playing the victim, and they’re still wrong, but you’re charitably pardoning their horrible deeds.
-&lt;/p&gt;&lt;p&gt;
-But to decide it’s your fault feels amazing!  Now you weren’t wronged.  &lt;strong&gt;They were just playing their part in the situation you created.&lt;/strong&gt;  They’re just delivering the punch-line to the joke you set up.
-&lt;/p&gt;&lt;p&gt;
-What power!  Now you’re like a new super-hero, just discovering your strength.  Now you’re the powerful person that made things happen, made a mistake, and can learn from it.  Now you’re in control and there’s nothing to &lt;a href="http://sivers.org/complainers"&gt;complain&lt;/a&gt; about.
-&lt;/p&gt;&lt;p&gt;
-This philosophy feels so good that &lt;strong&gt;I’ve playfully decided to apply this “EVERYTHING IS MY FAULT” rule to the rest of my life.&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-It's one of those base rules like “people mean well” that's more fun to believe, and have a few exceptions, than to not believe at all.
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The guy that stole $9000 from me? &lt;strong&gt;My fault.&lt;/strong&gt;  I should have verified his claims.&lt;/li&gt;
-&lt;li&gt;The love of my life that dumped me out of the blue (by email!) after 6 years? &lt;strong&gt;My fault.&lt;/strong&gt;  I let our relationship plateau.&lt;/li&gt;
-&lt;li&gt;Someone was rude to me today? &lt;strong&gt;My fault.&lt;/strong&gt;  I could have lightened their mood beforehand.&lt;/li&gt;
-&lt;li&gt;Don’t like my government? &lt;strong&gt;My fault.&lt;/strong&gt;  I could get involved and change the world.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-&lt;strong&gt;See what power it is?&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-Yes, the word “responsibility” is more accurate, but it's such a serious 6-syllable word, whereas “everything’s my fault” is a fun rule-of-thumb, and gets me singing Nirvana’s “&lt;a href="http://www.metrolyrics.com/all-apologies-lyrics-nirvana.html"&gt;All Apologies&lt;/a&gt;”.
-&lt;/p&gt;&lt;p&gt; 
-Try it on.  Stand up, open the window, look out at the world and shout, “&lt;strong&gt;Everything is my fault!&lt;/strong&gt;”
-&lt;/p&gt;&lt;p&gt;
-Think of every bad thing that happened to you, and say it again.
-&lt;/p&gt;&lt;p&gt;
-Cool, huh?
-&lt;/p&gt;&lt;p&gt;
-That power looks good on you.
-&lt;/p&gt;
-&lt;img src="/images/superfault.jpg" alt="http://www.flickr.com/photos/nathaninsandiego/5972205809/" /&gt;
-&lt;br /&gt;&lt;small&gt;(Photo by &lt;a href="http://www.flickr.com/photos/nathaninsandiego/5972205809/"&gt;Nathan Rupert&lt;/a&gt;.)&lt;/small&gt;
-&lt;p&gt;
-P.S. Also see “&lt;a href="http://sivers.org/villain"&gt;Happiness is letting someone make you the villain&lt;/a&gt;.”
-&lt;/p&gt;
 </content>
   </entry>
 </feed>

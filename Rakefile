@@ -181,7 +181,7 @@ task :make do
     /^(\d{4}-\d{2}-\d{2})/.match File.basename(infile)
     date = $1
     d = Date.parse(date)
-    tweet = File.read(infile).strip.autolink
+    tweet = ERB::Util.html_escape(File.read(infile).strip).autolink
 
     # save to array for later use in index and home page
     @tweets << {date: date, show_date: d.strftime('%B %-d'), show_year: d.strftime('%B %-d, %Y'), tweet: tweet}
