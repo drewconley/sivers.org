@@ -54,12 +54,12 @@
   <section id="newestarticles">
     <h2>Newest Posts <span class="small"><a href="/blog">all posts</a></span></h2>
     <ul>
+      <li><a href="/vn14">Understanding Vietnam</a></li>
+      <li><a href="/sg14">Understanding Singapore</a></li>
+      <li><a href="/id14">Understanding Indonesia</a></li>
       <li><a href="/jp14">Understanding Japan</a></li>
       <li><a href="/quality">Same word. Different places? Different meanings.</a></li>
       <li><a href="/we14">Wood Egg 2014 books are on sale now</a></li>
-      <li><a href="/jac">Jac Holzman</a></li>
-      <li><a href="/here">Why am I here?</a></li>
-      <li><a href="/ws">Why my code and ideas are public</a></li>
     </ul>
   </section>
   
@@ -168,18 +168,18 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>January 21</dt>
+      <dd>Understanding Vietnam : <a href="http://sivers.org/vn14">http://sivers.org/vn14</a> (1st chapter of my “Vietnam 2014” book)</dd>
+      <dt>January 21</dt>
+      <dd>Understanding Indonesia : <a href="http://sivers.org/id14">http://sivers.org/id14</a> (1st chapter of my “Indonesia 2014” book)</dd>
+      <dt>January 21</dt>
+      <dd>Understanding Singapore : <a href="http://sivers.org/sg14">http://sivers.org/sg14</a> (1st chapter of my “Singapore 2014” book)</dd>
       <dt>January 19</dt>
       <dd>Understanding Japan : <a href="http://sivers.org/jp14">http://sivers.org/jp14</a> - insightful look at Japanese culture.</dd>
       <dt>January 18</dt>
       <dd>Go to <a href="http://sivers.org/quality">http://sivers.org/quality</a> again to see Benjamin’s top 2 comments, clarifying the point better than I did.</dd>
       <dt>January 18</dt>
       <dd>Interview with me on Elance about Asia &amp; my Wood Egg books: <a href="https://www.elance.com/q/blog/expanding-asia-here%E2%80%99s-priceless-advice-asia-2014-author-derek-sivers">https://www.elance.com/q/blog/expanding-asia-here%E2%80%99s-priceless-advice-asia-2014-author-derek-sivers</a></dd>
-      <dt>January 16</dt>
-      <dd>Same word. Different places? Different meanings. <a href="http://sivers.org/quality">http://sivers.org/quality</a></dd>
-      <dt>January 12</dt>
-      <dd>Wood Egg 2014 books are on sale now. See <a href="http://sivers.org/we14">http://sivers.org/we14</a> then <a href="http://woodegg.com/">http://woodegg.com/</a></dd>
-      <dt>January 6</dt>
-      <dd>Print paper books? Refuse? Ideas? See <a href="http://theclimatemessage.com/print-paper-books-refuse-ideas/">http://theclimatemessage.com/print-paper-books-refuse-ideas/</a></dd>
     </dl>
   </section>
   
