@@ -54,12 +54,12 @@
   <section id="newestarticles">
     <h2>Newest Posts <span class="small"><a href="/blog">all posts</a></span></h2>
     <ul>
+      <li><a href="/mirror">Imitate. We are imperfect mirrors.</a></li>
       <li><a href="/vn14">Understanding Vietnam</a></li>
       <li><a href="/sg14">Understanding Singapore</a></li>
       <li><a href="/id14">Understanding Indonesia</a></li>
       <li><a href="/jp14">Understanding Japan</a></li>
       <li><a href="/quality">Same word. Different places? Different meanings.</a></li>
-      <li><a href="/we14">Wood Egg 2014 books are on sale now</a></li>
     </ul>
   </section>
   
@@ -168,6 +168,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>February 3</dt>
+      <dd>Imitate. We are imperfect mirrors. <a href="http://sivers.org/mirror">http://sivers.org/mirror</a></dd>
       <dt>January 25</dt>
       <dd>Nice long audio interview at LeanPub about music and Wood Egg: <a href="http://blog.leanpub.com/2014/01/derek-sivers.html">http://blog.leanpub.com/2014/01/derek-sivers.html</a></dd>
       <dt>January 21</dt>
@@ -178,8 +180,6 @@
       <dd>Understanding Singapore : <a href="http://sivers.org/sg14">http://sivers.org/sg14</a> (1st chapter of my “Singapore 2014” book)</dd>
       <dt>January 21</dt>
       <dd>Nice MP3 interview about independent/DIY book publishing: <a href="http://winningedits.com/authormba-podcast/#sivers">http://winningedits.com/authormba-podcast/#sivers</a></dd>
-      <dt>January 19</dt>
-      <dd>Understanding Japan : <a href="http://sivers.org/jp14">http://sivers.org/jp14</a> - insightful look at Japanese culture.</dd>
     </dl>
   </section>
   
