@@ -54,12 +54,12 @@
   <section id="newestarticles">
     <h2>Newest Posts <span class="small"><a href="/blog">all posts</a></span></h2>
     <ul>
+      <li><a href="/game">How will this game end?</a></li>
       <li><a href="/mirror">Imitate. We are imperfect mirrors.</a></li>
       <li><a href="/vn14">Understanding Vietnam</a></li>
       <li><a href="/sg14">Understanding Singapore</a></li>
       <li><a href="/id14">Understanding Indonesia</a></li>
       <li><a href="/jp14">Understanding Japan</a></li>
-      <li><a href="/quality">Same word. Different places? Different meanings.</a></li>
     </ul>
   </section>
   
@@ -168,6 +168,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>February 6</dt>
+      <dd>How will this game end?  <a href="http://sivers.org/game">http://sivers.org/game</a></dd>
       <dt>February 3</dt>
       <dd>Imitate. We are imperfect mirrors. <a href="http://sivers.org/mirror">http://sivers.org/mirror</a></dd>
       <dt>January 25</dt>
@@ -178,8 +180,6 @@
       <dd>Understanding Indonesia : <a href="http://sivers.org/id14">http://sivers.org/id14</a> (1st chapter of my “Indonesia 2014” book)</dd>
       <dt>January 21</dt>
       <dd>Understanding Singapore : <a href="http://sivers.org/sg14">http://sivers.org/sg14</a> (1st chapter of my “Singapore 2014” book)</dd>
-      <dt>January 21</dt>
-      <dd>Nice MP3 interview about independent/DIY book publishing: <a href="http://winningedits.com/authormba-podcast/#sivers">http://winningedits.com/authormba-podcast/#sivers</a></dd>
     </dl>
   </section>
   
