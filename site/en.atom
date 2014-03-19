@@ -2,11 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2014-03-15T06:47:39+01:00</updated>
+  <updated>2014-03-19T13:46:47-04:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>What if you didn't need money or attention?</title>
+    <id>http://sivers.org/full</id>
+    <updated>2014-03-19T00:00:00+00:00</updated>
+    <published>2014-03-19T00:00:00+00:00</published>
+    <link href="http://sivers.org/full"/>
+    <content type="html">&lt;p&gt;
+You know that feeling you have after a big meal?
+Where you're so full that you really actively don't want anything more?
+&lt;/p&gt;&lt;p&gt;
+Ever wonder what that would feel like in other parts of your life?
+&lt;/p&gt;&lt;p&gt;
+We do so many things for the attention, to feel important or praised.
+But what if you had so much attention and so much praise that you couldn't possibly want any more?
+What would you do then?
+What would you stop doing?
+&lt;/p&gt;&lt;p&gt;
+We do so many things for the money.
+It's so deeply built into our culture that it takes a real effort to realize it's the reason behind so many of our actions.
+But what if you had so much money that you couldn't possibly want any more?
+What would you do then?
+What would you stop doing?
+&lt;/p&gt;&lt;p&gt;
+And then…
+&lt;/p&gt;&lt;p&gt;
+If you stopped doing all these things you're just doing for the money, or the attention, what's left?
+Who are you, if you don't do these things?
+&lt;/p&gt;&lt;p&gt;
+Many of my friends are touring musicians.
+One has been quite unhappy with it lately.
+She realized it was once a dream, but now she's just doing it for the fear of being forgotten.
+But if she stops, what's left?
+She's defined herself by this pursuit for so long.
+&lt;/p&gt;&lt;p&gt;
+Many of my friends are entrepreneurs.
+A few have mentioned this deep hollow conflicted feeling.
+Their business ideas are not things the world wants.
+They're following the current tech entrepreneur stereotype, building social apps and pursuing investors.
+They're hating it, and having to admit they're doing it only for the jackpot.
+But if they stop, what's left?
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;If you were completely satiated, then what?&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+After an understandable period of relaxing, what would you pursue?
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Not&lt;/strong&gt; just “sit around and play video games”, because that's still just relaxing.
+I mean after that, &lt;strong&gt;when you're ready to be useful to others again.&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+What would you do then, if you didn't need the money, and didn't need the attention?
+&lt;/p&gt;&lt;p&gt;
+Yes, we need money to live.
+We need attention to live, too.
+&lt;/p&gt;&lt;p&gt;
+But I find it healthy to make sure they are just side effects of doing good work, or living a good life.
+&lt;/p&gt;
+&lt;img src="/images/pigeon.jpg" width="600" height="600" alt=""&gt;
+&lt;div class="small"&gt;(Photo by &lt;a href="http://www.flickr.com/photos/villes/2865833414/"&gt;ZeroOne&lt;/a&gt;).&lt;/div&gt;
+</content>
+  </entry>
   <entry>
     <title>How will this game end?</title>
     <id>http://sivers.org/game</id>
@@ -1578,72 +1637,6 @@ Well... that's what I did, and I'm quite happy with the results.
 &lt;/p&gt;&lt;p&gt;
 Please share any other suggestions or experiences, here:
 &lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Human Intervention as a Competitive Advantage</title>
-    <id>http://sivers.org/hi</id>
-    <updated>2013-03-21T00:00:00+00:00</updated>
-    <published>2013-03-21T00:00:00+00:00</published>
-    <link href="http://sivers.org/hi"/>
-    <content type="html">&lt;h2&gt;The listening algorithm&lt;/h2&gt;
-&lt;p&gt;
-A year after I started CD Baby, when it was still just me in my bedroom, the CEO and VP of a hugely-funded Silicon Valley online music company contacted me, saying they wanted to fly out to New York to meet me.  I said OK, and we met a week later for dinner.
-&lt;/p&gt;&lt;p&gt;
-Dinner was a lot of blah blah blah smalltalk, and I wondered what they really wanted.  Then they finally got to the real point:
-&lt;/p&gt;&lt;p&gt;
-“The reason we flew out to meet you is because we’ve been looking at many music recommendation engines, and the one that’s powering cdbaby.com is one of the best we’ve found.  Could you tell us a little something about the algorithms and data points you’re using?”
-&lt;/p&gt;&lt;p&gt;
-Uh...  I was confused, and asked what they meant.
-&lt;/p&gt;&lt;p&gt;
-They said, “The «if you like this you will like that» recommendations. We’ve been testing them on your site, but they don’t seem to be sales-driven like Amazon. The music-matching algorithm comes up with incredible recommendations. What software are you using for that?”
-&lt;/p&gt;&lt;p&gt;
-Ah!  I get it.  I smiled and pointed to my ear.
-&lt;/p&gt;&lt;p&gt;
-“No software. &lt;strong&gt;I just listen to everything that comes in, and recommend other good stuff like it.&lt;/strong&gt;”
-&lt;/p&gt;&lt;p&gt;
-Now they looked confused.  “&lt;strong&gt;But how will that scale?&lt;/strong&gt;  You can’t just listen to every single album!  What will you do when you start getting a hundred albums a day?”
-&lt;/p&gt;&lt;p&gt;
-I said, “Maybe hire someone just to listen.  I don’t know.  I’m not there yet.  I’ll worry about it then.”
-&lt;/p&gt;&lt;p&gt;
-(And that’s what I did, when we were getting a hundred albums a day. The coolest full-time job in the world went to Pamela Rooney, who would listen to every new arrival, and do the internal recommendations.)
-&lt;/p&gt;
-
-&lt;h2&gt;Minimizing or Maximizing?&lt;/h2&gt;
-&lt;p&gt;
-&lt;strong&gt;When everyone else is trying to automate everything, using a little human intervention can be a competitive advantage.&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-The problem is when business owners see it as a cost, instead of an opportunity.  &lt;strong&gt;Trying to minimize costs, instead of maximize income, quality, loyalty, happiness, connection, and all those other wonderful things that come from real human attention.&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-You can buy a fancy phone routing system, so people have to listen to 9 options, choose option 5, then listen to 6 more options...
-&lt;/p&gt;&lt;p&gt;
-... or ...
-&lt;/p&gt;&lt;p&gt;
-... you can hire a charming person to pick up the phone on the first ring, and make a great impression.
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;Which one do you think will win you new fans?&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-You can put rules into your online forms, so if someone puts a dash in their phone number, or writes “coming soon” as their URL, it tells them they’re wrong and makes them do it over again....
-&lt;/p&gt;&lt;p&gt;
-... or ...
-&lt;/p&gt;&lt;p&gt;
-... you can have new submissions be checked-over quickly by a real person.  It’s worth the 10 seconds of human effort, to &lt;strong&gt;keep the end-user experience easy&lt;/strong&gt; but the internal data correct.
-&lt;/p&gt;&lt;p&gt;
-It’s fun for techies to try to find the tech solution to everything, but don’t forget that even a tiny touch from a real person can be the best alogrithm, and a massive business maximizer.
-&lt;/p&gt;
-
-&lt;h2&gt;Who should do the work?&lt;/h2&gt;
-&lt;p&gt;
-I get the mindset.  It’s saying, “By having our software and our users do most of the work, we can keep our business efficient and scalable.”
-&lt;/p&gt;&lt;p&gt;
-But if you want them to pay you, if you want to be more valuable, you have to &lt;a href="http://www.paulgraham.com/schlep.html"&gt;take on more of that work&lt;/a&gt;.
-&lt;/p&gt;&lt;p&gt;
-I meet so many entrepreneurs who are convinced their thing will be as big as Facebook, so they can’t afford to have a personal touch for all those BILLIONS of users that are going to start flowing through their app.
-&lt;/p&gt;&lt;p&gt;
-But by removing all human contact, they’re making their app less valuable, so that they’ll never get big enough for it “how does it scale?” to matter.
-&lt;/p&gt;
-
-&lt;img src="/images/carrying_crate.png" alt="carrying crate" /&gt;
 </content>
   </entry>
 </feed>
