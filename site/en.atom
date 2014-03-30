@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2014-03-19T13:49:28-04:00</updated>
+  <updated>2014-03-30T11:24:42-04:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>Change careers like Tarzan</title>
+    <id>http://sivers.org/tarzan</id>
+    <updated>2014-03-30T00:00:00+00:00</updated>
+    <published>2014-03-30T00:00:00+00:00</published>
+    <link href="http://sivers.org/tarzan"/>
+    <content type="html">&lt;p&gt;&#13;
+I get emails from many people who want to make a big change in their career.&#13;
+&lt;/p&gt;&lt;p&gt;&#13;
+Each one wants to quit their current career, and boldly leap into their new venture or preferred lifestyle.&#13;
+&lt;/p&gt;&lt;p&gt;&#13;
+When they ask my advice, they think I'm going to say, “Yes! Quit! Go for it!”&#13;
+&lt;/p&gt;&lt;p&gt;&#13;
+But instead, they're surprised at my suggestion:&#13;
+&lt;/p&gt;&lt;p&gt;&#13;
+Remember how Tarzan swings through the jungle?&#13;
+He doesn't let go of the previous vine until the next vine is supporting his weight.&#13;
+&lt;/p&gt;&lt;p&gt;&#13;
+&lt;img src="/images/tarzan-600x450.gif" width="600" height="450" alt="Tarzan swinging on vines"&gt;&#13;
+&lt;/p&gt;&lt;p&gt;&#13;
+Change careers like Tarzan.&#13;
+&lt;/p&gt;&lt;p&gt;&#13;
+&lt;strong&gt;Don't let go of the old one until the new one is supporting you.&lt;/strong&gt;&#13;
+&lt;/p&gt;&lt;p&gt;&#13;
+P.S.  I highly recommend reading the book “&lt;a href="http://sivers.org/book/SoGood"&gt;So Good They Can't Ignore You&lt;/a&gt;” for more thoughts on this.&#13;
+&lt;/p&gt;&#13;
+</content>
+  </entry>
   <entry>
     <title>What if you didn't need money or attention?</title>
     <id>http://sivers.org/full</id>
@@ -1556,87 +1584,6 @@ So, yeah.  I recommend you watch as many of these movies and read as many of the
 &lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-yojimbo-1961"&gt;Yojimbo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p class="small"&gt;(and a cache of them &lt;a href="http://sivers.org/file/ebert.zip"&gt;here&lt;/a&gt;, just in case)&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Learning JavaScript - my experience and advice</title>
-    <id>http://sivers.org/learn-js</id>
-    <updated>2013-03-25T00:00:00+00:00</updated>
-    <published>2013-03-25T00:00:00+00:00</published>
-    <link href="http://sivers.org/learn-js"/>
-    <content type="html">&lt;p&gt;
-Since I've &lt;a href="http://sivers.org/prog"&gt;mentioned&lt;/a&gt; a &lt;a href="http://sivers.org/os"&gt;few&lt;/a&gt; &lt;a href="http://sivers.org/srs"&gt;times&lt;/a&gt; that I just learned JavaScript over the last few months, a bunch of people have emailed to ask what I used and recommend to learn it. So here's my experience and best advice for 2013.
-&lt;/p&gt;&lt;p&gt;
-NOTE: I wanted to &lt;strong&gt;&lt;em&gt;really&lt;/em&gt; learn JavaScript - not shortcuts, quick tricks, or meta-tools&lt;/strong&gt; that keep me from having to learn JavaScript. I want to learn it, get it, read it, understand it, and memorize it, so that I can understand all the other cool things written in JavaScript for years to come.
-&lt;/p&gt;&lt;p&gt;
-First - a bunch of people will tell you to get &lt;a href="http://shop.oreilly.com/product/9780596517748.do"&gt;JavaScript: The Good Parts - by Douglas Crockford&lt;/a&gt;. But when I started reading it, it was so dense and succinct that I had no idea what it was talking about!
-&lt;/p&gt;&lt;p&gt;
-You know when an expert is talking about their field, and don't know how to simplify it for just anyone? Well, this book felt like it'd be perfect for someone who's been programming for 20 years in C, Java, and C++, and just needs a quick overview of what they should know about JavaScript.
-&lt;/p&gt;&lt;p&gt;
-But it doesn't really TEACH you. It doesn't guide you through anything. So I recommend skipping it.
-&lt;/p&gt;&lt;p&gt;
-Instead, &lt;strong&gt;start with &lt;a href="http://eloquentjavascript.net/"&gt;Eloquent JavaScript - by Marijn Haverbeke&lt;/a&gt;.&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-It starts so simple, so easy, almost too simple, but this is encouraging. You get your swagger back as you say, “This is easy!”
-&lt;/p&gt;&lt;p&gt;
-&lt;a href="http://eloquentjavascript.net/contents.html"&gt;Do the online version, here&lt;/a&gt;, because you can test and experiment directly in your browser.
-&lt;/p&gt;&lt;p&gt;
-Then, after a few chapters of that, &lt;strong&gt;switch over to &lt;a href="http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-3rd-Edition.productCd-1118222199.html"&gt;Professional JavaScript for Web Developers, 3rd Edition - by Nicholas Zakas&lt;/a&gt;&lt;/strong&gt;.
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;THAT is the ultimate tutorial.&lt;/strong&gt; It takes the time to explain everything thoroughly, and it covers pretty much everything. Put aside a few hours per chapter, and &lt;strong&gt;by the time you're done with this one book, you'll know as much as most people who call themselves JavaScript programmers.&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-Funny thing is, I went back to &lt;a href="http://shop.oreilly.com/product/9780596517748.do"&gt;JavaScript: The Good Parts&lt;/a&gt; after finishing this one, and now I understood it. But because &lt;a href="http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-3rd-Edition.productCd-1118222199.html"&gt;Professional JavaScript for Web Developers&lt;/a&gt; was so thorough, it had already covered all of the “good parts”, too.
-&lt;/p&gt;&lt;p&gt;
-Of course &lt;strong&gt;you have to retain what you're learning&lt;/strong&gt;, so I highly recommend you &lt;strong&gt;write down every new thing you learn&lt;/strong&gt;, ideally into a flashcard program, &lt;a href="http://sivers.org/srs"&gt;like this&lt;/a&gt;. It's a lot to take in, so you'll have to remind yourself of what you've learned in the weeks and months afterwards.
-&lt;/p&gt;
-If you're in the mood for more books to really solidify JavaScript in your head, go through:
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/9780596806149.do"&gt;JavaScript Cookbook - by Shelley Powers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://effectivejs.com/"&gt;Effective JavaScript - by David Herman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.manning.com/resig/"&gt;Secrets of the JavaScript Ninja - by John Resig and Bear Bibeault&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-All of these are great, and you'll notice you go through them much faster now that you're fluent. Do the examples. Play around.
-&lt;/p&gt;
-&lt;h3&gt;Read some real-world JavaScript code&lt;/h3&gt;
-&lt;p&gt;
-After a thousand pages of tiny example code snippets, you'll love looking at the code to two very popular and powerful JavaScript projects:
-&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href="http://underscorejs.org/docs/underscore.html"&gt;Underscore.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://backbonejs.org/docs/backbone.html"&gt;Backbone.js&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;
-You'll notice that it all makes sense, now. You're now functionally fluent in reading and understanding JavaScript.
-&lt;/p&gt;
-
-&lt;h3&gt;Then jQuery, and more...&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href="http://jquery.com/"&gt;jQuery&lt;/a&gt; is absolutely everywhere, and you must learn it for your JavaScript tutorial to be complete.
-&lt;/p&gt;&lt;p&gt;
-Now that you've learned the plain-JavaScript long and verbose way of doing things, you'll appreciate the shortcuts that jQuery provides.
-&lt;/p&gt;&lt;p&gt;
-I really liked &lt;a href="http://www.headfirstlabs.com/books/hfjquery/"&gt;Head First jQuery&lt;/a&gt;, as goofy as it is. It walks you through jQuery wonderfully well, and has you apply what you've learned, as you go.
-&lt;/p&gt;&lt;p&gt;
-And if you're still hungry to learn more JavaScript, dive into:
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://coffeescript.org/"&gt;CoffeeScript&lt;/a&gt; with &lt;a href="http://shop.oreilly.com/product/0636920024309.do"&gt;The Little Book on CoffeeScript - by Alex MacCaw&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://backbonejs.org/"&gt;Backbone.js&lt;/a&gt; by &lt;a href="http://javascriptissexy.com/learn-backbone-js-completely/"&gt;following this path&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://nodejs.org/"&gt;Node.js&lt;/a&gt; by &lt;a href="http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/"&gt;following this path&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Then put down the books and go use it!&lt;/h3&gt;
-&lt;p&gt;
-You would think this goes without saying, but if I didn't say it, someone would complain. So look at your existing sites, and go apply what you've learned.  Or start a new site from scratch and make it all with JavaScript, even if just as an experiment.
-&lt;/p&gt;
-
-&lt;h3&gt;Any other suggestions? What worked for you?&lt;/h3&gt;
-&lt;p&gt;
-Well... that's what I did, and I'm quite happy with the results.
-&lt;/p&gt;&lt;p&gt;
-Please share any other suggestions or experiences, here:
-&lt;/p&gt;
 </content>
   </entry>
 </feed>

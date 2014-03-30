@@ -54,12 +54,12 @@
   <section id="newestarticles">
     <h2>Newest Posts <span class="small"><a href="/blog">all posts</a></span></h2>
     <ul>
+      <li><a href="/tarzan">Change careers like Tarzan</a></li>
       <li><a href="/full">What if you didn't need money or attention?</a></li>
       <li><a href="/game">How will this game end?</a></li>
       <li><a href="/mirror">Imitate. We are imperfect mirrors.</a></li>
       <li><a href="/vn14">Understanding Vietnam</a></li>
       <li><a href="/sg14">Understanding Singapore</a></li>
-      <li><a href="/id14">Understanding Indonesia</a></li>
     </ul>
   </section>
   
@@ -168,6 +168,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>March 30</dt>
+      <dd>Change careers like Tarzan : <a href="http://sivers.org/tarzan">http://sivers.org/tarzan</a></dd>
       <dt>March 19</dt>
       <dd>What if you didn&#39;t need money or attention?  <a href="http://sivers.org/full">http://sivers.org/full</a></dd>
       <dt>March 15</dt>
@@ -178,8 +180,6 @@
       <dd>The best thing I ever created: <a href="http://www.shutterstock.com/blog/the-best-thing-i-ever-created-derek-sivers">http://www.shutterstock.com/blog/the-best-thing-i-ever-created-derek-sivers</a></dd>
       <dt>February 20</dt>
       <dd>Transcript of my “office hours” chat about outsourcing, profit, publishing, and having an unfair advantage: <a href="http://drt.fm/office-hours/derek-sivers/">http://drt.fm/office-hours/derek-sivers/</a></dd>
-      <dt>February 17</dt>
-      <dd>Great video interview (or download audio) with Bob Baker: <a href="http://www.diycareermanifesto.com/2014/02/derek-sivers-interview.html">http://www.diycareermanifesto.com/2014/02/derek-sivers-interview.html</a></dd>
     </dl>
   </section>
   
