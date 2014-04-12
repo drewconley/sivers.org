@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Ready for Anything - by David Allen | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+</head>
+<body id="onebook">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+    <header>
+      <figure><a href="http://www.amazon.com/dp/0143034545?tag=sivers-20"><img src="/images/ReadyForAnything.gif" alt="Ready for Anything - by David Allen"></a></figure>
+      <h1>Ready for Anything - by David Allen</h1>
+      <p class="postdate">
+        ISBN: 0143034545<br>
+        READ: 2013-11-28<br>
+        RATING: 6/10<br>
+      </p>
+      <p><a href="http://www.amazon.com/dp/0143034545?tag=sivers-20">Amazon page</a> for details and reviews.</p>
+    </header>
+
+    <p id="booksummary">I read this in 2004, before Getting Things Done (same author), and liked it more, because it's more philosophical than instructional.  It made a big impact on me then.  I was just re-reading now for a little refresher.</p>
+    <h2>my notes</h2>
+    <p id="booknotes">
+Maximum productivity is making something happen with as little effort as possible.<br>
+<br>
+Effort implies resistance.<br>
+<br>
+Improving productivity = dealing with the hindrances.<br>
+<br>
+Mosquitoes can ruin the hunt for big game.<br>
+<br>
+Something is coming - probably within a few days - that’s going to change your world.  Are you ready?  Or do you feel more out of control?<br>
+<br>
+Some major life event causes them to rethink it all and get some clarity around their commitments.  I suggest you do that weekly.<br>
+<br>
+If you try to make something too simple, it will make everything seem more complex and difficult.<br>
+<br>
+“How do I set priorities?” My question back: “What’s your job?”<br>
+<br>
+You must know what you want to maintain, accomplish, or experience.<br>
+<br>
+As you sensitize and train yourself to assess and dispatch anything appropriately, you increase your maturity to do that with ever loftier outcomes.<br>
+<br>
+
+    </p>
+
+
+</section>
+</body>
+</html>
+

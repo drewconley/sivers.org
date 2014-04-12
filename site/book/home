@@ -343,6 +343,15 @@
       </figcaption>
     </figure>
 
+    <figure class="abook" data-rating="8" data-title="Choose Yourself! - by James Altucher" data-date="2014-04-10">
+      <a href="/book/ChooseYourself"><img src="/images/ChooseYourself.gif" alt="Choose Yourself! - by James Altucher" /></a>
+      <figcaption>
+        <h2><a href="/book/ChooseYourself">Choose Yourself! - by James Altucher</a></h2>
+        <p>ISBN: 1490313370 READ: 2014-04-10 RATING: 8/10</p>
+        <p>Anyone who likes my writing will probably LOVE his writing. We've got a very similar style and approach. I was smiling most of the way through, reading things I could have (and wish I would have) written myself. His vulnerability is so endearing.</p>
+      </figcaption>
+    </figure>
+
     <figure class="abook" data-rating="8" data-title="Self Reliance - by Ralph Waldo Emerson" data-date="2013-11-08">
       <a href="/book/SelfReliance"><img src="/images/SelfReliance.gif" alt="Self Reliance - by Ralph Waldo Emerson" /></a>
       <figcaption>
@@ -529,6 +538,33 @@
         <h2><a href="/book/48LawsOfPower">The 48 Laws of Power - by Robert Greene and Joost Elffers</a></h2>
         <p>ISBN: 0140280197 READ: 2003-05-06 RATING: 8/10</p>
         <p>Warning: some think this book is pure evil. But power exists, so it can only help to understand it better, even if you choose not to wield it.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="7" data-title="Give and Take - by Adam M. Grant" data-date="2014-02-10">
+      <a href="/book/GiveAndTake"><img src="/images/GiveAndTake.gif" alt="Give and Take - by Adam M. Grant" /></a>
+      <figcaption>
+        <h2><a href="/book/GiveAndTake">Give and Take - by Adam M. Grant</a></h2>
+        <p>ISBN: 0143124986 READ: 2014-02-10 RATING: 7/10</p>
+        <p>If you feel you are too generous, or too greedy, or are wary and insist on reciprocation, consider reading this research-based look at the subject of these different personality types.  Counter-intuitive findings.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="7" data-title="The Bed of Procrustes - by Nassim Nicholas Taleb" data-date="2014-01-15">
+      <a href="/book/BedOfProcrustes"><img src="/images/BedOfProcrustes.gif" alt="The Bed of Procrustes - by Nassim Nicholas Taleb" /></a>
+      <figcaption>
+        <h2><a href="/book/BedOfProcrustes">The Bed of Procrustes - by Nassim Nicholas Taleb</a></h2>
+        <p>ISBN: 1400069971 READ: 2014-01-15 RATING: 7/10</p>
+        <p>I'm thrilled if I get a few counter-intuitive thought-provoking ideas from any source.  This book is filled with his usual cocktail party sprezzatura bravado, but refreshingly succinct, minus his usual blowhard explanations of his superior scholarly approach to life.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="7" data-title="Making Ideas Happen - by Scott Belsky" data-date="2013-12-20">
+      <a href="/book/MakingIdeasHappen"><img src="/images/MakingIdeasHappen.gif" alt="Making Ideas Happen - by Scott Belsky" /></a>
+      <figcaption>
+        <h2><a href="/book/MakingIdeasHappen">Making Ideas Happen - by Scott Belsky</a></h2>
+        <p>ISBN: 1591844118 READ: 2013-12-20 RATING: 7/10</p>
+        <p>The full title - “Making Ideas Happen: Overcoming the Obstacles Between Vision and Reality” - describes its contents perfectly.  Great book on that subject.</p>
       </figcaption>
     </figure>
 
@@ -745,6 +781,33 @@
         <h2><a href="/book/MaximumAchievement">Maximum Achievement - by Brian Tracy</a></h2>
         <p>ISBN: 0684803313 READ: 2006-11-12 RATING: 7/10</p>
         <p>A classic self-help book. Exactly what you'd expect. But very good.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="6" data-title="The Story of French - by Jean-Benoit Nadeau and Julie Barlow" data-date="2014-02-02">
+      <a href="/book/StoryOfFrench"><img src="/images/StoryOfFrench.gif" alt="The Story of French - by Jean-Benoit Nadeau and Julie Barlow" /></a>
+      <figcaption>
+        <h2><a href="/book/StoryOfFrench">The Story of French - by Jean-Benoit Nadeau and Julie Barlow</a></h2>
+        <p>ISBN: 0312341849 READ: 2014-02-02 RATING: 6/10</p>
+        <p>Just an interesting history and present look at the French language. I had no idea what an influence French was on English, and didn't understand its role in current Africa. Makes me want to learn French.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="6" data-title="Island - by Aldous Huxley" data-date="2013-12-14">
+      <a href="/book/Island"><img src="/images/Island.gif" alt="Island - by Aldous Huxley" /></a>
+      <figcaption>
+        <h2><a href="/book/Island">Island - by Aldous Huxley</a></h2>
+        <p>ISBN: 0061561797 READ: 2013-12-14 RATING: 6/10</p>
+        <p>This book totally changed my life at a key moment, when I was 22. It made me quit my job and pursue a life of variety. Some great ideas inside, especially the ones about family and healthy child-rearing. I just re-read it now, 22 years later, and it didn't hit me as hard as it did back then, maybe because I've internalized its philosophies so completely.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="6" data-title="Ready for Anything - by David Allen" data-date="2013-11-28">
+      <a href="/book/ReadyForAnything"><img src="/images/ReadyForAnything.gif" alt="Ready for Anything - by David Allen" /></a>
+      <figcaption>
+        <h2><a href="/book/ReadyForAnything">Ready for Anything - by David Allen</a></h2>
+        <p>ISBN: 0143034545 READ: 2013-11-28 RATING: 6/10</p>
+        <p>I read this in 2004, before Getting Things Done (same author), and liked it more, because it's more philosophical than instructional.  It made a big impact on me then.  I was just re-reading now for a little refresher.</p>
       </figcaption>
     </figure>
 
@@ -1027,6 +1090,15 @@
       </figcaption>
     </figure>
 
+    <figure class="abook" data-rating="5" data-title="In Pursuit of Silence - by George Prochnik" data-date="2013-11-13">
+      <a href="/book/PursuitOfSilence"><img src="/images/PursuitOfSilence.gif" alt="In Pursuit of Silence - by George Prochnik" /></a>
+      <figcaption>
+        <h2><a href="/book/PursuitOfSilence">In Pursuit of Silence - by George Prochnik</a></h2>
+        <p>ISBN: 0767931211 READ: 2013-11-13 RATING: 5/10</p>
+        <p>Interesting thoughts and findings on the search for peace and quiet in the modern world.</p>
+      </figcaption>
+    </figure>
+
     <figure class="abook" data-rating="5" data-title="The Laws of Subtraction - by Matthew May" data-date="2013-01-09">
       <a href="/book/LawsOfSubtraction"><img src="/images/LawsOfSubtraction.gif" alt="The Laws of Subtraction - by Matthew May" /></a>
       <figcaption>
@@ -1225,6 +1297,24 @@
       </figcaption>
     </figure>
 
+    <figure class="abook" data-rating="3" data-title="Your Memory - by Kenneth L. Higbee" data-date="2014-04-11">
+      <a href="/book/YourMemory"><img src="/images/YourMemory.gif" alt="Your Memory - by Kenneth L. Higbee" /></a>
+      <figcaption>
+        <h2><a href="/book/YourMemory">Your Memory - by Kenneth L. Higbee</a></h2>
+        <p>ISBN: 1569246297 READ: 2014-04-11 RATING: 3/10</p>
+        <p>Read the book “Moonwalking With Einstein” instead.  Most of the same info, but this is more academic than entertaining.  Written for students taking exams.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="3" data-title="The Philosophical Baby - by Alison Gopnik" data-date="2013-11-21">
+      <a href="/book/PhilosophicalBaby"><img src="/images/PhilosophicalBaby.gif" alt="The Philosophical Baby - by Alison Gopnik" /></a>
+      <figcaption>
+        <h2><a href="/book/PhilosophicalBaby">The Philosophical Baby - by Alison Gopnik</a></h2>
+        <p>ISBN: 0312429843 READ: 2013-11-21 RATING: 3/10</p>
+        <p>A good friend highly recommended this as one of his favorite books on baby-hood.  I just didn't connect with it, after a few attempts.  You may love it.</p>
+      </figcaption>
+    </figure>
+
     <figure class="abook" data-rating="3" data-title="Bird by Bird - by Anne Lamott" data-date="2013-11-11">
       <a href="/book/BirdByBird"><img src="/images/BirdByBird.gif" alt="Bird by Bird - by Anne Lamott" /></a>
       <figcaption>
@@ -1420,6 +1510,15 @@
         <h2><a href="/book/FoundersAtWork">Founders at Work - by Jessica Livingston</a></h2>
         <p>ISBN: 1430210788 READ: 2008-02-12 RATING: 2/10</p>
         <p>Long in-depth interviews with company founders, telling their tales of how they started. Lots of stories with a few usable gems.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="1" data-title="How to Learn and Memorize French Vocabulary - by Anthony Metivier" data-date="2014-04-08">
+      <a href="/book/MemorizeFrench"><img src="/images/MemorizeFrench.gif" alt="How to Learn and Memorize French Vocabulary - by Anthony Metivier" /></a>
+      <figcaption>
+        <h2><a href="/book/MemorizeFrench">How to Learn and Memorize French Vocabulary - by Anthony Metivier</a></h2>
+        <p>ISBN: 1482667002 READ: 2014-04-08 RATING: 1/10</p>
+        <p>Only interesting if you haven't read anything else about the “loci” / “memory palace” method of memorization.  Had almost nothing to do with French.  Obviously made from copy-n-paste with his other books about German, Spanish, Russian, etc.  Just change a few words, and voila!  New ebook.</p>
       </figcaption>
     </figure>
 
