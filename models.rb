@@ -210,11 +210,11 @@ class AYW
     end
 
     def url_for(filename)
-      AWS::S3::DEFAULT_HOST.replace 's3-us-west-1.amazonaws.com'
+      #AWS::S3::DEFAULT_HOST.replace 's3-us-west-1.amazonaws.com'
       AWS::S3::Base.establish_connection!(
         access_key_id: Sivers.config['s3key'],
         secret_access_key: Sivers.config['s3secret'])
-      AWS::S3::S3Object.url_for(filename, 'aywb', :use_ssl => true)
+      AWS::S3::S3Object.url_for(filename, 'sivers', :use_ssl => true)
     end
   end
 end
