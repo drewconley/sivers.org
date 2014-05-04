@@ -2,41 +2,398 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2014-04-18T20:21:17+12:00</updated>
+  <updated>2014-05-05T00:45:54+12:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>Meaning of Life</title>
+    <id>http://sivers.org/ml</id>
+    <updated>2014-05-05T00:00:00+00:00</updated>
+    <published>2014-05-05T00:00:00+00:00</published>
+    <link href="http://sivers.org/ml"/>
+    <content type="html">&lt;p&gt;
+This is a 19-minute talk I've given at four conferences in Ireland, Taiwan, India, and New Zealand.  I've improved it after each, and finally consider it done, so this is now the best and final recording of it.
+&lt;/p&gt;&lt;p&gt;
+The video doesn't add much, so if you would rather just listen, &lt;a href="http://sivers.org/file/DerekSivers-MeaningOfLife.mp3"&gt;download the MP3&lt;/a&gt;.
+&lt;/p&gt;&lt;p&gt;
+The video should embed from YouTube below, but if it doesn't, &lt;a href="http://sivers.org/file/DerekSivers-MeaningOfLife.mp4"&gt;download the MP4 video&lt;/a&gt;.
+&lt;/p&gt;
+&lt;iframe width="640" height="360" src="http://www.youtube.com/embed/zzcCWEb-tyk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;
+Huge thanks to some friends who suggested great improvements:
+&lt;a href="http://www.michellewelsch.com/"&gt;Michelle Welsch&lt;/a&gt;,
+&lt;a href="http://tynan.com/"&gt;Tynan&lt;/a&gt;,
+&lt;a href="http://alytadros.com/"&gt;Aly Tadros&lt;/a&gt;, 
+&lt;a href="http://en.wikipedia.org/wiki/Jeff_Marx"&gt;Jeff Marx&lt;/a&gt;, and
+&lt;a href="/married"&gt;Saj&lt;/a&gt;.
+&lt;/p&gt;&lt;p&gt;
+Also thanks to a hundred drunk programmers in Ireland who shouted and sang their way through my first performance of it, standing on chairs at the end of a Saturday night.
+&lt;/p&gt;&lt;p&gt;
+If you would like to make a better video for this talk, please do. &lt;a href="http://sivers.org/file/DerekSivers-MeaningOfLife.wav"&gt;Download the master WAV audio&lt;/a&gt;, and let me know when it's done. Assuming I like it, I'll be happy to link to it here.
+&lt;/p&gt;&lt;p&gt;
+Here's the full transcript, if you hate surprises and my charming voice:
+&lt;/p&gt;
+
+&lt;h2&gt;Transcript:&lt;/h2&gt;
+&lt;p&gt;
+There's a true story about the student who showed up late to math class.  He copied the problem that was already written on the board, assuming it was homework, and solved it that week.  Only afterwards did he find out the teacher put it on the board as an example of an unsolvable problem.
+&lt;/p&gt;&lt;p&gt;
+This question - “What is the meaning of life?” - is the classic unsolvable problem.  For thousands of years, people have been trying to figure it out.  It's the punchline cliché of unanswerable questions.
+&lt;/p&gt;&lt;p&gt;
+But right now, let's be the naive ones that don't know it's considered unsolvable, and just figure out the meaning of life in under 20 minutes.  OK?
+&lt;/p&gt;
+
+&lt;h3&gt;LIFE IS __________&lt;/h3&gt;
+&lt;p&gt;
+What word do you think goes in that blank?  Life is what?  Any ideas?
+&lt;/p&gt;&lt;p&gt;
+Let's look at some of the different options that philosophers and smarties have said.
+&lt;/p&gt;
+
+&lt;h3&gt;LIFE IS TIME&lt;/h3&gt;
+&lt;p&gt;
+Some say life is time.  Life is all about time.  The defintion of life is the time between when you're born and when you die.  So the literal meaning of life is time.
+&lt;/p&gt;&lt;p&gt;
+So if life is time, the way to have a good life is to use time wisely.
+&lt;/p&gt;&lt;p&gt;
+How can you use time wisely?  Five ways.
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+Remember it's limited
+&lt;/p&gt;&lt;p&gt;
+	If you find out tonight that you've only got one year left to live, you'll make the most of this next year.  If you act like life is infinite, you won't.
+&lt;/p&gt;&lt;p&gt;
+	To achieve great things, two things are needed: a plan, and not quite enough time.
+&lt;/p&gt;&lt;p&gt;
+	Give yourself tight deadlines.  Remember you could die at any time.  Don't delay.
+&lt;/p&gt;&lt;p&gt;
+How can you use time wisely?
+&lt;/p&gt;&lt;/li&gt;&lt;li&gt;
+Be mostly future-focused
+&lt;p&gt;
+	Make most of your current actions serve your future self.
+	Learn, practice, exercise, delay gratification, save and invest your money, and build towards your ideal future.
+	People who do this are more successful and even happier.
+&lt;/p&gt;&lt;p&gt;
+	But too much future focus leads to being a successful person on your 4th marriage, with no true friends.
+	Too much future focus can take time away from important things that need you to be in the moment.
+&lt;/p&gt;&lt;p&gt;
+How can you use time wisely?
+&lt;/p&gt;&lt;/li&gt;&lt;li&gt;
+Be somewhat present-focused
+&lt;p&gt;
+	Sometimes, pull your head out of the future, and give your full attention to the present.
+	Relationships, communication, and sex require this.
+&lt;/p&gt;&lt;p&gt;
+	But too much present focus is hedonism: living only for immediate gratification with as much excitement and novelty as possible.
+&lt;/p&gt;&lt;p&gt;
+	Too much present focus leads to an empty bank account and no impulse control.
+&lt;/p&gt;&lt;p&gt;
+	Too much present focus robs you of the deeper happiness of delayed gratification, achieving long-term goals, and developing valuable expertise.
+&lt;/p&gt;&lt;p&gt;
+How can you use time wisely?
+&lt;/p&gt;&lt;/li&gt;&lt;li&gt;
+Be somewhat past-focused
+&lt;p&gt;
+	To remember your past is to live twice.
+&lt;/p&gt;&lt;p&gt;
+	Keep your life in the context of the past, to see how far you've come.
+&lt;/p&gt;&lt;p&gt;
+	Put aside time to re-interpret your past events, as a powerful reminder that you can re-interpret your present and future, too.
+&lt;/p&gt;&lt;p&gt;
+How can you use time wisely?
+&lt;/p&gt;&lt;/li&gt;&lt;li&gt;
+Get in the zone
+&lt;p&gt;
+	You know the feeling of flow - where you're focused on work that's not too easy and not too hard - where the work itself has clear goals and is its own reward.
+&lt;/p&gt;&lt;p&gt;
+	People at the end of their life who claimed to be the happiest with their life were the ones who had spent the most time in this state of flow.
+&lt;/p&gt;&lt;p&gt;
+	For a good life, pursue the work that puts you in this state, and avoid the things that pull you from this state.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+Let's say life is time.  What do you think?  Pretty good argument?
+&lt;/p&gt;&lt;p&gt;
+Let's look at another perspective.
+&lt;/p&gt;
+
+&lt;h3&gt;LIFE IS CHOICE&lt;/h3&gt;
+&lt;p&gt;
+Some say life is choice.  Life is all about choice.  You make a hundred little choices a day, and a hundred big choices in your life.  These choices change your entire life.  Your life is created by your choices.  Therefore life IS choice.
+&lt;/p&gt;&lt;p&gt;
+So if life is choice, the way to have a good life is to make good choices.
+&lt;/p&gt;&lt;p&gt;
+How can you make good choices?  Four ways.
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+Let instinct trump logic
+&lt;p&gt;
+	The different parts of your brain started developing at different periods in evolution.
+	The oldest part of your brain, the one that's been evolving since we were fish, deals with instincts, fears, and gut feelings.
+	The newest part of your brain, the one that’s pretty uniquely human, deals with logic, language, and predictions.
+&lt;/p&gt;&lt;p&gt;
+	This newest part is still in beta.  A $5 calculator can beat it at math.
+	But this oldest part was launched a billion years ago, and has been in production and development ever since.
+&lt;/p&gt;&lt;p&gt;
+	Everything you observe and learn is first processed by your logical brain, but then the results are permanently stored as instincts, fears, and gut feelings.
+	Your instincts and emotions hold the culmination of everything you've ever observed and learned.
+	So you'll make better choices if you listen your instincts, instead of relying too much on your $5 calculator beta brain.
+&lt;/p&gt;&lt;p&gt;
+How can you make good choices?  
+&lt;/p&gt;&lt;/li&gt;&lt;li&gt;
+Stop at good enough
+&lt;p&gt;
+	You now have more options than ever.
+	You try to choose the best option, the best career, the best school, and the best boyfriend/girlfriend/partner/spouse.
+&lt;/p&gt;&lt;p&gt;
+	But thinking this way makes you feel worse about the choices you've made.
+	You're more aware than ever of all the options you didn't choose, and the benefits of each.
+&lt;/p&gt;&lt;p&gt;
+	So don't seek the absolute best. Stop when you find an option that is good enough.
+	You'll make an equally good choice, but more importantly, you'll feel much better about it.
+	Happiness counts.
+&lt;/p&gt;&lt;p&gt;
+How can you make good choices?
+&lt;/p&gt;&lt;/li&gt;&lt;li&gt;
+Set limits
+&lt;p&gt;
+	Every choice you have to make causes a little bit of pain.
+	Having choice in life is good, but having more choice is not always better.
+&lt;/p&gt;&lt;p&gt;
+	You're happier when you let other people make some choices for you.
+	If you’re very sick, you want your doctor to choose what's best, not say, "There are dozens of good options. What do you want to do?"
+	This is the appeal of religion.  It gives you rules.  It makes many of the choices for you.
+&lt;/p&gt;&lt;p&gt;
+	So set limits to your choices in life.  Cut off some options.  Give yourself rules.
+&lt;/p&gt;&lt;p&gt;
+How can you make good choices?
+&lt;/p&gt;&lt;/li&gt;&lt;li&gt;
+Choose important not urgent
+&lt;p&gt;
+	You know the difference between what's long-term important versus short-term urgent.
+&lt;/p&gt;&lt;p&gt;
+	What's urgent are emails, texts, tweets, calls, and news.
+&lt;/p&gt;&lt;p&gt;
+	What's important is spending a thousand hours to learn a new skill that will really help you in your life or work.
+	What's important is giving your full undistracted attention to the important people in your life.
+	What's important is taking time to get exercise, or to collect and share what you've learned.
+&lt;/p&gt;&lt;p&gt;
+	But none of these things will ever be urgent.
+&lt;/p&gt;&lt;p&gt;
+	So you have to ignore the tempting cries of the urgent, and deliberately choose what you know is important.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+So life is choice?  What do you think?  Pretty good argument?  Let's try another.
+&lt;/p&gt;
+
+&lt;h3&gt;LIFE IS MEMORY&lt;/h3&gt;
+&lt;p&gt;
+Some say life is memory.  The future doesn't exist.  It's something we imagine.  The present is gone in a millisecond, so everything we experience in life is a memory.  You could live a long life, but without a lot of memories, you only experienced a short life.  If you don't remember your life, it's like it never happened.  So life is memory.
+&lt;/p&gt;&lt;p&gt;
+So if life is memory, the way to have a good life is to make more memories.
+&lt;/p&gt;&lt;p&gt;
+How can you make memories?
+&lt;/p&gt;&lt;p&gt;
+Change routines.  Break monotony.  Move.  Make a major change whenever you can.  These are your chronological landmarks.  These are the hooks where you'll hang your memories.
+&lt;/p&gt;&lt;p&gt;
+Document it.  Blog it.  Not in a company's walled garden, but in a format you can archive and look through in 50 years, or your grandkids can look through in 100 years.  Keep a private blog for your future self, and tell the tales of where you've been, what you did, and the quirky people you've met along the way.  You'll be surprised how much you forget if you don't record it.
+&lt;/p&gt;&lt;p&gt;
+Socrates said the unexamined life is not worth living.  What about the forgotten life?
+&lt;/p&gt;&lt;p&gt;
+So life is memory?  What do you think?  Want to do another?
+&lt;/p&gt;
+
+&lt;h3&gt;LIFE IS LEARNING&lt;/h3&gt;
+&lt;p&gt;
+Both my smart friends and my spiritual friends insist that the meaning life is learning - that the reason you're here is to learn.  Not just for your own sake, but for everyone alive, and future generations, the meaning of your life is to learn.
+&lt;/p&gt;&lt;p&gt;
+So if life is learning, the way to have a good life is to learn a lot.
+&lt;/p&gt;&lt;p&gt;
+How can you learn a lot?
+&lt;/p&gt;&lt;p&gt;
+Instead of talking about learning techniques, let's talk about getting the right mindset, so you can learn more than you realize.
+&lt;/p&gt;&lt;p&gt;
+You've probably heard about the Fixed mindset and the Growth mindset.
+&lt;/p&gt;&lt;p&gt;
+The Fixed mindset says, "I am good at this" or "I am bad at this".  This starts in childhood when your parents say, "You're so good at math!"  You think, "I'm good at math!"  But then when you do poorly on one test, you think, "They were wrong.  I'm not good at math."  Most people think this way.  You can hear it when they say, “She’s a great singer” or “I’m just no good at dancing.”
+&lt;/p&gt;&lt;p&gt;
+The Growth mindset says, "Anyone can be good at anything. Skill comes only from practice."
+&lt;/p&gt;&lt;p&gt;
+Two impossibly hard tests were given to hundreds of children.  After the first test, all of the students were praised, but half of the students were privately told these 6 words:  "You must be good at this."  The other half were privately told these 6 words: "You must have worked really hard."
+&lt;/p&gt;&lt;p&gt;
+When they were given the second test, the students who were told, "You must be good at this", did 20% worse on the 2nd test.  Those 6 works encouraged a fixed mindset made them feel there was no point in trying.  You either are or you aren’t.
+&lt;/p&gt;&lt;p&gt;
+The students who were told "You must have worked really hard", did 30% better on the 2nd test.  Those 6 words encouraged a growth mindset that made them feel that working harder made all the difference.
+&lt;/p&gt;&lt;p&gt;
+So that's a +-50% difference in performance because of 6 quick words by one teacher.
+&lt;/p&gt;&lt;p&gt;
+Multiply that by all the people in your life, all the days you hear feedback, and all the things you tell yourself, and you can see how this simple difference in mindset can make or break a life of learning.
+&lt;/p&gt;&lt;p&gt;
+Parents, pay attention to this.  You may be harming your kids when you tell them they’re good at things.
+&lt;/p&gt;&lt;p&gt;
+Successful people, pay attention to this.  You may be harming yourself if you believe the praise that people give you.  People tell you you’re great at what you do, never just that you must have worked hard.
+&lt;/p&gt;&lt;p&gt;
+So... life is learning?  What do you think?
+&lt;/p&gt;
+
+&lt;h3&gt;Something else?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Should we look at the Buddhist idea that life is SUFFERING?  Nah, that's no fun.&lt;/li&gt;
+&lt;li&gt;Life is LOVE?  Too ambiguous.&lt;/li&gt;
+&lt;li&gt;Life is NOTHING BUT REPLICATING DNA?  Too accurate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+Let's change the subject.
+&lt;/p&gt;
+
+&lt;h3&gt;Chinese&lt;/h3&gt;
+&lt;p&gt;
+A few years ago, I started learning Chinese.  I'm fascinated with the writing.  I'm trying to memorize how to write these characters.
+&lt;/p&gt;&lt;p&gt;
+Chinese characters look complicated, but they're mostly made up of smaller simpler characters, the way that English words are made up of Latin roots and such. So you can remember the meaning of each character by knowing the meaning of its ingredients.   For example:
+&lt;/p&gt;&lt;p&gt;
+语 language = words 讠+ five 五+ mouth 口
+&lt;/p&gt;&lt;p&gt;
+So… Language is words that at least five mouths speak? Brilliant!
+&lt;/p&gt;&lt;p&gt;
+谢 thank you = words 讠+ body 身+ inch 寸
+&lt;/p&gt;&lt;p&gt;
+Hmmm... This one is not so obvious.  Maybe the idea is that when you say thanks, you speak words that give a body an inch of respectful space?  That’s interesting.
+&lt;/p&gt;&lt;p&gt;
+名 name = evening 夕 + mouth 口
+&lt;/p&gt;&lt;p&gt;
+So your real name is what's spoken by a mouth in the evening? That's kind of romantic.
+&lt;/p&gt;&lt;p&gt;
+I get so curious about the historical or cultural meaning behind each one.
+&lt;/p&gt;&lt;p&gt;
+Let's change the subject.
+&lt;/p&gt;
+
+&lt;h3&gt;Talking Heads&lt;/h3&gt;
+&lt;p&gt;
+Talking Heads were a great band from the late-70s to mid-80s. Their lyrics were really evocative and mysterious. They made you wonder what they were really about. 
+&lt;/p&gt;&lt;p&gt;
+Then I read an interview with the Talking Heads where they said that many of their lyrics were just random.  They would write evocative phrases onto little pieces of paper, then throw them into a bowl, and shuffle them up. Then they'd pull them out, and put them into the song in that order. They did this because they liked how the listener creates meaning that wasn't intended.
+&lt;/p&gt;&lt;p&gt;
+We assume that if someone writes a song, then sings it on stage into a microphone, that it must have meaning to them.
+&lt;/p&gt;&lt;p&gt;
+But nope. It was just random. Any meaning you think it contains was put there by you, the listener, not the writer. Like a Rorschach test.
+&lt;/p&gt;
+
+&lt;h3&gt;Back to Chinese.&lt;/h3&gt;
+&lt;p&gt;
+I got so curious about the historical meaning of these Chinese characters that I got a Chinese etymological dictionary that tells the full history behind every one.
+&lt;/p&gt;&lt;p&gt;
+I looked up the examples I gave here, and found out those characters were just phonetic!  Those composite character bits were NOT chosen for their meaning at all, just their sound!
+&lt;/p&gt;&lt;p&gt;
+So it seems I've just been putting the meanings into them, myself. They actually had no meaning at all!
+&lt;/p&gt;&lt;p&gt;
+It blew my mind.  I had been memorizing hundreds of characters for months, reading all kinds of meaning into the ingredients of each one.
+&lt;/p&gt;&lt;p&gt;
+After recovering from that, I thought:  How many other things in life really have no meaning?  What else have I been putting my own meaning into, thinking it was true?
+&lt;/p&gt;
+
+&lt;h3&gt;Wired&lt;/h3&gt;
+&lt;p&gt;
+I know that we’re wired to do it.  I know we survived on the savannah for eons because we evolved to look for patterns.  Our ancestors are the ones who noticed the patterns of the tiger stripes or the lion face in the grass.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;A moth is so deeply wired to fly towards the light that it may never accept that your light bulb is not the moon.&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;We are so deeply wired to find patterns that we may never accept that many things are just random.&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+We should have the same sympathy for our faulty wiring as we do for the moth.  Evolution taught us to do this thing, but didn’t teach us to stop.
+&lt;/p&gt;&lt;p&gt;
+Give us some dots and a line, and we’ll see a face.  Burn some toast and we’ll find Elvis in it.
+&lt;/p&gt;&lt;p&gt;
+A carrot from my garden looks like Jesus. What does it mean?&lt;br&gt;
+A black cat crossed my path as I walked under a ladder on Friday the 13th. What does it mean?&lt;br&gt;
+An old friend calls just a minute after I was thinking about them. What does it mean?&lt;br&gt;
+What does it mean that you went to a prestigious well-known school?  What does it mean that you didn't?&lt;br&gt;
+What does it mean that your good friend died?  What does it mean that you’re tall?&lt;br&gt;
+What does it mean that you have a lot of followers online?  What does it mean that you don’t?&lt;br&gt;
+What does it mean that you’re female?  What does it mean that you’re male?&lt;br&gt;
+What does it mean that you’re an entrepreneur?  What does it mean that you’re not?&lt;br&gt;
+What does it mean that all of your previous attempts at something have failed?
+&lt;/p&gt;&lt;p&gt;
+Nothing!  Nothing at all.
+&lt;/p&gt;&lt;p&gt;
+Nothing has inherent meaning. Everything is only what it is and that's it.
+&lt;/p&gt;&lt;p&gt;
+So let's get back to our original question and wrap this up.
+&lt;/p&gt;
+
+&lt;h3&gt;Life Is _____&lt;/h3&gt;
+&lt;p&gt;
+What is the meaning of life?  LIFE IS ______
+TIME?&lt;br&gt;
+CHOICE?&lt;br&gt;
+MEMORY?&lt;br&gt;
+LEARNING?&lt;br&gt;
+SUFFERING?&lt;br&gt;
+LOVE?&lt;br&gt;
+REPLICATING DNA?&lt;br&gt;
+&lt;/p&gt;&lt;p&gt;
+You can tell by the variety of answers that they are just projected meanings.
+&lt;/p&gt;&lt;p&gt;
+You can choose to project one of these meanings onto your life, if it makes you feel good, or improves your current actions.
+&lt;/p&gt;&lt;p&gt;
+But you know the real answer is clear and obvious now.
+&lt;/p&gt;&lt;p&gt;
+LIFE IS (just) LIFE.  IT DOESN'T MEAN ANYTHING.
+&lt;/p&gt;&lt;p&gt;
+Erase any meaning you put into past events.  Erase any meaning that’s holding you back.  Erase those times where people that this means that.  None of it is real.
+&lt;/p&gt;&lt;p&gt;
+Life has no inherent meaning.  Nothing has inherent meaning.
+&lt;/p&gt;&lt;p&gt;
+Life is a blank slate.
+&lt;/p&gt;&lt;p&gt;
+You're free to project any meaning that serves you.
+&lt;/p&gt;&lt;p&gt;
+You're free to do with it, anything you want.
+&lt;/p&gt;&lt;p&gt;
+Thank you.
+&lt;/p&gt;
+
+</content>
+  </entry>
   <entry>
     <title>Change careers like Tarzan</title>
     <id>http://sivers.org/tarzan</id>
     <updated>2014-03-30T00:00:00+00:00</updated>
     <published>2014-03-30T00:00:00+00:00</published>
     <link href="http://sivers.org/tarzan"/>
-    <content type="html">&lt;p&gt;&#13;
-I get emails from many people who want to make a big change in their career.&#13;
-&lt;/p&gt;&lt;p&gt;&#13;
-Each one wants to quit their current career, and boldly leap into their new venture or preferred lifestyle.&#13;
-&lt;/p&gt;&lt;p&gt;&#13;
-When they ask my advice, they think I'm going to say, “Yes! Quit! Go for it!”&#13;
-&lt;/p&gt;&lt;p&gt;&#13;
-But instead, they're surprised at my suggestion:&#13;
-&lt;/p&gt;&lt;p&gt;&#13;
-Remember how Tarzan swings through the jungle?&#13;
-He doesn't let go of the previous vine until the next vine is supporting his weight.&#13;
-&lt;/p&gt;&lt;p&gt;&#13;
-&lt;img src="/images/tarzan-600x450.gif" width="600" height="450" alt="Tarzan swinging on vines"&gt;&#13;
-&lt;/p&gt;&lt;p&gt;&#13;
-So my advice is: Change careers like Tarzan.&#13;
-&lt;/p&gt;&lt;p&gt;&#13;
-&lt;strong&gt;Don't let go of the old one until the new one is supporting you.&lt;/strong&gt;&#13;
-&lt;/p&gt;&lt;p&gt;&#13;
-And &lt;strong&gt;make sure you don't lose momentum&lt;/strong&gt;.&#13;
-&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&#13;
-P.S.  I highly recommend reading the book “&lt;a href="http://sivers.org/book/SoGood"&gt;So Good They Can't Ignore You&lt;/a&gt;” for more thoughts on this.&#13;
-&lt;/p&gt;&lt;p&gt;&#13;
-P.P.S.  Full credit for the “momentum” metaphor goes to &lt;a href="http://philippantar.com/"&gt;Philipp Antar&lt;/a&gt;, from the comments, below.&#13;
-&lt;/p&gt;&#13;
+    <content type="html">&lt;p&gt;
+I get emails from many people who want to make a big change in their career.
+&lt;/p&gt;&lt;p&gt;
+Each one wants to quit their current career, and boldly leap into their new venture or preferred lifestyle.
+&lt;/p&gt;&lt;p&gt;
+When they ask my advice, they think I'm going to say, “Yes! Quit! Go for it!”
+&lt;/p&gt;&lt;p&gt;
+But instead, they're surprised at my suggestion:
+&lt;/p&gt;&lt;p&gt;
+Remember how Tarzan swings through the jungle?
+He doesn't let go of the previous vine until the next vine is supporting his weight.
+&lt;/p&gt;&lt;p&gt;
+&lt;img src="/images/tarzan-600x450.gif" width="600" height="450" alt="Tarzan swinging on vines"&gt;
+&lt;/p&gt;&lt;p&gt;
+So my advice is: Change careers like Tarzan.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Don't let go of the old one until the new one is supporting you.&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+And &lt;strong&gt;make sure you don't lose momentum&lt;/strong&gt;.
+&lt;/p&gt;&lt;hr&gt;&lt;p&gt;
+P.S.  I highly recommend reading the book “&lt;a href="http://sivers.org/book/SoGood"&gt;So Good They Can't Ignore You&lt;/a&gt;” for more thoughts on this.
+&lt;/p&gt;&lt;p&gt;
+P.P.S.  Full credit for the “momentum” metaphor goes to &lt;a href="http://philippantar.com/"&gt;Philipp Antar&lt;/a&gt;, from the comments, below.
+&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -1182,412 +1539,6 @@ Breathe in. Breathe out. Breathe in. Breathe out.
 &lt;/p&gt;
 &lt;img src="/images/handwriting.jpg" width="600" height="400" alt="" /&gt;
 &lt;div class="small"&gt;(photo by &lt;a href="http://www.flickr.com/photos/beth19/4866638272/"&gt;bethan&lt;/a&gt;)&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <title>The Great Movies</title>
-    <id>http://sivers.org/ebert2</id>
-    <updated>2013-04-06T00:00:00+00:00</updated>
-    <published>2013-04-06T00:00:00+00:00</published>
-    <link href="http://sivers.org/ebert2"/>
-    <content type="html">&lt;p&gt;
-A friend I hadn’t heard from in years called me out of the blue yesterday, and just said, “Dude... did you hear?”
-&lt;/p&gt;&lt;p&gt;
-I went home and before she even saw me, my wife asked from the next room, “Babe... I heard the news. Are you OK?”
-&lt;/p&gt;&lt;p&gt;
-They all know I’m a fan of &lt;a href="http://www.rogerebert.com/"&gt;Roger Ebert&lt;/a&gt;. He died yesterday.
-&lt;/p&gt;&lt;p&gt;
-I was also a massive James Brown fan, but I wasn’t as affected when he died, because it’s not like I was tuning in weekly to hear what new music he was making.
-&lt;/p&gt;&lt;p&gt;
-But Ebert... ooof....
-&lt;/p&gt;&lt;p&gt;
-Every Friday since 1994 (yes 1994), I’d go to rogerebert.suntimes.com to read his new in-depth film reviews. I feel like I’ve been in his part-time film school class for the last 19 years. My life is so much richer from it.
-&lt;/p&gt;&lt;p&gt;
-This is going to be a hard habit to break.
-&lt;/p&gt;&lt;p&gt;
-Every time we’d watch a movie, I’d go back and read Ebert’s essay on it, to get a different perspective. My wife would joke, after the credits rolled, “OK, now go find out what Ebert said about it. I know you want to. I’ll wait.”
-&lt;/p&gt;&lt;p&gt;
-“The Great Movies” was his collection of films he felt were the best. Years after his initial review, he’d go back and watch it at least once more, then write a deeper essay about it.
-&lt;/p&gt;&lt;p&gt;
-A few years ago, I subscribed to Netflix and put all 300-or-so of “The Great Movies” in my queue.  We’d watch one or two a week, not reading his essay until afterwards.  I've seen most but not all of them now.
-&lt;/p&gt;&lt;p&gt;
-A hidden world opens up to you when you dive deep into an art form.  Years of studying jazz at Berklee School of Music opened up that world to me.  Art is so much deeper when you get the contexts and references.  Ebert single-handedly did that for me for movies.
-&lt;/p&gt;&lt;p&gt;
-Someone recently &lt;a href="http://www.reddit.com/r/IAmA/comments/cekj0/roger_ebert/"&gt;asked him&lt;/a&gt;, “Do you think a more innocent viewpoint, not marred by technical knowledge, leads to a more ‘pure’ watching experience - the emotional elements without being distracted by technicalities?”
-&lt;/p&gt;&lt;p&gt;
-He answered, “The more movies you see and write about, the more you know about them. Consider baseball. The ‘innocent’ crowd member sees a bunch of guys running after a little ball while wearing funny costumes. The Cubs fan sees inevitable tragedy unfolding.”
-&lt;/p&gt;&lt;p&gt;
-So, yeah.  I recommend you watch as many of these movies and read as many of these 364 essays as you can.  Especially the ones you think you’d be least likely to enjoy.  I’ll keep the links here permanently.
-&lt;/p&gt;
-
-&lt;h2&gt;Roger Ebert’s “The Great Movies” essays&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-12-angry-men-1957"&gt;12 Angry Men&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-ace-in-the-hole-1951"&gt;Ace in the Hole&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-adaptation-2002"&gt;Adaptation.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-adventures-of-robin-hood-1938"&gt;The Adventures of Robin Hood&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-after-dark-my-sweet-1990"&gt;After Dark, My Sweet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/after-hours-1985-1"&gt;After Hours&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-age-of-innocence-1993"&gt;The Age of Innocence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-aguirre-the-wrath-of-god-1972"&gt;Aguirre, the Wrath of God&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-ai-artificial-intelligence-2001"&gt;A.I. Artificial Intelligence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-ali-fear-eats-the-soul-1974"&gt;Ali: Fear Eats the Soul&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-alien-1979"&gt;Alien&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-all-about-eve-1950"&gt;All About Eve&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-amadeus-1984"&gt;Amadeus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-amarcord-1974"&gt;Amarcord&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-annie-hall-1977"&gt;Annie Hall&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-apartment-1960"&gt;The Apartment&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-apocalypse-now-1979"&gt;Apocalypse Now&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-apu-trilogy-1959"&gt;The Apu Trilogy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-army-of-shadows-1969"&gt;Army of Shadows&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-atlantic-city-1980"&gt;Atlantic City&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-au-hasard-balthazar-1966"&gt;Au Hasard Balthazar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-au-revoir-les-enfants-1987"&gt;Au Revoir, les Enfants&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-an-autumn-afternoon-1962"&gt;An Autumn Afternoon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/babel-2006"&gt;Babel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-badlands-1973"&gt;Badlands&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-ballad-of-narayama-1958"&gt;The Ballad of Narayama&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-band-wagon-1953"&gt;The Band Wagon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-bank-dick-1940"&gt;The Bank Dick&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-baraka-1992"&gt;Baraka&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/barry-lyndon-1975"&gt;Barry Lyndon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-battle-of-algiers-1967"&gt;The Battle of Algiers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-battleship-potemkin-1925"&gt;The Battleship Potemkin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-beat-the-devil-1954"&gt;Beat the Devil&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-beauty-and-the-beast-1946"&gt;Beauty and the Beast&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-being-there-1979"&gt;Being There&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-belle-de-jour-1967"&gt;Belle de Jour&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/la-belle-noiseuse-1991"&gt;La Belle Noiseuse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/the-best-years-of-our-lives-1946"&gt;The Best Years of Our Lives&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-bicycle-thief--bicycle-thieves-1949"&gt;The Bicycle Thief&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-big-heat-1953"&gt;The Big Heat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-big-lebowski-1998"&gt;The Big Lebowski&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-big-red-one-1980"&gt;The Big Red One&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-big-sleep-1946"&gt;The Big Sleep&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-birth-of-a-nation-1915"&gt;The Birth of a Nation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-blade-runner-the-final-cut-1982"&gt;Blade Runner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-blow-up-1966"&gt;Blow-Up&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-blue-kite-1993"&gt;The Blue Kite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-bob-le-flambeur-1955"&gt;Bob le Flambeur&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-body-heat-1981"&gt;Body Heat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-bonnie-and-clyde-1967"&gt;Bonnie and Clyde&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-breathless-1960"&gt;Breathless&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-bride-of-frankenstein"&gt;Bride of Frankenstein&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-bridge-on-the-river-kwai-1957"&gt;The Bridge on the River Kwai&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-bring-me-the-head-of-alfredo-garcia-1974"&gt;Bring Me the Head of Alfredo Garcia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-broken-blossoms-1919"&gt;Broken Blossoms&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-cabinet-of-dr-caligari-1920"&gt;The Cabinet of Dr. Caligari&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-cabiria-1914"&gt;Cabiria&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-cache-2005"&gt;Cache&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-casablanca-1942"&gt;Casablanca&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-cat-people-1942"&gt;Cat People&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-la-ceremonie-1995"&gt;La Ceremonie&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-un-chien-andalou-1928"&gt;Un Chien Andalou&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-children-of-paradise-1945"&gt;Children of Paradise&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-chimes-at-midnight-1965"&gt;Chimes at Midnight&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-chinatown-1974"&gt;Chinatown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/chop-shop-2008-1"&gt;Chop Shop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-a-christmas-story-1983"&gt;A Christmas Story&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-chuck-jones-three-cartoons"&gt;Chuck Jones: Three Cartoons&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-circus-1928"&gt;The Circus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-citizen-kane-1941"&gt;Citizen Kane&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-city-lights-1931"&gt;City Lights&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-la-collectionneuse-1967"&gt;La Collectionneuse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-color-purple-1985"&gt;The Color Purple&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-come-and-see-1985"&gt;Come and See&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-contact-1997"&gt;Contact&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-conversation-1974"&gt;The Conversation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-cool-hand-luke-1967"&gt;Cool Hand Luke&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-cries-and-whispers-1972"&gt;Cries and Whispers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-crimes-and-misdemeanors-1989"&gt;Crimes and Misdemeanors&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-crumb-1994"&gt;Crumb&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-dark-city-2005"&gt;Dark City&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-day-for-night-1973"&gt;Day for Night&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-days-of-heaven-1978"&gt;Days of Heaven&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-dead-1987"&gt;The Dead&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-decalogue-1988"&gt;The Decalogue&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-departures-2009"&gt;Departures&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-detour-1945"&gt;Detour&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-diary-of-a-country-priest-1951"&gt;Diary of a Country Priest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-diary-of-a-lost-girl-1929"&gt;Diary of a Lost Girl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-discreet-charm-of-the-bourgeoisie-1972"&gt;The Discreet Charm of the Bourgeoisie&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/diva-2008"&gt;Diva&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-do-the-right-thing-1989"&gt;Do the Right Thing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-dog-day-afternoon-1975"&gt;Dog Day Afternoon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-dont-look-now-1974"&gt;Don't Look Now&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-double-indemnity-1944"&gt;Double Indemnity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/the-double-life-of-veronique-1991-1"&gt;The Double Life of Veronique&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-dr-strangelove-1964"&gt;Dr. Strangelove&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-dracula-1931"&gt;Dracula&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-duck-soup-1933"&gt;Duck Soup&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-et-the-extra-terrestrial-1982"&gt;E.T. -- The Extra-Terrestrial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-earrings-of-madame-de-1953"&gt;The Earrings of Madame de...&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-easy-rider-1969"&gt;Easy Rider&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-8-12--eight-and-a-half-1963"&gt;8½ / Eight and a Half&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-el-norte-1983"&gt;El Norte&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-el-topo-1970"&gt;El Topo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/the-enigma-of-kaspar-hauser-1974"&gt;The Enigma of Kaspar Hauser&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/eternal-sunshine-of-the-spotless-mind-2004-1"&gt;Eternal Sunshine of the Spotless Mind&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/exotica-1994"&gt;Exotica&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-exterminating-angel-1962"&gt;The Exterminating Angel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-fall-of-the-house-of-usher-1928"&gt;The Fall of the House of Usher&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-fanny-and-alexander-1983"&gt;Fanny and Alexander&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-fargo-1996"&gt;Fargo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-faust-1926"&gt;Faust&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-firemens-ball-1968"&gt;The Firemen's Ball&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-fitzcarraldo-1982"&gt;Fitzcarraldo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-five-easy-pieces-1970"&gt;Five Easy Pieces&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-floating-weeds-1959"&gt;Floating Weeds&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-forbidden-games-1952"&gt;Forbidden Games&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-400-blows-1959"&gt;The 400 Blows&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-french-cancan-1954"&gt;French Cancan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-gates-of-heaven-1978"&gt;Gates of Heaven&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-general-1927"&gt;The General&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-godfather-1972"&gt;The Godfather&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-godfather-part-ii-1974"&gt;The Godfather, Part II&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-goldfinger-1964"&gt;Goldfinger&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-gone-with-the-wind-1939"&gt;Gone With the Wind&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-good-the-bad-and-the-ugly-1968"&gt;The Good, the Bad and the Ugly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-goodfellas-1991"&gt;GoodFellas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-gospel-according-to-st-matthew-1964"&gt;Gospel According to St. Matthew&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-grand-illusion-1937"&gt;Grand Illusion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-grapes-of-wrath-1940"&gt;The Grapes of Wrath&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-grave-of-the-fireflies-1988"&gt;Grave of the Fireflies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-great-dictator-1940"&gt;The Great Dictator&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-great-expectations-1946"&gt;Great Expectations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-greed-1925"&gt;Greed&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-grey-zone-2001"&gt;The Grey Zone&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-groundhog-day-1993"&gt;Groundhog Day&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/the-hairdressers-husband-1990"&gt;The Hairdresser's Husband&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-harakiri-1962"&gt;Harakiri&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-a-hard-days-night-1964"&gt;A Hard Day's Night&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-heart-of-glass-1976"&gt;Heart of Glass&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-hoop-dreams-1994"&gt;Hoop Dreams&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-house-of-games-1987"&gt;House of Games&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-howards-end-1992"&gt;Howards End&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-hustler-1961"&gt;The Hustler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-ikiru-1952"&gt;Ikiru&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/in-a-lonely-place-1950"&gt;In a Lonely Place&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-in-cold-blood-1967"&gt;In Cold Blood&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-inherit-the-wind-1960"&gt;Inherit the Wind&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-its-a-wonderful-life-1946"&gt;It's a Wonderful Life&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-ivan-the-terrible-parts-i-and-ii"&gt;Ivan the Terrible, Parts I &amp;amp; II&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-jaws-1975"&gt;Jaws&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-jfk-1991"&gt;JFK&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/johnny-guitar-1954"&gt;Johnny Guitar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-jules-and-jim-1961"&gt;Jules and Jim&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-juliet-of-the-spirits-1965"&gt;Juliet of the Spirits&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-films-of-buster-keaton"&gt;The Films of Buster Keaton&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-killer-of-sheep-1977"&gt;Killer of Sheep&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-killing-1956"&gt;The Killing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-kind-hearts-and-coronets-1949"&gt;Kind Hearts and Coronets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-king-kong-1933"&gt;King Kong&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-latalante-1934"&gt;L'Atalante&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-lavventura-1960"&gt;L'Avventura&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-la-confidential-1997"&gt;L.A. Confidential&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-la-dolce-vita-1960"&gt;La Dolce Vita&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-lady-eve-1941"&gt;The Lady Eve&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-last-laugh-1924"&gt;The Last Laugh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-last-picture-show-1971"&gt;The Last Picture Show&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-last-tango-in-paris-1972"&gt;Last Tango in Paris&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/the-last-temptation-of-christ-1988"&gt;The Last Temptation of Christ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-last-year-at-marienbad-1961"&gt;Last Year at Marienbad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-late-spring-1972"&gt;Late Spring&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-laura-1944"&gt;Laura&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-lawrence-of-arabia-1962"&gt;Lawrence of Arabia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-le-boucher--the-butcher-2003"&gt;Le Boucher / The Butcher&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-le-samourai-1967"&gt;Le Samourai&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-leaving-las-vegas-1995"&gt;Leaving Las Vegas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-leolo-1993"&gt;Leolo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/leon-morin-priest-1961"&gt;Leon Morin, Priest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-leopard-1963"&gt;The Leopard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-life-and-death-of-colonel-blimp-1943"&gt;The Life and Death of Colonel Blimp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-river-le-fleuve-1951"&gt;The River (Le Fleuve)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-life-of-oharu-1952"&gt;The Life of Oharu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-long-goodbye-1973"&gt;The Long Goodbye&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-lost-in-translation-2003"&gt;Lost in Translation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-m-1931"&gt;M&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-magnolia-1999"&gt;Magnolia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/make-way-for-tomorrow-1937"&gt;Make Way for Tomorrow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-maltese-falcon-1941"&gt;The Maltese Falcon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-a-man-escaped-1956"&gt;A Man Escaped&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-man-who-laughs-1928"&gt;The Man Who Laughs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-man-who-shot-liberty-valance-1962"&gt;The Man Who Shot Liberty Valance&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-man-with-a-movie-camera-1929"&gt;Man With a Movie Camera&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-manchurian-candidate-1962"&gt;The Manchurian Candidate&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-manhattan-1979"&gt;Manhattan&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-marriage-of-maria-braun-1979"&gt;The Marriage of Maria Braun&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-match-factory-girl-1990"&gt;The Match Factory Girl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-mccabe-and-mrs-miller-1971"&gt;McCabe &amp;amp; Mrs. Miller&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-mean-streets-1973"&gt;Mean Streets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-mephisto-1981"&gt;Mephisto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-metropolis-1927"&gt;Metropolis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-metropolis-2010-restoration-1927"&gt;Metropolis-2010&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-mishima-a-life-in-four-chapters-1985"&gt;Mishima: A Life in Four Chapters&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-mon-oncle-1958"&gt;Mon Oncle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-mon-oncle-antoine-1971"&gt;Mon Oncle Antoine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/mon-oncle-damerique-1980"&gt;Mon Oncle d'Amerique&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-monsieur-hire-1989"&gt;Monsieur Hire&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-moolaade-2007"&gt;Moolaade&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-moonstruck-1987"&gt;Moonstruck&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-mr-hulots-holiday-1953"&gt;Mr. Hulot's Holiday&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-mulholland-dr-2001"&gt;Mulholland Dr.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-music-room-1958"&gt;The Music Room&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-my-darling-clementine-1946"&gt;My Darling Clementine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-my-dinner-with-andre-1981"&gt;My Dinner With Andre&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-my-fair-lady-1964"&gt;My Fair Lady&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-my-man-godfrey-1936"&gt;My Man Godfrey&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-my-neighbor-totoro-1993"&gt;My Neighbor Totoro&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-mystery-train-1989"&gt;Mystery Train&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-nanook-of-the-north-1922"&gt;Nanook of the North&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-nashville-1975"&gt;Nashville&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-network-1976"&gt;Network&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-night-moves-1975"&gt;Night Moves&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-night-of-the-hunter-1955"&gt;The Night of the Hunter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-nights-of-cabiria-1957"&gt;Nights of Cabiria&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-nosferatu-1922"&gt;Nosferatu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-nosferatu-the-vampyre-1979"&gt;Nosferatu the Vampyre&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-notorious-1946"&gt;Notorious&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-on-the-waterfront-1954"&gt;On the Waterfront&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-one-flew-over-the-cuckoos-nest-1975"&gt;One Flew Over the Cuckoo's Nest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-only-son-1936"&gt;The Only Son&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-ordet-1955"&gt;Ordet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-orpheus-1949"&gt;Orpheus&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-out-of-the-past-1947"&gt;Out of the Past&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-pale-flower-1964"&gt;Pale Flower&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-pans-labyrinth-2006"&gt;Pan's Labyrinth&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-pandoras-box-1928"&gt;Pandora's Box&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-paris-texas-1984"&gt;Paris, Texas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-passion-of-joan-of-arc-1928"&gt;The Passion of Joan of Arc&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-paths-of-glory-1957"&gt;Paths of Glory&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-patton-1970"&gt;Patton&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-peeping-tom-1960"&gt;Peeping Tom&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-persona-1966"&gt;Persona&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-phantom-of-the-opera-1925"&gt;The Phantom of the Opera&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-pickpocket-1959"&gt;Pickpocket&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-picnic-at-hanging-rock-1975"&gt;Picnic at Hanging Rock&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-pink-floyd-the-wall-1982"&gt;Pink Floyd: The Wall&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-pinocchio-1940"&gt;Pinocchio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-pixote-1981"&gt;Pixote&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-planes-trains-and-automobiles-1987"&gt;Planes, Trains and Automobiles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-playtime-1967"&gt;Playtime&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-pledge-2001"&gt;The Pledge&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/a-prairie-home-companion-2006-1"&gt;A Prairie Home Companion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-producers-1968"&gt;The Producers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-psycho-1960"&gt;Psycho&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-pulp-fiction-1994"&gt;Pulp Fiction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-raging-bull-1980"&gt;Raging Bull&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-raiders-of-the-lost-ark-1981"&gt;Raiders of the Lost Ark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-raise-the-red-lantern-1990"&gt;Raise the Red Lantern&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-ran-1985"&gt;Ran&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-rashomon-1950"&gt;Rashomon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-rear-window-1954"&gt;Rear Window&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-rebel-without-a-cause-1955"&gt;Rebel Without a Cause&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-red-beard-1965"&gt;Red Beard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-red-river-1948"&gt;Red River&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-red-shoes-1948"&gt;The Red Shoes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/richard-iii-1996-1"&gt;Richard III&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-rififi-1954"&gt;Rififi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-right-stuff-1983"&gt;The Right Stuff&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/rio-bravo-1959"&gt;Rio Bravo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-ripleys-game-2002"&gt;Ripley's Game&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-rocco-and-his-brothers-1960"&gt;Rocco and His Brothers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-romeo-and-juliet-1968"&gt;Romeo and Juliet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-rules-of-the-game-1939"&gt;The Rules of the Game&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-safety-last-1923"&gt;Safety Last&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-samurai-rebellion-1967"&gt;Samurai Rebellion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-sansho-the-bailiff-1954"&gt;Sansho the Bailiff&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-santa-sangre-1989"&gt;Santa Sangre&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-saturday-night-fever-1977"&gt;Saturday Night Fever&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-say-anything-1989"&gt;Say Anything&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-scarface-1983"&gt;Scarface&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-scarlet-empress-1934"&gt;The Scarlet Empress&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-schindlers-list-1993"&gt;Schindler's List&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-searchers-1956"&gt;The Searchers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/secrets-and-lies-1996-1"&gt;Secrets &amp;amp; Lies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-senso-1954"&gt;Senso&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-seven-1995"&gt;Seven&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-seven-samurai-1954"&gt;The Seven Samurai&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-seventh-seal-1957"&gt;The Seventh Seal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-shadow-of-a-doubt-1943"&gt;Shadow of a Doubt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-shane-1953"&gt;Shane&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-shawshank-redemption-1994"&gt;The Shawshank Redemption&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-shining-1980"&gt;The Shining&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-shoah-1985"&gt;Shoah&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-silence-of-the-lambs-1991"&gt;The Silence of the Lambs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/the-silence-1963"&gt;The Silence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-singin-in-the-rain-1952"&gt;Singin' in the Rain&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-smiles-of-a-summer-night-1955"&gt;Smiles of a Summer Night&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-snow-white-and-the-seven-dwarfs-1937"&gt;Snow White and the Seven Dwarfs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-solaris-1972"&gt;Solaris&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-some-like-it-hot-1959"&gt;Some Like It Hot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/souls-for-sale-1923"&gt;Souls For Sale&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-spirit-of-the-beehive-1973"&gt;Spirit of the Beehive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-spirited-away-2002"&gt;Spirited Away&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/spring-summer-fall-winter_and-spring-2003"&gt;Spring, Summer, Fall, Winter and Spring&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-stagecoach-1939"&gt;Stagecoach&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-star-wars-episode-iv-a-new-hope-1977"&gt;Star Wars (Episode IV: A New Hope)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-strangers-on-a-train-1951"&gt;Strangers on a Train&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-stroszek-1977"&gt;Stroszek&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-a-sunday-in-the-country-1984"&gt;A Sunday in the Country&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-sunrise-1928"&gt;Sunrise&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-sunset-boulevard-1950"&gt;Sunset Boulevard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-superman-1978"&gt;Superman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-sweet-smell-of-success-1957"&gt;The Sweet Smell of Success&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-swing-time-1936"&gt;Swing Time&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-a-tale-of-winter-1992"&gt;A Tale of Winter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-taxi-driver-1976"&gt;Taxi Driver&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-tender-mercies-1983"&gt;Tender Mercies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-terrorist-2000"&gt;The Terrorist&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/the-thief-of-bagdad-1940"&gt;The Thief of Bagdad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-thin-man-1934"&gt;The Thin Man&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-third-man-1949"&gt;The Third Man&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-this-is-spinal-tap-1984"&gt;This Is Spinal Tap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-three-colors-trilogy-blue-white-red"&gt;Three Colors Trilogy: Blue, White, Red&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-3-women-1977"&gt;3 Women&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-through-a-glass-darkly-1961"&gt;Through a Glass Darkly&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-tokyo-story-1953"&gt;Tokyo Story&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-top-hat-1935"&gt;Top Hat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-touch-of-evil-1958"&gt;Touch of Evil&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-touchez-pas-au-grisbi-1954"&gt;Touchez Pas au Grisbi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-treasure-of-the-sierra-madre-1948"&gt;The Treasure of the Sierra Madre&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-triumph-of-the-will-1935"&gt;Triumph of the Will&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-trouble-in-paradise-1932"&gt;Trouble in Paradise&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/25th-hour-2002"&gt;25th Hour&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-2001-a-space-odyssey-1968"&gt;2001: A Space Odyssey&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-ugetsu-1953"&gt;Ugetsu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-umberto-d-1952"&gt;Umberto D&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-unforgiven-1992"&gt;Unforgiven&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-up-documentaries-1985"&gt;The Up Documentaries&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/vengeance-is-mine-2008"&gt;Vengeance Is Mine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-veronika-voss-1982"&gt;Veronika Voss&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-vertigo-1958"&gt;Vertigo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-victim-1961"&gt;Victim&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-viridiana-1961"&gt;Viridiana&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-vivre-sa-vie--my-life-to-live-1963"&gt;Vivre sa Vie / My Life to Live&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/waking-life-2001-1"&gt;Waking Life&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-walkabout-1971"&gt;Walkabout&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/werckmeister-harmonies-2000"&gt;Werckmeister Harmonies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-west-side-story-1961"&gt;West Side Story&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-what-ever-happened-to-baby-jane-1962"&gt;What Ever Happened to Baby Jane?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-wild-bunch-1969"&gt;The Wild Bunch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-wings-of-desire-1988"&gt;Wings of Desire&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-winter-light-1962"&gt;Winter Light&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/withnail-and-i-1987"&gt;Withnail &amp;amp; I&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-the-wizard-of-oz-1939"&gt;The Wizard of Oz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-woman-in-the-dunes-1964"&gt;Woman in the Dunes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-a-woman-under-the-influence-1974"&gt;A Woman Under the Influence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-a-womans-tale-1992"&gt;A Woman's Tale&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-woodstock-1970"&gt;Woodstock&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-wr-mysteries-of-the-organism-1971"&gt;WR -- Mysteries of the Organism&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-written-on-the-wind-1956"&gt;Written on the Wind&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-yankee-doodle-dandy-1942"&gt;Yankee Doodle Dandy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-a-year-of-the-quiet-sun-1984"&gt;A Year of the Quiet Sun&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-yellow-submarine-1968"&gt;Yellow Submarine&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rogerebert.com/reviews/great-movie-yojimbo-1961"&gt;Yojimbo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class="small"&gt;(and a cache of them &lt;a href="http://sivers.org/file/ebert.zip"&gt;here&lt;/a&gt;, just in case)&lt;/p&gt;
 </content>
   </entry>
 </feed>

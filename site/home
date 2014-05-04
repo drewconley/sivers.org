@@ -54,12 +54,12 @@
   <section id="newestarticles">
     <h2>Newest Posts <span class="small"><a href="/blog">all posts</a></span></h2>
     <ul>
+      <li><a href="/ml">Meaning of Life</a></li>
       <li><a href="/tarzan">Change careers like Tarzan</a></li>
       <li><a href="/full">What if you didn't need money or attention?</a></li>
       <li><a href="/game">How will this game end?</a></li>
       <li><a href="/mirror">Imitate. We are imperfect mirrors.</a></li>
       <li><a href="/vn14">Understanding Vietnam</a></li>
-      <li><a href="/sg14">Understanding Singapore</a></li>
     </ul>
   </section>
   
@@ -168,6 +168,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>May 5</dt>
+      <dd>My new 19-minute talk (after 2 years of improvements) is The Meaning of Life: <a href="http://sivers.org/ml">http://sivers.org/ml</a></dd>
       <dt>April 18</dt>
       <dd>The power of the soundtrack: <a href="http://youtu.be/1IAXrxlDK6c">http://youtu.be/1IAXrxlDK6c</a> Brilliant.</dd>
       <dt>April 17</dt>
@@ -178,8 +180,6 @@
       <dd>Change careers like Tarzan : <a href="http://sivers.org/tarzan">http://sivers.org/tarzan</a></dd>
       <dt>March 19</dt>
       <dd>What if you didn&#39;t need money or attention?  <a href="http://sivers.org/full">http://sivers.org/full</a></dd>
-      <dt>March 15</dt>
-      <dd>I&#39;m not bad at sleeping.  I&#39;m just really good at staying awake.</dd>
     </dl>
   </section>
   
