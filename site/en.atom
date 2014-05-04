@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2014-05-05T01:02:58+12:00</updated>
+  <updated>2014-05-05T01:09:33+12:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -14,6 +14,8 @@
     <published>2014-05-05T00:00:00+00:00</published>
     <link href="http://sivers.org/ml"/>
     <content type="html">&lt;p&gt;
+Let's just figure out the meaning of life, once and for all, in under 20 minutes, OK?
+&lt;/p&gt;&lt;p&gt;
 This is a 19-minute talk I've given at four conferences in Ireland, Taiwan, India, and New Zealand.  I've improved it after each, and finally consider it done, so this is now the best and final recording of it.
 &lt;/p&gt;&lt;p&gt;
 The video doesn't add much, so if you would rather just listen, &lt;a href="http://sivers.org/file/DerekSivers-MeaningOfLife.mp3"&gt;download the MP3&lt;/a&gt;.
