@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title> | Derek Sivers</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+</head>
+<body id="prez">
+
+<section id="masthead">
+  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
+  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+</section>
+
+<section id="content">
+
+  <article>
+    <header>
+      <h1><a href="/lifeis"></a></h1>
+      <p class="postdate">Length: <strong>19 minutes.</strong> Date recorded: 2014-05</p>
+    </header>
+    <p><strong>Let's just figure this out in under 20 minutes.</strong></p>
+
+<p>
+The full description and transcript are at <a href="/ml">sivers.org/ml</a>.  Enjoy!
+</p>
+<hr>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/zzcCWEb-tyk" frameborder="0" allowfullscreen></iframe>
+
+
+    <footer>
+      © 2014 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+  <div id="comments">
+  </div>
+  <script type="text/javascript" src="/js/comments.js"></script>
+
+
+</section>
+</body>
+</html>
+

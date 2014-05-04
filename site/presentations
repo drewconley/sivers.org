@@ -20,6 +20,15 @@
   <h1>Presentations</h1>
 
   <figure>
+    <a href="/lifeis"><img src="/images/lifeis.jpg" width="200" height="150" alt="" /></a>
+    <figcaption>
+      <h3><a href="/lifeis"></a></h3>
+      <h5>Length: <strong>19 minutes</strong>. &nbsp; Date: 2014-05</h5>
+      <p>Let's just figure this out in under 20 minutes.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
     <a href="/nextbank"><img src="/images/nextbank.jpg" width="200" height="150" alt="Next Bank Asia : Disrupting Banking" /></a>
     <figcaption>
       <h3><a href="/nextbank">Next Bank Asia : Disrupting Banking</a></h3>

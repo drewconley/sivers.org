@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2014-05-05T00:45:54+12:00</updated>
+  <updated>2014-05-05T00:53:00+12:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -18,7 +18,7 @@ This is a 19-minute talk I've given at four conferences in Ireland, Taiwan, Indi
 &lt;/p&gt;&lt;p&gt;
 The video doesn't add much, so if you would rather just listen, &lt;a href="http://sivers.org/file/DerekSivers-MeaningOfLife.mp3"&gt;download the MP3&lt;/a&gt;.
 &lt;/p&gt;&lt;p&gt;
-The video should embed from YouTube below, but if it doesn't, &lt;a href="http://sivers.org/file/DerekSivers-MeaningOfLife.mp4"&gt;download the MP4 video&lt;/a&gt;.
+The video should be visible below, but if it not, &lt;a href="http://sivers.org/file/DerekSivers-MeaningOfLife.mp4"&gt;download the MP4 video&lt;/a&gt;.
 &lt;/p&gt;
 &lt;iframe width="640" height="360" src="http://www.youtube.com/embed/zzcCWEb-tyk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;
@@ -35,6 +35,8 @@ If you would like to make a better video for this talk, please do. &lt;a href="h
 &lt;/p&gt;&lt;p&gt;
 Here's the full transcript, if you hate surprises and my charming voice:
 &lt;/p&gt;
+
+&lt;hr&gt;
 
 &lt;h2&gt;Transcript:&lt;/h2&gt;
 &lt;p&gt;
@@ -332,7 +334,7 @@ So let's get back to our original question and wrap this up.
 
 &lt;h3&gt;Life Is _____&lt;/h3&gt;
 &lt;p&gt;
-What is the meaning of life?  LIFE IS ______
+What is the meaning of life?  LIFE IS ______&lt;br&gt;
 TIME?&lt;br&gt;
 CHOICE?&lt;br&gt;
 MEMORY?&lt;br&gt;
