@@ -343,6 +343,24 @@
       </figcaption>
     </figure>
 
+    <figure class="abook" data-rating="8" data-title="How to Learn a Foreign Language - by Paul Pimsleur" data-date="2014-06-05">
+      <a href="/book/LearnForeignLanguage"><img src="/images/LearnForeignLanguage.gif" alt="How to Learn a Foreign Language - by Paul Pimsleur" /></a>
+      <figcaption>
+        <h2><a href="/book/LearnForeignLanguage">How to Learn a Foreign Language - by Paul Pimsleur</a></h2>
+        <p>ISBN: 1442369027 READ: 2014-06-05 RATING: 8/10</p>
+        <p>Short, punchy, incredibly insightful and useful book about learning another language, especially for a first-timer. I've read a few books on the subject now, but this is the only one that spoke directly to my issues. Especially loved his points on the importance of sounds over words. Hint: a language that is written but not spoken is called a dead language.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="8" data-title="Man's Search for Meaning - by Viktor Frankl" data-date="2014-06-04">
+      <a href="/book/MSfM"><img src="/images/MSfM.gif" alt="Man's Search for Meaning - by Viktor Frankl" /></a>
+      <figcaption>
+        <h2><a href="/book/MSfM">Man's Search for Meaning - by Viktor Frankl</a></h2>
+        <p>ISBN: 080701429X READ: 2014-06-04 RATING: 8/10</p>
+        <p>Powerful, deep, etc. First half describes life inside Auschwitz. Second half has powerful succinctly-said insights into the universal struggle. There's a reason this book has sold a billion copies.</p>
+      </figcaption>
+    </figure>
+
     <figure class="abook" data-rating="8" data-title="Choose Yourself! - by James Altucher" data-date="2014-04-10">
       <a href="/book/ChooseYourself"><img src="/images/ChooseYourself.gif" alt="Choose Yourself! - by James Altucher" /></a>
       <figcaption>
