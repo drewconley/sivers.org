@@ -168,6 +168,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>June 8</dt>
+      <dd>“A good day is when no one shows up, and you don’t have to go anywhere.” - Burt from Burt’s Bees <a href="http://youtu.be/xBfMtEebvN0">http://youtu.be/xBfMtEebvN0</a></dd>
       <dt>May 23</dt>
       <dd>AMAZING presentation &quot;Emerging Global Web&quot;: <a href="http://woodegg.s3.amazonaws.com/yiibu.pdf">http://woodegg.s3.amazonaws.com/yiibu.pdf</a> Makes my heart race. This is why I do <a href="http://woodegg.com/">http://woodegg.com/</a></dd>
       <dt>May 18</dt>
@@ -178,8 +180,6 @@
       <dd>My new 19-minute talk (after 2 years of improvements) is The Meaning of Life: <a href="http://sivers.org/ml">http://sivers.org/ml</a></dd>
       <dt>April 18</dt>
       <dd>The power of the soundtrack: <a href="http://youtu.be/1IAXrxlDK6c">http://youtu.be/1IAXrxlDK6c</a> Brilliant.</dd>
-      <dt>April 17</dt>
-      <dd>Filming strong windstorm today when the tallest tree in the neighborhood fell and crashed through 3 houses: <a href="http://vimeo.com/92206158">http://vimeo.com/92206158</a></dd>
     </dl>
   </section>
   
