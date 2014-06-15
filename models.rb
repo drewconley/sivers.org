@@ -1,6 +1,6 @@
 require 'json'
 require 'sequel'
-require 'd50b'
+require 'd50b/peeps'
 require 'aws/s3'
 require 'resolv'
 require 'net/http'
