@@ -73,6 +73,15 @@
       </figcaption>
     </figure>
 
+    <figure class="abook" data-rating="9" data-title="Show Your Work - by Austin Kleon" data-date="2014-06-15">
+      <a href="/book/ShowYourWork"><img src="/images/ShowYourWork.gif" alt="Show Your Work - by Austin Kleon" /></a>
+      <figcaption>
+        <h2><a href="/book/ShowYourWork">Show Your Work - by Austin Kleon</a></h2>
+        <p>ISBN: 076117897X READ: 2014-06-15 RATING: 9/10</p>
+        <p>Short inspiring book about sharing your work online. Really healthy perspective. Makes me want to do it much more.</p>
+      </figcaption>
+    </figure>
+
     <figure class="abook" data-rating="9" data-title="5 Elements of Effective Thinking - by Edward B. Burger and Michael Starbird" data-date="2013-08-30">
       <a href="/book/EffectiveThinking"><img src="/images/EffectiveThinking.gif" alt="5 Elements of Effective Thinking - by Edward B. Burger and Michael Starbird" /></a>
       <figcaption>
@@ -556,6 +565,15 @@
         <h2><a href="/book/48LawsOfPower">The 48 Laws of Power - by Robert Greene and Joost Elffers</a></h2>
         <p>ISBN: 0140280197 READ: 2003-05-06 RATING: 8/10</p>
         <p>Warning: some think this book is pure evil. But power exists, so it can only help to understand it better, even if you choose not to wield it.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="7" data-title="Decisive - by Chip and Dan Heath" data-date="2014-06-27">
+      <a href="/book/Decisive"><img src="/images/Decisive.gif" alt="Decisive - by Chip and Dan Heath" /></a>
+      <figcaption>
+        <h2><a href="/book/Decisive">Decisive - by Chip and Dan Heath</a></h2>
+        <p>ISBN: 0307956393 READ: 2014-06-27 RATING: 7/10</p>
+        <p>Interesting and insightful dive into the subject of how to make big decisions. Specific useful advice.</p>
       </figcaption>
     </figure>
 
