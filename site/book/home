@@ -73,6 +73,15 @@
       </figcaption>
     </figure>
 
+    <figure class="abook" data-rating="9" data-title="The Antidote: Happiness for People Who Can't Stand Positive Thinking - by Oliver Burkeman" data-date="2014-06-28">
+      <a href="/book/Antidote"><img src="/images/Antidote.gif" alt="The Antidote: Happiness for People Who Can't Stand Positive Thinking - by Oliver Burkeman" /></a>
+      <figcaption>
+        <h2><a href="/book/Antidote">The Antidote: Happiness for People Who Can't Stand Positive Thinking - by Oliver Burkeman</a></h2>
+        <p>ISBN: 0865478015 READ: 2014-06-28 RATING: 9/10</p>
+        <p>Surprisingly deep and philosophical. The first book I've read in years that makes me want to read it twice. The title and cover make it seem like light pop, but it's a wonderfully-cynical British journalist diving into Stoicism, meditation, death, etc.</p>
+      </figcaption>
+    </figure>
+
     <figure class="abook" data-rating="9" data-title="Show Your Work - by Austin Kleon" data-date="2014-06-15">
       <a href="/book/ShowYourWork"><img src="/images/ShowYourWork.gif" alt="Show Your Work - by Austin Kleon" /></a>
       <figcaption>
@@ -349,6 +358,15 @@
         <h2><a href="/book/EMythRevisited">E-Myth Revisited - by Michael Gerber</a></h2>
         <p>ISBN: 0887307280 READ: 2004-02-26 RATING: 9/10</p>
         <p>Everything needs to be a system. Think of your business as a franchise prototype. You should be able to hand the “how-to” manual to just anyone, to do it as good as you.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="8" data-title="The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph (Holiday, Ryan)" data-date="2014-06-30">
+      <a href="/book/ObstacleIsTheWay"><img src="/images/ObstacleIsTheWay.gif" alt="The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph (Holiday, Ryan)" /></a>
+      <figcaption>
+        <h2><a href="/book/ObstacleIsTheWay">The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph (Holiday, Ryan)</a></h2>
+        <p>ISBN: 1591846358 READ: 2014-06-30 RATING: 8/10</p>
+        <p>A succinct adrenaline-generating call to clear thinking and rational action. Many historical examples. Incredibly inspiring.</p>
       </figcaption>
     </figure>
 
