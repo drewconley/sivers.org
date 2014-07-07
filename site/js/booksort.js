@@ -15,6 +15,11 @@ function by(propName) {
     if (propName === 'rating') {
       v1 = parseInt(v1);
       v2 = parseInt(v2);
+    } else if (propName === 'title') {
+      /* because sorted high-to-low by default, flip for title */
+      var tmp = v2;
+      v2 = v1;
+      v1 = tmp;
     }
     if (v1 > v2) { return -1; }
     else if (v1 < v2) { return 1; }
@@ -23,10 +28,20 @@ function by(propName) {
 }
 
 function showBooks(books) {
-  var len = books.length, content = document.getElementById('allbooks');
-  content.innerHTML = '';
+  var len = books.length, nu = document.createElement('section');
+  nu.id = 'allbooks';
   for(var i = 0; i < len; i++) {
-    content.appendChild(books[i]);
+    nu.appendChild(books[i]);
+  }
+  document.getElementById('content').replaceChild(nu, document.getElementById('allbooks'));
+}
+
+function changeIfMatch(reg, str) {
+  var matches = reg.exec(str);
+  if(matches) {
+    var books = getBooks();
+    books.sort(by(matches[1]));
+    showBooks(books);
   }
 }
 
@@ -37,21 +52,11 @@ function sortBooks(event) {
     event.returnValue = false;
   }
   var target = event.target || window.event.srcElement;
-  var matches = /^sort-(rating|title|date)$/.exec(target.id);
-  if(matches) {
-    var books = getBooks();
-    books.sort(by(matches[1]));
-    showBooks(books);
-  }
+  changeIfMatch(/^sort-(rating|title|date)$/, target.id);
 }
 
 if(location.search) {
-  var matches = /\?sort=(rating|title|date)$/.exec(location.search);
-  if(matches) {
-    var books = getBooks();
-    books.sort(by(matches[1]));
-    showBooks(books);
-  }
+  changeIfMatch(/\?sort=(rating|title|date)$/, location.search);
 }
 
 var sorters = document.getElementById('sorters');
