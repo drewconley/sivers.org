@@ -23,8 +23,7 @@ function by(propName) {
 }
 
 function showBooks(books) {
-  var len = books.length
-    , content = document.getElementById('allbooks');
+  var len = books.length, content = document.getElementById('allbooks');
   content.innerHTML = '';
   for(var i = 0; i < len; i++) {
     content.appendChild(books[i]);
@@ -32,8 +31,22 @@ function showBooks(books) {
 }
 
 function sortBooks(event) {
+  if(event.preventDefault) {
+    event.preventDefault();
+  } else {
+    event.returnValue = false;
+  }
   var target = event.target || window.event.srcElement;
   var matches = /^sort-(rating|title|date)$/.exec(target.id);
+  if(matches) {
+    var books = getBooks();
+    books.sort(by(matches[1]));
+    showBooks(books);
+  }
+}
+
+if(location.search) {
+  var matches = /\?sort=(rating|title|date)$/.exec(location.search);
   if(matches) {
     var books = getBooks();
     books.sort(by(matches[1]));
