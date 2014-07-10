@@ -38,13 +38,13 @@
 <dd>Most sites are fully multi-lingual. See <a href="http://musicthoughts.com/">musicthoughts.com</a> for a live example. Nothing should be hard-coded in English. The techniques for language setting/switching are common throughout these sites. (Professional translators are hired to do the translations.)</dd>
 
 <dt>Multi-currency</dt>
-<dd>All sites that deal with money are multi-currency. Money is always saved as a currency code and millicents. This lets the database deal only in integers to avoid floating point errors. A shared Money class knows how to display each currency correctly or convert it into others.</dd>
+<dd>All sites that deal with money are multi-currency. Money is always saved with a currency code. A shared <a href="https://github.com/50pop/d50b/blob/master/lib/d50b/peeps/money.rb">Money class</a> knows how to display each currency correctly or convert it into others.</dd>
 
 <dt>What framework?</dt>
-<dd>For the API servers, I'm using plain old <a href="http://www.sinatrarb.com/">Sinatra</a>.  I'd still consider <a href="http://intridea.github.io/grape/">Grape</a>, but as of now I can't see any huge advantage over plain Sinatra.</dd>
-<dd>For the real database-web-app parts, I'm leaning towards <a href="http://www.angularjs.org/">AngularJS</a> as the common web front-end for all my new projects.  The learning curve is a bitch, but I see the advantages.</dd>
+<dd>For the API servers, I'm using plain old <a href="http://www.sinatrarb.com/">Sinatra</a>.</dd>
+<dd>For the real database-web-app parts, I'm enjoying <a href="http://facebook.github.io/react/">React</a> as the common web front-end for all my new projects.</dd>
 <dd>For web site sections that don't absolutely require database interaction, I'm a fan of plain old static sites.   See <a href="https://github.com/sivers/sivers.org">sivers.org code</a> for an example of this.</dd>
-<dd>For CSS, I like <a href="http://foundation.zurb.com/">Foundation</a>, or just plain old hand-coded CSS.</dd>
+<dd>For CSS, I like <a href="http://purecss.io/">Pure</a>, or just plain old hand-coded CSS.</dd>
 
 </dl>
 
