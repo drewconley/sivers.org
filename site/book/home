@@ -74,6 +74,15 @@
       </figcaption>
     </figure>
 
+    <figure class="abook" data-rating="9" data-title="" data-date="2014-07-16">
+      <a href="/book/WhenCulturesCollide"><img src="/images/WhenCulturesCollide.gif" alt="" /></a>
+      <figcaption>
+        <h2><a href="/book/WhenCulturesCollide"></a></h2>
+        <p>ISBN: 1904838022 READ: 2014-07-16 RATING: 9/10</p>
+        <p>Masterpiece of cultural observations. I wish there were more books like this. My Wood Egg books were created with the same goal. Insights into different countries' cultures. Some amazing, like the reason for American's lack of manners, or Japanese procedures. My detailed notes don't do it justice because I practically underlined the entire book, I loved it so much.</p>
+      </figcaption>
+    </figure>
+
     <figure class="abook" data-rating="9" data-title="The Antidote: Happiness for People Who Can't Stand Positive Thinking - by Oliver Burkeman" data-date="2014-06-28">
       <a href="/book/Antidote"><img src="/images/Antidote.gif" alt="The Antidote: Happiness for People Who Can't Stand Positive Thinking - by Oliver Burkeman" /></a>
       <figcaption>
@@ -359,6 +368,15 @@
         <h2><a href="/book/EMythRevisited">E-Myth Revisited - by Michael Gerber</a></h2>
         <p>ISBN: 0887307280 READ: 2004-02-26 RATING: 9/10</p>
         <p>Everything needs to be a system. Think of your business as a franchise prototype. You should be able to hand the “how-to” manual to just anyone, to do it as good as you.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="8" data-title="" data-date="2014-07-17">
+      <a href="/book/CompoundEffect"><img src="/images/CompoundEffect.gif" alt="" /></a>
+      <figcaption>
+        <h2><a href="/book/CompoundEffect"></a></h2>
+        <p>ISBN: 159315724X READ: 2014-07-17 RATING: 8/10</p>
+        <p>Classic self-help book, in the best sense. Inspired the hell out of me. Mostly fundamentals I had heard before, but put in a very energetic go-do-it way. As he says, “You already know all that you need to succeed. You don’t need to learn anything more. If all we needed was more information, everyone with an Internet connection would live in a mansion, have abs of steel, and be blissfully happy.”</p>
       </figcaption>
     </figure>
 
