@@ -2,11 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2014-09-02T12:14:31+12:00</updated>
+  <updated>2014-09-09T18:18:50+12:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>I love being wrong</title>
+    <id>http://sivers.org/lw</id>
+    <updated>2014-09-09T00:00:00+00:00</updated>
+    <published>2014-09-09T00:00:00+00:00</published>
+    <link href="http://sivers.org/lw"/>
+    <content type="html">&lt;p&gt;
+Most of the time I feel smart, successful, and driven - like I’ve got it all figured out.
+&lt;/p&gt;&lt;p&gt;
+But last month my wife and I broke up after four years of trying to make a bad match work.  It knocked me on my ass, hard.  I’ve never felt so wrong and lost.  It hurts, bad.
+&lt;/p&gt;&lt;p&gt;
+I vulnerably called on friends for help.
+&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.homesweetpdx.com/our-story/"&gt;Amber&lt;/a&gt; reminded me to pull my head out of today, and think &lt;a href="http://sivers.org/time"&gt;long-term&lt;/a&gt; again.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Jeff_Marx"&gt;Jeff&lt;/a&gt; told me to get my swagger back and hook up with every hottie in town, just relishing the moment.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Ariel_Hyatt"&gt;Ariel&lt;/a&gt; said I should really accept and feel this pain, instead of moving on so fast, like I always do.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://alytadros.com/"&gt;Aly&lt;/a&gt; flew out to New Zealand to spend an adventurous and extremely distracting week with me.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;
+Each different perspective made me feel good for a while, then I’d fall back into the whirlpool of destructive thoughts.
+&lt;/p&gt;&lt;p&gt;
+Whenever something’s wrong in my life, I’ve asked myself this amazing question:
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;“What’s great about this?”&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+But now my only answer was, “Nothing. This just sucks.”  I tried asking it again every day or two, but the answer was the same.  Down the whirlpool I went.
+&lt;/p&gt;&lt;p&gt;
+After wallowing at the bottom of the ocean for a while, I got a bright memory from my former self.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;I actually love being wrong&lt;/strong&gt;, even though it cracks my confidence, &lt;strong&gt;because that’s the only time I learn.&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;I actually love being lost&lt;/strong&gt;, even though it fuels fears, &lt;strong&gt;because that’s when I go somewhere unexpected.&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+I pursue these things in small digestable doses.  I love little lessons that surprise my expectations and &lt;a href="http://www.samharris.org/blog/item/the-fireplace-delusion"&gt;change my mind&lt;/a&gt;.  (NOTE: this is why I aim to make &lt;a href="http://www.ted.com/speakers/derek_sivers#talks"&gt;my TED talks&lt;/a&gt; surprising. If we’re not surprised, we’re not learning.)
+&lt;/p&gt;&lt;p&gt;
+But I finally realized “what’s great about this?”:
+&lt;/p&gt;&lt;p&gt;
+Getting knocked on my ass made me humble as hell.  It’s been years since I’d cried for help.  It’s been years since my &lt;a href="http://thebuddhistblog.blogspot.com/2007/08/zen-story-cup-of-tea.html"&gt;cup was so empty&lt;/a&gt;.  It’s been years since I was so open to advice. 
+&lt;/p&gt;&lt;p&gt;
+I smiled, thinking of how much I’ve learned from my friends these past few weeks.  I realized how ultimately happy it makes me to be so empty, even if it really fucking hurts at first.  &lt;strong&gt;It’s better than thinking I’ve got it all figured out.&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+And with that, the sun came up and the whirlpool went away.
+&lt;/p&gt;&lt;p&gt;
+Thank you, friends.
+&lt;/p&gt;
+&lt;img src="/images/whirlpool.jpg" width="700" height="469" alt=""&gt;
+&lt;p class="small"&gt;(Photo by &lt;a href="https://www.flickr.com/photos/30884177@N08/4107290250"&gt;David O’Hare&lt;/a&gt;.)&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>The philosophy of great customer service</title>
     <id>http://sivers.org/cs</id>
@@ -1641,57 +1689,6 @@ And now, &lt;strong&gt;after a year and a half of work&lt;/strong&gt; - (and som
 Please check it out.  And if you’re also interested in this subject, &lt;a href="http://woodegg.com/help"&gt;see the help wanted page&lt;/a&gt;, because I’m starting on the 2014 guides immediately.
 &lt;/p&gt;
 &lt;div align="center" style="background-color: #000"&gt;&lt;a href="http://woodegg.com/"&gt;&lt;img src="/images/wood-egg-450-450.jpg" width="450" height="450" alt="wood egg"&gt;&lt;/a&gt;&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Some will always say you're wrong</title>
-    <id>http://sivers.org/wrong</id>
-    <updated>2013-06-03T00:00:00+00:00</updated>
-    <published>2013-06-03T00:00:00+00:00</published>
-    <link href="http://sivers.org/wrong"/>
-    <content type="html">&lt;p&gt;
-Some people are into money.  Some aren’t.
-&lt;/p&gt;&lt;p&gt;
-Some people are inspired by helping the needy.  Some aren’t.
-&lt;/p&gt;&lt;p&gt;
-Some are into fame, power, and prestige.  Others are into anonymity and freedom from responsibility.
-&lt;/p&gt;&lt;p&gt;
-It gets more interesting when you realize people have different preferences in the different parts of their life.  Famous online, but anonymous in their local community.  Generous with time, stingy with money.  Introvert when working, extrovert when not.
-&lt;/p&gt;&lt;p&gt;
-You have to &lt;strong&gt;&lt;a href="http://sivers.org/grade"&gt;know your preferences well&lt;/a&gt;&lt;/strong&gt;, because &lt;strong&gt;no matter what you do, someone will tell you you’re wrong&lt;/strong&gt;.
-&lt;/p&gt;&lt;p&gt;
-If you’re not into money, many people will say you’re foolish.
-&lt;/p&gt;&lt;p&gt;
-If you’re not into charity, many people will say you’re greedy.
-&lt;/p&gt;&lt;p&gt;
-If you’re not into crowds, many people will say you’re missing out.
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;Some careers come with excuses:&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-The classic novelist thrives in solitude.  Alone in a cabin in the woods, writing books that reach millions.
-&lt;/p&gt;&lt;p&gt;
-The classic journalist thrives in a crowd.  Talking with everyone, building the story from a thousand accounts.
-&lt;/p&gt;&lt;p&gt;
-The shy librarian.  The aggressive lawyer.  The flaky artist.  No explanation needed.
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;But some careers need explanations when you go against the mold:&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-The entrepreneur who’s not into money.
-&lt;/p&gt;&lt;p&gt;
-The musician who avoids crowds.
-&lt;/p&gt;&lt;p&gt;
-The ambitious conservationist.
-&lt;/p&gt;&lt;p&gt;
-The artist into discpline.
-&lt;/p&gt;&lt;p&gt;
-The &lt;a href="http://sivers.org/book/HowToGetRich"&gt;rich poet&lt;/a&gt;.
-&lt;/p&gt;&lt;p&gt;
-But if you &lt;strong&gt;expect this criticism in advance&lt;/strong&gt;, and &lt;strong&gt;take pride in your stance&lt;/strong&gt;, you can bash on with a smile, being who you want to be.
-&lt;/p&gt;&lt;p&gt;
-Then every time they say you’re wrong, that’s a sign you’re doing it right.
-&lt;/p&gt;
-&lt;img src="/images/HermitCrab.jpg" width="600" height="392"&gt;
-&lt;div class="small"&gt;(image by &lt;a href="http://www.finland.org/public/default.aspx?contentid=181860&amp;nodeid=35833"&gt;Alex Marttunen&lt;/a&gt;)&lt;/div&gt;
 </content>
   </entry>
 </feed>

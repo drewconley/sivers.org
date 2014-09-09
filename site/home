@@ -54,12 +54,12 @@
   <section id="newestarticles">
     <h2>Newest Posts <span class="small"><a href="/blog">all posts</a></span></h2>
     <ul>
+      <li><a href="/lw">I love being wrong</a></li>
       <li><a href="/cs">The philosophy of great customer service</a></li>
       <li><a href="/hate">Loving what I used to hate</a></li>
       <li><a href="/ml">The Meaning of Life</a></li>
       <li><a href="/tarzan">Change careers like Tarzan</a></li>
       <li><a href="/full">What if you didn't need money or attention?</a></li>
-      <li><a href="/game">How will this game end?</a></li>
     </ul>
   </section>
   
@@ -168,6 +168,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>September 9</dt>
+      <dd>I love being wrong : <a href="http://sivers.org/lw">http://sivers.org/lw</a></dd>
       <dt>September 2</dt>
       <dd>Sadly selling my paradise house in New Zealand. I&#39;ll miss it a lot: <a href="http://nelson.nzsothebysrealty.com/nelson-properties/?Location=37-Shelbourne-Street-Nelson&amp;PropertyID=2413">http://nelson.nzsothebysrealty.com/nelson-properties/?Location=37-Shelbourne-Street-Nelson&amp;PropertyID=2413</a></dd>
       <dt>August 26</dt>
@@ -178,8 +180,6 @@
       <dd>Moved to Wellington (Te Aro)</dd>
       <dt>August 3</dt>
       <dd>One more reason to spend a few months (or years) in Ubud, Bali: <a href="http://www.hubud.org/">http://www.hubud.org/</a> See also: <a href="http://woodegg.com/id">http://woodegg.com/id</a></dd>
-      <dt>July 17</dt>
-      <dd>Some great new additions to my list of book notes: <a href="http://sivers.org/book?sort=date">http://sivers.org/book?sort=date</a> (Click “Sort by rating” to see top recommendations.)</dd>
     </dl>
   </section>
   
