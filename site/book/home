@@ -74,6 +74,15 @@
       </figcaption>
     </figure>
 
+    <figure class="abook" data-rating="9" data-title="" data-date="2014-08-18">
+      <a href="/book/FluentForever"><img src="/images/FluentForever.gif" alt="" /></a>
+      <figcaption>
+        <h2><a href="/book/FluentForever"></a></h2>
+        <p>ISBN: 0385348118 READ: 2014-08-18 RATING: 9/10</p>
+        <p>Forget Rosetta Stone, Pimsleur, and the rest. I really believe this is the best way to learn another language, by far. Using the most up-to-date techniques and insights, and a unique emphasis on getting the sounds correct first. It's not easy, but it's much more effective than any other program or guide. Highly recommended if you're serious, and ready to do it.</p>
+      </figcaption>
+    </figure>
+
     <figure class="abook" data-rating="9" data-title="When Cultures Collide - by Richard D. Lewis" data-date="2014-07-16">
       <a href="/book/WhenCulturesCollide"><img src="/images/WhenCulturesCollide.gif" alt="When Cultures Collide - by Richard D. Lewis" /></a>
       <figcaption>
@@ -857,6 +866,24 @@
       </figcaption>
     </figure>
 
+    <figure class="abook" data-rating="6" data-title="" data-date="2014-08-15">
+      <a href="/book/DailyRituals"><img src="/images/DailyRituals.gif" alt="" /></a>
+      <figcaption>
+        <h2><a href="/book/DailyRituals"></a></h2>
+        <p>ISBN:  READ: 2014-08-15 RATING: 6/10</p>
+        <p>Collections of the creative routines of famous writers, artists, musicians, and scientists.  Some interesting insights, but mostly reinforcing proof that it's important to keep a daily routine to put aside time for your creative work.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="6" data-title="" data-date="2014-08-03">
+      <a href="/book/GeographyOfTime"><img src="/images/GeographyOfTime.gif" alt="" /></a>
+      <figcaption>
+        <h2><a href="/book/GeographyOfTime"></a></h2>
+        <p>ISBN: 0465026427 READ: 2014-08-03 RATING: 6/10</p>
+        <p>Interesting look at how different cultures consider time in different ways.</p>
+      </figcaption>
+    </figure>
+
     <figure class="abook" data-rating="6" data-title="The Story of French - by Jean-Benoit Nadeau and Julie Barlow" data-date="2014-02-02">
       <a href="/book/StoryOfFrench"><img src="/images/StoryOfFrench.gif" alt="The Story of French - by Jean-Benoit Nadeau and Julie Barlow" /></a>
       <figcaption>
@@ -1160,6 +1187,15 @@
         <h2><a href="/book/ProjectManagement">The Art of Project Management - Scott Berkun</a></h2>
         <p>ISBN: 0596007868 READ: 2006-11-19 RATING: 6/10</p>
         <p>The best book on how to oversee projects to completion.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="5" data-title="" data-date="2014-08-22">
+      <a href="/book/NeverLetGo"><img src="/images/NeverLetGo.gif" alt="" /></a>
+      <figcaption>
+        <h2><a href="/book/NeverLetGo"></a></h2>
+        <p>ISBN: 1931046387 READ: 2014-08-22 RATING: 5/10</p>
+        <p>Some thoughts and advice on weight lifting and strength training.</p>
       </figcaption>
     </figure>
 
