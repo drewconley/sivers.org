@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2014-09-21T14:21:17+12:00</updated>
+  <updated>2014-09-22T08:26:05+12:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -16,9 +16,11 @@
     <content type="html">&lt;p&gt;
 One of the most important concepts I’ve learned is the difference between the “fixed” mindset and the “growth” mindset.
 &lt;/p&gt;&lt;p&gt;
-People in a &lt;strong&gt;fixed&lt;/strong&gt; mindset believe everyone &lt;strong&gt;is&lt;/strong&gt; great or &lt;strong&gt;is&lt;/strong&gt; flawed - that this is a fixed status, because it’s just who you are.
+It’s a little bit like “nature vs nurture”:
 &lt;/p&gt;&lt;p&gt;
-People in a &lt;strong&gt;growth&lt;/strong&gt; mindset believe anyone &lt;strong&gt;can be&lt;/strong&gt; great or &lt;strong&gt;can be&lt;/strong&gt; flawed - that this is an ever-changing status, because it’s entirely due to your actions.
+People in a &lt;strong&gt;fixed&lt;/strong&gt; mindset believe you either are or aren’t good at something, based on your inherent nature, because it’s just who you are.
+&lt;/p&gt;&lt;p&gt;
+People in a &lt;strong&gt;growth&lt;/strong&gt; mindset believe anyone can be good at anything, because your abilities are entirely due to your actions.
 &lt;/p&gt;&lt;p&gt;
 This sounds simple, but it’s surprisingly deep.
 &lt;strong&gt;The fixed mindset is the most common and the most harmful&lt;/strong&gt;, so it’s worth understanding and considering how it’s affecting you.
@@ -30,7 +32,7 @@ In a fixed mindset, you believe “She’s a natural born singer” or “I’m 
 In a growth mindset, you believe “Anyone can be good at anything. Skill comes only from practice.”
 &lt;/p&gt;&lt;p&gt;
 &lt;strong&gt;The fixed mindset believes trouble is devastating.&lt;/strong&gt;
-If you believe, “You’re either naturally great or will never be great,” then when you have any trouble, your mind thinks, “See? You’ll never be great. Give up now.”
+If you believe, “You’re either naturally great or will never be great,” then when you have any trouble, your mind thinks, “See? You’ll never be great at this. Give up now.”
 &lt;/p&gt;&lt;p&gt;
 The growth mindset believes trouble is just important feedback in the learning process.
 &lt;/p&gt;&lt;p&gt;
@@ -64,6 +66,8 @@ In a &lt;strong&gt;growth&lt;/strong&gt; mindset, it’s all about the process, 
 &lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;
+And yes, the mindset itself is not fixed.  You can change your mindset just by thinking it through.
+&lt;/p&gt;&lt;p&gt;
 I’ve talked about this in &lt;a href="/ml"&gt;my “Meaning of Life” talk&lt;/a&gt;, and &lt;a href="/failure"&gt;my “Why You Need to Fail” talk&lt;/a&gt;, if you’re interested in checking those out, too.
 &lt;/p&gt;&lt;p&gt;
 But I get no credit for these insights.  This is all from &lt;a href="/book/Mindset"&gt;Carol Dweck’s book, “Mindset”&lt;/a&gt;, and &lt;a href="/book/ArtOfLearning"&gt;Josh Waitzkin’s book, “The Art of Learning”&lt;/a&gt;, both of which I highly recommend.
