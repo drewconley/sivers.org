@@ -2,11 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2014-09-17T14:42:45+12:00</updated>
+  <updated>2014-09-21T14:21:17+12:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>Fixed mindset vs Growth mindset</title>
+    <id>http://sivers.org/mindset</id>
+    <updated>2014-09-21T00:00:00+00:00</updated>
+    <published>2014-09-21T00:00:00+00:00</published>
+    <link href="http://sivers.org/mindset"/>
+    <content type="html">&lt;p&gt;
+One of the most important concepts I’ve learned is the difference between the “fixed” mindset and the “growth” mindset.
+&lt;/p&gt;&lt;p&gt;
+People in a &lt;strong&gt;fixed&lt;/strong&gt; mindset believe everyone &lt;strong&gt;is&lt;/strong&gt; great or &lt;strong&gt;is&lt;/strong&gt; flawed - that this is a fixed status, because it’s just who you are.
+&lt;/p&gt;&lt;p&gt;
+People in a &lt;strong&gt;growth&lt;/strong&gt; mindset believe anyone &lt;strong&gt;can be&lt;/strong&gt; great or &lt;strong&gt;can be&lt;/strong&gt; flawed - that this is an ever-changing status, because it’s entirely due to your actions.
+&lt;/p&gt;&lt;p&gt;
+This sounds simple, but it’s surprisingly deep.
+&lt;strong&gt;The fixed mindset is the most common and the most harmful&lt;/strong&gt;, so it’s worth understanding and considering how it’s affecting you.
+&lt;/p&gt;&lt;p&gt;
+For example:
+&lt;/p&gt;&lt;p&gt;
+In a fixed mindset, you believe “She’s a natural born singer” or “I’m just no good at dancing.”
+&lt;/p&gt;&lt;p&gt;
+In a growth mindset, you believe “Anyone can be good at anything. Skill comes only from practice.”
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;The fixed mindset believes trouble is devastating.&lt;/strong&gt;
+If you believe, “You’re either naturally great or will never be great,” then when you have any trouble, your mind thinks, “See? You’ll never be great. Give up now.”
+&lt;/p&gt;&lt;p&gt;
+The growth mindset believes trouble is just important feedback in the learning process.
+&lt;/p&gt;&lt;p&gt;
+Can you see how this subtle difference in mindset can change everything?
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+In a &lt;strong&gt;fixed&lt;/strong&gt; mindset, you want to hide your flaws so you’re not judged or labeled a failure.
+&lt;/p&gt;&lt;p&gt;
+In a &lt;strong&gt;growth&lt;/strong&gt; mindset, your flaws are just a TO-DO list of things to improve.
+&lt;/p&gt;&lt;p&gt;
+In a &lt;strong&gt;fixed&lt;/strong&gt; mindset, you stick with what you know to keep up your confidence.
+&lt;/p&gt;&lt;p&gt;
+In a &lt;strong&gt;growth&lt;/strong&gt; mindset, you keep up your confidence by always pushing into the unfamiliar, to make sure you’re always learning.
+&lt;/p&gt;&lt;p&gt;
+In a &lt;strong&gt;fixed&lt;/strong&gt; mindset, you look inside yourself to find your true passion and purpose, as if this is a hidden inherent thing.
+&lt;/p&gt;&lt;p&gt;
+In a &lt;strong&gt;growth&lt;/strong&gt; mindset, you commit to mastering valuable skills regardless of mood, knowing passion and purpose come from doing great work, which comes from expertise and experience.
+&lt;/p&gt;&lt;p&gt;
+In a &lt;strong&gt;fixed&lt;/strong&gt; mindset, failures define you.
+&lt;/p&gt;&lt;p&gt;
+In a &lt;strong&gt;growth&lt;/strong&gt; mindset, failures are temporary setbacks.
+&lt;/p&gt;&lt;p&gt;
+In a &lt;strong&gt;fixed&lt;/strong&gt; mindset, you believe if you’re romantically compatible with someone, you should share all of eachother’s views, and everything should just come naturally.
+&lt;/p&gt;&lt;p&gt;
+In a &lt;strong&gt;growth&lt;/strong&gt; mindset, you believe a lasting relationship comes from effort and working through inevitable differences.
+&lt;/p&gt;&lt;p&gt;
+In a &lt;strong&gt;fixed&lt;/strong&gt; mindset, it’s all about the outcome. If you fail, you think all effort was wasted.
+&lt;/p&gt;&lt;p&gt;
+In a &lt;strong&gt;growth&lt;/strong&gt; mindset, it’s all about the process, so the outcome hardly matters.
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;
+I’ve talked about this in &lt;a href="/ml"&gt;my “Meaning of Life” talk&lt;/a&gt;, and &lt;a href="/failure"&gt;my “Why You Need to Fail” talk&lt;/a&gt;, if you’re interested in checking those out, too.
+&lt;/p&gt;&lt;p&gt;
+But I get no credit for these insights.  This is all from &lt;a href="/book/Mindset"&gt;Carol Dweck’s book, “Mindset”&lt;/a&gt;, and &lt;a href="/book/ArtOfLearning"&gt;Josh Waitzkin’s book, “The Art of Learning”&lt;/a&gt;, both of which I highly recommend.
+&lt;/p&gt;
+&lt;a href="/book/Mindset"&gt;&lt;img src="/images/Mindset.gif" width="121" height="187" alt="Mindset - by Carol Dweck"&gt;&lt;/a&gt;
+&amp;nbsp;
+&lt;a href="/book/ArtOfLearning"&gt;&lt;img src="/images/ArtOfLearning.gif" width="124" height="187" alt="Art of Learning - by Josh Waitzkin"&gt;&lt;/a&gt;
+</content>
+  </entry>
   <entry>
     <title>I love being wrong</title>
     <id>http://sivers.org/lw</id>
@@ -1652,42 +1718,6 @@ Then, when you find some &lt;a href="http://sivers.org/book/Linchpin"&gt;brillia
 &lt;/p&gt;
 &lt;img src="/images/table-many-legs.jpg" width="543" height="343"&gt;
 
-</content>
-  </entry>
-  <entry>
-    <title>Wood Egg (my new company)</title>
-    <id>http://sivers.org/eg</id>
-    <updated>2013-06-08T00:00:00+00:00</updated>
-    <published>2013-06-08T00:00:00+00:00</published>
-    <link href="http://sivers.org/eg"/>
-    <content type="html">&lt;p&gt;
-Like everyone, I can get deeply curious about something, and dive in.
-&lt;/p&gt;&lt;p&gt;
-Starting five years ago, I got deeply curious about the differences between countries and cultures, fascinated with understanding the different perspectives. I talked about a few fun ones in &lt;a href="http://www.ted.com/talks/derek_sivers_weird_or_just_different.html"&gt;this 2-minute TED talk&lt;/a&gt;.
-&lt;/p&gt;&lt;p&gt;
-So two years ago, &lt;a href="http://sivers.org/singapore"&gt;I moved to Singapore&lt;/a&gt;, and started visiting all the countries in Asia, asking dumb questions, making good friends.
-&lt;/p&gt;&lt;p&gt;
-Getting to know these countries is endlessly interesting.  I want to understand them as well as I understand the 50 U.S. states.
-&lt;/p&gt;&lt;p&gt;
-But my learning felt too unstructured.  So while walking around Yogyakarta, Indonesia, remembering “&lt;strong&gt;the best way to learn something is to teach it&lt;/strong&gt;”, I came up with an ambitious plan.
-&lt;/p&gt;&lt;p&gt;
-I decided to produce and publish &lt;strong&gt;16 books per year on 16 countries in Asia&lt;/strong&gt;: Cambodia, China, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Mongolia, Myanmar, Philippines, Singapore, Sri Lanka, Taiwan, Thailand, and Vietnam. 
-&lt;/p&gt;&lt;p&gt;
-Sure, they wouldn’t be great at first, but I committed to &lt;strong&gt;improving them every year for many years&lt;/strong&gt;.  After a few years of doing this, they should be pretty awesome.
-&lt;/p&gt;&lt;p&gt;
-Instead of being all-encompassing, I decided to focus just on entrepreneurship: a network I was already tapped into, a good filter for understanding a country’s culture, and a subject that may be useful to others.
-&lt;/p&gt;&lt;p&gt;
-What to name it?  That only took a minute.  I like &lt;a href="http://sethgodin.typepad.com/seths_blog/2003/06/naming_a_busine.html"&gt;Seth Godin’s advice about naming&lt;/a&gt;.  The &lt;strong&gt;E&lt;/strong&gt;ntrepreneur’s &lt;strong&gt;G&lt;/strong&gt;uide?  E… G…  Egg!  Golden Egg?  Too cliché.  &lt;strong&gt;Wood Egg?&lt;/strong&gt;  Yep!  Sounds like an exotic carved Thai or Indonesian treasure.  Good enough.
-&lt;/p&gt;&lt;p&gt;
-I set up a Singapore corporation for it from my Yogyakarta hotel room that night in August 2011, and began the next day.
-&lt;/p&gt;&lt;p&gt;
-And now, &lt;strong&gt;after a year and a half of work&lt;/strong&gt; - (and some hard lessons learned that I’ll write about soon) - &lt;strong&gt;they’re done!  So my new company is launched:&lt;/strong&gt;
-&lt;/p&gt;
-&lt;h4&gt;&lt;a href="http://woodegg.com/"&gt;Wood Egg - the entrepeneur’s guides to Asia&lt;/a&gt; (&lt;a href="http://woodegg.com/"&gt;woodegg.com&lt;/a&gt;)&lt;/h4&gt;
-&lt;p&gt;
-Please check it out.  And if you’re also interested in this subject, &lt;a href="http://woodegg.com/help"&gt;see the help wanted page&lt;/a&gt;, because I’m starting on the 2014 guides immediately.
-&lt;/p&gt;
-&lt;div align="center" style="background-color: #000"&gt;&lt;a href="http://woodegg.com/"&gt;&lt;img src="/images/wood-egg-450-450.jpg" width="450" height="450" alt="wood egg"&gt;&lt;/a&gt;&lt;/div&gt;
 </content>
   </entry>
 </feed>

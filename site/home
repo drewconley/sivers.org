@@ -54,12 +54,12 @@
   <section id="newestarticles">
     <h2>Newest Posts <span class="small"><a href="/blog">all posts</a></span></h2>
     <ul>
+      <li><a href="/mindset">Fixed mindset vs Growth mindset</a></li>
       <li><a href="/lw">I love being wrong</a></li>
       <li><a href="/cs">The philosophy of great customer service</a></li>
       <li><a href="/hate">Loving what I used to hate</a></li>
       <li><a href="/ml">The Meaning of Life</a></li>
       <li><a href="/tarzan">Change careers like Tarzan</a></li>
-      <li><a href="/full">What if you didn't need money or attention?</a></li>
     </ul>
   </section>
   
@@ -168,6 +168,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>September 21</dt>
+      <dd>Fixed mindset vs Growth mindset. Crucial to recognize the difference in yourself &amp; others: <a href="http://sivers.org/mindset">http://sivers.org/mindset</a></dd>
       <dt>September 17</dt>
       <dd>“Don’t divide the world into the weak and strong, or successes and failures. Divide the world into the learners and nonlearners.” - B Barber</dd>
       <dt>September 9</dt>
@@ -178,8 +180,6 @@
       <dd>Awesome customer service from a guy named Thor at Amazon: <a href="http://i.imgur.com/IDFkz82.png">http://i.imgur.com/IDFkz82.png</a></dd>
       <dt>August 21</dt>
       <dd>I&#39;ll be at TEDxWellington this Sunday. <a href="http://tedxwellington.com/">http://tedxwellington.com/</a> If you see me, come say hi. Gotta get to know my new home.</dd>
-      <dt>August 17</dt>
-      <dd>Moved to Wellington (Te Aro)</dd>
     </dl>
   </section>
   
