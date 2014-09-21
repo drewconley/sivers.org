@@ -74,10 +74,10 @@
       </figcaption>
     </figure>
 
-    <figure class="abook" data-rating="9" data-title="" data-date="2014-08-18">
-      <a href="/book/FluentForever"><img src="/images/FluentForever.gif" alt="" /></a>
+    <figure class="abook" data-rating="9" data-title="Fluent Forever - by Gabriel Wyner" data-date="2014-08-18">
+      <a href="/book/FluentForever"><img src="/images/FluentForever.gif" alt="Fluent Forever - by Gabriel Wyner" /></a>
       <figcaption>
-        <h2><a href="/book/FluentForever"></a></h2>
+        <h2><a href="/book/FluentForever">Fluent Forever - by Gabriel Wyner</a></h2>
         <p>ISBN: 0385348118 READ: 2014-08-18 RATING: 9/10</p>
         <p>Forget Rosetta Stone, Pimsleur, and the rest. I really believe this is the best way to learn another language, by far. Using the most up-to-date techniques and insights, and a unique emphasis on getting the sounds correct first. It's not easy, but it's much more effective than any other program or guide. Highly recommended if you're serious, and ready to do it.</p>
       </figcaption>
@@ -866,19 +866,19 @@
       </figcaption>
     </figure>
 
-    <figure class="abook" data-rating="6" data-title="" data-date="2014-08-15">
-      <a href="/book/DailyRituals"><img src="/images/DailyRituals.gif" alt="" /></a>
+    <figure class="abook" data-rating="6" data-title="Daily Rituals: How Artists Work - by Mason Currey" data-date="2014-08-15">
+      <a href="/book/DailyRituals"><img src="/images/DailyRituals.gif" alt="Daily Rituals: How Artists Work - by Mason Currey" /></a>
       <figcaption>
-        <h2><a href="/book/DailyRituals"></a></h2>
+        <h2><a href="/book/DailyRituals">Daily Rituals: How Artists Work - by Mason Currey</a></h2>
         <p>ISBN:  READ: 2014-08-15 RATING: 6/10</p>
         <p>Collections of the creative routines of famous writers, artists, musicians, and scientists.  Some interesting insights, but mostly reinforcing proof that it's important to keep a daily routine to put aside time for your creative work.</p>
       </figcaption>
     </figure>
 
-    <figure class="abook" data-rating="6" data-title="" data-date="2014-08-03">
-      <a href="/book/GeographyOfTime"><img src="/images/GeographyOfTime.gif" alt="" /></a>
+    <figure class="abook" data-rating="6" data-title="Geography of Time - by Robert Levine" data-date="2014-08-03">
+      <a href="/book/GeographyOfTime"><img src="/images/GeographyOfTime.gif" alt="Geography of Time - by Robert Levine" /></a>
       <figcaption>
-        <h2><a href="/book/GeographyOfTime"></a></h2>
+        <h2><a href="/book/GeographyOfTime">Geography of Time - by Robert Levine</a></h2>
         <p>ISBN: 0465026427 READ: 2014-08-03 RATING: 6/10</p>
         <p>Interesting look at how different cultures consider time in different ways.</p>
       </figcaption>
@@ -1190,10 +1190,10 @@
       </figcaption>
     </figure>
 
-    <figure class="abook" data-rating="5" data-title="" data-date="2014-08-22">
-      <a href="/book/NeverLetGo"><img src="/images/NeverLetGo.gif" alt="" /></a>
+    <figure class="abook" data-rating="5" data-title="Never Let Go - by Dan John" data-date="2014-08-22">
+      <a href="/book/NeverLetGo"><img src="/images/NeverLetGo.gif" alt="Never Let Go - by Dan John" /></a>
       <figcaption>
-        <h2><a href="/book/NeverLetGo"></a></h2>
+        <h2><a href="/book/NeverLetGo">Never Let Go - by Dan John</a></h2>
         <p>ISBN: 1931046387 READ: 2014-08-22 RATING: 5/10</p>
         <p>Some thoughts and advice on weight lifting and strength training.</p>
       </figcaption>
