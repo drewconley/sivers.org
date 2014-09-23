@@ -50,3 +50,8 @@ Nginx passes certain paths by proxy to the dynamic Sinatra server, for dynamic p
 
 Sinatra gets its templates from views/ including layout.erb, a clone of templates/header.erb and templates/footer.erb
 
+
+# TODO:
+
+Comments' JavaScript doesn't load in Opera Mini?
+
