@@ -47,21 +47,21 @@
       </figcaption>
     </figure>
 
-    <figure class="abook" data-rating="10" data-title="Seeking Wisdom - by Peter Bevelin" data-date="2011-01-03">
-      <a href="/book/SeekingWisdom"><img src="/images/SeekingWisdom.gif" alt="Seeking Wisdom - by Peter Bevelin" /></a>
-      <figcaption>
-        <h2><a href="/book/SeekingWisdom">Seeking Wisdom - by Peter Bevelin</a></h2>
-        <p>ISBN: 1578644283 READ: 2011-01-03 RATING: 10/10</p>
-        <p>Maybe my favorite book ever. Read many times. Incredibly rich. It's a great overview of the lessons of Charlie Munger (partner of Warren Buffett) - and his approach to checklists of multi-disciplinary models to guide clear thinking. Main point: if you can just avoid mistakes, you're doing better than most. So it's a catalog of the most common or important mistakes. Focused on investing, but can be applied to life.</p>
-      </figcaption>
-    </figure>
-
     <figure class="abook" data-rating="10" data-title="A Guide to the Good Life: The Ancient Art of Stoic Joy - by William Irvine" data-date="2010-09-26">
       <a href="/book/StoicJoy"><img src="/images/StoicJoy.gif" alt="A Guide to the Good Life: The Ancient Art of Stoic Joy - by William Irvine" /></a>
       <figcaption>
         <h2><a href="/book/StoicJoy">A Guide to the Good Life: The Ancient Art of Stoic Joy - by William Irvine</a></h2>
         <p>ISBN: 0195374614 READ: 2010-09-26 RATING: 10/10</p>
         <p>Almost too personal for me to give an objective review, because I found when reading it that the quirky philosophy I've been living my life by since 17 matches up exactly with a 2000-year-old philosophy called Stoicism. Mine was self-developed haphazardly, so it was fascinating to read the refined developed original. Really resonated.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="10" data-title="The Time Paradox - by Philip Zimbardo and John Boyd" data-date="2009-04-03">
+      <a href="/book/TimeParadox"><img src="/images/TimeParadox.gif" alt="The Time Paradox - by Philip Zimbardo and John Boyd" /></a>
+      <figcaption>
+        <h2><a href="/book/TimeParadox">The Time Paradox - by Philip Zimbardo and John Boyd</a></h2>
+        <p>ISBN: 1416541993 READ: 2009-04-03 RATING: 10/10</p>
+        <p>Profound idea that everyone has a primary time focus: either Future-focused, Present-focused, or Past-focused. Fascinating implications of each. Because I'm so future-focused, reading this book helped me understand people who are very present-focused. Also great advice on shifting your focus when needed. (I'm bumping my rating of this book up to a 10/10, because I read it 5 years ago, but still think about it almost every day!)</p>
       </figcaption>
     </figure>
 
@@ -281,15 +281,6 @@
       </figcaption>
     </figure>
 
-    <figure class="abook" data-rating="9" data-title="The Time Paradox - by Philip Zimbardo and John Boyd" data-date="2009-04-03">
-      <a href="/book/TimeParadox"><img src="/images/TimeParadox.gif" alt="The Time Paradox - by Philip Zimbardo and John Boyd" /></a>
-      <figcaption>
-        <h2><a href="/book/TimeParadox">The Time Paradox - by Philip Zimbardo and John Boyd</a></h2>
-        <p>ISBN: 1416541993 READ: 2009-04-03 RATING: 9/10</p>
-        <p>See my in-depth article about this book at sivers.org/time</p>
-      </figcaption>
-    </figure>
-
     <figure class="abook" data-rating="9" data-title="Personal Development for Smart People - by Steve Pavlina" data-date="2008-12-27">
       <a href="/book/PersonalDevelopmentForSmartPeople"><img src="/images/PersonalDevelopmentForSmartPeople.gif" alt="Personal Development for Smart People - by Steve Pavlina" /></a>
       <figcaption>
@@ -503,6 +494,15 @@
         <h2><a href="/book/PokeTheBox">Poke the Box - by Seth Godin</a></h2>
         <p>ISBN: 1936719002 READ: 2011-03-15 RATING: 8/10</p>
         <p>Awesome short manifesto about getting into the habit of starting things.  Inspiring as hell.  Go go go!</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="8" data-title="Seeking Wisdom - by Peter Bevelin" data-date="2011-01-03">
+      <a href="/book/SeekingWisdom"><img src="/images/SeekingWisdom.gif" alt="Seeking Wisdom - by Peter Bevelin" /></a>
+      <figcaption>
+        <h2><a href="/book/SeekingWisdom">Seeking Wisdom - by Peter Bevelin</a></h2>
+        <p>ISBN: 1578644283 READ: 2011-01-03 RATING: 8/10</p>
+        <p>A great overview of the lessons of Charlie Munger (partner of Warren Buffett) - and his approach to checklists of multi-disciplinary models to guide clear thinking. Main point: if you can just avoid mistakes, you're doing better than most. So it's a catalog of the most common or important mistakes. Focused on investing, but can be applied to life.</p>
       </figcaption>
     </figure>
 
