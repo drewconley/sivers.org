@@ -54,12 +54,12 @@
   <section id="newestarticles">
     <h2>Newest Posts <span class="small"><a href="/blog">all posts</a></span></h2>
     <ul>
+      <li><a href="/career">How to change or build your career</a></li>
       <li><a href="/mindset">Fixed mindset vs Growth mindset</a></li>
       <li><a href="/lw">I love being wrong</a></li>
       <li><a href="/cs">The philosophy of great customer service</a></li>
       <li><a href="/hate">Loving what I used to hate</a></li>
       <li><a href="/ml">The Meaning of Life</a></li>
-      <li><a href="/tarzan">Change careers like Tarzan</a></li>
     </ul>
   </section>
   
@@ -168,6 +168,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>October 6</dt>
+      <dd>How to change or build your career: <a href="http://sivers.org/career">http://sivers.org/career</a></dd>
       <dt>September 24</dt>
       <dd>Of the 185 books I&#39;ve read in the last 7 years, this one has stuck with me the most: <a href="http://sivers.org/book/TimeParadox">http://sivers.org/book/TimeParadox</a> (email me when you finish it)</dd>
       <dt>September 21</dt>
@@ -178,8 +180,6 @@
       <dd>I love being wrong : <a href="http://sivers.org/lw">http://sivers.org/lw</a></dd>
       <dt>September 2</dt>
       <dd>Sadly selling my paradise house in New Zealand. I&#39;ll miss it a lot: <a href="http://nelson.nzsothebysrealty.com/nelson-properties/?Location=37-Shelbourne-Street-Nelson&amp;PropertyID=2413">http://nelson.nzsothebysrealty.com/nelson-properties/?Location=37-Shelbourne-Street-Nelson&amp;PropertyID=2413</a></dd>
-      <dt>August 26</dt>
-      <dd>Awesome customer service from a guy named Thor at Amazon: <a href="http://i.imgur.com/IDFkz82.png">http://i.imgur.com/IDFkz82.png</a></dd>
     </dl>
   </section>
   
