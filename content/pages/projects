@@ -16,20 +16,16 @@
   <dd>Open-source non-commercial song contest</dd>
 <dt><a href="/cyrano">Cyrano</a></dt>
   <dd>Someone witty tweets for you, as you</dd>
-<dt><a href="/karmalist">KarmaList</a></dt>
-  <dd>Open noncommercial database of contacts and referrals</dd>
-<dt><a href="/nnn">Now Now Now</a></dt>
-  <dd>Android app for logging how I spend my time</dd>
-<dt><a href="/langpro">Lang.pro</a></dt>
-  <dd>Language translation project manager</dd>
 </dl>
 
 <h1>Just code</h1>
 <dl>
-<dt><a href="/beekeep">Beekeep</a></dt>
-  <dd>Bookkeeper in the database</dd>
-<dt><a href="https://github.com/50pop/peeps">Peeps</a></dt>
-  <dd>Central database of people</dd>
+<dt><a href="https://github.com/50pop/d50b">d50b</a></dt>
+  <dd>Ruby models and database schemas for all apps</dd>
+<dt><a href="https://github.com/50pop/50apis">50apis</a></dt>
+  <dd>REST APIs for all apps</dd>
+<dt><a href="https://github.com/50pop/50apps">50apps</a></dt>
+  <dd>JavaScript front-end apps</dd>
 <dt><a href="https://github.com/50pop/langur">Langur</a></dt>
   <dd>Ruby Rack middleware for language switching</dd>
 </dl>

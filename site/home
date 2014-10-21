@@ -20,7 +20,7 @@
   <section id="aboutme">
     <h2>Me in 10 seconds</h2>
     <p>
-    I'm a <a href="/music">musician</a>, programmer, writer, entrepreneur, and <a href="/book">student</a> — though not in that order.
+    I'm a <a href="/music">musician</a>, <a href="/projects">programmer</a>, <a href="#mybooks">writer</a>, entrepreneur, and <a href="/book">student</a> — though not in that order.
     </p><p>
     I'm fascinated with the usable psychology of self-improvement, communication, business, philosophy, and cross-cultural relativism. I love seeing a <a href="/fish">different point of view</a>.
     </p><p>
@@ -31,6 +31,8 @@
     California native. I now <a href="/local">live</a> in <a href="/here">New Zealand</a>.
     </p><p>
     Deeply happy and <a href="/drama">anti-drama</a>, my favorite fable is <a href="/horses">塞翁失马</a>.
+    </p><p>
+    CURRENT UPDATE: <a href="/now">Here's what I'm doing now</a>.
     </p>
   </section>
 
