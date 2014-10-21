@@ -24,6 +24,7 @@ task :make do
 
   ########## READ, PARSE, AND WRITE BLOG POSTS
   @blogs = []
+  removed = %w(married lw)
   Dir['content/blog/20*'].sort.each do |infile|
 
     # PARSE. Filename: yyyy-mm-dd-uri
@@ -39,15 +40,23 @@ task :make do
     @bodyid = 'oneblog'
 
     # merge with templates and WRITE file
-    html = template('header').result
-    html << template('blog').result
-    html << template('comments').result
+    if removed.include? @url
+      @pagetitle = 'removed'
+      html = template('header').result
+      html << template('bloggone').result
+    else
+      html = template('header').result
+      html << template('blog').result
+      html << template('comments').result
+    end
     html << template('footer').result
     File.open("site/#{@url}", 'w') {|f| f.puts html }
 
     # save to array for later use in index and home page
-    @blogs << {date: @date, url: @url, title: @title, html: @body}
-    @urls << @url
+    unless removed.include? @url
+      @blogs << {date: @date, url: @url, title: @title, html: @body}
+      @urls << @url
+    end
   end
 
 
