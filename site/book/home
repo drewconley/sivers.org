@@ -1433,10 +1433,10 @@
       </figcaption>
     </figure>
 
-    <figure class="abook" data-rating="3" data-title="" data-date="2014-09-01">
-      <a href="/book/Complexity"><img src="/images/Complexity.gif" alt="" /></a>
+    <figure class="abook" data-rating="3" data-title="Complexity: A Guided Tour - by Melanie Mitchell" data-date="2014-09-01">
+      <a href="/book/Complexity"><img src="/images/Complexity.gif" alt="Complexity: A Guided Tour - by Melanie Mitchell" /></a>
       <figcaption>
-        <h2><a href="/book/Complexity"></a></h2>
+        <h2><a href="/book/Complexity">Complexity: A Guided Tour - by Melanie Mitchell</a></h2>
         <p>ISBN: 0199798109 READ: 2014-09-01 RATING: 3/10</p>
         <p>Great for what it is. I'm embarrassed to admit most of it went over my head. I'm not interested enough in the subject to give it my full concentration. I might read it again some day when it's more applicable to my life.</p>
       </figcaption>
