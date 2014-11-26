@@ -74,6 +74,15 @@
       </figcaption>
     </figure>
 
+    <figure class="abook" data-rating="9" data-title="Smartcuts - by Shane Snow " data-date="2014-11-20">
+      <a href="/book/Smartcuts"><img src="/images/Smartcuts.gif" alt="Smartcuts - by Shane Snow " /></a>
+      <figcaption>
+        <h2><a href="/book/Smartcuts">Smartcuts - by Shane Snow </a></h2>
+        <p>ISBN: 0062302450 READ: 2014-11-20 RATING: 9/10</p>
+        <p>Inspiring study of how successful people took smart shortcuts and bypassed the long-slogging dues-paying process. Great insights on momentum. Read the whole book for specific stories of Jimmy Fallon, Skrillex, Elon Musk, David Heinemeier Hansson, and Michelle Phan.</p>
+      </figcaption>
+    </figure>
+
     <figure class="abook" data-rating="9" data-title="Mindwise: How We Understand What Others Think, Believe, Feel, and Want - by Nicholas Epley" data-date="2014-10-01">
       <a href="/book/Mindwise"><img src="/images/Mindwise.gif" alt="Mindwise: How We Understand What Others Think, Believe, Feel, and Want - by Nicholas Epley" /></a>
       <figcaption>
@@ -1655,6 +1664,15 @@
         <h2><a href="/book/FoundersAtWork">Founders at Work - by Jessica Livingston</a></h2>
         <p>ISBN: 1430210788 READ: 2008-02-12 RATING: 2/10</p>
         <p>Long in-depth interviews with company founders, telling their tales of how they started. Lots of stories with a few usable gems.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="1" data-title="Seeing What Others Don't - by Gary Klein" data-date="2014-11-10">
+      <a href="/book/SeeingWhatOthersDont"><img src="/images/SeeingWhatOthersDont.gif" alt="Seeing What Others Don't - by Gary Klein" /></a>
+      <figcaption>
+        <h2><a href="/book/SeeingWhatOthersDont">Seeing What Others Don't - by Gary Klein</a></h2>
+        <p>ISBN: 1610392515 READ: 2014-11-10 RATING: 1/10</p>
+        <p>I really wanted to like this book, but couldn't stomach the writing style. Instead of presenting his conclusions, you have to slog forever through his tales of how he went about his research, and how he felt about each step along the way to writing this book. I couldn't finish it.</p>
       </figcaption>
     </figure>
 
