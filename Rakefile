@@ -24,7 +24,7 @@ task :make do
 
   ########## READ, PARSE, AND WRITE BLOG POSTS
   @blogs = []
-  removed = %w(married lw)
+  removed = %w(married dd-only piracy)
   Dir['content/blog/20*'].sort.each do |infile|
 
     # PARSE. Filename: yyyy-mm-dd-uri
