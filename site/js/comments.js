@@ -31,9 +31,7 @@
       li = document.createElement('li');
       li.id = id;
       html = '<cite>';
-      if(c.url && c.url.length > 0) { html += '<a href="' + c.url + '">'; }
       html += c.name;
-      if(c.url && c.url.length > 0) { html += '</a>'; }
       html += ' (' + c.created_at + ') <a href="#' + id + '">#</a></cite>';
       html += '<p>' + formatComment(c.html) + '</p>';
       li.innerHTML = html;
