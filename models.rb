@@ -28,15 +28,7 @@ class Comment < Sequel::Model(:sivers__comments)
     # return array of hashes of comments for this URI
     # used by JavaScript GET /comments/trust.json
     def for_uri(uri)
-      select(:id, :created_at, :html, :name, :url).where(uri: uri).order(:id).map(&:values)
-    end
-
-    def valid_url?(request_env)
-      Sivers.config['url_regex'] === request_env['HTTP_REFERER']
-    end
-
-    def valid_ip?(request_env)
-      /\A[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\Z/ === request_env['REMOTE_ADDR']
+      select(:id, :created_at, :html, :name).where(uri: uri).order(:id).map(&:values)
     end
 
     def valid_fields?(request_env)
@@ -49,8 +41,6 @@ class Comment < Sequel::Model(:sivers__comments)
 
     # comment posted from form. valid data submitted?
     def valid?(request_env)
-      return false unless valid_url?(request_env)
-      return false unless valid_ip?(request_env)
       return false unless valid_fields?(request_env)
       true
     end
@@ -80,7 +70,6 @@ class Comment < Sequel::Model(:sivers__comments)
 	comment_type: 'comment',
 	comment_author: env['rack.request.form_hash']['name'],
 	comment_author_email: env['rack.request.form_hash']['email'],
-	#comment_author_url: env['rack.request.form_hash']['url'],   # NO FORM COMMENTS FOR NOW
 	comment_content: env['rack.request.form_hash']['comment'] }
       params.each {|k,v| params[k] = URI.encode_www_form_component(v)}
       key = Sivers.config['akismet']
@@ -96,15 +85,6 @@ class Comment < Sequel::Model(:sivers__comments)
       nu = {uri: $2}
       nu[:name] = h['name'].force_encoding('UTF-8').strip.gsub(re, '')
       nu[:email] = h['email'].force_encoding('UTF-8').strip.downcase.gsub(re, '')
-      nu[:ip] = request_env['REMOTE_ADDR']
-#      NO URL FOR NOW
-#      h['url'].strip!
-#      if h['url'].size > 5
-#        unless %r{\Ahttps?://} === h['url']
-#          h['url'] = 'http://' + h['url']
-#        end
-#        nu[:url] = h['url']
-#      end
       nu[:html] = h['comment'].force_encoding('UTF-8').gsub(re, '')
       nu
     end

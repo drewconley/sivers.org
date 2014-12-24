@@ -1,7 +1,7 @@
-require 'test/unit'
+require 'minitest/autorun'
 require_relative '../models.rb'
 
-class TestComments < Test::Unit::TestCase
+class TestComments < Minitest::Test
 
   def setup
     @good = {
@@ -11,24 +11,7 @@ class TestComments < Test::Unit::TestCase
       'rack.request.form_hash' => {
 	'name' => 'Some Name',
 	'email' => 'derek@sivers.org',
-	'url' => 'http://sivers.org/',
 	'comment' => 'Sure is a nice day for this'}}
-  end
-
-  def test_valid_url
-    assert Comment.valid_url?(@good)
-    bad_refer = @good.clone
-    bad_refer['HTTP_REFERER'] = 'http://evil.net/'
-    refute Comment.valid_url?(bad_refer)
-    bad_refer['HTTP_REFERER'] = 'http://sivers.org/trust?extra=stuff'
-    refute Comment.valid_url?(bad_refer)
-  end
-
-  def test_valid_ip
-    assert Comment.valid_ip?(@good)
-    bad_ip = @good.clone
-    bad_ip['REMOTE_ADDR'] = ''
-    refute Comment.valid_ip?(bad_ip)
   end
 
   def test_valid_fields
@@ -59,12 +42,11 @@ class TestComments < Test::Unit::TestCase
 
   def test_clean
     h = @good['rack.request.form_hash']
-    nu = {uri: 'trust', name: h['name'], email: h['email'], ip: @good['REMOTE_ADDR'], html: h['comment']}
+    nu = {uri: 'trust', name: h['name'], email: h['email'], html: h['comment']}
     assert_equal nu, Comment.clean(@good)
     bad = @good.clone
     bad['rack.request.form_hash']['name'] = '  Some Name '
     bad['rack.request.form_hash']['email'] = '  derek@sivers.org '
-    bad['rack.request.form_hash']['url'] = 'sivers.org/'
     bad['rack.request.form_hash']['comment'] = 'Sure is a nice day for <a href="http://yeah.xxx">this</a>'
     assert_equal nu, Comment.clean(bad)
   end
@@ -86,7 +68,7 @@ class TestComments < Test::Unit::TestCase
   def test_ayw_download
     file = 'JAZZ-AnythingYouWant.zip'
     u = AYW.url_for(file)
-    assert u.start_with? "https://s3-us-west-1.amazonaws.com/aywb/#{file}?AWSAccessKeyId="
+    assert u.start_with? "https://s3.amazonaws.com/sivers/#{file}?AWSAccessKeyId="
   end
 
 end
