@@ -389,6 +389,15 @@
       </figcaption>
     </figure>
 
+    <figure class="abook" data-rating="8" data-title="When Things Fall Apart - by Pema Chödrön" data-date="2014-11-30">
+      <a href="/book/WhenThingsFallApart"><img src="/images/WhenThingsFallApart.gif" alt="When Things Fall Apart - by Pema Chödrön" /></a>
+      <figcaption>
+        <h2><a href="/book/WhenThingsFallApart">When Things Fall Apart - by Pema Chödrön</a></h2>
+        <p>ISBN: 1570623449 READ: 2014-11-30 RATING: 8/10</p>
+        <p>Profound philosophy on facing the negative emotions head-on and getting to know them well, instead of trying to avoid them or escape.</p>
+      </figcaption>
+    </figure>
+
     <figure class="abook" data-rating="8" data-title="The Compound Effect - by Darren Hardy" data-date="2014-07-17">
       <a href="/book/CompoundEffect"><img src="/images/CompoundEffect.gif" alt="The Compound Effect - by Darren Hardy" /></a>
       <figcaption>
@@ -1331,6 +1340,15 @@
         <h2><a href="/book/RichardBranson">Richard Branson - Losing My Virginity</a></h2>
         <p>ISBN: 0812932293 READ: 2008-06-01 RATING: 5/10</p>
         <p>Autobiography of his life from childhood through 2004. Interesting how he was always over-leveraged and how that drove him forward. Amazing how he negotiated Necker Island from £3 million down to £180k.</p>
+      </figcaption>
+    </figure>
+
+    <figure class="abook" data-rating="4" data-title="Make It Stick - by Peter Brown" data-date="2014-12-20">
+      <a href="/book/MakeItStick"><img src="/images/MakeItStick.gif" alt="Make It Stick - by Peter Brown" /></a>
+      <figcaption>
+        <h2><a href="/book/MakeItStick">Make It Stick - by Peter Brown</a></h2>
+        <p>ISBN: 0674729013 READ: 2014-12-20 RATING: 4/10</p>
+        <p>Great core point: that effortful learning - not easy - is more effective. Also the importance of self-testing as a learning tool.</p>
       </figcaption>
     </figure>
 
