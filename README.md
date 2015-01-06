@@ -55,3 +55,5 @@ Sinatra gets its templates from views/ including layout.erb, a clone of template
 
 Comments' JavaScript doesn't load in Opera Mini?
 
+Have PostgreSQL write out the comments JSON as a static file to disk as a trigger when updated?
+
