@@ -134,7 +134,7 @@ class EmailList
 		# return params, cleaned up values & keys, ready to insert
 		def clean(request_env)
 			h = request_env['rack.request.form_hash'].clone
-			nu = {statkey: 'listype', ip: request_env['REMOTE_ADDR']}
+			nu = {statkey: 'listype'}
 			nu[:statvalue] = (%w(some all none).include? h['listype']) ? h['listype'] : 'some'
 			nu
 		end
