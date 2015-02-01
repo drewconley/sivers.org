@@ -56,12 +56,12 @@
   <section id="newestarticles">
     <h2>Newest Posts <span class="small"><a href="/blog">all posts</a></span></h2>
     <ul>
+      <li><a href="/bad">Getting out of a bad place</a></li>
       <li><a href="/career">How to change or build your career</a></li>
       <li><a href="/mindset">Fixed mindset vs Growth mindset</a></li>
       <li><a href="/lw">I love being wrong</a></li>
       <li><a href="/cs">The philosophy of great customer service</a></li>
       <li><a href="/hate">Loving what I used to hate</a></li>
-      <li><a href="/ml">The Meaning of Life</a></li>
     </ul>
   </section>
   
@@ -170,6 +170,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>February 2</dt>
+      <dd>Getting out of a bad place: <a href="http://sivers.org/bad">http://sivers.org/bad</a></dd>
       <dt>January 21</dt>
       <dd>Why I&#39;ve been quiet online lately: <a href="http://sivers.org/boring">http://sivers.org/boring</a></dd>
       <dt>January 9</dt>
@@ -180,8 +182,6 @@
       <dd>People ask why I&#39;m not writing much. I am. It&#39;s just code: <a href="https://github.com/sivers?tab=activity">https://github.com/sivers?tab=activity</a></dd>
       <dt>December 19</dt>
       <dd>What&#39;s the opposite of effort?   (Real question. Any suggestions?)</dd>
-      <dt>December 10</dt>
-      <dd>Mark Manson is one of the best writers I know: <a href="http://markmanson.net/best-articles">http://markmanson.net/best-articles</a></dd>
     </dl>
   </section>
   
