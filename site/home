@@ -170,6 +170,8 @@
   <section id="tweets">
     <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
     <dl>
+      <dt>February 17</dt>
+      <dd>Just back from 5 days in paradise: <a href="http://www.doc.govt.nz/parks-and-recreation/tracks-and-walks/fiordland/northern-fiordland/milford-track/">http://www.doc.govt.nz/parks-and-recreation/tracks-and-walks/fiordland/northern-fiordland/milford-track/</a></dd>
       <dt>February 2</dt>
       <dd>Getting out of a bad place: <a href="http://sivers.org/bad">http://sivers.org/bad</a></dd>
       <dt>January 21</dt>
@@ -180,8 +182,6 @@
       <dd>People who say “day job” are my kind of people.</dd>
       <dt>December 23</dt>
       <dd>People ask why I&#39;m not writing much. I am. It&#39;s just code: <a href="https://github.com/sivers?tab=activity">https://github.com/sivers?tab=activity</a></dd>
-      <dt>December 19</dt>
-      <dd>What&#39;s the opposite of effort?   (Real question. Any suggestions?)</dd>
     </dl>
   </section>
   
