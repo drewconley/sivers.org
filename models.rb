@@ -25,12 +25,6 @@ end
 class Comment < Sequel::Model(:sivers__comments)
 	class << self
 
-		# return array of hashes of comments for this URI
-		# used by JavaScript GET /comments/trust.json
-		def for_uri(uri)
-			select(:id, :created_at, :html, :name).where(uri: uri).order(:id).map(&:values)
-		end
-
 		def valid_fields?(request_env)
 			return false unless request_env['rack.request.form_hash'].instance_of?(Hash)
 			%w(name email comment).each do |fieldname|

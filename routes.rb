@@ -20,20 +20,12 @@ class SiversOrg < Sinatra::Base
 		redirect '/'
 	end
 
-	# COMMENTS: JavaScript get JSON
-	get %r{\A/comments/([a-z0-9_-]+).json\Z} do |uri|
-		content_type 'application/json'
-		Comment.for_uri(uri).to_json
-	end
-
 	# COMMENTS: post to add comment
 	post '/comments' do
 		comment_id = Comment.add(request.env)
-		if comment_id
-			#Comment.log('good', request.env)
+		if comment_id		# good
 			redirect '%s#comment-%d' % [request.referrer, comment_id]
-		else
-			#Comment.log('bad', request.env)
+		else		# bad
 			redirect request.referrer
 		end
 	end
