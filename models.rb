@@ -75,8 +75,8 @@ class Comment < Sequel::Model(:sivers__comments)
 		def clean(request_env)
 			h = request_env['rack.request.form_hash'].clone
 			Sivers.config['url_regex'].match request_env['HTTP_REFERER']
-			re = %r{</?[^>]+?>}
 			nu = {uri: $2}
+			re = %r{</?[^>]+?>}
 			nu[:name] = h['name'].force_encoding('UTF-8').strip.gsub(re, '')
 			nu[:email] = h['email'].force_encoding('UTF-8').strip.downcase.gsub(re, '')
 			nu[:html] = h['comment'].force_encoding('UTF-8').gsub(re, '')
@@ -98,6 +98,7 @@ class Comment < Sequel::Model(:sivers__comments)
 			return false unless valid?(request_env)
 			return false if spammer?(request_env['REMOTE_ADDR'])
 			return false if spam?(request_env)
+			return false unless Sivers.config['url_regex'] === request_env['HTTP_REFERER']
 			nu = clean(request_env)
 			nu[:person_id] = person_id(nu)
 			c = create(nu)
