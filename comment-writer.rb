@@ -1,11 +1,11 @@
 #!/usr/bin/env ruby
-
 require 'pg'
 DB = PG::Connection.new(dbname: 'd50b', user: 'd50b')
 
 def li(row)
 	'<li id="comment-%d"><cite>%s (%s) <a href="#comment-%d">#</a></cite><p>%s</p></li>' %
-		[row['id'], row['name'], row['created_at'], row['id'], row['html'].gsub("\n", '<br>')]
+		[row['id'], row['name'], row['created_at'], row['id'],
+	 		row['html'].gsub(%r{\s(https?://\S+)}, '<a href="\0">\0</a>').gsub("\n", '<br>')]
 end
 
 def ol(res)

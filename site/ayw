@@ -63,10 +63,37 @@ No matter which format you choose, it comes with a free gift: a code to download
     </footer>
   </article>
 
-  <div id="comments">
-  </div>
-  <script type="text/javascript" src="/js/comments.js"></script>
-
+<div id="comments"></div>
+<script type="text/javascript">
+(function() {
+	function getComments(uri) {
+		var ol = '';
+		try {
+			var xhr = new XMLHttpRequest();
+			xhr.open('get', '/sivers_comments/' + uri, false);
+			xhr.send(null);
+			if(xhr.status == 200) { ol = xhr.responseText; }
+		} catch(e) { }
+		return ol;
+	}
+	var isLoaded = false;
+	function showComments() {
+		if(isLoaded) { return; }
+		document.getElementById('comments').innerHTML = '<header><h1>Your thoughts? Please leave a reply:</h1><form action="/comments" method="post"><label for="name_field">Your Name</label><input type="text" name="name" id="name_field" value="" /><label for="email_field">Your Email &nbsp; <span class="small">(private for my eyes only)</span></label><input type="email" name="email" id="email_field" value="" /><label for="comment">Comment</label><textarea name="comment" id="comment" cols="35" rows="10"></textarea><br><input name="submit" type="submit" class="submit" value="submit comment" /></form></header><h1>Comments</h1>' + getComments(location.pathname);
+		isLoaded = true;
+	}
+	function weHitBottom() {
+		var contentHeight = document.getElementById('content').offsetHeight;
+		var y1 = (window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop;
+		var y2 = (window.innerHeight !== undefined) ? window.innerHeight : document.documentElement.clientHeight;
+		var y = y1 + y2;
+		if (y >= contentHeight) { showComments(); }
+	}
+	weHitBottom();
+	if(isLoaded === false) { window.onscroll = weHitBottom; }
+	if(/comment-\d+/.test(location.hash)) { showComments(); }
+})();
+</script>
 
 </section>
 </body>
