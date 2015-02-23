@@ -80,9 +80,10 @@ Thanks again, everyone.
 (function() {
 	function getComments(uri) {
 		var ol = '';
+		var alt = (/comment-\d+/.test(window.location.hash)) ? '?reload' : '';
 		try {
 			var xhr = new XMLHttpRequest();
-			xhr.open('get', '/sivers_comments/' + uri, false);
+			xhr.open('get', '/sivers_comments/' + uri + alt, false);
 			xhr.send(null);
 			if(xhr.status == 200) { ol = xhr.responseText; }
 		} catch(e) { }
