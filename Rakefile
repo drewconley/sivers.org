@@ -171,6 +171,7 @@ task :make do
 
 
 	########## WRITE BOOKS INDEX PAGE
+	# sivers.org/book = top rated at top
 	@books.sort_by!{|x| '%02d%s%s' % [x[:rating], x[:date], x[:url]]}
 	@books.reverse!
 	@pagetitle = 'BOOKS | Derek Sivers'
@@ -179,6 +180,13 @@ task :make do
 	html << template('booklist').result
 	html << template('footer').result
 	File.open('site/book/home', 'w') {|f| f.puts html }
+	# sivers.org/book/new = newest at top
+	@books.sort_by!{|x| '%s%02d%s' % [x[:date], x[:rating], x[:url]]}
+	@books.reverse!
+	html = template('header').result
+	html << template('booklist').result
+	html << template('footer').result
+	File.open('site/book/new', 'w') {|f| f.puts html }
 
 
 
