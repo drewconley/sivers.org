@@ -53,7 +53,9 @@ Sinatra gets its templates from views/ including layout.erb, a clone of template
 
 # TODO:
 
-Comments' JavaScript doesn't load in Opera Mini?
-
-Have PostgreSQL write out the comments JSON as a static file to disk as a trigger when updated?
+* secure file downloader in Sinatra
+* PostgreSQL API for public functions now in models
+* sivers.org dynamic routes without d50b, AWS, Sequel
+* smaller SCSS - not Foundation
+* formletter title used as lookup instead of config map of IDs
 
