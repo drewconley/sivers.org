@@ -1,8 +1,0 @@
-gem 'sequel'
-gem 'sinatra'
-gem 'zurb-foundation'
-gem 'atom'
-gem 'aws-s3'
-gem 'resolv'
-gem 'json'
-gem 'd50b'
