@@ -186,11 +186,12 @@ class SiversOrg < Sinatra::Base
 		erb :ayw_list
 	end
 
-	# AYW MP3 downloads - if authorized, redirect to S3
+	# AYW MP3 downloads 
 	get %r{\A/ayw/download/([A-Za-z-]+.zip)\Z} do |zipfile|
 		p = Login.get_person_from_cookie(cookies['ok'])
 		redirect '/sorry/login' unless p
-		redirect AYW.url_for(zipfile)
+		redirect '/ayw/list' unless %w(AnythingYouWant.zip CLASSICAL-AnythingYouWant.zip COUNTRY-AnythingYouWant.zip FOLK-AnythingYouWant.zip JAZZ-AnythingYouWant.zip OTHER-AnythingYouWant.zip POP-AnythingYouWant.zip ROCK-AnythingYouWant.zip SAMPLER-AnythingYouWant.zip SINGSONG-AnythingYouWant.zip URBAN-AnythingYouWant.zip WORLD-AnythingYouWant.zip).include? zipfile
+		send_file "/srv/http/downloads/#{zipfile}"
 	end
 
 end

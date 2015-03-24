@@ -1,7 +1,6 @@
 require 'json'
 require 'sequel'
 require 'd50b/peeps'
-require 'aws/s3'
 require 'resolv'
 require 'net/http'
 
@@ -13,9 +12,9 @@ class Sivers
 		unless @config
 			@config = JSON.parse(File.read(File.dirname(__FILE__) + '/config.json'))
 			@config['url_regex'] = %r{\Ahttps?://sivers\.(dev|org)/([a-z0-9_-]{1,32})\Z}
-			@config['formletter_password_reset'] = 1
-			@config['formletter_ayw_bought'] = 4
-			@config['formletter_download_pdf'] = 5
+			@config['formletter_password_reset'] = 1 # __sivers_newpass
+			@config['formletter_ayw_bought'] = 4     # __sivers_ayw_bought
+			@config['formletter_download_pdf'] = 5   # __sivers_ebook
 		end
 		@config
 	end
@@ -182,14 +181,6 @@ class AYW
 			nu = {person_id: person_id(request_env), statkey: 'ayw', statvalue: 'a'}
 			Userstat.create(nu)
 			Person[nu[:person_id]]
-		end
-
-		def url_for(filename)
-			#AWS::S3::DEFAULT_HOST.replace 's3-us-west-1.amazonaws.com'
-			AWS::S3::Base.establish_connection!(
-				access_key_id: Sivers.config['s3key'],
-				secret_access_key: Sivers.config['s3secret'])
-			AWS::S3::S3Object.url_for(filename, 'sivers', :use_ssl => true)
 		end
 	end
 end
