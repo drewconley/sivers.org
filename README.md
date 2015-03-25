@@ -53,6 +53,7 @@ Sinatra gets its templates from views/ including layout.erb, a clone of template
 
 # TODO:
 
+* email sending using API db insert, not Mail
 * PostgreSQL API for public functions now in models
 * Ruby lib C50E::MyMail replace MailWrapper, Mailserver, Email
 * sivers.org dynamic routes without d50b, Sequel

@@ -1,5 +1,4 @@
 require 'sinatra/base'
-require 'sinatra/cookies'
 require 'json'
 require_relative 'models.rb'
 
@@ -13,7 +12,6 @@ require_relative 'models.rb'
 # /download/
 
 class SiversOrg < Sinatra::Base
-	helpers Sinatra::Cookies
 
 	# nginx might rewrite looking for /uri/home or just /uri/. both are wrong.
 	get %r{/home\Z|/\Z} do
@@ -123,9 +121,10 @@ class SiversOrg < Sinatra::Base
 		p.set_password(params[:password])
 		p.set_newpass
 		if ['sivers.org', 'sivers.dev', 'example.org'].include? request.env['SERVER_NAME']
-			cookies['ok'] = Login.set_auth(p.id, request.env['SERVER_NAME'])
+			ok = Login.set_auth(p.id, request.env['SERVER_NAME'])
+			response.set_cookie('ok', value: ok, path: '/', httponly: true)
 		end
-		redirect '/ayw/list'	 # TODO: other destinations in future
+		redirect '/ayw/list'
 	end
 
 	# PASSWORD: forgot? form to enter email
@@ -159,7 +158,7 @@ class SiversOrg < Sinatra::Base
 
 	# log in form to get to AYW MP3 download area
 	get '/ayw/login' do
-		p = Login.get_person_from_cookie(cookies['ok'])
+		p = Login.get_person_from_cookie(request.cookies['ok'])
 		redirect '/ayw/list' if p
 		@bodyid = 'ayw'
 		@pagetitle = 'log in for MP3 downloads'
@@ -170,7 +169,8 @@ class SiversOrg < Sinatra::Base
 	post '/ayw/login' do
 		p = Person.find_by_email_pass(params[:email], params[:password])
 		if p && (['sivers.org', 'sivers.dev', 'example.org'].include? request.env['SERVER_NAME'])
-			cookies['ok'] = Login.set_auth(p.id, request.env['SERVER_NAME'])
+			ok = Login.set_auth(p.id, request.env['SERVER_NAME'])
+			response.set_cookie('ok', value: ok, path: '/', httponly: true)
 			redirect '/ayw/list'
 		else
 			redirect '/sorry/badlogin'
@@ -179,7 +179,7 @@ class SiversOrg < Sinatra::Base
 
 	# AYW list of MP3 downloads - only for the authorized
 	get '/ayw/list' do
-		p = Login.get_person_from_cookie(cookies['ok'])
+		p = Login.get_person_from_cookie(request.cookies['ok'])
 		redirect '/ayw/login' unless p
 		@bodyid = 'ayw'
 		@pagetitle = 'MP3 downloads for Anything You Want book'
@@ -188,7 +188,7 @@ class SiversOrg < Sinatra::Base
 
 	# AYW MP3 downloads 
 	get %r{\A/ayw/download/([A-Za-z-]+.zip)\Z} do |zipfile|
-		p = Login.get_person_from_cookie(cookies['ok'])
+		p = Login.get_person_from_cookie(request.cookies['ok'])
 		redirect '/sorry/login' unless p
 		redirect '/ayw/list' unless %w(AnythingYouWant.zip CLASSICAL-AnythingYouWant.zip COUNTRY-AnythingYouWant.zip FOLK-AnythingYouWant.zip JAZZ-AnythingYouWant.zip OTHER-AnythingYouWant.zip POP-AnythingYouWant.zip ROCK-AnythingYouWant.zip SAMPLER-AnythingYouWant.zip SINGSONG-AnythingYouWant.zip URBAN-AnythingYouWant.zip WORLD-AnythingYouWant.zip).include? zipfile
 		send_file "/srv/http/downloads/#{zipfile}"
