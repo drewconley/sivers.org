@@ -4,14 +4,13 @@ require_relative 'models.rb'
 
 ## DYNAMIC (non-static) parts of sivers.org:
 # 1. posting a comment
-# 2. 
+# 2. mailing list: un/subscribe
+# 3. ebook: post name&email / lopass URL to download
+# 4. AnythingYouWant: post proof, login, MP3-list, download
+# 5. password forgot/reset
 
 ## URL paths for nginx to pass to proxy:
-# /comments
-# /list/
-# /u/
-# /ayw/
-# /download/
+#  ^/(comments|list/|list\Z|u/|ayw/|download/)
 
 class SiversOrg < Sinatra::Base
 
