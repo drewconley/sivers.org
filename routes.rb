@@ -1,6 +1,8 @@
 require 'sinatra/base'
 require 'json'
 require_relative 'models.rb'
+require 'b50d/sivers-comments'
+require 'c50e/comment_filter'
 
 ## DYNAMIC (non-static) parts of sivers.org:
 # 1. posting a comment
@@ -19,12 +21,13 @@ class SiversOrg < Sinatra::Base
 		redirect '/'
 	end
 
-	# COMMENTS: post to add comment
+	# COMMENTS: post to add comment  # TODO: this is untested. start here.
 	post '/comments' do
-		comment_id = Comment.add(request.env)
-		if comment_id		# good
-			redirect '%s#comment-%d' % [request.referrer, comment_id]
-		else		# bad
+		db_api = B50D::SiversComments.new(C50E::config[:api_key], C50E::config[:api_pass])
+		c = CommentFilter::add(request.env)
+		if c && c[:id]
+			redirect '%s#comment-%d' % [request.referrer, c[:id]]
+		else
 			redirect request.referrer
 		end
 	end
