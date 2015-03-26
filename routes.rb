@@ -30,30 +30,18 @@ class SiversOrg < Sinatra::Base
 
 	# THANKS - for what?
 	get %r{\A/thanks/([a-z]+)\Z} do |forwhat|
+		@forwhat = forwhat
 		@bodyid = 'thanks'
 		@pagetitle = 'Thank you!'
-		thanks = Hash.new('')	# default message?
-		thanks['list'] = 'I updated your email list settings.</p><p>Your info is private and will never be sold to anyone else, ever.</p><p>Of course you can email me anytime at <a href="mailto:derek@sivers.org">derek@sivers.org</a>'
-		thanks['reset'] = 'Wait a minute, then check your inbox for an email from derek@sivers.org with the subject “your password reset link”.</p><p>If you don’t get it in a minute or two, please email me to let me know.'
-		thanks['ayw'] = 'Wait a minute, then check your inbox for an email from derek@sivers.org with the subject “your MP3 download link”.</p><p>If you don’t get it in a minute or two, please email me to let me know.'
-		thanks['pdf'] = 'Wait a minute, then check your inbox for an email from derek@sivers.org with the subject “How to Call Attention to Your Music”.</p><p>If you don’t get it in a minute or two, please email me to let me know.'
-		@message = thanks[forwhat]
-		erb :oneliner
+		erb :thanks
 	end
 
 	# SORRY - for what?
 	get %r{\A/sorry/([a-z]+)\Z} do |forwhat|
+		@forwhat = forwhat
 		@bodyid = 'sorry'
 		@pagetitle = 'Sorry!'
-		sorry = Hash.new('')	# default message?
-		sorry['badurlid'] = 'That unique URL is not right, for some reason.</p><p>Maybe it expired? Maybe it has changed since I emailed it to you?</p><p><a href="/ayw/login">Click here to try to log in</a>.</p><p>If that doesn’t work, email me at <a href="mailto:derek@sivers.org">derek@sivers.org</a>'
-		sorry['shortpass'] = 'Your password needs to be at least 4 characters long.</p><p>Please go back to try again.'
-		sorry['noemail'] = 'That email address wasn’t found. Do you have another?</p><p>Please go back to try again.'
-		sorry['aywcode'] = 'That wasn’t the code word.</p><p>HINT: It starts with a U and ends with an A.</p><p>Please go back to try again.'
-		sorry['login'] = 'You need to login to be here'
-		sorry['badlogin'] = 'Either the email address or password wasn’t right.</p><p>Please go back to try again.'
-		@message = sorry[forwhat]
-		erb :oneliner
+		erb :sorry
 	end
 
 	# LIST: pre-authorized URL to show form for changing settings / unsubscribing
