@@ -63,13 +63,12 @@ class SiversOrg < Sinatra::Base
 		end
 	end
 
-	# DOWNLOAD: lopass auth to get a file from S3  # TODO
+	# DOWNLOAD: id+lopass auth to get a file
 	get %r{\A/download/([0-9]+)/([a-zA-Z0-9]{4})/([a-zA-Z0-9\._-]+)\Z} do |person_id, lopass, filename|
-		p = PP.get_person_lopass(person_id, lopass)
-		redirect '/sorry?for=login' unless p
-		nu = {person_id: p.id, statkey: 'download', statvalue: filename}
-		Userstat.create(nu)
-		redirect AYW.url_for(filename)
+		whitelist = %w(DerekSivers.pdf)
+		redirect '/sorry?for=notfound' unless whitelist.include?(filename)
+		redirect '/sorry?for=login' unless PP.get_person_lopass(person_id, lopass)
+		send_file "/srv/http/downloads/#{filename}"
 	end
 
 	# sivers.org/pdf posts here to get ebook
