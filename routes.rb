@@ -1,8 +1,13 @@
 require 'sinatra/base'
 require 'json'
 require_relative 'models.rb'
+require 'c50e-config.rb'  # TODO: some should be site constants
+require 'b50d/peeps'
 require 'b50d/sivers-comments'
-require 'c50e/comment_filter'
+require 'c50e/form_filter'
+
+PP = B50D::Peeps.new(C50E::config[:api_key], C50E::config[:api_pass])
+SC = B50D::SiversComments.new(C50E::config[:api_key], C50E::config[:api_pass])
 
 ## DYNAMIC (non-static) parts of sivers.org:
 # 1. posting a comment
@@ -21,12 +26,11 @@ class SiversOrg < Sinatra::Base
 		redirect '/'
 	end
 
-	# COMMENTS: post to add comment  # TODO: this is untested. start here.
+	# COMMENTS: post to add comment 
 	post '/comments' do
-		db_api = B50D::SiversComments.new(C50E::config[:api_key], C50E::config[:api_pass])
-		c = CommentFilter::add(request.env)
-		if c && c[:id]
-			redirect '%s#comment-%d' % [request.referrer, c[:id]]
+		comment = FormFilter::comment(request.env, SC)
+		if comment && comment[:id]
+			redirect '%s#comment-%d' % [request.referrer, comment[:id]]
 		else
 			redirect request.referrer
 		end
@@ -36,9 +40,9 @@ class SiversOrg < Sinatra::Base
 	get %r{\A/list/([0-9]+)/([a-zA-Z0-9]{4})\Z} do |person_id, lopass|
 		@bodyid = 'list'
 		@pagetitle = 'email list'
-		p = Person.where(id: person_id, lopass: lopass).first
-		@show_name = p ? p.name : ''
-		@show_email = p ? p.email : ''
+		p = PP.get_person_lopass(person_id, lopass)
+		@show_name = p ? p[:name] : ''
+		@show_email = p ? p[:email] : ''
 		erb :list
 	end
 
@@ -52,13 +56,16 @@ class SiversOrg < Sinatra::Base
 
 	# LIST: handle posting of list signup or changing settings
 	post '/list' do
-		EmailList.update(request.env)
-		redirect '/thanks?for=list'
+		if FormFilter::mailinglist(request.env, PP)
+			redirect('/thanks?for=list')
+		else
+			redirect '/list'
+		end
 	end
 
-	# DOWNLOAD: lopass auth to get a file from S3
+	# DOWNLOAD: lopass auth to get a file from S3  # TODO
 	get %r{\A/download/([0-9]+)/([a-zA-Z0-9]{4})/([a-zA-Z0-9\._-]+)\Z} do |person_id, lopass, filename|
-		p = Person.where(id: person_id, lopass: lopass).first
+		p = PP.get_person_lopass(person_id, lopass)
 		redirect '/sorry?for=login' unless p
 		nu = {person_id: p.id, statkey: 'download', statvalue: filename}
 		Userstat.create(nu)
