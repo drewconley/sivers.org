@@ -46,17 +46,9 @@ Styling made by @extend'ing in the SCSS file, instead of adding HTML attributes.
 
 Nginx serves the final static site from the site/ directory.
 
-Nginx passes certain paths by proxy to the dynamic Sinatra server, for dynamic pages.
-
-Sinatra gets its templates from views/ including layout.erb, a clone of templates/header.erb and templates/footer.erb
+Nginx passes certain paths by proxy to the dynamic Sinatra server, for dynamic pages, in 50web.
 
 
 # TODO:
 
-* email sending using API db insert, not Mail
-* PostgreSQL API for public functions now in models
-* Ruby lib C50E::MyMail replace MailWrapper, Mailserver, Email
-* sivers.org dynamic routes without d50b, Sequel
 * smaller SCSS - not Foundation
-* formletter title used as lookup instead of config map of IDs
-
