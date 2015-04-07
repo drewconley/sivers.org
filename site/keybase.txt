@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/sivers
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sivers.org
+  * I am sivers (https://keybase.io/sivers) on keybase.
+  * I have a public key with fingerprint 5381 1505 D4E2 A547 E354  2CC9 27AA F0DF 2866 CE3C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "53811505d4e2a547e3542cc927aaf0df2866ce3c",
+            "host": "keybase.io",
+            "key_id": "27aaf0df2866ce3c",
+            "kid": "01012d82f795b4ba2e3a631e2f99d655fac1b69cb1791a58e8269af801875778e13e0a",
+            "uid": "7a92a772c76c2d3da537ca368200cc00",
+            "username": "sivers"
+        },
+        "service": {
+            "hostname": "sivers.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1428440338,
+    "expire_in": 157680000,
+    "prev": "d71f37af767470f7c04b94b7c44d2059f24aa3f869526dcf0035ed1e48092b90",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIcAnicbVJbSBRRGF6zzESxLMoioqbsKtuZM3PmzKxGN6WiIAKLFG05c+aMO6zu
+7M0tk63N7lFrEUnZjagIi4JIQSOixCyK9RIakg+S+GIERVEPFdnMUg9B5+Vwvv/7
+vv98P39nVqojI2XJ7U/DS/XuwpRXTwtrHNsXFefUcaqp1XKuOs7Lkpdu+CpZ0B80
+fGHOxSFB5nkEkCYySJCImYBESKkCMSE60HQoSxJlAuXyOY8ZshWWjUpCzGmYFmY9
+3IZmof/he5MFwAMeajLUsYJUUSWQCUQSeAZ1RdEkhHRCeVVSqMpjhSdIZjKUFKLL
+gJcxwlhmvMAAsexqknaYKJBgDCmWKNQEjSABUyJIMgSAUgBsYogFfaSaWeyQEWHB
+EBfN5ywsYlBmD8DO8U/daQYrLZ0/aIZNalZZuCcc9rtsWbjWb/N2M9X9x8GtGj7N
+GqElsLWG6eNcvMWkYcO25EUoiyIQBDmfY3v8RpC5DZuBsCQD69htWMSy1DCvC5jo
+WMIiBjqmQFQVUcVUFDUIkKJDkRBBlyUFQUmjOgACYhrPRBkoUFXsoCEW8JmcC1vf
+JJXJNJU+Eq4JMi7a8aR8oiMlw5E2aYK9BI6MKVP/rkbh5cnjJYFHQ/VPq93OwZN7
+uwpi2dlpz1aOXoKNvZ2j5d6XaeNZD+ZuPh/XPvUUzGhumlzxcHrOvc6Da1Oabx3t
+yzzFejaWjWx9HHsb8ERu/vi5c+j9yLSWbcsG5q1qDTQWXznQU7rIXXxscX/Ll1dp
+d9aV5zbs2FWx+N2F3KKx2jl9Y8/b7/Z627sya79GN2040vDi+IGd6VvmFL05nNm6
+JkP9dh1N+vX5xoquYQQ9TUWx1C3NXaEz1aXRZmeibXB8ViKOq5aPFZ0YPbea1cfz
+PsDdhyIFC3Zlf5xZJrfdP3Otfn+oO32gWsy6eqd/dt2R9cu+x2Md851DCxOnE3mv
+V54tST2+r6H34m8NUyOX
+=NYVR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sivers
+
+==================================================================
+
