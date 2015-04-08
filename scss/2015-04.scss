@@ -9,7 +9,7 @@ body {
 	font-family: Georgia, serif;
 }
 
-h1, h2, h3, h4, h5, small, p.postdate, footer {
+h1, h2, h3, h4, h5, small, p.postdate, footer, input[type="submit"], label {
 	font-family: "Trebuchet MS", sans-serif;
 }
 
@@ -26,12 +26,14 @@ form {
 input[type="submit"] {
 	@extend .pure-button;
 	@extend .pure-button-primary;
+	background: #800;
+	font-weight: bold;
 }
 
 section#masthead {
 	h1 {
-		margin: 0 0 -8px 0;
-		font-size: 2.5em;
+		margin: 0;
+		font-size: 3em;
 		a {
 			text-decoration: none;
 			color: #800;
