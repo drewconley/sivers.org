@@ -1,15 +1,16 @@
 <!-- Code -->
 
-<h1><a href="/projects">Projects</a> » Technology Preferences:</h1>
+<h2><a href="/projects">Projects</a> » Technology Preferences:</h2>
 
 <dl>
 
 <dt>PostgreSQL database</dt>
-<dd>Projects only use <a href="http://www.postgresql.org/">PostgreSQL</a>. Databases are strict, with foreign keys and constraints in the schema itself.</dd>
-<dd>I've heard all the <a href="http://en.wikipedia.org/wiki/NoSQL">NoSQL</a> arguments, and I've played a lot with MongoDB, but these projects use PostgreSQL and that's that.</dd>
+<dd>Projects only use <a href="http://www.postgresql.org/">PostgreSQL</a>.</dd>
+<dd>I recently (2015) doubled-down on PostgreSQL, putting ALL business logic and functionality into the database functions directly, so the Ruby/JavaScript/whatever code around it can be quite dumb and replaceable.</dd>
+<dd><a href="https://github.com/sivers/pg/blob/master/README.md">Read this</a> for an idea of what I'm doing and where it's headed.</dd>
 
 <dt>Central database with schemas</dt>
-<dd>Instead of duplicating someone’s info for each project, people are kept in <a href="https://github.com/50pop/peeps">one central database</a>, and all other projects (customers, clients, workers, etc) just refer to the person_id.  To keep strict foreign keys, now all projects are in <a href="https://github.com/50pop/d50b">one database</a>, just separated into different schemas.</dd>
+<dd>Instead of duplicating someone’s info for each project, people are kept in <a href="https://github.com/50pop/db-api">one central database</a>, and all other projects (customers, clients, workers, etc) just refer to the person_id.  To keep strict foreign keys, now all projects are in <a href="https://github.com/50pop/db-api">one database</a>, just separated into different schemas.</dd>
 
 <dt>REST Server + dumb client</dt>
 <dd>I’m much more interested in being the back-end than front-end.  Each project is meant to be used by other sites/apps/interfaces. So each project should have a fully-featured <a href="http://en.wikipedia.org/wiki/REST">REST</a> server, and the website is just a client using its REST API, <a href="http://pragdave.pragprog.com/pragdave/2007/03/the_radar_archi.html">as described here</a>. Ensures that all outside clients can do everything our website can do, and separates UI from back-end functionality.</dd>
@@ -23,9 +24,8 @@
 <dd>All sites that deal with money are multi-currency. Money is always saved with a currency code. A shared <a href="https://github.com/50pop/d50b/blob/master/lib/d50b/peeps/money.rb">Money class</a> knows how to display each currency correctly or convert it into others.</dd>
 
 <dt>What framework?</dt>
-<dd>For the API servers, I'm using plain old <a href="http://www.sinatrarb.com/">Sinatra</a>.</dd>
-<dd>For the real database-web-app parts, I'm enjoying <a href="http://facebook.github.io/react/">React</a> as the common web front-end for all my new projects.</dd>
-<dd>For web site sections that don't absolutely require database interaction, I'm a fan of plain old static sites.   See <a href="https://github.com/sivers/sivers.org">sivers.org code</a> for an example of this.</dd>
+<dd>For now, I’m using plain old <a href="http://www.sinatrarb.com/">Sinatra</a>.</dd>
+<dd>For web site sections that don’t absolutely require database interaction, I’m a fan of plain old static sites.   See <a href="https://github.com/sivers/sivers.org">sivers.org code</a> for an example of this.</dd>
 <dd>For CSS, I like <a href="http://purecss.io/">Pure</a>, or just plain old hand-coded CSS.</dd>
 
 </dl>

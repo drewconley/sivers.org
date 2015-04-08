@@ -76,7 +76,7 @@
 </section>
 
 <section id="companies">
-	<h2>Projects</h2>
+	<h2>Projects <small><a href="/projects">see all projects</a></small></h2>
 	<dl>
 		<dt><a href="/book">Book Notes</a></dt>
 		<dd>Detailed notes from the last 150+ books I’ve read.</dd>
@@ -86,12 +86,6 @@
 		<dd>My book publishing company.</dd>
 		<dt><a href="https://github.com/sivers/sivers.org">sivers.org</a></dt>
 		<dd>The hand-crafted Ruby code that runs this site.</dd>
-		<dt><a href="https://github.com/50pop/db-api">db-api</a></dt>
-		<dd>My PostgreSQL database is getting smarter.</dd>
-		<dt><a href="https://github.com/50pop/50web">50web</a></dt>
-		<dd>All the code for my database-driven sites.</dd>
-		<dt><a href="https://github.com/sivers/pg">PostgreSQL experiments</a></dt>
-		<dd>The README describes where I'm going.</dd>
 	</dl>
 </section>
 
@@ -103,7 +97,7 @@
 		<dt><a href="/pdf">Marketing Your Music</a></dt>
 		<dd>Free e-book for musicians about promoting your music and navigating the music industry.</dd>
 		<dt><a href="http://woodegg.com/">Wood Egg Startup Guides</a></dt>
-		<dd>16 books per year about starting a business in Cambodia, China, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Mongolia, Myanmar, Philippines, Singapore, Sri Lanka, Taiwan, Thailand, and Vietnam.</dd>
+		<dd>20 books about starting a business in Cambodia, China, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Mongolia, Myanmar, Philippines, Singapore, Sri Lanka, Taiwan, Thailand, and Vietnam.</dd>
 	</dl>
 </section>
 

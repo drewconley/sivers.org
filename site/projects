@@ -20,36 +20,39 @@
 
 <p>Programmers and techies, see <a href="/code">/code page</a> first.</p>
 
-<h1>Projects</h1>
+<h2>Projects</h2>
 <dl>
-<dt><a href="https://github.com/sivers/sivers.org">sivers.org</a></dt>
-  <dd>The code that generates this site</dd>
-<dt><a href="/woodegg">Wood Egg</a></dt>
-  <dd>16 books per year about culture &amp; business in 16 countries</dd>
-<dt><a href="/musicthoughts">MusicThoughts</a></dt>
-  <dd>Inspiring quotes about music</dd>
-<dt><a href="/muckwork">Muckwork</a></dt>
-  <dd>Remote assistants do your dirty work</dd>
-<dt><a href="/songtest">Songtest</a></dt>
-  <dd>Open-source non-commercial song contest</dd>
-<dt><a href="/cyrano">Cyrano</a></dt>
-  <dd>Someone witty tweets for you, as you</dd>
+	<dt><a href="https://github.com/sivers/sivers.org">sivers.org</a></dt>
+	<dd>The hand-crafted Ruby code that runs this site.</dd>
+
+	<dt><a href="http://woodegg.com/">Wood Egg</a></dt>
+	<dd>My book publishing company.</dd>
+
+	<dt><a href="http://musicthoughts.com/">MusicThoughts</a></dt>
+	<dd>Inspiring quotes about music, translated into Español, Français, Deutsch, Italiano, Português, Русский, العربية, 日本, and 中文.</dd>
+
+	<dt><a href="/book">Book Notes</a></dt>
+	<dd>Detailed notes from the last 150+ books I’ve read.</dd>
+
+	<dt><a href="/muckwork">Muckwork</a></dt>
+	<dd>Remote assistants do your dirty work</dd>
+
+	<dt><a href="/songtest">Songtest</a></dt>
+	<dd>Open-source non-commercial song contest</dd>
+
+	<dt><a href="/cyrano">Cyrano</a></dt>
+	<dd>Someone witty tweets for you, as you</dd>
 </dl>
 
-<h1>Just code</h1>
+<h2>Just code</h2>
 <dl>
-<dt><a href="https://github.com/50pop/d50b">d50b</a></dt>
-  <dd>Ruby models and database schemas for all apps</dd>
-<dt><a href="https://github.com/50pop/50apis">50apis</a></dt>
-  <dd>REST APIs for all apps</dd>
-<dt><a href="https://github.com/50pop/50apps">50apps</a></dt>
-  <dd>JavaScript front-end apps</dd>
-<dt><a href="https://github.com/50pop/langur">Langur</a></dt>
-  <dd>Ruby Rack middleware for language switching</dd>
+	<dt><a href="https://github.com/50pop/db-api">db-api</a></dt>
+	<dd>My PostgreSQL database is getting smarter.</dd>
+	<dt><a href="https://github.com/50pop/50web">50web</a></dt>
+	<dd>All the code for my database-driven sites.</dd>
+	<dt><a href="https://github.com/sivers/pg">PostgreSQL experiments</a></dt>
+	<dd>The README describes where I'm going.</dd>
 </dl>
-
-<h3>See all code at <a href="https://github.com/50pop/">github.com/50pop</a>.</h3>
-
 
 </div>
 </body>
