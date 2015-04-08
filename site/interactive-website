@@ -6,13 +6,13 @@
 <meta name="description" content="Derek Sivers home, blog, projects" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
-<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/css/2015-04.css" type="text/css" media="screen" />
 </head>
 <body id="oneblog">
 
 <section id="masthead">
   <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
-  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+  <small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
 </section>
 
 <section id="content">
@@ -24,38 +24,34 @@
     </header>
 
 <p>
-Your website can be your best tool, if you make it communicate with your fans and potential fans, TWO-WAY.
+	Your website can be your best tool, if you make it communicate with your fans and potential fans, TWO-WAY.
+</p><p>
+	Your website should get people involved, make them want to introduce themselves, ask questions, shout out.
+</p><p>
+	Your website should:
+</p><ol><li>
+	Get their email address!
+	Interact!
+	Make an easy fill-out form.
+	(hint: try a fun question like “who are you?” or “do you know your own name?”)
+</li><li>
+	Encourage them to buy your CD, constantly.
+	It's a great way to start a relationship.
+</li><li>
+	Show what's unique about you.
+	Image, quirks, colors, moods.
+</li><li>
+	Make the sound clips easy to get to, not buried under layers
+</li><li>
+	Answer the obvious questions: who are you, what do you look like, let me hear the music
+</li><li>
+	Acknowledge them!
+	Have their pictures on your site.
+	Answer their questions on your site.
+	Show them they ARE a part of your life.
+</li></ol><p>
+	And make sure you have your own domain name.
 </p>
-<p>
-Your website should get people involved, make them want to introduce themselves, ask questions, shout out.
-</p>
-<p>
-YOUR WEBSITE SHOULD:
-</p>
-<ol>
-<li>
-Get their email address!  Interact!  Make an easy fill-out form.  (hint: try a fun question like “who are you?” or “do you know your own name?”)
-</li>
-<li>
-Encourage them to buy your CD, constantly.  It's a great way to start a relationship.
-</li>
-<li>
-Show what's unique about you.  Image, quirks, colors, moods.
-</li>
-<li>
-Make the sound clips easy to get to, not buried under layers
-</li>
-<li>
-Answer the obvious questions: who are you, what do you look like, let me hear the music
-</li>
-<li>
-Acknowledge them! Have their pictures on your site. Answer their questions on your site. Show them they ARE a part of your life.
-</li>
-</ol>
-<p>
-And make sure you have your own domain name.
-</p>
-
 <img src="/images/interactive-website.gif" alt="Your Interactive Website" />
 
 

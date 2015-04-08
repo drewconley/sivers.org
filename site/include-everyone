@@ -6,13 +6,13 @@
 <meta name="description" content="Derek Sivers home, blog, projects" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
-<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/css/2015-04.css" type="text/css" media="screen" />
 </head>
 <body id="oneblog">
 
 <section id="masthead">
   <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
-  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+  <small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
 </section>
 
 <section id="content">
@@ -24,18 +24,20 @@
     </header>
 
 <p>
-If you're putting your fans to work, let them know they're on the “inside family” now.  That if you hit it big, THEY hit it big.
+	If you're putting your fans to work, let them know they're on the “inside family” now. 
+	That if you hit it big, THEY hit it big.
 </p>
 <p>
-No need to make specific promises.  It's a feeling more than a contract.
+	No need to make specific promises.  It's a feeling more than a contract.
 </p>
 <p>
-Same with your casual fans and email list.  Make them part of an exclusive club.  Bring them inside.
+	Same with your casual fans and email list.
+	Make them part of an exclusive club.
+	Bring them inside.
 </p>
 <p>
-Everybody wants to be able to say they hung out with ____(your name here)_____ when she was just playing little clubs in her hometown, and now look at her!
+	Everybody wants to be able to say they hung out with ____(your name here)_____ when she was just playing little clubs in her hometown, and now look at her!
 </p>
-
 <img src="/images/include-everyone.gif" alt="Make your success a we or us. Include everyone." />
 
 

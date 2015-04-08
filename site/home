@@ -6,220 +6,177 @@
 <meta name="description" content="Derek Sivers home, blog, projects" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
-<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/css/2015-04.css" type="text/css" media="screen" />
 </head>
 <body id="home">
 
 <section id="masthead">
   <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
-  <h2>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</h2>
+  <small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
 </section>
 
 <section id="content">
 
-  <section id="aboutme">
-    <h2>Me in 10 seconds</h2>
-    <p>
-    I'm a <a href="/music">musician</a>, <a href="/projects">programmer</a>, <a href="#mybooks">writer</a>, entrepreneur, and <a href="/book">student</a> — though not in that order.
-    </p><p>
-    I'm fascinated with the usable psychology of self-improvement, communication, business, philosophy, and cross-cultural relativism. I love seeing a <a href="/fish">different point of view</a>.
-    </p><p>
-    Total introvert (<a href="http://typelogic.com/intj.html">INTJ</a>). I thrive in solitude.
-    </p><p>
-    Minimalist. I prefer <a href="/232">giving</a> to getting. 
-    </p><p>
-    California native. I now <a href="/local">live</a> in <a href="/here">New Zealand</a>.
-    </p><p>
-    Deeply happy and <a href="/drama">anti-drama</a>, my favorite fable is <a href="/horses">塞翁失马</a>.
-    </p><p>
-    CURRENT UPDATE: <a href="/now">Here's what I'm doing now</a>.
-    </p>
-  </section>
+<section id="aboutme">
+	<h2>Me in 10 seconds</h2>
+	<p>
+	I'm a <a href="/music">musician</a>, <a href="/projects">programmer</a>, <a href="#mybooks">writer</a>, entrepreneur, and <a href="/book">student</a> — though not in that order.
+	</p><p>
+	I'm fascinated with the usable psychology of self-improvement, communication, business, philosophy, and cross-cultural relativism. I love seeing a <a href="/fish">different point of view</a>.
+	</p><p>
+	Total introvert (<a href="http://typelogic.com/intj.html">INTJ</a>). I thrive in solitude.
+	</p><p>
+	Minimalist. I prefer <a href="/232">giving</a> to getting. 
+	</p><p>
+	California native. I now <a href="/local">live</a> in <a href="/here">New Zealand</a>.
+	</p><p>
+	Deeply happy and <a href="/drama">anti-drama</a>, my favorite fable is <a href="/horses">塞翁失马</a>.
+	</p><p>
+	CURRENT UPDATE: <a href="/now">Here's what I'm doing now</a>.
+	</p>
+</section>
 
-  <section id="fullbio">
-    <h2>Official Bragging Bio</h2>
-    <p>
-    Originally a professional musician and circus clown, Derek Sivers created CD&nbsp;Baby in 1998.
-    </p><p>
-    It became the largest seller of independent music online, with <a href="/done">$100M in sales for 150,000 musicians</a>.
-    </p><p>
-    In 2008, Derek <a href="/trust">sold CD Baby for $22M</a>, giving the proceeds to a charitable trust for music education.
-    </p><p>
-    He is a frequent <a href="http://www.ted.com/speakers/derek_sivers.html">speaker at the TED Conference</a>, with over 5 million views of his talks.
-    </p><p>
-    In 2011, he moved to Singapore and <a href="/a">published a book</a> which shot to #1 on all of its Amazon categories.
-    </p><p>
-    His new company is <a href="http://woodegg.com/">Wood Egg</a>, publishing annual guides to 16 countries in Asia.
-    </p>
-  </section>
-  
-  <section id="newestarticles">
-    <h2>Newest Posts <span class="small"><a href="/blog">all posts</a></span></h2>
-    <ul>
-      <li><a href="/bad">Getting out of a bad place</a></li>
-      <li><a href="/career">How to change or build your career</a></li>
-      <li><a href="/mindset">Fixed mindset vs Growth mindset</a></li>
-      <li><a href="/lw">I love being wrong</a></li>
-      <li><a href="/cs">The philosophy of great customer service</a></li>
-      <li><a href="/hate">Loving what I used to hate</a></li>
-    </ul>
-  </section>
-  
-  <section id="popularposts">
-    <h2>Popular Posts <span class="small"><a href="/blog">all posts</a></span></h2>
-    <ul>
-      <li><a href="/ff">Leadership Lessons from Dancing Guy</a></li>
-      <li><a href="/hellyeah">No more yes. It’s either HELL YEAH! or no.</a></li>
-      <li><a href="/multiply">Ideas are just a multiplier of execution</a></li>
-      <li><a href="/drama">Kurt Vonnegut explains drama</a></li>
-      <li><a href="/itunes">The day Steve Jobs dissed me in a keynote</a></li>
-      <li><a href="/trust">Why I gave away my company to charity</a></li>
-    </ul>
-  </section>
-  
-  <section id="companies">
-    <h2>Projects <span class="small" id="code"><a href="/projects">all projects and code</a></span></h2>
-    <figure id="woodegg">
-      <a href="http://woodegg.com/"><img src="/images/wood-egg-200-200.jpg" alt="Wood Egg logo" /></a>
-      <figcaption>
-      <h3><a href="http://woodegg.com/">Wood Egg</a></h3>
-      <p>16 books per year about starting a business in Cambodia, China, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Mongolia, Myanmar, Philippines, Singapore, Sri Lanka, Taiwan, Thailand, and Vietnam.</p>
-      </figcaption>
-    </figure>
-    <figure id="musicthoughts">
-      <a href="http://musicthoughts.com/"><img src="/images/musicthoughts-200x200.jpg" alt="MusicThoughts icon" /></a>
-      <figcaption>
-      <h3><a href="http://musicthoughts.com/">MusicThoughts</a></h3>
-      <p>Inspiring quotes about music, translated into Español, Français, Deutsch, Italiano, Português, Русский, العربية, 日本, and 中文.</p>
-      </figcaption>
-    </figure>
-    <figure id="booknotes">
-      <a href="/book"><img src="/images/stack-of-books-200x200.jpg" alt="stack of books" /></a>
-      <figcaption>
-      <h3><a href="/book">Book Notes</a></h3>
-      <p>Detailed notes from the last 150+ books I’ve read.</p>
-      </figcaption>
-    </figure>
-  </section>
-  
-  <section id="mybooks">
-    <h2>Books</h2>
-    <figure id="bookayw">
-      <a href="/a"><img src="/images/DerekSivers-AnythingYouWant-200x252.jpg" alt="Anything You Want - book cover" /></a>
-      <figcaption>
-      <h3><a href="/a">Anything You Want</a></h3>
-      <p>Tales from my CD Baby experience: Entrepreneur lessons learned from starting, building, and selling CD Baby.</p>
-      </figcaption>
-    </figure>
-    <figure id="we13">
-      <a href="http://woodegg.com/"><img src="/images/we14cover-AA-200.jpg" alt="Wood Egg" /></a>
-      <figcaption>
-      <h3><a href="http://woodegg.com/">Wood Egg Startup Guides</a></h3>
-      <p>16 books per year about starting a business in Cambodia, China, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Mongolia, Myanmar, Philippines, Singapore, Sri Lanka, Taiwan, Thailand, and Vietnam.</p>
-      </figcaption>
-    </figure>
-    <figure id="bookmym">
-      <a href="/pdf"><img src="/images/MarketingYourMusic-200x252.png" alt="Marketing Your Music - book cover" /></a>
-      <figcaption>
-      <h3><a href="/pdf">Marketing Your Music</a></h3>
-      <p>Free e-book for musicians about promoting your music and navigating the music industry.</p>
-      </figcaption>
-    </figure>
-  </section>
-  
-  <section id="videos">
-    <h2>Videos</h2>
-    <figure class="video" id="video-ted">
-      <a href="http://www.ted.com/speakers/derek_sivers.html"><img src="/images/dancingguy.jpg" alt="Derek Sivers - video thumbnail - TED Conference" /></a>
-      <figcaption>
-      <h3><a href="http://www.ted.com/speakers/derek_sivers.html">TED (ted.com)</a></h3>
-      <p>3 short talks from the TED Conference.</p>
-      </figcaption>
-    </figure>
-    <figure class="video" id="video-ayw">
-      <a href="/anything"><img src="/images/anything.jpg" alt="Derek Sivers - video thumbnail - Anything You Want" /></a>
-      <figcaption>
-      <h3><a href="/anything">Anything You Want</a></h3>
-      <p>7 short animations from my book “Anything You Want”.</p>
-      </figcaption>
-    </figure>
-    <figure class="video" id="video-uncommonsense">
-      <a href="/uncommon"><img src="/images/uncommon.jpg" alt="Derek Sivers - video thumbnail - Uncommon Sense" /></a>
-      <figcaption>
-      <h3><a href="/uncommon">Uncommon Sense</a></h3>
-      <p>Entrepreneur lessons learned from starting, building, and selling CD Baby.</p>
-      </figcaption>
-    </figure>
-    <figure class="video" id="video-prez">
-      <a href="/presentations"><img src="/images/zipit2.jpg" alt="Derek Sivers - video thumbnail - presentations" /></a>
-      <figcaption>
-      <h3><a href="/presentations">Conference Presentations</a></h3>
-      <p>Talks from other conferences, all subjects.</p>
-      </figcaption>
-    </figure>
-  </section>
-  
-  <section id="photos">
-    <h2>Photos <span class="small">(click for big)</span></h2>
-    <a href="/images/DerekSivers-20141119-1450.jpg"><img src="/images/DerekSivers-20141119-100.jpg" alt="Derek Sivers" title="© 2014 Derek Sivers"/></a>
-    <a href="/images/DerekSivers-20141209a-1853.jpg"><img src="/images/DerekSivers-20141209a-100.jpg" alt="Derek Sivers" title="© 2014 Pat Shepherd - patshepherd.co.nz" /></a>
-    <a href="/images/DerekSivers-20141209b-2333.jpg"><img src="/images/DerekSivers-20141209b-100.jpg" alt="Derek Sivers" title="© 2014 Pat Shepherd - patshepherd.co.nz" /></a>
-    <a href="/images/DerekSivers-headshot-head.jpg"><img src="/images/DerekSivers-headshot-head-100.jpg" alt="Derek Sivers" title="© 2008 Derek Sivers" /></a>
-  </section>
-  
-  <section id="tweets">
-    <h2>Tweets <span class="small"><a href="/tweets">all tweets</a></span></h2>
-    <dl>
-      <dt>March 26</dt>
-      <dd>I know more people than I know.</dd>
-      <dt>March 23</dt>
-      <dd>Extra-sad to not be home in Singapore today. R.I.P. to one of the strongest leaders the world’s ever known. <a href="http://www.nytimes.com/2015/03/23/world/asia/lee-kuan-yew-founding-father-and-first-premier-of-singapore-dies-at-91.html">http://www.nytimes.com/2015/03/23/world/asia/lee-kuan-yew-founding-father-and-first-premier-of-singapore-dies-at-91.html</a></dd>
-      <dt>February 25</dt>
-      <dd>“My output was being sourced from my weaknesses, not my strengths.” Good insight &amp; question to ask yourself: <a href="http://tynan.com/firstthing">http://tynan.com/firstthing</a></dd>
-      <dt>February 17</dt>
-      <dd>Just back from 5 days in paradise: <a href="http://www.doc.govt.nz/parks-and-recreation/tracks-and-walks/fiordland/northern-fiordland/milford-track/">http://www.doc.govt.nz/parks-and-recreation/tracks-and-walks/fiordland/northern-fiordland/milford-track/</a></dd>
-      <dt>February 2</dt>
-      <dd>Getting out of a bad place: <a href="http://sivers.org/bad">http://sivers.org/bad</a></dd>
-      <dt>January 21</dt>
-      <dd>Why I&#39;ve been quiet online lately: <a href="http://sivers.org/boring">http://sivers.org/boring</a></dd>
-    </dl>
-  </section>
-  
-  <section id="search">
-    <h2>Search</h2>
-    <form action="/search" method="get">
-      <label for="q"><p>Search sivers.org for anything:</p></label>
-      <input type="text" name="q" value="">
-    </form>
-  </section>
+<section id="fullbio">
+	<h2>Official Bragging Bio</h2>
+	<p>
+	Originally a professional musician and circus clown, Derek Sivers created CD&nbsp;Baby in 1998.
+	</p><p>
+	It became the largest seller of independent music online, with <a href="/done">$100M in sales for 150,000 musicians</a>.
+	</p><p>
+	In 2008, Derek <a href="/trust">sold CD Baby for $22M</a>, giving the proceeds to a charitable trust for music education.
+	</p><p>
+	He is a frequent <a href="http://www.ted.com/speakers/derek_sivers.html">speaker at the TED Conference</a>, with over 5 million views of his talks.
+	</p><p>
+	In 2011, he moved to Singapore and <a href="/a">published a book</a> which shot to #1 on all of its Amazon categories.
+	</p><p>
+	His new company is <a href="http://woodegg.com/">Wood Egg</a>, publishing annual guides to 16 countries in Asia.
+	</p>
+</section>
 
-  <section id="follow">
-    <h2>Keep in touch</h2>
-    <p>
-    Please email me at <strong><a href="mailto:derek@sivers.org">derek@sivers.org</a></strong> for any reason.
-    </p><p>
-    I reply to all, and much prefer email over social networks.
-    </p>
-    <div id="emailform">
-      <p>Get on my private email list, here:</p>
-      <form action="/list" method="post">
-        <label for="name">Your Name</label>
-        <input type="text" id="name" name="name" value="" />
-        <label for="email">Your Email</label>
-        <input type="email" id="email" name="email" value="" />
-        <input type="submit" value="OK - keep in touch" />
-      </form> 
-    </div>
-    <div id="otherservices">
-      <ul>
-        <li><a href="https://twitter.com/sivers"><img src="/images/twitter.png" height="16" width="16" alt="Twitter" />Twitter</a></li>
-        <li><a href="https://www.facebook.com/sivers"><img src="/images/facebook.png" height="16" width="16" alt="Facebook" />Facebook</a></li>
-        <li><a href="https://plus.google.com/100552380444521018196/"><img src="/images/google.png" height="16" width="16" alt="Google" />Google+</a></li>
-        <li><a href="http://sg.linkedin.com/in/dereksivers"><img src="/images/linkedin.png" height="16" width="16" alt="LinkedIn" />LinkedIn</a></li>
-        <li><a href="/en.atom"><img src="/images/rss.png" height="16" width="16" alt="RSS" />RSS</a></li>
-      </ul>
-    </div>
-  </section>
+<section id="newestarticles">
+	<h2>Newest Posts <small><a href="/blog">see all posts</a></small></h2>
+	<ul>
+		<li><a href="/bad">Getting out of a bad place</a></li>
+		<li><a href="/career">How to change or build your career</a></li>
+		<li><a href="/mindset">Fixed mindset vs Growth mindset</a></li>
+		<li><a href="/lw">I love being wrong</a></li>
+		<li><a href="/cs">The philosophy of great customer service</a></li>
+		<li><a href="/hate">Loving what I used to hate</a></li>
+	</ul>
+</section>
+
+<section id="popularposts">
+	<h2>Popular Posts <small><a href="/blog">see all posts</a></small></h2>
+	<ul>
+		<li><a href="/ff">Leadership Lessons from Dancing Guy</a></li>
+		<li><a href="/hellyeah">No more yes. It’s either HELL YEAH! or no.</a></li>
+		<li><a href="/multiply">Ideas are just a multiplier of execution</a></li>
+		<li><a href="/drama">Kurt Vonnegut explains drama</a></li>
+		<li><a href="/itunes">The day Steve Jobs dissed me in a keynote</a></li>
+		<li><a href="/trust">Why I gave away my company to charity</a></li>
+	</ul>
+</section>
+
+<section id="companies">
+	<h2>Projects</h2>
+	<dl>
+		<dt><a href="/book">Book Notes</a></dt>
+		<dd>Detailed notes from the last 150+ books I’ve read.</dd>
+		<dt><a href="http://musicthoughts.com/">MusicThoughts</a></dt>
+		<dd>Inspiring quotes about music, translated into Español, Français, Deutsch, Italiano, Português, Русский, العربية, 日本, and 中文.</dd>
+		<dt><a href="http://woodegg.com/">Wood Egg</a></dt>
+		<dd>My book publishing company.</dd>
+		<dt><a href="https://github.com/sivers/sivers.org">sivers.org</a></dt>
+		<dd>The hand-crafted Ruby code that runs this site.</dd>
+		<dt><a href="https://github.com/50pop/db-api">db-api</a></dt>
+		<dd>My PostgreSQL database is getting smarter.</dd>
+		<dt><a href="https://github.com/50pop/50web">50web</a></dt>
+		<dd>All the code for my database-driven sites.</dd>
+		<dt><a href="https://github.com/sivers/pg">PostgreSQL experiments</a></dt>
+		<dd>The README describes where I'm going.</dd>
+	</dl>
+</section>
+
+<section id="mybooks">
+	<h2>Books</h2>
+	<dl>
+		<dt><a href="/a">Anything You Want</a></dt>
+		<dd>Tales from my CD Baby experience: Entrepreneur lessons learned from starting, building, and selling CD Baby.</dd>
+		<dt><a href="/pdf">Marketing Your Music</a></dt>
+		<dd>Free e-book for musicians about promoting your music and navigating the music industry.</dd>
+		<dt><a href="http://woodegg.com/">Wood Egg Startup Guides</a></dt>
+		<dd>16 books per year about starting a business in Cambodia, China, Hong Kong, India, Indonesia, Japan, Korea, Malaysia, Mongolia, Myanmar, Philippines, Singapore, Sri Lanka, Taiwan, Thailand, and Vietnam.</dd>
+	</dl>
+</section>
+
+<section id="videos">
+	<h2>Videos</h2>
+	<dl>
+		<dt><a href="http://www.ted.com/speakers/derek_sivers.html">TED (ted.com)</a></dt>
+		<dd>3 short talks from the TED Conference.</dd>
+		<dt><a href="/anything">Anything You Want</a></dt>
+		<dd>7 short animations from my book “Anything You Want”.</dd>
+		<dt><a href="/uncommon">Uncommon Sense</a></dt>
+		<dd>Entrepreneur lessons learned from starting, building, and selling CD Baby.</dd>
+		<dt><a href="/presentations">Conference Presentations</a></dt>
+		<dd>Talks from other conferences, all subjects.</dd>
+	</dl>
+</section>
+
+<section id="photos">
+	<h2>Photos <small>(click for big)</small></h2>
+	<a href="/images/DerekSivers-20141119-1450.jpg"><img src="/images/DerekSivers-20141119-100.jpg" alt="Derek Sivers" title="© 2014 Derek Sivers"/></a>
+	<a href="/images/DerekSivers-20141209b-2333.jpg"><img src="/images/DerekSivers-20141209b-100.jpg" alt="Derek Sivers" title="© 2014 Pat Shepherd - patshepherd.co.nz" /></a>
+</section>
+
+<section id="tweets">
+	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
+	<dl>
+		<dt>March 26</dt>
+		<dd>I know more people than I know.</dd>
+		<dt>March 23</dt>
+		<dd>Extra-sad to not be home in Singapore today. R.I.P. to one of the strongest leaders the world’s ever known. <a href="http://www.nytimes.com/2015/03/23/world/asia/lee-kuan-yew-founding-father-and-first-premier-of-singapore-dies-at-91.html">http://www.nytimes.com/2015/03/23/world/asia/lee-kuan-yew-founding-father-and-first-premier-of-singapore-dies-at-91.html</a></dd>
+		<dt>February 25</dt>
+		<dd>“My output was being sourced from my weaknesses, not my strengths.” Good insight &amp; question to ask yourself: <a href="http://tynan.com/firstthing">http://tynan.com/firstthing</a></dd>
+		<dt>February 17</dt>
+		<dd>Just back from 5 days in paradise: <a href="http://www.doc.govt.nz/parks-and-recreation/tracks-and-walks/fiordland/northern-fiordland/milford-track/">http://www.doc.govt.nz/parks-and-recreation/tracks-and-walks/fiordland/northern-fiordland/milford-track/</a></dd>
+		<dt>February 2</dt>
+		<dd>Getting out of a bad place: <a href="http://sivers.org/bad">http://sivers.org/bad</a></dd>
+		<dt>January 21</dt>
+		<dd>Why I&#39;ve been quiet online lately: <a href="http://sivers.org/boring">http://sivers.org/boring</a></dd>
+	</dl>
+</section>
+
+<section id="search">
+	<h2>Search</h2>
+	<form action="/search" method="get">
+		<label for="q">Search sivers.org for anything:</label>
+		<input type="text" name="q" value="">
+		<input type="submit" value="search">
+	</form>
+</section>
+
+<section id="follow">
+	<h2>Contact</h2>
+	<p>
+	Please email me at <strong><a href="mailto:derek@sivers.org">derek@sivers.org</a></strong> for any reason.	I reply to all, and much prefer email over social networks.
+	</p>
+	<p>Get on my private email list, here:</p>
+	<form action="/list" method="post">
+		<label for="name">Your Name</label>
+		<input type="text" id="name" name="name">
+		<label for="email">Your Email</label>
+		<input type="email" id="email" name="email">
+		<input type="submit" value="OK - keep in touch">
+	</form> 
+	<ul>
+		<li><a href="https://twitter.com/sivers" title="Derek Sivers Twitter"><img src="/images/twitter.png" height="16" width="16" alt="Twitter" />Twitter</a></li>
+		<li><a href="https://www.facebook.com/sivers" title="Derek Sivers Facebook"><img src="/images/facebook.png" height="16" width="16" alt="Facebook" />Facebook</a></li>
+		<li><a href="https://plus.google.com/100552380444521018196/" title="Derek Sivers G+"><img src="/images/google.png" height="16" width="16" alt="Google" />Google+</a></li>
+		<li><a href="http://sg.linkedin.com/in/dereksivers" title="Derek Sivers LinkedIn"><img src="/images/linkedin.png" height="16" width="16" alt="LinkedIn" />LinkedIn</a></li>
+		<li><a href="/en.atom" title="Derek Sivers RSS"><img src="/images/rss.png" height="16" width="16" alt="RSS" />RSS</a></li>
+	</ul>
+</section>
 
 
 </section>

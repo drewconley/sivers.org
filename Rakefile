@@ -284,27 +284,5 @@ task :tweet do
 	system "vi content/tweets/#{filename}"
 end
 
-desc "USAGE: rake translated['zh']"
-task :translated, :lang do |t, args|
-	lang = args[:lang]
-	puts "doing language #{lang}"
-	require 'sequel'
-	DB = Sequel.postgres('d50b', user: 'd50b')
-	DB[:sivers__posts].where(lang: lang).each do |p|
-		@date = p[:created_at].to_s
-		@url = p[:uri]
-		@year = @date[0,4]
-		@title = p[:subject]
-		@body = p[:html]
-		@pagetitle = "#{@title} | Derek Sivers"
-		@bodyid = 'oneblog'
-		# merge with templates and WRITE file
-		html = template('header-standalone').result
-		html << template('blog').result
-		html << template('footer').result
-		File.open("site/#{lang}/#{@url}.html", 'w') {|f| f.puts html }
-	end
-end
-
 task :default => [:make]
 
