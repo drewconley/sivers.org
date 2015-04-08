@@ -1,5 +1,5 @@
   <h1>Tweets</h1>
-  <dl><% @tweets.each do |t| %>
+  <dl id="tweetlist"><% @tweets.each do |t| %>
     <dt><%= t[:show_year] %></dt>
     <dd><%= t[:tweet] %></dd><% end %>
   </dl>

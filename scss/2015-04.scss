@@ -9,11 +9,11 @@ body {
 	font-family: Georgia, serif;
 }
 
-h1, h2, h3, h4, h5, small, p.postdate, footer, input[type="submit"], label {
+h1, h2, h3, h4, h5, small, p.postdate, footer, input[type="submit"], label, dl#tweetlist dt {
 	font-family: "Trebuchet MS", sans-serif;
 }
 
-p.postdate, footer {
+p.postdate, footer, dl#tweetlist dt {
 	font-size: 80%;
 	color: #666;
 }
@@ -123,4 +123,11 @@ body#booklist figure {
 }
 body#onebook figure {
 	margin: 0;
+}
+
+body#home dt, body#code dt, body#music dt {
+	font-weight: bold;
+}
+dl#tweetlist dt {
+	font-weight: normal;
 }

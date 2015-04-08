@@ -99,7 +99,7 @@
 
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
-	<dl><% @new_tweets.each do |t| %>
+	<dl id="tweetlist"><% @new_tweets.each do |t| %>
 		<dt><%= t[:show_date] %></dt>
 		<dd><%= t[:tweet] %></dd><% end %>
 	</dl>

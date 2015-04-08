@@ -123,7 +123,7 @@
 
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
-	<dl>
+	<dl id="tweetlist">
 		<dt>March 26</dt>
 		<dd>I know more people than I know.</dd>
 		<dt>March 23</dt>

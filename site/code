@@ -39,7 +39,7 @@
 <dd>Most sites are fully multi-lingual. See <a href="http://musicthoughts.com/">musicthoughts.com</a> for a live example. Nothing should be hard-coded in English. The techniques for language setting/switching are common throughout these sites. (Professional translators are hired to do the translations.)</dd>
 
 <dt>Multi-currency</dt>
-<dd>All sites that deal with money are multi-currency. Money is always saved with a currency code. A shared <a href="https://github.com/50pop/d50b/blob/master/lib/d50b/peeps/money.rb">Money class</a> knows how to display each currency correctly or convert it into others.</dd>
+<dd>All sites that deal with money are multi-currency. Money is always saved with a currency code.</dd>
 
 <dt>What framework?</dt>
 <dd>For now, I’m using plain old <a href="http://www.sinatrarb.com/">Sinatra</a>.</dd>
