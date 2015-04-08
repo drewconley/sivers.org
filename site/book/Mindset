@@ -11,11 +11,11 @@
 <body id="onebook">
 
 <section id="masthead">
-  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
-  <small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
+	<h1><a href="/" title="Derek Sivers"><img src="http://sivers.org/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
 </section>
 
-<section id="content">
+<div id="content">
 
     <header>
       <figure><a href="http://www.amazon.com/dp/0345472322?tag=sivers-20"><img src="/images/Mindset.gif" alt="Mindset - by Carol Dweck"></a></figure>
@@ -159,7 +159,7 @@ Stan Davis, a therapist, school counselor, and consultant, has developed an anti
     </p>
 
 
-</section>
+</div>
 </body>
 </html>
 

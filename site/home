@@ -11,16 +11,16 @@
 <body id="home">
 
 <section id="masthead">
-  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
-  <small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
+	<h1><a href="/" title="Derek Sivers"><img src="http://sivers.org/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
 </section>
 
-<section id="content">
+<div id="content">
 
 <section id="aboutme">
 	<h2>Me in 10 seconds</h2>
 	<p>
-	I'm a <a href="/music">musician</a>, <a href="/projects">programmer</a>, <a href="#mybooks">writer</a>, entrepreneur, and <a href="/book">student</a> — though not in that order.
+	I'm a <a href="/music">musician</a>, <a href="https://github.com/sivers">programmer</a>, <a href="#mybooks">writer</a>, entrepreneur, and <a href="/book">student</a> — though not in that order.
 	</p><p>
 	I'm fascinated with the usable psychology of self-improvement, communication, business, philosophy, and cross-cultural relativism. I love seeing a <a href="/fish">different point of view</a>.
 	</p><p>
@@ -28,7 +28,7 @@
 	</p><p>
 	Minimalist. I prefer <a href="/232">giving</a> to getting. 
 	</p><p>
-	California native. I now <a href="/local">live</a> in <a href="/here">New Zealand</a>.
+	California native. I now <a href="/local">live</a> in New Zealand, Singapore, and Belgium.
 	</p><p>
 	Deeply happy and <a href="/drama">anti-drama</a>, my favorite fable is <a href="/horses">塞翁失马</a>.
 	</p><p>
@@ -47,9 +47,7 @@
 	</p><p>
 	He is a frequent <a href="http://www.ted.com/speakers/derek_sivers.html">speaker at the TED Conference</a>, with over 5 million views of his talks.
 	</p><p>
-	In 2011, he moved to Singapore and <a href="/a">published a book</a> which shot to #1 on all of its Amazon categories.
-	</p><p>
-	His new company is <a href="http://woodegg.com/">Wood Egg</a>, publishing annual guides to 16 countries in Asia.
+	Since 2011 he has published 34 books, including “<a href="/a">Anything You Want</a>” which shot to #1 on all of its Amazon categories.
 	</p>
 </section>
 
@@ -179,7 +177,7 @@
 </section>
 
 
-</section>
+</div>
 </body>
 </html>
 

@@ -11,11 +11,11 @@
 <body id="prez">
 
 <section id="masthead">
-  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
-  <small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
+	<h1><a href="/" title="Derek Sivers"><img src="http://sivers.org/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
 </section>
 
-<section id="content">
+<div id="content">
 
   <article>
     <header>
@@ -39,7 +39,7 @@ The full description and transcript are at <a href="/ml">sivers.org/ml</a>.  Enj
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>
 
-</section>
+</div>
 </body>
 </html>
 

@@ -11,11 +11,11 @@
 <body id="onebook">
 
 <section id="masthead">
-  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
-  <small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
+	<h1><a href="/" title="Derek Sivers"><img src="http://sivers.org/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
 </section>
 
-<section id="content">
+<div id="content">
 
     <header>
       <figure><a href="http://www.amazon.com/dp/159184259X?tag=sivers-20"><img src="/images/IgnoreEverybody.gif" alt="Ignore Everybody - by Hugh MacLeod"></a></figure>
@@ -194,7 +194,7 @@ if they were still “eating dog food” after a few decades, I doubt if they’
     </p>
 
 
-</section>
+</div>
 </body>
 </html>
 

@@ -11,11 +11,11 @@
 <body id="onebook">
 
 <section id="masthead">
-  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
-  <small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
+	<h1><a href="/" title="Derek Sivers"><img src="http://sivers.org/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
 </section>
 
-<section id="content">
+<div id="content">
 
     <header>
       <figure><a href="http://www.amazon.com/dp/1591846072?tag=sivers-20"><img src="/images/IcarusDeception.gif" alt="The Icarus Deception - by Seth Godin"></a></figure>
@@ -402,7 +402,7 @@ The artist doesn’t need to be given an out to avoid making art. The artist doe
     </p>
 
 
-</section>
+</div>
 </body>
 </html>
 

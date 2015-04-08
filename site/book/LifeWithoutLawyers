@@ -11,11 +11,11 @@
 <body id="onebook">
 
 <section id="masthead">
-  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
-  <small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
+	<h1><a href="/" title="Derek Sivers"><img src="http://sivers.org/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
 </section>
 
-<section id="content">
+<div id="content">
 
     <header>
       <figure><a href="http://www.amazon.com/dp/0393065669?tag=sivers-20"><img src="/images/LifeWithoutLawyers.gif" alt="Life Without Lawyers - by Philip K. Howard"></a></figure>
@@ -104,7 +104,7 @@ The more miserable a man is, the more he dreads every sort of change, lest it ma
     </p>
 
 
-</section>
+</div>
 </body>
 </html>
 

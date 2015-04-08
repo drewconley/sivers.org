@@ -11,11 +11,11 @@
 <body id="oneblog">
 
 <section id="masthead">
-  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
-  <small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
+	<h1><a href="/" title="Derek Sivers"><img src="http://sivers.org/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
 </section>
 
-<section id="content">
+<div id="content">
 
   <article>
     <header>
@@ -67,7 +67,7 @@ Anyone want to do it?  Talk with the brilliant <a href="http://www.petergregson.
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>
 
-</section>
+</div>
 </body>
 </html>
 

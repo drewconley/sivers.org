@@ -11,11 +11,11 @@
 <body id="cyrano">
 
 <section id="masthead">
-  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
-  <small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
+	<h1><a href="/" title="Derek Sivers"><img src="http://sivers.org/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
 </section>
 
-<section id="content">
+<div id="content">
 
 
 <h1><a href="/projects">Projects</a> » Cyrano</h1>
@@ -126,7 +126,7 @@ CREATE INDEX tweets_loginfo ON tweets (loginfo_id);
 CREATE INDEX tweets_translation ON tweets (translation_id);
 </pre>
 
-</section>
+</div>
 </body>
 </html>
 

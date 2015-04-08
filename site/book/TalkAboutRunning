@@ -11,11 +11,11 @@
 <body id="onebook">
 
 <section id="masthead">
-  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
-  <small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
+	<h1><a href="/" title="Derek Sivers"><img src="http://sivers.org/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
 </section>
 
-<section id="content">
+<div id="content">
 
     <header>
       <figure><a href="http://www.amazon.com/dp/0307389839?tag=sivers-20"><img src="/images/TalkAboutRunning.gif" alt="What I Talk About When I Talk About Running - by Haruki Murakami"></a></figure>
@@ -92,7 +92,7 @@ My knee has started to hurt. Like most of the troubles in life it came on all of
     </p>
 
 
-</section>
+</div>
 </body>
 </html>
 

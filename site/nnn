@@ -11,11 +11,11 @@
 <body id="nnn">
 
 <section id="masthead">
-  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
-  <small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
+	<h1><a href="/" title="Derek Sivers"><img src="http://sivers.org/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
 </section>
 
-<section id="content">
+<div id="content">
 
 
 <h1>Now Now Now</h1>
@@ -156,7 +156,7 @@ external SD, internal SD
 <p>Edit status lets you change name, but can’t delete it if it’s been used already.</p>
 
 
-</section>
+</div>
 </body>
 </html>
 

@@ -11,11 +11,11 @@
 <body id="onebook">
 
 <section id="masthead">
-  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
-  <small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
+	<h1><a href="/" title="Derek Sivers"><img src="http://sivers.org/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
 </section>
 
-<section id="content">
+<div id="content">
 
     <header>
       <figure><a href="http://www.amazon.com/dp/0060763280?tag=sivers-20"><img src="/images/MillionaireMind.gif" alt="Secrets of the Millionaire Mind - by T. Harv Ecker"></a></figure>
@@ -236,7 +236,7 @@ p 171 Wealth Principle: The only time you are actually growing is when you are u
     </p>
 
 
-</section>
+</div>
 </body>
 </html>
 

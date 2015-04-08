@@ -11,11 +11,11 @@
 <body id="onebook">
 
 <section id="masthead">
-  <h1><a href="/" title="Derek Sivers">Derek Sivers</a></h1>
-  <small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
+	<h1><a href="/" title="Derek Sivers"><img src="http://sivers.org/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Entrepreneur, programmer, avid student of life. I make useful things, and share what I learn.</small>
 </section>
 
-<section id="content">
+<div id="content">
 
     <header>
       <figure><a href="http://www.amazon.com/dp/0312341849?tag=sivers-20"><img src="/images/StoryOfFrench.gif" alt="The Story of French - by Jean-Benoit Nadeau and Julie Barlow"></a></figure>
@@ -95,7 +95,7 @@ The language used in les cités is an important source of new vocabulary. The ma
     </p>
 
 
-</section>
+</div>
 </body>
 </html>
 
