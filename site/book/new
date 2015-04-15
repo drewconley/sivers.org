@@ -29,6 +29,15 @@
 
 <section id="allbooks">
 
+	<figure class="abook" data-rating="8" data-title="" data-date="2015-04-16">
+		<a href="/book/WisdomOfNoEscape"><img src="/images/124x187.gif" data-echo="/images/WisdomOfNoEscape.gif" alt="" /></a>
+		<figcaption>
+			<h2><a href="/book/WisdomOfNoEscape"></a></h2>
+			<p>ISBN: 1570628726 READ: 2015-04-16 RATING: 8/10</p>
+			<p>Powerful thoughts on not running, distracting, or escaping, but sticking with something all the way through.</p>
+		</figcaption>
+	</figure>
+
 	<figure class="abook" data-rating="4" data-title="Make It Stick - by Peter Brown" data-date="2014-12-20">
 		<a href="/book/MakeItStick"><img src="/images/124x187.gif" data-echo="/images/MakeItStick.gif" alt="Make It Stick - by Peter Brown" /></a>
 		<figcaption>
