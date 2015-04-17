@@ -124,6 +124,8 @@
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>April 17</dt>
+		<dd>My best friend is a bird. Her boyfriend is a tree. She keeps asking him to fly. But when he can’t, she doesn’t understand why.</dd>
 		<dt>March 26</dt>
 		<dd>I know more people than I know.</dd>
 		<dt>March 23</dt>
@@ -134,8 +136,6 @@
 		<dd>Just back from 5 days in paradise: <a href="http://www.doc.govt.nz/parks-and-recreation/tracks-and-walks/fiordland/northern-fiordland/milford-track/">http://www.doc.govt.nz/parks-and-recreation/tracks-and-walks/fiordland/northern-fiordland/milford-track/</a></dd>
 		<dt>February 2</dt>
 		<dd>Getting out of a bad place: <a href="http://sivers.org/bad">http://sivers.org/bad</a></dd>
-		<dt>January 21</dt>
-		<dd>Why I&#39;ve been quiet online lately: <a href="http://sivers.org/boring">http://sivers.org/boring</a></dd>
 	</dl>
 </section>
 
