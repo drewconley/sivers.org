@@ -2,11 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-<<<<<<< HEAD
-  <updated>2015-04-20T21:54:18+12:00</updated>
-=======
-  <updated>2015-04-17T21:00:11+12:00</updated>
->>>>>>> 0de318c22b7feada56ca33a0a7b3545f6e858147
+  <updated>2015-04-21T16:02:11+12:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
