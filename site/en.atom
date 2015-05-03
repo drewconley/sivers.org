@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2015-05-04T01:13:15+12:00</updated>
+  <updated>2015-05-04T01:16:04+12:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -59,7 +59,6 @@ Simple vs complex
 &lt;p&gt;
 Please go watch this amazing 35-minute talk as soon as possible:
 &lt;strong&gt;&lt;a href="https://www.youtube.com/watch?v=rI8tNMsozo0"&gt;Simplicity Matters by Rich Hickey&lt;/a&gt;&lt;/strong&gt;.
-(If you are unable to access YouTube, &lt;a href="/file/RichHickey-Simple.mp4"&gt;download the video here&lt;/a&gt;.)
 &lt;/p&gt;&lt;p&gt;
 Here are his important points for this article:
 &lt;/p&gt;&lt;ul&gt;&lt;li&gt;
