@@ -54,12 +54,12 @@
 <section id="newestarticles">
 	<h2>Newest Posts <small><a href="/blog">see all posts</a></small></h2>
 	<ul>
+		<li><a href="/pg">Simplify: move code into database functions</a></li>
 		<li><a href="/bad">Getting out of a bad place</a></li>
 		<li><a href="/career">How to change or build your career</a></li>
 		<li><a href="/mindset">Fixed mindset vs Growth mindset</a></li>
 		<li><a href="/lw">I love being wrong</a></li>
 		<li><a href="/cs">The philosophy of great customer service</a></li>
-		<li><a href="/hate">Loving what I used to hate</a></li>
 	</ul>
 </section>
 
@@ -124,6 +124,8 @@
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>May 4</dt>
+		<dd>(for programmers) Simplify: move code into database functions: <a href="http://sivers.org/pg">http://sivers.org/pg</a></dd>
 		<dt>April 30</dt>
 		<dd>Her: “I’ll need a few weeks to process before I’m ready to move on.” Me: “For you a few weeks tends to take about a day.” Her: “Good point.”</dd>
 		<dt>April 17</dt>
@@ -134,8 +136,6 @@
 		<dd>Extra-sad to not be home in Singapore today. R.I.P. to one of the strongest leaders the world’s ever known. <a href="http://www.nytimes.com/2015/03/23/world/asia/lee-kuan-yew-founding-father-and-first-premier-of-singapore-dies-at-91.html">http://www.nytimes.com/2015/03/23/world/asia/lee-kuan-yew-founding-father-and-first-premier-of-singapore-dies-at-91.html</a></dd>
 		<dt>February 25</dt>
 		<dd>“My output was being sourced from my weaknesses, not my strengths.” Good insight &amp; question to ask yourself: <a href="http://tynan.com/firstthing">http://tynan.com/firstthing</a></dd>
-		<dt>February 17</dt>
-		<dd>Just back from 5 days in paradise: <a href="http://www.doc.govt.nz/parks-and-recreation/tracks-and-walks/fiordland/northern-fiordland/milford-track/">http://www.doc.govt.nz/parks-and-recreation/tracks-and-walks/fiordland/northern-fiordland/milford-track/</a></dd>
 	</dl>
 </section>
 

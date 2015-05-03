@@ -2,11 +2,341 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2015-04-30T06:30:29+08:00</updated>
+  <updated>2015-05-04T01:13:15+12:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>Simplify: move code into database functions</title>
+    <id>http://sivers.org/pg</id>
+    <updated>2015-05-04T00:00:00+00:00</updated>
+    <published>2015-05-04T00:00:00+00:00</published>
+    <link href="http://sivers.org/pg"/>
+    <content type="html">
+&lt;p&gt;
+If you are a web or API developer, programming code that uses an SQL database, this is for you.
+&lt;/p&gt;&lt;p&gt;
+I’ve found a very different and useful way to structure code.
+It’s made such a big difference for me that I had to share it here.
+&lt;/p&gt;
+
+&lt;h2&gt;
+How things are
+&lt;/h2&gt;
+&lt;p&gt;
+Most web development — whether custom or using frameworks like Rails, Django, Laravel, Sinatra, Flask, and Symfony — tends to work the same way:
+&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+At the core is a &lt;strong&gt;database&lt;/strong&gt;, which is just the storage of data.
+&lt;/li&gt;&lt;li&gt;
+&lt;strong&gt;All intelligence&lt;/strong&gt; is in Ruby/Python/PHP/JavaScript classes.
+&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2&gt;
+Why that’s bad
+&lt;/h2&gt;
+&lt;p&gt;
+These norms have some dangerous implications:
+&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;strong&gt;Everything&lt;/strong&gt; must go through these Ruby/Python/PHP/JavaScript classes — including shell scripts and other things not part of this website.
+&lt;/li&gt;&lt;li&gt;
+&lt;strong&gt;Nothing&lt;/strong&gt; else may access the database directly, since doing so may break the rules defined by these surrounding classes.
+&lt;/li&gt;&lt;li&gt;
+The &lt;strong&gt;database is treated as dumb storage&lt;/strong&gt;, even though the database is smart enough to have most of this logic built-in.
+&lt;/li&gt;&lt;li&gt;
+But if you add business rules into the database itself, it’s now &lt;strong&gt;duplicated&lt;/strong&gt;, requiring changing in multiple places if the rules change.
+&lt;/li&gt;&lt;li&gt;
+These two systems — the database and its surrounding code — are &lt;strong&gt;coupled and dependent&lt;/strong&gt; on eachother.
+&lt;/li&gt;&lt;li&gt;
+If it’s ever advantageous to &lt;strong&gt;switch languages&lt;/strong&gt; (say from Ruby to JavaScript, or Python to Elixir), you’re going to have to &lt;strong&gt;re-write absolutely everything&lt;/strong&gt;.
+&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2&gt;
+Simple vs complex
+&lt;/h2&gt;
+&lt;p&gt;
+Please go watch this amazing 35-minute talk as soon as possible:
+&lt;strong&gt;&lt;a href="https://www.youtube.com/watch?v=rI8tNMsozo0"&gt;Simplicity Matters by Rich Hickey&lt;/a&gt;&lt;/strong&gt;.
+(If you are unable to access YouTube, &lt;a href="/file/RichHickey-Simple.mp4"&gt;download the video here&lt;/a&gt;.)
+&lt;/p&gt;&lt;p&gt;
+Here are his important points for this article:
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;
+“&lt;strong&gt;Complex&lt;/strong&gt;” is objective.
+It means &lt;strong&gt;many things tied together&lt;/strong&gt;.
+&lt;/li&gt;&lt;li&gt;
+“&lt;strong&gt;Simple&lt;/strong&gt;” is objective.
+It means &lt;strong&gt;one ingredient&lt;/strong&gt; — the opposite of complex.
+&lt;/li&gt;&lt;li&gt;
+These are unrelated to “easy”.
+It is easy to install and bind yourself to something very complex (like &lt;a href="http://en.wikipedia.org/wiki/Object-relational_mapping"&gt;ORM&lt;/a&gt;), and can be hard to build something simple.
+&lt;/li&gt;&lt;li&gt;
+Classes, models, and methods (&lt;a href="http://en.wikipedia.org/wiki/Object-oriented_programming"&gt;OOP&lt;/a&gt;) are an &lt;strong&gt;unnecessary complication&lt;/strong&gt;.
+&lt;/li&gt;&lt;li&gt;
+Information is simple, so &lt;strong&gt;don’t hide it&lt;/strong&gt; behind a micro-language.
+&lt;/li&gt;&lt;li&gt;
+&lt;strong&gt;Work with values directly&lt;/strong&gt;: hash/map of strings.
+&lt;/li&gt;&lt;li&gt;
+Since a &lt;strong&gt;JSON API&lt;/strong&gt; — a hash/map of strings — is often the eventual interface, it’s even more reason to skip the abstractions and work with values directly.
+&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2&gt;
+Why this hit home for me
+&lt;/h2&gt;
+&lt;p&gt;
+I’ve been using the same SQL database since 1997: same data, values, and SQL tables.
+But the code around it has changed so many times.
+&lt;/p&gt;&lt;p&gt;
+In 1997, I started in Perl.
+In 1998, I switched to PHP.
+In 2004, a rewrite in Rails.
+In 2007, &lt;a href="/rails2php"&gt;back&lt;/a&gt; to PHP.
+In 2009, minimalist Ruby.
+In 2012, client-side JavaScript.
+&lt;/p&gt;&lt;p&gt;
+&lt;strong&gt;Each time I’d have to re-write all of the logic around the database&lt;/strong&gt;:
+how to add a new person into the database,
+how to verify an invoice is correct,
+how to mark an order as paid, etc.
+&lt;/p&gt;&lt;p&gt;
+But &lt;strong&gt;that whole time, my trusty PostgreSQL database stayed the same&lt;/strong&gt;.
+&lt;/p&gt;&lt;p&gt;
+So what if all that code was in the one constant non-changing place?
+&lt;/p&gt;
+
+&lt;h2&gt;
+How things could be
+&lt;/h2&gt;
+&lt;p&gt;
+Web developers have been treating the database as dumb storage, but it’s actually &lt;a href="http://www.postgresql.org/docs/9.4/static/server-programming.html"&gt;quite smart&lt;/a&gt;.
+&lt;/p&gt;&lt;p&gt;
+It’s &lt;strong&gt;simple&lt;/strong&gt; to have all of this intelligence &lt;strong&gt;in the database itself&lt;/strong&gt;.
+&lt;/p&gt;&lt;p&gt;
+It’s &lt;strong&gt;complex&lt;/strong&gt; to have it tied to surrounding outside code.
+&lt;/p&gt;&lt;p&gt;
+Once you put all of the intelligence directly into the database, then the outside code disappears!
+&lt;/p&gt;&lt;p&gt;
+Then &lt;strong&gt;the database is self-contained, and not tied to anything&lt;/strong&gt;.
+&lt;/p&gt;&lt;p&gt;
+Your outside interface can &lt;strong&gt;switch&lt;/strong&gt; to JavaScript, Haskell, Elixir or anything else with ease, because your core intelligence is all inside the database.
+&lt;/p&gt;
+
+&lt;h2&gt;
+How to do it
+&lt;/h2&gt;
+
+&lt;h3&gt;
+Table constraints
+&lt;/h3&gt;
+&lt;p&gt;
+The easiest place to start is &lt;a href="http://www.postgresql.org/docs/9.4/static/ddl-constraints.html"&gt;constraints&lt;/a&gt;:
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+CREATE TABLE people (
+  id serial primary key,
+  name text NOT NULL CONSTRAINT no_name CHECK (LENGTH(name) &gt; 0),
+  email text UNIQUE CONSTRAINT valid_email CHECK (email ~ '\A\S+@\S+\.\S+\Z')
+);
+CREATE TABLE tags (
+  person_id integer NOT NULL REFERENCES people(id) ON DELETE CASCADE,
+  tag varchar(16) CONSTRAINT tag_format CHECK (statkey ~ '\A[a-z0-9._-]+\Z')
+);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+Define what is considered valid/invalid data here.
+&lt;/p&gt;&lt;p&gt;
+In my people example above, it says name can’t be empty, email must match that pattern with “@” and “.” and no whitespace.  Then it says tags.person_id has to exist in the people table, but if the person is deleted then delete the tags, too.  And the tag has to fit that regexp pattern of lowercase letters, numbers, dot, underscore, dash.
+&lt;/p&gt;&lt;p&gt;
+It helps to name your constraints for later use in error catching.
+&lt;/p&gt;
+
+&lt;h3&gt;
+Triggers
+&lt;/h3&gt;
+&lt;p&gt;
+For things that happen before or after you alter data, use &lt;a href="http://www.postgresql.org/docs/9.4/static/trigger-definition.html"&gt;triggers&lt;/a&gt;:
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+CREATE FUNCTION clean() RETURNS TRIGGER AS $$
+BEGIN
+  NEW.name = btrim(regexp_replace(NEW.name, '\s+', ' ', 'g'));
+  NEW.email = lower(regexp_replace(NEW.email, '\s', '', 'g'));
+END;
+$$ LANGUAGE plpgsql;
+CREATE TRIGGER clean BEFORE INSERT OR UPDATE OF name, email ON people
+  FOR EACH ROW EXECUTE PROCEDURE clean();
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+This example cleans the input before it’s put into the database, in case someone accidently put a space in their email address, or a line-break in their name.
+&lt;/p&gt;
+
+&lt;h3&gt;
+Functions
+&lt;/h3&gt;
+&lt;p&gt;
+Make little re-usable functions for things you’ll use often inside your code.
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+CREATE FUNCTION get_person(a_name text, a_email text) RETURNS SETOF people AS $$
+BEGIN
+  IF NOT EXISTS (SELECT 1 FROM people WHERE email = a_email) THEN
+    RETURN QUERY INSERT INTO people (name, email)
+      VALUES (a_name, a_email) RETURNING people.*;
+  ELSE
+    RETURN QUERY SELECT * FROM people WHERE email = a_email;
+  END IF;
+END;
+$$ LANGUAGE plpgsql;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+That’s one I use often:
+Given someone’s name and email, if they’re not already in my database, add them.
+Then, either way, return the database info for this person.
+&lt;/p&gt;
+
+&lt;h3&gt;
+Views for JSON
+&lt;/h3&gt;
+&lt;p&gt;
+Instead of requiring outside code to convert your data into JSON, you can have the &lt;a href="http://www.postgresql.org/docs/9.4/static/functions-json.html#FUNCTIONS-JSON-CREATION-TABLE"&gt;database create JSON directly&lt;/a&gt;.
+&lt;/p&gt;&lt;p&gt;
+For this, use &lt;a href="http://www.postgresql.org/docs/9.4/static/sql-createview.html"&gt;views&lt;/a&gt; as JSON structure templates.
+Inside the view, use &lt;a href="http://www.postgresql.org/docs/9.4/static/functions-aggregate.html"&gt;json_agg&lt;/a&gt; for nested values.
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+CREATE VIEW person_view AS
+  SELECT *, (SELECT json_agg(t) AS tags FROM
+    (SELECT tag FROM tags WHERE person_id=people.id) t)
+  FROM people;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+This will be used in the API functions, below:
+&lt;/p&gt;
+
+&lt;h3&gt;
+API functions
+&lt;/h3&gt;
+&lt;p&gt;
+These are the only functions your outside code will access.
+&lt;/p&gt;&lt;p&gt;
+They return only JSON.
+&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+CREATE FUNCTION update_password(p_id integer, nu_pass text, OUT js json) AS $$
+BEGIN
+  UPDATE people SET password=crypt(nu_pass, gen_salt('bf', 8)) WHERE id = p_id;
+  js := row_to_json(r) FROM (SELECT * FROM person_view WHERE id = p_id) r;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE FUNCTION people_with_tag(a_tag text, OUT js json) AS $$
+BEGIN
+  js := json_agg(r) FROM
+    (SELECT * FROM person_view WHERE id IN
+      (SELECT person_id FROM tags WHERE tag = a_tag)) r;
+END;
+$$ LANGUAGE plpgsql;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;
+No matter what you need to do with your database, the &lt;a href="http://www.postgresql.org/docs/9.4/static/xplang.html"&gt;procedural languages built-in to PostgreSQL&lt;/a&gt; can do it.
+&lt;/p&gt;&lt;p&gt;
+&lt;a href="http://www.postgresql.org/docs/9.4/static/plpgsql-overview.html"&gt;PL/pgSQL&lt;/a&gt; is &lt;strong&gt;not the most beautiful language&lt;/strong&gt;, but the &lt;strong&gt;simplicity&lt;/strong&gt; of having everything in the database is worth it.
+&lt;/p&gt;&lt;p&gt;
+If you like JavaScript, check out the promising &lt;a href="https://github.com/plv8/plv8/blob/master/README.md"&gt;plv8&lt;/a&gt;, with a good &lt;a href="http://plv8-talk.herokuapp.com/"&gt;presentation about it, here&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;h2&gt;
+Now, if you need a REST API:
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;
+require 'pg'
+require 'sinatra'
+DB = PG::Connection.new(dbconfig)
+
+def qry(sql, params=[])
+  @res = DB.exec_params('SELECT js FROM ' + sql, params)
+end
+
+after do
+  content_type 'application/json'
+  body @res[0]['js']
+end
+
+get '/people' do
+  qry('get_people()')
+end
+
+get %r{/people/([0-9]+)} do |id|
+  qry('get_person($1)', [id])
+end
+
+put %r{/people/([0-9]+)} do |id|
+  qry('update_password($1, $2)', [id, params[:password]])
+end
+
+get '/people/tagged' do
+  qry('people_with_tag($1)', [params[:tag]])
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2&gt;
+Or if you need a client library:
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;
+require 'pg'
+require 'json'
+DB = PG::Connection.new(dbconfig)
+
+def js(func, params=[])
+  res = DB.exec_params('SELECT js FROM ' + func, params)
+  JSON.parse(res[0]['js'])
+end
+
+def people
+  js('get_people()')
+end
+
+def person(id)
+  js('get_person($1)', [id])
+end
+
+def update_password(id, newpass)
+  js('update_password($1, $2)', [id, newpass])
+end
+
+def people_tagged(tag)
+  js('people_with_tag($1)', [tag])
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2&gt;
+That’s it!
+&lt;/h2&gt;
+&lt;p&gt;
+Now whether a REST API or client library, &lt;strong&gt;all it really has to do is pass the arguments into the database functions, and return the JSON&lt;/strong&gt;.
+&lt;/p&gt;&lt;p&gt;
+I simplified the tiny code examples here, but feel free to see &lt;strong&gt;some real working examples:&lt;/strong&gt;
+&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/50pop/db-api/blob/master/peeps/tables.sql"&gt;table definitions&lt;/a&gt; with constraints&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/50pop/db-api/blob/master/peeps/triggers.sql"&gt;triggers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/50pop/db-api/blob/master/woodegg/views.sql"&gt;views&lt;/a&gt; for JSON creation&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/50pop/db-api/blob/master/peeps/functions.sql"&gt;functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/50pop/db-api/blob/master/HTTP/woodegg.rb?ts=2"&gt;REST API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/50pop/db-api/blob/master/b50d/lib/b50d/woodegg.rb?ts=2"&gt;client library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;my little &lt;a href="https://github.com/sivers/pg"&gt;PostgreSQL experiments&lt;/a&gt; where I try out ideas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+I’m not trying to convince everyone to do things this way.
+But I hope you find it useful or at least interesting to consider.
+&lt;/p&gt;&lt;p&gt;
+Please feel free to &lt;strong&gt;&lt;a href="mailto:derek@sivers.org"&gt;email me at derek@sivers.org&lt;/a&gt;&lt;/strong&gt; with any suggestions.
+Or use any of the ideas you see in &lt;a href="https://github.com/50pop/db-api"&gt;my code&lt;/a&gt;.
+&lt;/p&gt;
+
+</content>
+  </entry>
   <entry>
     <title>Getting out of a bad place</title>
     <id>http://sivers.org/bad</id>
@@ -1833,54 +2163,6 @@ To work.  To focus.  To write.  To code.  To launch.
 Yes. Good answer.
 &lt;/p&gt;
 &lt;a href="http://www.flickr.com/photos/stuckincustoms/7960290272/"&gt;&lt;img src="/images/milford.jpg" width="680" height="617" alt="New Zealand photo"&gt;&lt;/a&gt;&lt;span class="small"&gt;(&lt;a href="http://www.flickr.com/photos/stuckincustoms/7960290272/"&gt;photo&lt;/a&gt; by Trey Ratcliff)&lt;/span&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>Why my code and ideas are public</title>
-    <id>http://sivers.org/ws</id>
-    <updated>2013-12-12T00:00:00+00:00</updated>
-    <published>2013-12-12T00:00:00+00:00</published>
-    <link href="http://sivers.org/ws"/>
-    <content type="html">&lt;p&gt;
-Over dinner my friend Valerie said, “I’m not worried about someone finding out my secrets, because secrets are just facts, right?  So if someone is going through my private things, for example, and gets upset about what they find, then that’s their problem, not mine!”
-&lt;/p&gt;&lt;p&gt;
-I liked that attitude, and kept thinking about it.
-&lt;/p&gt;&lt;p&gt;
-Later as we were leaving, I helped her put on her coat, and picked up her purse.  It was so heavy, I had to ask, “What’s in here?”
-&lt;/p&gt;&lt;p&gt;
-She said, “Oh probably my two big diaries.  I have one diary that’s private, and another that’s like super-super private.”
-&lt;/p&gt;&lt;p&gt;
-Because of what she just said about secrets, I had to ask: “Can I read the super-super private one, then?”
-&lt;/p&gt;&lt;p&gt;
-She was a little shocked, thought for a few seconds, laughed, and said OK.
-&lt;/p&gt;&lt;p&gt;
-We got two ciders and she patiently waited while I spent 20 minutes reading through it.  Pages filled with words about processing family drama, formulating goals, plans for life changes, romantic details, lists of regrets, contemplations, etc.
-&lt;/p&gt;&lt;p&gt;
-I was surprised &lt;strong&gt;it was all meaningless to me&lt;/strong&gt;.  These pages meant the world to her, but to me they meant no more than any non-secret conversation we’d ever had.  It was the same stuff that we all think.
-&lt;/p&gt;&lt;p&gt;
-Later, I thought about the stuff I keep secret.
-&lt;/p&gt;&lt;p&gt;
-Like my programming code, for example.  I had it locked in an SSH-only server, on an encrypted partition.  My current life’s work.  Super-super private.  Can’t let anyone get access to this!
-&lt;/p&gt;&lt;p&gt;
-But what did I think would really happen if someone read my code?  They’d steal it and thrive?  &lt;a href="/multiply"&gt;Really?&lt;/a&gt;
-&lt;/p&gt;&lt;p&gt;
-Then I realized it’s like Valerie’s diary.  Meaningful to me.  Meaningless to others.  So why go to the trouble to keep it so secret?
-&lt;/p&gt;&lt;p&gt;
-&lt;em&gt;(I realize there’s an argument on the other side.  Why go to the trouble to make it public?)&lt;/em&gt;
-&lt;/p&gt;&lt;p&gt;
-But life is an ongoing experiment, so &lt;strong&gt;I decided to make all my programming code and business ideas public and open source&lt;/strong&gt;, just to see what happens.
-&lt;/p&gt;&lt;p&gt;
-I wanted to &lt;strong&gt;challenge that fear that someone is going to steal our ideas&lt;/strong&gt;.
-&lt;/p&gt;&lt;p&gt;
-Actually all those business ideas have been posted freely on my site for over two years now, and nobody has “stolen” them, yet.  You’re welcome to try.  I’ll keep adding more.
-&lt;/p&gt;&lt;p&gt;
-Everything is listed at &lt;strong&gt;&lt;a href="http://sivers.org/projects"&gt;http://sivers.org/projects&lt;/a&gt;&lt;/strong&gt;.  Enjoy!
-&lt;/p&gt;
-&lt;hr&gt;&lt;p&gt;
-&lt;strong&gt;P.S. I never said everything should be public.  I only said I’m making my code and ideas public.  That’s all.&lt;/strong&gt;  This is not about what &lt;em&gt;you&lt;/em&gt; should make public or keep secret.  Everyone has different criteria.  It’s worth re-evaluating the choices you’ve made, to see if they’re still applicable to you.
-&lt;/p&gt;
-&lt;img src="/images/diary.jpg" width="500" height="611" alt=""&gt;&lt;p class="small"&gt;Photo by &lt;a href="http://www.flickr.com/photos/insomnia90/3875374318/"&gt;Silvia Viñuales&lt;/a&gt;&lt;/p&gt;
 
 </content>
   </entry>
