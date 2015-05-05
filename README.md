@@ -37,18 +37,11 @@ A Ruby script goes through all the content directories and reads the files.
 
 ### Styling:
 
-Zurb Foundation gem + SCSS + Compass is used to create the minified site/css/site.css file.
-
 Styling made by @extend'ing in the SCSS file, instead of adding HTML attributes.
-
 
 ### Serving:
 
 Nginx serves the final static site from the site/ directory.
 
-Nginx passes certain paths by proxy to the dynamic Sinatra server, for dynamic pages, in 50web.
+Nginx passes certain paths by proxy to the dynamic Sinatra server, for dynamic pages, in [50web](https://github.com/50pop/50web)
 
-
-# TODO:
-
-* smaller SCSS - not Foundation
