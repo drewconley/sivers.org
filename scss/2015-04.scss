@@ -1,6 +1,7 @@
 @import 'pure/base.scss';
 @import 'pure/forms-nr.scss';
 @import 'pure/buttons.scss';
+$break-small: 400px;
 
 body {
 	max-width: 45em;
@@ -11,6 +12,10 @@ body {
 
 h1, h2, h3, h4, h5, small, p.postdate, footer, input[type="submit"], label, dl#tweetlist dt {
 	font-family: "Trebuchet MS", sans-serif;
+}
+
+.spacer {
+	clear: both;
 }
 
 p.postdate, footer, dl#tweetlist dt {
@@ -31,9 +36,14 @@ input[type="submit"] {
 }
 
 section#masthead {
+	@media screen and (max-width: $break-small) {
+		h1 { font-size: 2em; }
+	}
+	@media screen and (min-width: $break-small) {
+		h1 { font-size: 3em; }
+	}
 	h1 {
 		margin: 0;
-		font-size: 3em;
 		a {
 			text-decoration: none;
 			color: #800;
@@ -134,3 +144,14 @@ body#home dt, body#code dt, body#music dt {
 dl#tweetlist dt {
 	font-weight: normal;
 }
+
+div.presentation_summary {
+	margin-bottom: 6em;
+	@media screen and (max-width: $break-small) {
+		img { display: block; }
+	}
+	@media screen and (min-width: $break-small) {
+		img { float: right; }
+	}
+}
+
