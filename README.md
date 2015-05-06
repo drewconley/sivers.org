@@ -45,3 +45,8 @@ Nginx serves the final static site from the site/ directory.
 
 Nginx passes certain paths by proxy to the dynamic Sinatra server, for dynamic pages, in [50web](https://github.com/50pop/50web)
 
+## TODO:
+
+* Multi-lingual
+* Multiple blog subjects (music, tech, life) with their own RSS feeds
+
