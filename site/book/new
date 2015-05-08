@@ -29,12 +29,39 @@
 
 <section id="allbooks">
 
+	<figure class="abook" data-rating="6" data-title="How Adam Smith Can Change Your Life - by Russ Roberts" data-date="2015-05-07">
+		<a href="/book/AdamSmith"><img src="/images/124x187.gif" data-echo="/images/AdamSmith.gif" alt="How Adam Smith Can Change Your Life - by Russ Roberts" /></a>
+		<figcaption>
+			<h2><a href="/book/AdamSmith">How Adam Smith Can Change Your Life - by Russ Roberts</a></h2>
+			<p>ISBN: 1591846846 READ: 2015-05-07 RATING: 6/10</p>
+			<p>Adam Smith wrote “Theory of Moral Sentiments” in the 1700s. Now Russ puts it into modern language and times. Main point is that our morality comes from imagining being judged by our fellow man.</p>
+		</figcaption>
+	</figure>
+
+	<figure class="abook" data-rating="2" data-title="Me, Inc. - by Gene Simmons" data-date="2015-05-01">
+		<a href="/book/MeInc"><img src="/images/124x187.gif" data-echo="/images/MeInc.gif" alt="Me, Inc. - by Gene Simmons" /></a>
+		<figcaption>
+			<h2><a href="/book/MeInc">Me, Inc. - by Gene Simmons</a></h2>
+			<p>ISBN: 0062322613 READ: 2015-05-01 RATING: 2/10</p>
+			<p>I shouldn't have read this.  I believed someone else's rave review about it.  Slightly interesting to hear the quick thoughts of someone who's hyper-focused on money.  But that's all.</p>
+		</figcaption>
+	</figure>
+
 	<figure class="abook" data-rating="8" data-title="The Wisdom of No Escape - by Pema Chödrön" data-date="2015-04-16">
 		<a href="/book/WisdomOfNoEscape"><img src="/images/124x187.gif" data-echo="/images/WisdomOfNoEscape.gif" alt="The Wisdom of No Escape - by Pema Chödrön" /></a>
 		<figcaption>
 			<h2><a href="/book/WisdomOfNoEscape">The Wisdom of No Escape - by Pema Chödrön</a></h2>
 			<p>ISBN: 1570628726 READ: 2015-04-16 RATING: 8/10</p>
 			<p>Powerful thoughts on not running, distracting, or escaping, but sticking with something all the way through.</p>
+		</figcaption>
+	</figure>
+
+	<figure class="abook" data-rating="7" data-title="A Mind for Numbers - by Barbara Oakley" data-date="2015-03-03">
+		<a href="/book/MindForNumbers"><img src="/images/124x187.gif" data-echo="/images/MindForNumbers.gif" alt="A Mind for Numbers - by Barbara Oakley" /></a>
+		<figcaption>
+			<h2><a href="/book/MindForNumbers">A Mind for Numbers - by Barbara Oakley</a></h2>
+			<p>ISBN: 039916524X READ: 2015-03-03 RATING: 7/10</p>
+			<p>Thought I was getting a book about math, but ended up being a surprisingly good book about learning in general.  Main points are about diffused thinking vs focused thinking.</p>
 		</figcaption>
 	</figure>
 

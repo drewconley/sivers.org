@@ -19,6 +19,8 @@
 
   <h1>Tweets</h1>
   <dl id="tweetlist">
+    <dt>May 8, 2015</dt>
+    <dd>3 new book notes: <a href="http://sivers.org/book">http://sivers.org/book</a>  (sort by date to see newest)</dd>
     <dt>May 5, 2015</dt>
     <dd>When I write a tech blog post it feels like: ME: “I like doing this.” WORLD: “No! Idiot! You’re wrong! I don’t like doing that!” ☺</dd>
     <dt>May 4, 2015</dt>

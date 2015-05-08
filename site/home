@@ -124,6 +124,8 @@
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>May 8</dt>
+		<dd>3 new book notes: <a href="http://sivers.org/book">http://sivers.org/book</a>  (sort by date to see newest)</dd>
 		<dt>May 5</dt>
 		<dd>When I write a tech blog post it feels like: ME: “I like doing this.” WORLD: “No! Idiot! You’re wrong! I don’t like doing that!” ☺</dd>
 		<dt>May 4</dt>
@@ -134,8 +136,6 @@
 		<dd>She is a bird. He is a tree. She asks him to fly. But when he can’t, she doesn’t understand why.</dd>
 		<dt>March 26</dt>
 		<dd>I know more people than I know.</dd>
-		<dt>March 23</dt>
-		<dd>Extra-sad to not be home in Singapore today. R.I.P. to one of the strongest leaders the world’s ever known. <a href="http://www.nytimes.com/2015/03/23/world/asia/lee-kuan-yew-founding-father-and-first-premier-of-singapore-dies-at-91.html">http://www.nytimes.com/2015/03/23/world/asia/lee-kuan-yew-founding-father-and-first-premier-of-singapore-dies-at-91.html</a></dd>
 	</dl>
 </section>
 
