@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2015-05-11T05:34:58+12:00</updated>
+  <updated>2015-05-11T05:42:51+12:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -103,7 +103,8 @@ But &lt;strong&gt;that whole time, my trusty PostgreSQL database stayed the same
 &lt;/p&gt;&lt;p&gt;
 Since most of this is &lt;a href="http://rob.conery.io/2015/02/21/its-time-to-get-over-that-stored-procedure-aversion-you-have/"&gt;data logic, not business logic&lt;/a&gt;, it should be in the database.
 &lt;/p&gt;&lt;p&gt;
-Since I plan to stay with &lt;a href="http://www.postgresql.org/about/"&gt;PostgreSQL&lt;/a&gt; for many years to come, but plan to keep experimenting with programming languages, I'm putting this data logic directly into PostgreSQL.
+So I'm putting this data logic directly into &lt;a href="http://www.postgresql.org/about/"&gt;PostgreSQL&lt;/a&gt;, since I plan to stay with it for many more years, but plan to keep experimenting with programming languages.
+(TO-DO: &lt;a href="https://www.haskell.org/"&gt;Haskell&lt;/a&gt;, &lt;a href="http://elixir-lang.org/"&gt;Elixir&lt;/a&gt;, &lt;a href="http://racket-lang.org/"&gt;Racket&lt;/a&gt;, &lt;a href="http://www.lua.org/about.html"&gt;Lua&lt;/a&gt;.)
 &lt;/p&gt;
 
 &lt;h2&gt;

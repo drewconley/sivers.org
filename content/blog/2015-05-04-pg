@@ -89,7 +89,8 @@ But <strong>that whole time, my trusty PostgreSQL database stayed the same</stro
 </p><p>
 Since most of this is <a href="http://rob.conery.io/2015/02/21/its-time-to-get-over-that-stored-procedure-aversion-you-have/">data logic, not business logic</a>, it should be in the database.
 </p><p>
-Since I plan to stay with <a href="http://www.postgresql.org/about/">PostgreSQL</a> for many years to come, but plan to keep experimenting with programming languages, I'm putting this data logic directly into PostgreSQL.
+So I'm putting this data logic directly into <a href="http://www.postgresql.org/about/">PostgreSQL</a>, since I plan to stay with it for many more years, but plan to keep experimenting with programming languages.
+(TO-DO: <a href="https://www.haskell.org/">Haskell</a>, <a href="http://elixir-lang.org/">Elixir</a>, <a href="http://racket-lang.org/">Racket</a>, <a href="http://www.lua.org/about.html">Lua</a>.)
 </p>
 
 <h2>
