@@ -87,7 +87,9 @@ how to mark an order as paid, etc.
 </p><p>
 But <strong>that whole time, my trusty PostgreSQL database stayed the same</strong>.
 </p><p>
-So what if all that code was in the one constant non-changing place?
+Since most of this is <a href="http://rob.conery.io/2015/02/21/its-time-to-get-over-that-stored-procedure-aversion-you-have/">data logic, not business logic</a>, it should be in the database.
+</p><p>
+Since I plan to stay with <a href="http://www.postgresql.org/about/">PostgreSQL</a> for many years to come, but plan to keep experimenting with programming languages, I'm putting this data logic directly into PostgreSQL.
 </p>
 
 <h2>
@@ -315,8 +317,5 @@ I simplified the tiny code examples here, but feel free to see <strong>some real
 <p>
 I’m not trying to convince everyone to do things this way.
 But I hope you find it useful or at least interesting to consider.
-</p><p>
-Please feel free to <strong><a href="mailto:derek@sivers.org">email me at derek@sivers.org</a></strong> with any suggestions.
-Or use any of the ideas you see in <a href="https://github.com/50pop/db-api">my code</a>.
 </p>
 

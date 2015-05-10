@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2015-05-08T13:26:34+12:00</updated>
+  <updated>2015-05-11T05:34:58+12:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -101,7 +101,9 @@ how to mark an order as paid, etc.
 &lt;/p&gt;&lt;p&gt;
 But &lt;strong&gt;that whole time, my trusty PostgreSQL database stayed the same&lt;/strong&gt;.
 &lt;/p&gt;&lt;p&gt;
-So what if all that code was in the one constant non-changing place?
+Since most of this is &lt;a href="http://rob.conery.io/2015/02/21/its-time-to-get-over-that-stored-procedure-aversion-you-have/"&gt;data logic, not business logic&lt;/a&gt;, it should be in the database.
+&lt;/p&gt;&lt;p&gt;
+Since I plan to stay with &lt;a href="http://www.postgresql.org/about/"&gt;PostgreSQL&lt;/a&gt; for many years to come, but plan to keep experimenting with programming languages, I'm putting this data logic directly into PostgreSQL.
 &lt;/p&gt;
 
 &lt;h2&gt;
@@ -329,9 +331,6 @@ I simplified the tiny code examples here, but feel free to see &lt;strong&gt;som
 &lt;p&gt;
 I’m not trying to convince everyone to do things this way.
 But I hope you find it useful or at least interesting to consider.
-&lt;/p&gt;&lt;p&gt;
-Please feel free to &lt;strong&gt;&lt;a href="mailto:derek@sivers.org"&gt;email me at derek@sivers.org&lt;/a&gt;&lt;/strong&gt; with any suggestions.
-Or use any of the ideas you see in &lt;a href="https://github.com/50pop/db-api"&gt;my code&lt;/a&gt;.
 &lt;/p&gt;
 
 </content>
