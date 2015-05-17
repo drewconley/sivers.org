@@ -8,14 +8,14 @@ body {
 	margin: 0 auto;
 	padding: 5px;
 	font-family: serif;
-	line-height: 1.6;
+	line-height: 1.6em;
 	font-size: 18px;
 	color: #222;
 }
 
 h1, h2, h3, h4, h5, small, p.postdate, footer, input[type="submit"], label, dl#tweetlist dt {
 	font-family: "Trebuchet MS", sans-serif;
-	line-height: 1;
+	line-height: 1em;
 }
 
 .spacer {
@@ -55,6 +55,10 @@ section#masthead {
 				margin-right: 5px;
 			}
 		}
+	}
+	small {
+		display: block;
+		line-height: 1em;
 	}
 }
 
