@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2015-05-19T11:29:47+12:00</updated>
+  <updated>2015-05-19T11:41:40+12:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -685,7 +685,7 @@ But last month a bunch of stuff knocked me on my ass.  I’ve never felt so wron
 &lt;/p&gt;&lt;p&gt;
 I vulnerably called on friends for help.
 &lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.homesweetpdx.com/our-story/"&gt;Amber&lt;/a&gt; reminded me to pull my head out of today, and think &lt;a href="http://sivers.org/time"&gt;long-term&lt;/a&gt; again.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.homesweetpdx.com/our-story/"&gt;Amber&lt;/a&gt; reminded me to pull my head out of today, and think &lt;a href="/time"&gt;long-term&lt;/a&gt; again.&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Jeff_Marx"&gt;Jeff&lt;/a&gt; told me to get my swagger back and relish the moment.&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Ariel_Hyatt"&gt;Ariel&lt;/a&gt; said I should really accept and feel this pain, instead of moving on so fast like I always do.&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;
@@ -703,7 +703,7 @@ After moping at the bottom of the ocean for a few weeks, I got a bright memory f
 &lt;/p&gt;&lt;p&gt;
 &lt;strong&gt;I actually love being lost&lt;/strong&gt;, even though it fuels fears, &lt;strong&gt;because that’s when I go somewhere unexpected.&lt;/strong&gt;
 &lt;/p&gt;&lt;p&gt;
-&lt;a href="http://sivers.org/book"&gt;I pursue these things&lt;/a&gt; in small digestable doses.  I love little lessons that surprise my expectations and &lt;a href="http://www.samharris.org/blog/item/the-fireplace-delusion"&gt;change my mind&lt;/a&gt;.  &amp;nbsp; &lt;em&gt;(This is why I aim to make &lt;a href="http://www.ted.com/speakers/derek_sivers#talks"&gt;my TED talks&lt;/a&gt; surprising. If we’re not surprised, we’re not learning.)&lt;/em&gt;
+&lt;a href="/book"&gt;I pursue these things&lt;/a&gt; in small digestable doses.  I love little lessons that surprise my expectations and &lt;a href="http://www.samharris.org/blog/item/the-fireplace-delusion"&gt;change my mind&lt;/a&gt;.  &amp;nbsp; &lt;em&gt;(This is why I aim to make &lt;a href="http://www.ted.com/speakers/derek_sivers#talks"&gt;my TED talks&lt;/a&gt; surprising. If we’re not surprised, we’re not learning.)&lt;/em&gt;
 &lt;/p&gt;&lt;p&gt;
 But I finally answered “What’s great about this?”:
 &lt;/p&gt;&lt;p&gt;
@@ -965,9 +965,9 @@ Let's just figure out the meaning of life, once and for all, in under 20 minutes
 &lt;/p&gt;&lt;p&gt;
 This is a 19-minute talk I've given at four conferences in Ireland, Taiwan, India, and New Zealand.  I've improved it after each, and finally consider it done, so this is now the best and final recording of it.
 &lt;/p&gt;&lt;p&gt;
-The video doesn't add much, so if you would rather just listen, &lt;a href="http://sivers.org/file/DerekSivers-MeaningOfLife.mp3"&gt;download the MP3&lt;/a&gt;.
+The video doesn't add much, so if you would rather just listen, &lt;a href="/file/DerekSivers-MeaningOfLife.mp3"&gt;download the MP3&lt;/a&gt;.
 &lt;/p&gt;&lt;p&gt;
-The video should be visible below, but if not, &lt;a href="http://sivers.org/file/DerekSivers-MeaningOfLife.mp4"&gt;download the MP4 video&lt;/a&gt;.
+The video should be visible below, but if not, &lt;a href="/file/DerekSivers-MeaningOfLife.mp4"&gt;download the MP4 video&lt;/a&gt;.
 &lt;/p&gt;
 &lt;iframe width="640" height="360" src="http://www.youtube.com/embed/zzcCWEb-tyk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;
@@ -979,7 +979,7 @@ Huge thanks to some friends who suggested great improvements:
 &lt;/p&gt;&lt;p&gt;
 Also thanks to a hundred drunk programmers in Ireland who shouted and sang their way through my first performance of it, standing on chairs at the end of a Saturday night.
 &lt;/p&gt;&lt;p&gt;
-If you would like to make a better video for this talk, please do. &lt;a href="http://sivers.org/file/DerekSivers-MeaningOfLife.wav"&gt;Download the master WAV audio&lt;/a&gt;, and let me know when it's done. Assuming I like it, I'll be happy to link to it here.
+If you would like to make a better video for this talk, please do. &lt;a href="/file/DerekSivers-MeaningOfLife.wav"&gt;Download the master WAV audio&lt;/a&gt;, and let me know when it's done. Assuming I like it, I'll be happy to link to it here.
 &lt;/p&gt;&lt;p&gt;
 Here's the full transcript, if you hate surprises and my charming voice:
 &lt;/p&gt;
@@ -1340,7 +1340,7 @@ So my advice is: Change careers like Tarzan.
 &lt;/p&gt;&lt;p&gt;
 And &lt;strong&gt;make sure you don't lose momentum&lt;/strong&gt;.
 &lt;/p&gt;&lt;hr&gt;&lt;p&gt;
-P.S.  I highly recommend reading the book “&lt;a href="http://sivers.org/book/SoGood"&gt;So Good They Can't Ignore You&lt;/a&gt;” for more thoughts on this.
+P.S.  I highly recommend reading the book “&lt;a href="/book/SoGood"&gt;So Good They Can't Ignore You&lt;/a&gt;” for more thoughts on this.
 &lt;/p&gt;&lt;p&gt;
 P.P.S.  Full credit for the “momentum” metaphor goes to &lt;a href="http://philippantar.com/"&gt;Philipp Antar&lt;/a&gt;, from the comments, below.
 &lt;/p&gt;

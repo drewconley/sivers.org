@@ -1,6 +1,6 @@
 <!-- Learning JavaScript - my experience and advice -->
 <p>
-Since I've <a href="http://sivers.org/prog">mentioned</a> a <a href="http://sivers.org/os">few</a> <a href="http://sivers.org/srs">times</a> that I just learned JavaScript over the last few months, a bunch of people have emailed to ask what I used and recommend to learn it. So here's my experience and best advice for 2013.
+Since I've <a href="/prog">mentioned</a> a <a href="/os">few</a> <a href="/srs">times</a> that I just learned JavaScript over the last few months, a bunch of people have emailed to ask what I used and recommend to learn it. So here's my experience and best advice for 2013.
 </p><p>
 NOTE: I wanted to <strong><em>really</em> learn JavaScript - not shortcuts, quick tricks, or meta-tools</strong> that keep me from having to learn JavaScript. I want to learn it, get it, read it, understand it, and memorize it, so that I can understand all the other cool things written in JavaScript for years to come.
 </p><p>
@@ -22,7 +22,7 @@ Then, after a few chapters of that, <strong>switch over to <a href="http://www.w
 </p><p>
 Funny thing is, I went back to <a href="http://shop.oreilly.com/product/9780596517748.do">JavaScript: The Good Parts</a> after finishing this one, and now I understood it. But because <a href="http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-3rd-Edition.productCd-1118222199.html">Professional JavaScript for Web Developers</a> was so thorough, it had already covered all of the “good parts”, too.
 </p><p>
-Of course <strong>you have to retain what you're learning</strong>, so I highly recommend you <strong>write down every new thing you learn</strong>, ideally into a flashcard program, <a href="http://sivers.org/srs">like this</a>. It's a lot to take in, so you'll have to remind yourself of what you've learned in the weeks and months afterwards.
+Of course <strong>you have to retain what you're learning</strong>, so I highly recommend you <strong>write down every new thing you learn</strong>, ideally into a flashcard program, <a href="/srs">like this</a>. It's a lot to take in, so you'll have to remind yourself of what you've learned in the weeks and months afterwards.
 </p>
 <p>If you're in the mood for more books to really solidify JavaScript in your head, go through:</p>
 <ul>
