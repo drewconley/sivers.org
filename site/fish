@@ -100,7 +100,8 @@ Yes, the rest of the world can enjoy a good laugh at the stereotypical American 
 <p>
 I'm just a fish who didn't know he was in water.
 </p>
-<img src="/images/fish.jpg" alt="http://www.flickr.com/photos/tjt195/229800778/" title="http://www.flickr.com/photos/tjt195/229800778/" />
+<img src="/images/fish.jpg">
+<div class="small">(Photo by <a href="https://www.flickr.com/photos/tjt195/229800778">Taro Taylor</a>)</div>
 <p>
 UPDATE: A few people have linked me to <a href="http://online.wsj.com/article/SB122178211966454607.html">this David Foster Wallace speech</a>.  Wow.  I don't remember ever reading this, but I must have, long ago.  Wild <a href="http://youtu.be/ZyQjr1YL0zg">what our subconscious remembers</a>.
 </p>
