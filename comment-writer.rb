@@ -17,7 +17,7 @@ def qry(uri)
 	ol DB.exec_params("SELECT id, created_at, name, html FROM sivers.comments WHERE uri=$1 ORDER BY id", [uri])
 end
 
-dirname = '/tmp/sivers_comments/'
+dirname = File.expand_path('../../sivers_comments', __FILE__) << '/'
 Dir.mkdir(dirname, 0755) unless Dir.exist?(dirname)
 
 # first write them all
