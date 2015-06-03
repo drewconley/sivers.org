@@ -911,15 +911,6 @@
 		</figcaption>
 	</figure>
 
-	<figure class="abook" data-rating="7" data-title="Maximum Achievement - by Brian Tracy" data-date="2006-11-12">
-		<a href="/book/MaximumAchievement"><img src="/images/124x187.gif" data-echo="/images/MaximumAchievement.gif" alt="Maximum Achievement - by Brian Tracy" /></a>
-		<figcaption>
-			<h2><a href="/book/MaximumAchievement">Maximum Achievement - by Brian Tracy</a></h2>
-			<p>ISBN: 0684803313 READ: 2006-11-12 RATING: 7/10</p>
-			<p>A classic self-help book. Exactly what you'd expect. But very good.</p>
-		</figcaption>
-	</figure>
-
 	<figure class="abook" data-rating="6" data-title="How Adam Smith Can Change Your Life - by Russ Roberts" data-date="2015-05-07">
 		<a href="/book/AdamSmith"><img src="/images/124x187.gif" data-echo="/images/AdamSmith.gif" alt="How Adam Smith Can Change Your Life - by Russ Roberts" /></a>
 		<figcaption>
@@ -1484,6 +1475,15 @@
 			<h2><a href="/book/MillionaireMind">Secrets of the Millionaire Mind - by T. Harv Ecker</a></h2>
 			<p>ISBN: 0060763280 READ: 2007-06-12 RATING: 4/10</p>
 			<p>If you suspect that your mindset is holding you back from making more money, read this. Identifies and dissolves the mental baggage we've built up that believes money is evil and those who have it are greedy.</p>
+		</figcaption>
+	</figure>
+
+	<figure class="abook" data-rating="4" data-title="Maximum Achievement - by Brian Tracy" data-date="2006-11-12">
+		<a href="/book/MaximumAchievement"><img src="/images/124x187.gif" data-echo="/images/MaximumAchievement.gif" alt="Maximum Achievement - by Brian Tracy" /></a>
+		<figcaption>
+			<h2><a href="/book/MaximumAchievement">Maximum Achievement - by Brian Tracy</a></h2>
+			<p>ISBN: 0684803313 READ: 2006-11-12 RATING: 4/10</p>
+			<p>A classic self-help book. Exactly what you'd expect. I don't agree with all of it.</p>
 		</figcaption>
 	</figure>
 
