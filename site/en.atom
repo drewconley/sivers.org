@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2015-06-03T21:39:45+12:00</updated>
+  <updated>2015-06-04T17:25:56+12:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -969,7 +969,7 @@ The video doesn't add much, so if you would rather just listen, &lt;a href="/fil
 &lt;/p&gt;&lt;p&gt;
 The video should be visible below, but if not, &lt;a href="/file/DerekSivers-MeaningOfLife.mp4"&gt;download the MP4 video&lt;/a&gt;.
 &lt;/p&gt;
-&lt;iframe width="640" height="360" src="http://www.youtube.com/embed/zzcCWEb-tyk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/zzcCWEb-tyk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;
 Huge thanks to some friends who suggested great improvements:
 &lt;a href="http://www.michellewelsch.com/"&gt;Michelle Welsch&lt;/a&gt;,
