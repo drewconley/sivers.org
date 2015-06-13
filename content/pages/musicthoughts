@@ -8,14 +8,14 @@ A collection of inspiring thoughts about music.  Launched in June 1999.  Rewritt
 
 <h3>Status: <a href="http://musicthoughts.com/">live</a></h3>
 
-<h3>CODE: <a href="https://github.com/50pop/musicthoughts-api">musicthoughts-api</a>, <a href="https://github.com/50pop/musicthoughts-gem">musicthoughts-gem</a>, <a href="https://github.com/50pop/musicthoughts-web">musicthoughts-web</a></h3>
+<h3>CODE: <a href="https://github.com/50pop/db-api/tree/master/musicthoughts">database</a>, <a href="https://github.com/50pop/db-api/blob/master/b50d/lib/b50d/musicthoughts.rb?ts=2">client</a>, <a href="https://github.com/50pop/50web/blob/master/routes/musicthoughts.rb?ts=2">routes</a>, <a href="https://github.com/50pop/50web/tree/master/views/musicthoughts">views</a>.</h3>
 
 
 <h2>Schema</h2>
 <p>
 Everything revolves around a <strong>thought</strong>. It's a quote, by a famous <strong>author</strong>, that was contributed to musicthoughts.com by a <strong>contributor</strong>, and has at least one <strong>category</strong>.
 </p><p>
-Every thought has 10 <strong>thought_translations</strong> (en es fr de pt it ru ar ja zh). <em>Even English is a translation</em>.  So all text comes from the thought_translations table, except the un-translatable things like author/contributor name and URL.
+Every thought is translated into 10 languages (en es fr de pt it ru ar ja zh).
 </p><p>
 Thoughts contributed on the website do not appear in the list until an administrator approves them.  The best succinct ones are marked “as random”, a flag that means it can be shown whenever a random thought is requested, like at the footer of every page.
 </p><p>
@@ -26,197 +26,12 @@ The contributors are saved in my central “people” database, and linked back 
 <p>
 Simple browsing and searching of thoughts, categories, authors, and contributors.  The target audience is a musician looking for a little inspiration.
 </p><p>
-There's a form for adding a new thought to the database.  A cookie remembers the contributor, to make it easy to add more thoughts without retyping their own info.
+There's a form for adding a new thought to the database.
 </p><p>
-Search looks for that phrase in the categories themselves first, and if found redirects to that category page.  If the phrase is found in author or contributor names, all that author's or contributor's thoughts are shown.  Otherwise, thoughts with that phrase (in the current browsing language) are shown.
+Search looks for that phrase in categories, contributor names, author names, and thoughts.
 </p><p>
-The entire site is multi-lingual, switchable by adding the language code to the end of the URL, or by form-post to set a language cookie, or by browser preference.  The translations for all site text and thoughts are at http://lang.pro
+The entire site is multi-lingual, based on subdomain.
 </p><p>
-Any time a list of thoughts is shown, each thought is linked back to its own URL, where the full info (categories, contributor) can be shown.
-</p><p>
-Currently (but optionally), the site has a few radically different CSS designs that can be switched between.
+Any time a list of thoughts is shown, each thought is linked back to its own URL, where the full info (contributor, TODO: categories) can be shown.
 </p>
-
-<h2>URLs</h2>
-<dl>
-<dt>/home</dt>
-  <dd>links to all ways to browse the site</dd>
-<dt>/t</dt>
-  <dd>fetch a random thought and 303 redirect to its URL</dd>
-<dt>/t/123</dt>
-  <dd>show thought ID# 123 and all of its info, linked to category, author, and contributor pages</dd>
-<dt>/cat/5</dt>
-  <dd>show category ID# 5 and all of its thoughts</dd>
-<dt>/author</dt>
-  <dd>sorted list of authors with the most thoughts</dd>
-<dt>/author/33</dt>
-  <dd>all thoughts by author ID#33</dd>
-<dt>/contributor</dt>
-  <dd>sorted list of contributors with the most thoughts</dd>
-<dt>/contributor/33</dt>
-  <dd>all thoughts by contributor ID#33</dd>
-<dt>/search</dt>
-  <dd>empty search form</dd>
-<dt>/search?q=search+term</dt>
-  <dd>search results plus empty search form</dd>
-<dt>/add</dt>
-  <dd>GET: form to add a new thought (after guidelines)</dd>
-  <dd>POST: add thought and redirect to thanks</dd>
-<dt>/language</dt>
-  <dd>POST-only: set language cookie and redirect to referring page</dd>
-<dt>/style</dt>
-  <dd>switch between CSS designs by setting a cookie</dd>
-</dl>
-
-<h2>Requirements</h2>
-
-<table class="table table-striped table-bordered">
-<tr><th>do</th><th>details</th></tr>
-<tr><td>remove users table</td><td class="small"></td></tr>
-<tr><td>set thought_translations.thought to &quot;body&quot; in PHP version too</td><td class="small"></td></tr>
-<tr><td>convert PHP version to person_id for contributor</td><td class="small"></td></tr>
-<tr><td>set Rails config + contributor.rb model to use person.rb</td><td class="small"></td></tr>
-<tr><td>Author model validations</td><td class="small">name=127 unique &amp; exists, url=255 max. url is real url</td></tr>
-<tr><td>Author.thoughts(lang) gets thoughts by that author in that language</td><td class="small"></td></tr>
-<tr><td>Author.fetch_by_name works with exact name, case insensitive, works with Chinese, etc</td><td class="small"></td></tr>
-<tr><td>Author:tops(limit) gets authors and count</td><td class="small">&quot;SELECT authors.*, COUNT(*) AS howmany FROM thoughts, authors WHERE thoughts.author_id=authors.id AND name NOT IN ('', 'anonymous', 'unknown') GROUP BY authors.id, authors.name, authors.url ORDER BY COUNT(*) DESC LIMIT %d&quot;</td></tr>
-<tr><td>Author:search finds even bits of name</td><td class="small">search for '近' will find '最近更'. 'and' will find 'Randy Newman'</td></tr>
-<tr><td>Author:all_howmany authors with howmany() attribute, showing howmany approved thoughts that author has</td><td class="small">&quot;SELECT authors.*, COUNT(thoughts.id) AS howmany FROM thoughts LEFT JOIN authors ON thoughts.author_id=authors.id WHERE thoughts.approved=TRUE AND authors.name NOT IN ('unknown', '', 'proverb') GROUP BY authors.id, authors.name, authors.url ORDER BY COUNT(thoughts.id) DESC&quot;</td></tr>
-<tr><td>Category.name returns translated name</td><td class="small"></td></tr>
-<tr><td>Category.thoughts(:lang) returns all thoughts in that category and language</td><td class="small"></td></tr>
-<tr><td>Category:search finds even bits of translated category name</td><td class="small">search for '樂' will find '音樂生意'. 'häf' will find 'Musikgeschäft'.  (instead of database search I looped through parsed translated names just doing multibyte regex search)</td></tr>
-<tr><td>Category:all_howmany() returns translated category + howmany thoughts it has</td><td class="small">&quot;SELECT categories.*, COUNT(*) AS howmany FROM categories LEFT JOIN categories_thoughts ON categories.id=categories_thoughts.category_id LEFT JOIN thoughts ON categories_thoughts.thought_id=thoughts.id WHERE thoughts.approved=TRUE GROUP BY categories.id, categories.description ORDER BY description ASC&quot;;</td></tr>
-<tr><td>Contributor model validations</td><td class="small">person_id required &amp; exists in people.persons table</td></tr>
-<tr><td>Contributor.person returns person. Contributor.name, Contributor.email. Contributor.url</td><td class="small"></td></tr>
-<tr><td>Contributor:get_by_email</td><td class="small"></td></tr>
-<tr><td>Contributor:tops(:limit) = Contributors with most thoughts + howmany</td><td class="small">&quot;SELECT contributors.*, COUNT(*) AS howmany FROM thoughts, contributors WHERE thoughts.contributor_id=contributors.id AND name NOT IN ('', 'anonymous', 'unknown') AND thoughts.approved=TRUE GROUP BY contributors.id, contributors.shared_id, contributors.name, contributors.email, contributors.url, contributors.place ORDER BY COUNT(*) DESC LIMIT %d&quot;</td></tr>
-<tr><td>Contributor:search finds even bits of name</td><td class="small">search for '近' will find '最近更'. 'and' will find 'Randy Newman'</td></tr>
-<tr><td>Contributor:all_howmany</td><td class="small">&quot;SELECT contributors.*, COUNT(thoughts.id) AS howmany FROM thoughts LEFT JOIN contributors ON thoughts.contributor_id=contributors.id WHERE thoughts.approved=TRUE AND contributors.name NOT IN ('unknown', '', 'proverb') GROUP BY contributors.id, contributors.shared_id, contributors.name, contributors.email, contributors.url, contributors.place ORDER BY COUNT(thoughts.id) DESC&quot;</td></tr>
-<tr><td>clean URL helper</td><td class="small">IN='http://www.something.net/blog/2009/08/10/tralala.html?page=vuew'  OUT='something.net'. Used for displaying URLs on screen.</td></tr>
-<tr><td>languages menu:</td><td class="small">'en' =&gt; 'English', 'es' =&gt; 'Español', 'fr' =&gt; 'Français', 'de' =&gt; 'Deutsch', 'it' =&gt; 'Italiano', 'pt' =&gt; 'Português', 'ru' =&gt; 'Русский', 'zh' =&gt; '中文', 'ja' =&gt; '日本語', 'ar' =&gt; 'ﺎﻠﻋﺮﺒﻳﺓ'</td></tr>
-<tr><td>sitemap.xml maker</td><td class="small">see PHP sitemap-maker.php</td></tr>
-<tr><td>lang.pro thought_translation sync</td><td class="small">see PHP sync-translations.php</td></tr>
-<tr><td>lang.pro words sync</td><td class="small">see PHP sync-words.php</td></tr>
-<tr><td>Thought validations</td><td class="small">source_url = 255 max &amp; is real URL, author_id &amp; contributor_id match, approved &amp; as_rand = false. language in ('en', 'es', 'fr', 'ja', 'zh', 'de', 'it', 'pt', 'ru', 'ar')</td></tr>
-<tr><td>Thought.delete cascades</td><td class="small">&quot;DELETE FROM categories_thoughts WHERE thought_id={$this-&gt;id}&quot; &quot;DELETE FROM thought_translations WHERE thought_id={$this-&gt;id}&quot; (&quot;DELETE FROM thoughts WHERE id={$this-&gt;id}&quot;)<br />
-	(&quot;SELECT id FROM thoughts WHERE author_id=&quot; . $this-&gt;me['author_id']) IF NONE: &quot;DELETE FROM authors WHERE id=&quot; . $this-&gt;me['author_id']<br />
-	(&quot;SELECT id FROM thoughts WHERE contributor_id=&quot; . $this-&gt;me['contributor_id']) IF NONE: &quot;DELETE FROM contributors WHERE id=&quot; . $this-&gt;me['contributor_id']</td></tr>
-<tr><td>Thought:add, in one post, adds thought then thought_translation with lang</td><td class="small"></td></tr>
-<tr><td>Thought.author returns Author</td><td class="small"></td></tr>
-<tr><td>Thought.contributor returns Contributor</td><td class="small"></td></tr>
-<tr><td>Thought.categories returns array of its Categories</td><td class="small"></td></tr>
-<tr><td>Thought.categories syncs to both remove and add</td><td class="small">If it has 3, then boxes are unchecked to make it only 1, it deletes 3, adds 1.  Maybe delete all each time, and add them back, to ensure.</td></tr>
-<tr><td>Thought.intro(:words) shows this many words, no line breaks, then elipses.</td><td class="small">IMPORTANT: language-sensitive. if Chinese there will be no spaces ('資訊不等於學問。學問不等於智慧。智慧不等於真理。真理不等於美。美不等於愛。愛不等於音樂。音樂')</td></tr>
-<tr><td>Thought.translations shows all ThoughtTranslations</td><td class="small"></td></tr>
-<tr><td>Thought.send2langpro POSTs to lang.pro</td><td class="small">PARAMS: 'project_id=1&amp;remote_id=%d&amp;lang=%s&amp;original=' . urlencode($t-&gt;thought()) .'&amp;context_url=' . urlencode('http://musicthoughts.com/t/' . $this-&gt;id)<br />
-		POST: 'curl -s -i -X POST -d &quot;' . $post . '&quot; -u user:pass http://lang.pro/original'</td></tr>
-<tr><td>Thought:find(:id, :lang) falls back to English if that :lang not found</td><td class="small"></td></tr>
-<tr><td>Thought:random1(:lang) returns one thought in lang where as_rand=TRUE</td><td class="small">&quot;SELECT thoughts.*, thought_translations.thought FROM thoughts LEFT JOIN thought_translations ON thoughts.id=thought_translations.thought_id WHERE as_rand=TRUE AND thought_translations.lang='$lang' ORDER BY RANDOM() LIMIT 1&quot;</td></tr>
-<tr><td>Thought:unapproved1 returns next unapproved thought, for admins:</td><td class="small">&quot;SELECT * FROM thoughts WHERE approved=FALSE ORDER BY id ASC LIMIT 1&quot;</td></tr>
-<tr><td>Thought:in_category(:id, :lang)</td><td class="small">&quot;SELECT thoughts.*, thought_translations.thought FROM thoughts, categories_thoughts, thought_translations WHERE thoughts.id=thought_translations.thought_id AND thoughts.id=categories_thoughts.thought_id AND thought_translations.lang='$lang' AND categories_thoughts.category_id=$id AND approved=TRUE ORDER BY id DESC&quot;</td></tr>
-<tr><td>Thought:for_author(:id, :lang)</td><td class="small">&quot;SELECT thoughts.*, thought_translations.thought FROM thoughts, thought_translations WHERE thoughts.id=thought_translations.thought_id AND thought_translations.lang='$lang' AND author_id=:id AND approved=TRUE ORDER BY id DESC&quot;</td></tr>
-<tr><td>Thought:for_contributor(:id, :lang)</td><td class="small">&quot;SELECT thoughts.*, thought_translations.thought FROM thoughts, thought_translations WHERE thoughts.id=thought_translations.thought_id AND thought_translations.lang='$lang' AND contributr_id=:id AND approved=TRUE ORDER BY id DESC&quot;</td></tr>
-<tr><td>Thought.newest(:limit, :lang)</td><td class="small"></td></tr>
-<tr><td>Thought:search_for(:query, :lang)</td><td class="small">&quot;SELECT thoughts.*, thought_translations.thought FROM thoughts, thought_translations WHERE thoughts.id=thought_translations.thought_id AND thought_translations.lang='$lang' AND approved=TRUE AND LOWER(thought) LIKE '%&quot; . pg_escape_string(strtolower(:query)) . &quot;%' ORDER BY id DESC&quot;</td></tr>
-<tr><td>Thought:search(:query, :lang) = big search of Thought, Author, Contributor</td><td class="small">Used for big search box.  Example: someone searching &quot;Miles Davis&quot; would need to see thoughts where Miles Davis is Author, but also thoughts where &quot;Miles Davis&quot; is part of thought string, even if said by someone else.  And just in case: where Miles Davis is contributor.  All thoughts that meet this are shown, categorized.</td></tr>
-<tr><td>Thought:unapproved</td><td class="small">&quot;SELECT * FROM thoughts WHERE approved=FALSE ORDER BY id DESC&quot;</td></tr>
-<tr><td>ThoughtTranslation:by_id_lang(:thought_id, :lang)</td><td class="small">&quot;SELECT * FROM thought_translations WHERE thought_id=%d AND lang='%s'&quot;</td></tr>
-<tr><td>ThoughtTranslation validations</td><td class="small">lang exists, thought exists, translation not empty</td></tr>
-<tr><td>GET: / = links to all ways to browse the site</td><td class="small"></td></tr>
-<tr><td>GET: /t = select random thought and 303-redirect to its URL</td><td class="small"></td></tr>
-<tr><td>GET: /t/123 = show that thought + its info</td><td class="small"></td></tr>
-<tr><td>PUT: /t/123 = update that thought (if admin) (treat all info like one: categories, author, contributor)</td><td class="small"></td></tr>
-<tr><td>POST: /t = add new thought (+ its related info)</td><td class="small"></td></tr>
-<tr><td>DELETE: /t/123 = delete a thought (+ its related info) - (if admin)</td><td class="small"></td></tr>
-<tr><td>GET: /cat = list of categories</td><td class="small"></td></tr>
-<tr><td>POST: /cat = add new category (if admin)</td><td class="small"></td></tr>
-<tr><td>GET: /cat/4 = all thoughts in this category</td><td class="small"></td></tr>
-<tr><td>PUT: /cat/4 = update category language-key (if admin)</td><td class="small"></td></tr>
-<tr><td>DELETE: /cat/4 = delete a category (if admin): refuse if it still has any thoughts</td><td class="small"></td></tr>
-<tr><td>GET: /author = all authors, sorted with most thoughts at top</td><td class="small"></td></tr>
-<tr><td>GET: /author/123 = this author + all his thoughts</td><td class="small"></td></tr>
-<tr><td>PUT: /author/123 = update an author's info (if admin)</td><td class="small"></td></tr>
-<tr><td>GET: /contributor = all contributors, sorted with most thoughts at top</td><td class="small"></td></tr>
-<tr><td>GET: /contributor/123 = this contributor + all his thoughts</td><td class="small"></td></tr>
-<tr><td>PUT: /contributor/123 = update a contributor's info (if admin)</td><td class="small"></td></tr>
-<tr><td>for REST interface, author or contributor not separate</td><td class="small">added by adding them with a thought. deleted when last thought with them is removed.</td></tr>
-<tr><td>GET: /search?q=search+term = list of thoughts, categories, authors with that search result</td><td class="small"></td></tr>
-<tr><td>GET: /add = xhtml form to add new thought (posts to /t)</td><td class="small"></td></tr>
-<tr><td>GET: /thanks = thanks for adding thought</td><td class="small"></td></tr>
-<tr><td>GET: /style shows list of css styles, shows current one</td><td class="small"></td></tr>
-<tr><td>PUT: /style sets 'css' cookie, redirecting to referer if in musicthoughts.com</td><td class="small"></td></tr>
-<tr><td>GET: /language shows list of languages, shows current one</td><td class="small"></td></tr>
-<tr><td>PUT: /language sets 'lang' cookie, redirecting to referer if in musicthoughts.com</td><td class="small"></td></tr>
-<tr><td>REST server language-switching. DISCUSS.</td><td class="small">1st priority = lang set at end of GET URL  (musicthoughts.com/t/123/zh)<br />
-	2nd priority = lang set in COOKIE ['lang'] (or just in HTTP request somehow?)</td></tr>
-<tr><td>client-site language-switching</td><td class="small">1st priority = lang set at end of GET URL  (musicthoughts.com/t/123/zh)<br />
-	2nd priority = lang set in COOKIE ['lang']<br />
-	3rd priority = language mapped from their IP location<br />
-	4th priority = lang set in their browser</td></tr>
-<tr><td>site goes rtl for Arabic</td><td class="small">might need to give it alternate stylesheet when in Arabic, too. check for existence of $style-$lang.css first. if none, default to $style.css</td></tr>
-<tr><td>CSS switching between approved styles</td><td class="small">if(isset($_POST['css']) &amp;&amp; in_array($_POST['css'], $style_whitelist)) { setcookie('css', $_POST['css'], time() + 36000, '/'); $qq-&gt;redirect(''); }</td></tr>
-<tr><td>/add POSTed form remembers these as cookies for future: ('contributor', 'contributor_place', 'contributor_email', 'contributor_url')</td><td class="small"></td></tr>
-<tr><td>/add POSTed redirects back to /add with flash warning unless validations:</td><td class="small">strlen($_POST['thought']) &gt; 10<br />
-	strlen($_POST['author']) &gt;= 2<br />
-	is_valid_email_address($_POST['contributor_email'])</td></tr>
-<tr><td>/add POSTed searches people.person for contributor_email, uses it if found, adds if not</td><td class="small"></td></tr>
-<tr><td>/add POSTed searches for author name (case insensitive), uses it if found, adds if not.</td><td class="small"></td></tr>
-<tr><td>GET: /unapproved = (if admin) list of unapproved thoughts</td><td class="small">goes either to GET /edit/%d or DELETE /t/%d</td></tr>
-<tr><td>GET: /edit/123 = (if admin) form to edit all aspects of a thought.</td><td class="small">submits as PUT to /t/123</td></tr>
-</table>
-
-<h2>database schema</h2>
-<pre>
-BEGIN;
-CREATE SCHEMA musicthoughts;
-SET search_path = musicthoughts;
-
-CREATE TABLE categories (
-	id serial primary key,
-	description varchar(64) UNIQUE
-);
-
-CREATE TABLE authors (
-	id serial primary key,
-	name varchar(127) UNIQUE,
-	url varchar(255)
-);
-
-CREATE TABLE contributors (
-	id serial primary key,
-	shared_id integer UNIQUE, 
-	name varchar(127),
-	email varchar(127) UNIQUE,
-	url varchar(255),
-	place varchar(255)
-);
-
-CREATE TABLE thoughts (
-	id serial primary key,
-	approved boolean default false not null,
-	author_id integer not null REFERENCES authors(id),
-	contributor_id integer not null REFERENCES contributors(id),
-	created_at date not null default CURRENT_DATE,
-	as_rand boolean not null default false,
-	source_url varchar(255)
-);
-
-CREATE TABLE thought_translations (
-	id serial primary key,
-	thought_id integer not null REFERENCES thoughts(id),
-	lang char(2) not null default 'en',
-	thought text,
-	UNIQUE (thought_id, lang)
-);
-
-CREATE TABLE categories_thoughts (
-	thought_id integer not null REFERENCES thoughts(id),
-	category_id integer not null REFERENCES categories(id),
-	PRIMARY KEY (thought_id, category_id)
-);
-CREATE INDEX ctti ON categories_thoughts(thought_id);
-CREATE INDEX ctci ON categories_thoughts(category_id);
-
-COMMIT;
-</pre>
 

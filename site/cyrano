@@ -36,8 +36,6 @@ Clearly, this is a goofy light-hearted thing, only meant for those who don't tak
 
 <h3>Status: building. Not launched.</h3>
 
-<h3>CODE: <a href="https://github.com/50pop/cyrano-api">cyrano-api</a>, <a href="https://github.com/50pop/cyrano-gem">cyrano-gem</a>, <a href="https://github.com/50pop/cyrano-web">cyrano-web</a></h3>
-
 <h2>database schema</h2>
 <pre>
 CREATE SCHEMA cyrano;
