@@ -19,6 +19,8 @@
 
   <h1>Tweets</h1>
   <dl id="tweetlist">
+    <dt>June 30, 2015</dt>
+    <dd>I sponsored the OpenBSD port of Elixir 1.0.5 &amp; Erlang 18: <a href="http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/elixir/">http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/elixir/</a></dd>
     <dt>June 24, 2015</dt>
     <dd>Must-read: “Easy vs Hard”: <a href="http://www.sandpapersuit.com/2012/11/easy-vs-hard.html">http://www.sandpapersuit.com/2012/11/easy-vs-hard.html</a></dd>
     <dt>May 29, 2015</dt>

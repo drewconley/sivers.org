@@ -124,6 +124,8 @@
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>June 30</dt>
+		<dd>I sponsored the OpenBSD port of Elixir 1.0.5 &amp; Erlang 18: <a href="http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/elixir/">http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/elixir/</a></dd>
 		<dt>June 24</dt>
 		<dd>Must-read: “Easy vs Hard”: <a href="http://www.sandpapersuit.com/2012/11/easy-vs-hard.html">http://www.sandpapersuit.com/2012/11/easy-vs-hard.html</a></dd>
 		<dt>May 29</dt>
@@ -134,8 +136,6 @@
 		<dd>When I write a tech blog post it feels like: ME: “I like doing this.” WORLD: “No! Idiot! You’re wrong! I don’t like doing that!” ☺</dd>
 		<dt>May 4</dt>
 		<dd>(for programmers) Simplify: move code into database functions: <a href="http://sivers.org/pg">http://sivers.org/pg</a></dd>
-		<dt>April 30</dt>
-		<dd>Her: “I’ll need a few weeks to process before I’m ready to move on.” Me: “For you a few weeks tends to take about a day.” Her: “Good point.”</dd>
 	</dl>
 </section>
 
