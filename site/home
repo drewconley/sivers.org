@@ -124,6 +124,8 @@
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>July 28</dt>
+		<dd>“The happiest of all lives is a busy solitude.” — Voltaire</dd>
 		<dt>June 30</dt>
 		<dd>I sponsored the OpenBSD port of Elixir 1.0.5 &amp; Erlang 18: <a href="http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/elixir/">http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/elixir/</a></dd>
 		<dt>June 24</dt>
@@ -134,8 +136,6 @@
 		<dd>3 new book notes: <a href="http://sivers.org/book">http://sivers.org/book</a>  (sort by date to see newest or rating to see best)</dd>
 		<dt>May 5</dt>
 		<dd>When I write a tech blog post it feels like: ME: “I like doing this.” WORLD: “No! Idiot! You’re wrong! I don’t like doing that!” ☺</dd>
-		<dt>May 4</dt>
-		<dd>(for programmers) Simplify: move code into database functions: <a href="http://sivers.org/pg">http://sivers.org/pg</a></dd>
 	</dl>
 </section>
 

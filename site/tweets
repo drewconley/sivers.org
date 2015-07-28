@@ -19,6 +19,8 @@
 
   <h1>Tweets</h1>
   <dl id="tweetlist">
+    <dt>July 28, 2015</dt>
+    <dd>“The happiest of all lives is a busy solitude.” — Voltaire</dd>
     <dt>June 30, 2015</dt>
     <dd>I sponsored the OpenBSD port of Elixir 1.0.5 &amp; Erlang 18: <a href="http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/elixir/">http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/elixir/</a></dd>
     <dt>June 24, 2015</dt>
