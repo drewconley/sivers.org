@@ -124,6 +124,8 @@
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>August 8</dt>
+		<dd>Best instrument seen in Musical Instruments Museum <a href="http://mim.be/">http://mim.be/</a> is Benjamin Franklin’s Glass Armonica <a href="https://youtu.be/8D9BBMDWoNM?t=20s">https://youtu.be/8D9BBMDWoNM?t=20s</a></dd>
 		<dt>July 28</dt>
 		<dd>“The happiest of all lives is a busy solitude.” — Voltaire</dd>
 		<dt>June 30</dt>
@@ -134,8 +136,6 @@
 		<dd>Attention New Zealand: <a href="http://tedxwellington.com/blog/2015/05/25/tedxwellington-2015-date-announcement-call-for-speakers-performers/">http://tedxwellington.com/blog/2015/05/25/tedxwellington-2015-date-announcement-call-for-speakers-performers/</a>  Looking for interesting ideas, no matter who from. Please sign up soon. I&#39;m curating &amp; coaching.</dd>
 		<dt>May 8</dt>
 		<dd>3 new book notes: <a href="http://sivers.org/book">http://sivers.org/book</a>  (sort by date to see newest or rating to see best)</dd>
-		<dt>May 5</dt>
-		<dd>When I write a tech blog post it feels like: ME: “I like doing this.” WORLD: “No! Idiot! You’re wrong! I don’t like doing that!” ☺</dd>
 	</dl>
 </section>
 
