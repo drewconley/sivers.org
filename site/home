@@ -124,6 +124,8 @@
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>August 20</dt>
+		<dd>What’s the best way to achieve a new goal? <a href="http://www.npr.org/2015/08/14/431540456/what-s-the-best-way-to-achieve-a-new-goal">http://www.npr.org/2015/08/14/431540456/what-s-the-best-way-to-achieve-a-new-goal</a></dd>
 		<dt>August 18</dt>
 		<dd>That great No Diggity riff <a href="http://youtu.be/3KL9mRus19o">http://youtu.be/3KL9mRus19o</a> is from Bill Withers Grandma&#39;s Hands <a href="http://youtu.be/IxjNauWYFfc">http://youtu.be/IxjNauWYFfc</a></dd>
 		<dt>August 8</dt>
@@ -134,8 +136,6 @@
 		<dd>I sponsored the OpenBSD port of Elixir 1.0.5 &amp; Erlang 18: <a href="http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/elixir/">http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/elixir/</a></dd>
 		<dt>June 24</dt>
 		<dd>Must-read: “Easy vs Hard”: <a href="http://www.sandpapersuit.com/2012/11/easy-vs-hard.html">http://www.sandpapersuit.com/2012/11/easy-vs-hard.html</a></dd>
-		<dt>May 29</dt>
-		<dd>Attention New Zealand: <a href="http://tedxwellington.com/blog/2015/05/25/tedxwellington-2015-date-announcement-call-for-speakers-performers/">http://tedxwellington.com/blog/2015/05/25/tedxwellington-2015-date-announcement-call-for-speakers-performers/</a>  Looking for interesting ideas, no matter who from. Please sign up soon. I&#39;m curating &amp; coaching.</dd>
 	</dl>
 </section>
 
