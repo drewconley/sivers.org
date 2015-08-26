@@ -124,6 +124,8 @@
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>August 27</dt>
+		<dd>Don’t worry about your ambition, about stepping on people’s toes. You’re just teaching them how to dance.</dd>
 		<dt>August 20</dt>
 		<dd>What’s the best way to achieve a new goal? <a href="http://www.npr.org/2015/08/14/431540456/what-s-the-best-way-to-achieve-a-new-goal">http://www.npr.org/2015/08/14/431540456/what-s-the-best-way-to-achieve-a-new-goal</a></dd>
 		<dt>August 18</dt>
@@ -134,8 +136,6 @@
 		<dd>“The happiest of all lives is a busy solitude.” — Voltaire</dd>
 		<dt>June 30</dt>
 		<dd>I sponsored the OpenBSD port of Elixir 1.0.5 &amp; Erlang 18: <a href="http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/elixir/">http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/elixir/</a></dd>
-		<dt>June 24</dt>
-		<dd>Must-read: “Easy vs Hard”: <a href="http://www.sandpapersuit.com/2012/11/easy-vs-hard.html">http://www.sandpapersuit.com/2012/11/easy-vs-hard.html</a></dd>
 	</dl>
 </section>
 
