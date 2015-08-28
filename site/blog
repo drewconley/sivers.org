@@ -19,6 +19,7 @@
 
   <h1>Blog</h1>
   <ul>
+    <li><a href="/2do">“Just tell me what to do”: compressing books into directives</a></li>
     <li><a href="/pg">Simplify: move code into database functions</a></li>
     <li><a href="/bad">Getting out of a bad place</a></li>
     <li><a href="/career">How to change or build your career</a></li>

@@ -54,12 +54,12 @@
 <section id="newestarticles">
 	<h2>Newest Posts <small><a href="/blog">see all posts</a></small></h2>
 	<ul>
+		<li><a href="/2do">“Just tell me what to do”: compressing books into directives</a></li>
 		<li><a href="/pg">Simplify: move code into database functions</a></li>
 		<li><a href="/bad">Getting out of a bad place</a></li>
 		<li><a href="/career">How to change or build your career</a></li>
 		<li><a href="/mindset">Fixed mindset vs Growth mindset</a></li>
 		<li><a href="/lw">I love being wrong</a></li>
-		<li><a href="/cs">The philosophy of great customer service</a></li>
 	</ul>
 </section>
 

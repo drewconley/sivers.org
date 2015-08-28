@@ -2,11 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2015-08-29T05:02:04+12:00</updated>
+  <updated>2015-08-29T05:37:39+12:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>“Just tell me what to do”: compressing books into directives</title>
+    <id>http://sivers.org/2do</id>
+    <updated>2015-08-29T00:00:00+00:00</updated>
+    <published>2015-08-29T00:00:00+00:00</published>
+    <link href="http://sivers.org/2do"/>
+    <content type="html">
+&lt;h3&gt;
+	Internalizing books
+&lt;/h3&gt;
+&lt;p&gt;
+	Wanting to be successful, I’ve always read every book I thought could help.
+	Even if a book had just one useful insight, it was worth the $20 and my time spent reading and thinking.
+&lt;/p&gt;&lt;p&gt;
+	A few years ago, I realized I was forgetting the lessons I’d learned from past books.
+	So I started taking detailed notes while reading, saving every important idea.
+	I wanted to permanently remember what I’d learned, and act on it.
+&lt;/p&gt;&lt;p&gt;
+	I saved these notes as text files and put them on my phone, so I could review them often.
+	Now I also share them on my site at &lt;a href="/book"&gt;sivers.org/book&lt;/a&gt;.
+	There are over 200 books there now, with my top recommendations at the top. Enjoy.
+&lt;/p&gt;
+
+&lt;h3&gt;
+	“Just tell me what to do.”
+&lt;/h3&gt;
+&lt;p&gt;
+	When I’d tell my friends about a great book I’d just read, they didn’t want to read it.
+	They didn’t want 300 pages of anecdotes, explanations, and supporting arguments.
+	They’d say, “Just tell me what to do.”
+&lt;/p&gt;&lt;p&gt;
+	I realized that for some things, I also don’t want the full 20-hour explanation.
+	I’d be happier with just the conclusions — the actions — the directives.
+&lt;/p&gt;&lt;p&gt;
+	For example, I’d heard great things about Michael Pollan’s book “&lt;a href="http://michaelpollan.com/books/the-omnivores-dilemma/"&gt;The Omnivore’s Dilemma&lt;/a&gt;”.
+	But 450 pages about the history of food?  Eh...
+&lt;/p&gt;&lt;p&gt;
+	Then two years later he wrote “&lt;a href="http://michaelpollan.com/books/in-defense-of-food/"&gt;In Defense of Food&lt;/a&gt;”.
+	It sounded like a tighter argument at 250 pages, but... eh....
+&lt;/p&gt;&lt;p&gt;
+	Then he wrote “&lt;a href="http://michaelpollan.com/books/food-rules/"&gt;Food Rules&lt;/a&gt;”, a tiny little book that &lt;strong&gt;compresses all of his advice into 64 sentences&lt;/strong&gt;.
+	&lt;a href="/hellyeah"&gt;Hell yeah!&lt;/a&gt;
+&lt;/p&gt;&lt;p&gt;
+	It takes only 30 minutes to read, with succinct advice like “Eat only foods that will eventually rot.” and “Avoid food products that make health claims.”
+	Each point has just a few sentences of explanation.
+	That’s all I needed, because I already trust him.
+	But you can reference his previous book if you want the supporting evidence behind the advice.
+&lt;/p&gt;&lt;p&gt;
+	Compressing wisdom into directives — (“Do &lt;em&gt;this&lt;/em&gt;.”) — is so valuable, but so rarely done.
+	It feels arrogant and imperial to tell people what to do.
+	Who am I to order people around?
+	On the other hand, who am I &lt;em&gt;not&lt;/em&gt; to?
+	It’s useful to people, so do it.
+&lt;/p&gt;&lt;p&gt;
+	I’m humble.
+	I don’t expect anyone to actually do what I say.
+	It’s just a succinct and powerful way to communicate an idea.
+	Focus on the action.
+&lt;/p&gt;
+
+&lt;h3&gt;
+	Compressing books into directives
+&lt;/h3&gt;
+&lt;p&gt;
+	So I spent the last few months going through all my notes for 220 books.
+&lt;/p&gt;&lt;p&gt;
+	First I extracted just the most essential and counterintuitive points.
+&lt;/p&gt;&lt;p&gt;
+	Then the hardest part was turning observations into advice.
+&lt;/p&gt;&lt;p&gt;
+	For example, this observation —
+&lt;blockquote&gt;
+	“Behavioral psychologists Stephen M. Garcia and Avishalom Tor showed that merely knowing there are more competitors in a competition decreases our performance.”
+&lt;/blockquote&gt;
+	— turns into this advice:
+&lt;blockquote&gt;
+	“Avoid awareness of competitors.”
+&lt;/blockquote&gt;
+&lt;/p&gt;&lt;p&gt;
+	But what about this observation?
+&lt;blockquote&gt;
+	“Half a group was shown that extraverts are more successful.  Other half shown that introverts are more successful.  Then when asked to recall events from their past to help determine which they were, they remembered just the events that support the successful group they were told.”
+&lt;/blockquote&gt;
+	How would you turn that into advice?
+&lt;/p&gt;
+
+&lt;h3&gt;
+	The result?
+&lt;/h3&gt;
+&lt;p&gt;
+	I’ve now got hundreds of these wise directives.
+&lt;/p&gt;&lt;p&gt;
+	I tried turning them into a 30-minute talk for a conference, but it was a disaster.
+	Fun for the first three minutes, then overwhelming.
+	A 30-minute TO-DO list that would take a lifetime to complete.
+&lt;/p&gt;&lt;p&gt;
+	I would just list them all here, but I think that would be less useful.
+	I like presenting &lt;a href="/1idea"&gt;one idea at a time&lt;/a&gt;.
+	With just the directive and a short explanation, it’s a good blog format.
+	I’ll link them back to this page for a meta-explanation, and update this page with links to them when I do.
+&lt;/p&gt;&lt;p&gt;
+	Maybe I’ll turn them into a book.
+	(I like the title “Do This”.)
+&lt;/p&gt;&lt;p&gt;
+	&lt;strong&gt;Any other ideas?&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+	&lt;strong&gt;To be notified when I post these&lt;/strong&gt;, please get on &lt;a href="https://sivers.org/list"&gt;my private email list&lt;/a&gt;.
+	You can also follow my 
+	&lt;a href="https://twitter.com/sivers"&gt;Twitter&lt;/a&gt;, 
+	&lt;a href="https://www.facebook.com/sivers"&gt;Facebook&lt;/a&gt;, 
+	&lt;a href="https://plus.google.com/+DerekSivers1/"&gt;Google+&lt;/a&gt;, or
+	&lt;a href="http://sivers.org/en.atom"&gt;RSS&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;img src="/images/bonsai.jpg" width="600" height="398" alt="picture of Bonsai tree"&gt;
+&lt;div class="small"&gt;(Bonsai photo by &lt;a href="https://www.flickr.com/photos/grufnik/408948777"&gt;Grufnik&lt;/a&gt;.)&lt;/div&gt;
+
+</content>
+  </entry>
   <entry>
     <title>Simplify: move code into database functions</title>
     <id>http://sivers.org/pg</id>
@@ -2100,69 +2219,6 @@ I said, “Jac! &lt;strong&gt;I’m going to Bali because of YOU!&lt;/strong&gt;
 &lt;/p&gt;&lt;p&gt;
 Ah, the loops and circles of life.
 &lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Why am I here?</title>
-    <id>http://sivers.org/here</id>
-    <updated>2013-12-20T00:00:00+00:00</updated>
-    <published>2013-12-20T00:00:00+00:00</published>
-    <link href="http://sivers.org/here"/>
-    <content type="html">&lt;p&gt;
-Looking around the room.
-&lt;/p&gt;&lt;p&gt;
-“Why am I here?”
-&lt;/p&gt;&lt;p&gt;
-It’s a useful question to ask often.
-&lt;/p&gt;&lt;p&gt;
-Either it will &lt;strong&gt;re-focus&lt;/strong&gt; your reasons for being where you are, or it will make you realize your reasons have &lt;strong&gt;expired&lt;/strong&gt; and you should be somewhere else.
-&lt;/p&gt;&lt;p&gt;
-In a little apartment in Singapore, I ask it again.
-&lt;/p&gt;&lt;p&gt;
-“Why am I here?”
-&lt;/p&gt;&lt;p&gt;
-Because of the brilliant and fascinating people here.
-&lt;/p&gt;&lt;p&gt;
-&lt;em&gt;(But I’m refusing all requests to meet, to stay focused on my work.  For the past 3 years I was very social, but now I’m not.)&lt;/em&gt;
-&lt;/p&gt;&lt;p&gt;
-Because I love learning about Asia, and Singapore is a great central home base for that.
-&lt;/p&gt;&lt;p&gt;
-&lt;em&gt;(But I’m not exploring Asia right now.  For the past 3 years I was, but now I’m inwardly-focused on my writing and programming.)&lt;/em&gt;
-&lt;/p&gt;&lt;p&gt;
-Because I love and admire it, and it feels like home.
-&lt;/p&gt;&lt;p&gt;
-&lt;em&gt;(But I’ve loved everywhere I’ve lived, from California to New York to London to Portland.  They’ve all felt like home.  Future places will feel like home, too.)&lt;/em&gt;
-&lt;/p&gt;&lt;p&gt;
-Because I’m here right now.
-&lt;/p&gt;&lt;p&gt;
-&lt;em&gt;(But there are airplanes.  You can sit in them.)&lt;/em&gt;
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;Most of us are where we are because of decisions we made years ago.  But are those reasons still current for what we need now?  Ask again.&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-“Why am I here?”
-&lt;/p&gt;&lt;p&gt;
-Damn.  I ran out of reasons.  I should be somewhere else.
-&lt;/p&gt;&lt;p&gt;
-I want silence, solitude, and wide open spaces.
-&lt;/p&gt;&lt;p&gt;
-I want to work all day while listening to nothing but birds and wind in the trees.
-&lt;/p&gt;&lt;p&gt;
-I want an intentional lack of distractions, far far away, to cure my tendency to say yes to intellectually stimulating events.
-&lt;/p&gt;&lt;p&gt;
-So the answer was clear.
-&lt;/p&gt;&lt;p&gt;
-I moved to New Zealand’s South Island.
-&lt;/p&gt;&lt;p&gt;
-&lt;a href="http://www.newzealand.com/int/nelson/"&gt;Here&lt;/a&gt; I am.
-&lt;/p&gt;&lt;p&gt;
-“Why am I here?”
-&lt;/p&gt;&lt;p&gt;
-To work.  To focus.  To write.  To code.  To launch.
-&lt;/p&gt;&lt;p&gt;
-Yes. Good answer.
-&lt;/p&gt;
-&lt;a href="http://www.flickr.com/photos/stuckincustoms/7960290272/"&gt;&lt;img src="/images/milford.jpg" width="680" height="617" alt="New Zealand photo"&gt;&lt;/a&gt;&lt;span class="small"&gt;(&lt;a href="http://www.flickr.com/photos/stuckincustoms/7960290272/"&gt;photo&lt;/a&gt; by Trey Ratcliff)&lt;/span&gt;
-
 </content>
   </entry>
 </feed>
