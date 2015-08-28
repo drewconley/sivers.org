@@ -124,6 +124,8 @@
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>August 29</dt>
+		<dd>“Just tell me what to do”: compressing books into directives: <a href="http://sivers.org/2do">http://sivers.org/2do</a></dd>
 		<dt>August 27</dt>
 		<dd>Don’t worry about your ambition, about stepping on people’s toes. You’re just teaching them how to dance.</dd>
 		<dt>August 20</dt>
@@ -134,8 +136,6 @@
 		<dd>Best instrument seen in Musical Instruments Museum <a href="http://mim.be/">http://mim.be/</a> is Benjamin Franklin’s Glass Armonica <a href="https://youtu.be/8D9BBMDWoNM?t=20s">https://youtu.be/8D9BBMDWoNM?t=20s</a></dd>
 		<dt>July 28</dt>
 		<dd>“The happiest of all lives is a busy solitude.” — Voltaire</dd>
-		<dt>June 30</dt>
-		<dd>I sponsored the OpenBSD port of Elixir 1.0.5 &amp; Erlang 18: <a href="http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/elixir/">http://cvsweb.openbsd.org/cgi-bin/cvsweb/ports/lang/elixir/</a></dd>
 	</dl>
 </section>
 
