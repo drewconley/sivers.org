@@ -19,6 +19,8 @@
 
   <h1>Tweets</h1>
   <dl id="tweetlist">
+    <dt>September 2, 2015</dt>
+    <dd>I am such a Vi Hart fan: <a href="https://www.youtube.com/user/Vihart">https://www.youtube.com/user/Vihart</a></dd>
     <dt>August 29, 2015</dt>
     <dd>“Just tell me what to do”: compressing books into directives: <a href="http://sivers.org/2do">http://sivers.org/2do</a></dd>
     <dt>August 27, 2015</dt>
