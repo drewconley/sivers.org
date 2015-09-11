@@ -19,6 +19,8 @@
 
   <h1>Tweets</h1>
   <dl id="tweetlist">
+    <dt>September 11, 2015</dt>
+    <dd>Learning Elm using <a href="https://pragmaticstudio.com/elm">https://pragmaticstudio.com/elm</a> &amp; <a href="https://pragmaticstudio.com/elm-signals">https://pragmaticstudio.com/elm-signals</a>  Extra appealing since I want to learn Haskell.</dd>
     <dt>September 4, 2015</dt>
     <dd>Curious where I&#39;m going with the “just tell me what to do” <a href="http://sivers.org/2do">http://sivers.org/2do</a> idea? See <a href="https://springismylove.wordpress.com/2015/09/03/derek-sivers-purge-the-vampires/">https://springismylove.wordpress.com/2015/09/03/derek-sivers-purge-the-vampires/</a> &amp; <a href="http://videos.theconference.se/derek-sivers-how-to-like-people">http://videos.theconference.se/derek-sivers-how-to-like-people</a></dd>
     <dt>September 2, 2015</dt>
