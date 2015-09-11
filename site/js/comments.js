@@ -7,9 +7,13 @@
 		var alt = (/comment-\d+/.test(window.location.hash)) ? '?reload' : '';
 		try {
 			var xhr = new XMLHttpRequest();
-			xhr.open('get', '/sivers_comments/' + uri + alt, false);
+			xhr.onreadystatechange = function() {
+				if(xhr.readyState == 4 && xhr.status == 200) {
+					ol = xhr.responseText;
+				}
+			};
+			xhr.open('get', '/sivers_comments/' + uri + alt, true);
 			xhr.send(null);
-			if(xhr.status == 200) { ol = xhr.responseText; }
 		} catch(e) { }
 		return ol;
 	}
