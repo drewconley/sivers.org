@@ -125,7 +125,7 @@
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
 		<dt>September 14</dt>
-		<dd>Business-owners talking about money is like car-owners talking about their odometer number. If you think it&#39;s the point, you should look up.</dd>
+		<dd>Business-owners focusing on money is like car-owners focusing on their odometer number. If you think it’s the point, you should look up.</dd>
 		<dt>September 11</dt>
 		<dd>Learning Elm using <a href="https://pragmaticstudio.com/elm">https://pragmaticstudio.com/elm</a> &amp; <a href="https://pragmaticstudio.com/elm-signals">https://pragmaticstudio.com/elm-signals</a>  Extra appealing since I want to learn Haskell.</dd>
 		<dt>September 4</dt>
