@@ -124,6 +124,8 @@
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>September 16</dt>
+		<dd>My book “Anything You Want” is released worldwide on Portfolio/Penguin today: <a href="http://sivers.org/a">http://sivers.org/a</a> (I recommend the 90-minute audiobook.)</dd>
 		<dt>September 14</dt>
 		<dd>Business-owners focusing on money is like car-owners focusing on their odometer number. If you think it’s the point, you should look up.</dd>
 		<dt>September 11</dt>
@@ -134,8 +136,6 @@
 		<dd>I am such a Vi Hart fan: <a href="https://www.youtube.com/user/Vihart">https://www.youtube.com/user/Vihart</a></dd>
 		<dt>August 29</dt>
 		<dd>“Just tell me what to do”: compressing books into directives: <a href="http://sivers.org/2do">http://sivers.org/2do</a></dd>
-		<dt>August 27</dt>
-		<dd>Don’t worry about your ambition, about stepping on people’s toes. You’re just teaching them how to dance.</dd>
 	</dl>
 </section>
 
