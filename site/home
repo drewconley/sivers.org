@@ -54,12 +54,12 @@
 <section id="newestarticles">
 	<h2>Newest Posts <small><a href="/blog">see all posts</a></small></h2>
 	<ul>
+		<li><a href="/no2">Saying no to everything else</a></li>
 		<li><a href="/2do">“Just tell me what to do”: compressing books into directives</a></li>
 		<li><a href="/pg">Simplify: move code into database functions</a></li>
 		<li><a href="/bad">Getting out of a bad place</a></li>
 		<li><a href="/career">How to change or build your career</a></li>
 		<li><a href="/mindset">Fixed mindset vs Growth mindset</a></li>
-		<li><a href="/lw">I love being wrong</a></li>
 	</ul>
 </section>
 
@@ -124,6 +124,8 @@
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>September 24</dt>
+		<dd>Saying no to everything else: <a href="http://sivers.org/no2">http://sivers.org/no2</a></dd>
 		<dt>September 16</dt>
 		<dd>My book “Anything You Want” is released worldwide on Portfolio/Penguin today: <a href="http://sivers.org/a">http://sivers.org/a</a> (I recommend the 90-minute audiobook.)</dd>
 		<dt>September 14</dt>
@@ -134,8 +136,6 @@
 		<dd>Curious where I&#39;m going with the “just tell me what to do” <a href="http://sivers.org/2do">http://sivers.org/2do</a> idea? See <a href="https://springismylove.wordpress.com/2015/09/03/derek-sivers-purge-the-vampires/">https://springismylove.wordpress.com/2015/09/03/derek-sivers-purge-the-vampires/</a> &amp; <a href="http://videos.theconference.se/derek-sivers-how-to-like-people">http://videos.theconference.se/derek-sivers-how-to-like-people</a></dd>
 		<dt>September 2</dt>
 		<dd>I am such a Vi Hart fan: <a href="https://www.youtube.com/user/Vihart">https://www.youtube.com/user/Vihart</a></dd>
-		<dt>August 29</dt>
-		<dd>“Just tell me what to do”: compressing books into directives: <a href="http://sivers.org/2do">http://sivers.org/2do</a></dd>
 	</dl>
 </section>
 
