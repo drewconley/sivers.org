@@ -78,6 +78,11 @@ div#content {
 	code {
 		font-size: 0.8em;
 	}
+	article {
+		img {
+			@extend .pure-img;
+		}
+	}
 }
 
 body#home section {
