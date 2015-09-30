@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Derek Sivers INTERVIEW: Duct Tape Marketing</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+<link rel="stylesheet" href="/css/2015-05.css" type="text/css" media="screen" />
+</head>
+<body id="interview">
+
+<section id="masthead">
+	<h1><a href="/" title="Derek Sivers"><img src="/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Programmer, writer, entrepreneur, avid student of life. I make useful things, and share what I learn.</small>
+</section>
+
+<div id="content">
+
+  <article>
+    <header>
+      <h1>Duct Tape Marketing</h1>
+      <h4>How/when to sell your company, and other business/marketing things.</h4>
+      <p class="postdate">Date: 2011-07</p>
+
+      <h2>Download:</h2>
+      <ul><li><a href="http://sivers.org/file/2011-07-DerekSivers-JohnJantsch.mp3">audio (mp3)</a></ul>
+
+
+      <p>Link: <a href="http://www.ducttapemarketing.com/blog/anything-you-want/">http://www.ducttapemarketing.com/blog/anything-you-want/</a></p>
+
+    </header>
+  <hr>
+
+
+
+
+    <footer>
+      © 2011 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+<div id="comments"></div>
+<script type="text/javascript" src="/js/comments.js"></script>
+
+</div>
+</body>
+</html>
+

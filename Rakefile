@@ -11,6 +11,10 @@ def template(name)
 	ERB.new(File.read("templates/#{name}.erb"))
 end
 
+def h(str)
+	ERB::Util.html_escape(str)
+end
+
 class String
 	def autolink
 		self.gsub(/(http\S*)/, '<a href="\1">\1</a>')
@@ -95,7 +99,7 @@ task :make do
 	@presentations = []
 	Dir['content/presentations/20*'].each do |infile|
 
-		# PARSE. Filename: yyyy-mm-dd-uri
+		# PARSE. Filename: yyyy-mm-uri
 		/(\d{4}-\d{2})-(\S+)/.match File.basename(infile)
 		@month = $1
 		@url = $2
@@ -120,6 +124,51 @@ task :make do
 
 		# save to array for later use in index
 		@presentations << {date: @month, url: @url, title: @title, minutes: @minutes, subhead: @subhead}
+		@urls << @url
+	end
+
+
+	########## READ, PARSE, AND WRITE INTERVIEWS
+	@interviews = []
+	linkext = {'mp3' => 'audio (mp3)', 'mp4' => 'video (mp4)'}
+	linkformat = '<a href="http://sivers.org/file/%s">%s</a>'
+	Dir['content/interviews/20*'].each do |infile|
+		# PARSE. Filename: yyyy-mm-uri - all = uri
+		m = /(\d{4}-\d{2})-\S+/.match File.basename(infile)
+		@month = m[1]
+		@url = m[0]
+		@year = @month[0,4]
+		lines = File.readlines(infile)
+		# required headers:
+		/<!-- TITLE: (.+) -->/.match lines.shift
+		@title = $1
+		/<!-- SUBTITLE: (.+) -->/.match lines.shift
+		@subhead = $1
+		# optional headers:
+		@link = false
+		@downloads = []
+		line = lines.shift
+		until line.strip == '' do
+			m = /<!-- ([A-Z]+): (.+) -->/.match line
+			case m[1]
+			when 'URL' then @link = m[2]
+			when 'DOWNLOAD' then @downloads << (linkformat % [m[2], linkext[m[2][-3..-1]]])
+			end
+			line = lines.shift
+		end
+		@body = lines.join('')
+		@pagetitle = "Derek Sivers INTERVIEW: #{@title}"
+		@bodyid = 'interview'
+
+		# merge with templates and WRITE file
+		html = template('header').result
+		html << template('interview').result
+		html << template('comments').result
+		html << template('footer').result
+		File.open("site/#{@url}", 'w') {|f| f.puts html }
+
+		# save to array for later use in index
+		@interviews << {date: @month, url: @url, title: @title, subhead: @subhead}
 		@urls << @url
 	end
 

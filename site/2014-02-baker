@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Derek Sivers INTERVIEW: The Creative Entrepreneur</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+<link rel="stylesheet" href="/css/2015-05.css" type="text/css" media="screen" />
+</head>
+<body id="interview">
+
+<section id="masthead">
+	<h1><a href="/" title="Derek Sivers"><img src="/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Programmer, writer, entrepreneur, avid student of life. I make useful things, and share what I learn.</small>
+</section>
+
+<div id="content">
+
+  <article>
+    <header>
+      <h1>The Creative Entrepreneur</h1>
+      <h4>Talking with Bob Baker about what to do early in your career, fame, fortune, failure, marketing, and the international life.</h4>
+      <p class="postdate">Date: 2014-02</p>
+
+      <h2>Download:</h2>
+      <ul><li><a href="http://sivers.org/file/2014-02-DerekSivers-BobBaker.mp4">video (mp4)</a></li><li><a href="http://sivers.org/file/2014-02-DerekSivers-BobBaker.mp3">audio (mp3)</a></ul>
+
+
+      <p>Link: <a href="http://www.diycareermanifesto.com/2014/02/derek-sivers-interview.html">http://www.diycareermanifesto.com/2014/02/derek-sivers-interview.html</a></p>
+
+    </header>
+  <hr>
+
+
+
+    <footer>
+      © 2014 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+<div id="comments"></div>
+<script type="text/javascript" src="/js/comments.js"></script>
+
+</div>
+</body>
+</html>
+

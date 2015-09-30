@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Derek Sivers INTERVIEW: Escape from Cubicle Nation</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+<link rel="stylesheet" href="/css/2015-05.css" type="text/css" media="screen" />
+</head>
+<body id="interview">
+
+<section id="masthead">
+	<h1><a href="/" title="Derek Sivers"><img src="/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Programmer, writer, entrepreneur, avid student of life. I make useful things, and share what I learn.</small>
+</section>
+
+<div id="content">
+
+  <article>
+    <header>
+      <h1>Escape from Cubicle Nation</h1>
+      <h4>Do whatever the hell makes you happy! A 30-minute audio interview about business plans, freedom and happiness. </h4>
+      <p class="postdate">Date: 2011-06</p>
+
+      <h2>Download:</h2>
+      <ul><li><a href="http://sivers.org/file/2011-06-DerekSivers-PamelaSlim.mp3">audio (mp3)</a></ul>
+
+
+      <p>Link: <a href="http://www.escapefromcubiclenation.com/2011/06/29/do-whatever-the-hell-makes-you-happy-interview-with-derek-sivers/">http://www.escapefromcubiclenation.com/2011/06/29/do-whatever-the-hell-makes-you-happy-interview-with-derek-sivers/</a></p>
+
+    </header>
+  <hr>
+
+
+
+
+    <footer>
+      © 2011 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+<div id="comments"></div>
+<script type="text/javascript" src="/js/comments.js"></script>
+
+</div>
+</body>
+</html>
+

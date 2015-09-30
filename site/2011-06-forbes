@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Derek Sivers INTERVIEW: Forbes - Michael Ellsberg</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+<link rel="stylesheet" href="/css/2015-05.css" type="text/css" media="screen" />
+</head>
+<body id="interview">
+
+<section id="masthead">
+	<h1><a href="/" title="Derek Sivers"><img src="/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Programmer, writer, entrepreneur, avid student of life. I make useful things, and share what I learn.</small>
+</section>
+
+<div id="content">
+
+  <article>
+    <header>
+      <h1>Forbes - Michael Ellsberg</h1>
+      <h4>A great review of my book, followed by a great interview about minimalism in business. </h4>
+      <p class="postdate">Date: 2011-06</p>
+
+      <h2>Download:</h2>
+      <ul><li><a href="http://sivers.org/file/2011-06-DerekSivers-MichaelEllsberg.mp3">audio (mp3)</a></ul>
+
+
+      <p>Link: <a href="http://blogs.forbes.com/michaelellsberg/2011/06/29/one-of-the-best-hours-youll-ever-spend/">http://blogs.forbes.com/michaelellsberg/2011/06/29/one-of-the-best-hours-youll-ever-spend/</a></p>
+
+    </header>
+  <hr>
+
+
+
+    <footer>
+      © 2011 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+<div id="comments"></div>
+<script type="text/javascript" src="/js/comments.js"></script>
+
+</div>
+</body>
+</html>
+

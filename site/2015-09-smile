@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Derek Sivers INTERVIEW: Smile High podcast</title>
+<meta name="description" content="Derek Sivers home, blog, projects" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom" />
+<link rel="stylesheet" href="/css/2015-05.css" type="text/css" media="screen" />
+</head>
+<body id="interview">
+
+<section id="masthead">
+	<h1><a href="/" title="Derek Sivers"><img src="/images/DerekSivers-50x50.jpg">Derek Sivers</a></h1>
+	<small>Programmer, writer, entrepreneur, avid student of life. I make useful things, and share what I learn.</small>
+</section>
+
+<div id="content">
+
+  <article>
+    <header>
+      <h1>Smile High podcast</h1>
+      <h4>Talk with Nate about people-pleasing and obstacles. Kind of awkward.</h4>
+      <p class="postdate">Date: 2015-09</p>
+
+      <h2>Download:</h2>
+      <ul><li><a href="http://sivers.org/file/2015-09-DerekSivers-SmileHigh.mp3">audio (mp3)</a></ul>
+
+
+      <p>Link: <a href="http://smilehighpodcast.podomatic.com/entry/2015-09-13T18_13_11-07_00">http://smilehighpodcast.podomatic.com/entry/2015-09-13T18_13_11-07_00</a></p>
+
+    </header>
+  <hr>
+
+
+
+    <footer>
+      © 2015 <a href="http://sivers.org/">Derek Sivers</a>
+    </footer>
+  </article>
+
+<div id="comments"></div>
+<script type="text/javascript" src="/js/comments.js"></script>
+
+</div>
+</body>
+</html>
+
