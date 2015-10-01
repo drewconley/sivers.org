@@ -54,12 +54,12 @@
 <section id="newestarticles">
 	<h2>Newest Posts <small><a href="/blog">see all posts</a></small></h2>
 	<ul>
+		<li><a href="/relax">Relax for the same result</a></li>
 		<li><a href="/no2">Saying no to everything else</a></li>
 		<li><a href="/2do">“Just tell me what to do”: compressing books into directives</a></li>
 		<li><a href="/pg">Simplify: move code into database functions</a></li>
 		<li><a href="/bad">Getting out of a bad place</a></li>
 		<li><a href="/career">How to change or build your career</a></li>
-		<li><a href="/mindset">Fixed mindset vs Growth mindset</a></li>
 	</ul>
 </section>
 
@@ -124,6 +124,8 @@
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>October 2</dt>
+		<dd>Relax for the same result : <a href="http://sivers.org/relax">http://sivers.org/relax</a></dd>
 		<dt>September 29</dt>
 		<dd>Is there a course like this for hip hop? <a href="http://www.thegreatcourses.com/courses/how-to-listen-to-and-understand-great-music-3rd-edition.html">http://www.thegreatcourses.com/courses/how-to-listen-to-and-understand-great-music-3rd-edition.html</a></dd>
 		<dt>September 28</dt>
@@ -134,8 +136,6 @@
 		<dd>My book “Anything You Want” is released worldwide on Portfolio/Penguin today: <a href="http://sivers.org/a">http://sivers.org/a</a> (I recommend the 90-minute audiobook.)</dd>
 		<dt>September 14</dt>
 		<dd>Business-owners focusing on money is like car-owners focusing on their odometer number. If you think it’s the point, you should look up.</dd>
-		<dt>September 11</dt>
-		<dd>Learning Elm using <a href="https://pragmaticstudio.com/elm">https://pragmaticstudio.com/elm</a> &amp; <a href="https://pragmaticstudio.com/elm-signals">https://pragmaticstudio.com/elm-signals</a>  Extra appealing since I want to learn Haskell.</dd>
 	</dl>
 </section>
 

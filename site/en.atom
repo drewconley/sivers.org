@@ -2,11 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2015-10-01T13:45:02+13:00</updated>
+  <updated>2015-10-02T11:48:25+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>Relax for the same result</title>
+    <id>http://sivers.org/relax</id>
+    <updated>2015-10-02T00:00:00+00:00</updated>
+    <published>2015-10-02T00:00:00+00:00</published>
+    <link href="http://sivers.org/relax"/>
+    <content type="html">&lt;p&gt;
+A few years ago, I lived in Santa Monica, California, right on the beach.
+&lt;/p&gt;&lt;p&gt;
+There’s a great bike path that goes along the ocean for 7½ miles.
+So, 15 miles round trip.
+&lt;/p&gt;&lt;p&gt;
+On weekday afternoons, it’s almost empty.
+It’s perfect for going full-speed.
+&lt;/p&gt;&lt;p&gt;
+So a few times a week, I’d get on &lt;a href="http://surlybikes.com/bikes/pacer"&gt;my bike&lt;/a&gt; and go as fast as I could for the 15 mile loop.
+I mean really full-on, 100%, head-down, red-faced, sprinting.
+&lt;/p&gt;&lt;p&gt;
+I’d finish exhausted, and look at the time.
+&lt;strong&gt;43 minutes.&lt;/strong&gt;
+Every time.
+Maybe a minute more on a really windy day.
+But basically always 43 minutes.
+&lt;/p&gt;&lt;p&gt;
+After a few months, I noticed I was getting less enthusiastic about this bike ride.
+I think had mentally linked it with being completely exhausted.
+&lt;/p&gt;&lt;p&gt;
+So one day I decided &lt;strong&gt;I would do the same ride, but just chill&lt;/strong&gt;.
+Take it easy, nice and slow.
+OK not &lt;em&gt;super&lt;/em&gt;-slow, but dialing it back to about 50% of my usual effort.
+&lt;/p&gt;&lt;p&gt;
+And ahhh....
+What a fun ride.
+I was relaxed, and smiling, and looking around.
+Not red-faced.
+I was barely giving it any effort.
+&lt;/p&gt;&lt;p&gt;
+I saw two dolphins in the water.
+A pelican flew right over me in Marina del Ray.
+When I looked up to say “wow!”, he shit in my mouth.
+I can still remember that taste of digested shellfish.
+I had to laugh at the novelty of it.
+&lt;/p&gt;&lt;p&gt;
+I’m usually so damn driven, always doing everything as intensely as I can.
+It was so nice to take it easy for once.
+I felt I could do this forever, without any exhaustion.
+&lt;/p&gt;&lt;p&gt;
+When I finished, I looked at the time.
+&lt;strong&gt;45 minutes.&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+What?!? How could that be?
+Yep. I double-checked.
+45 minutes, as compared to my usual 43.
+&lt;/p&gt;&lt;p&gt;
+So apparently all of that exhausting, red-faced, full-on push-push-push I had been doing only gave me a &lt;strong&gt;4%&lt;/strong&gt; boost.
+&lt;/p&gt;&lt;p&gt;
+I could just take it easy, and get &lt;strong&gt;96% of the results&lt;/strong&gt;.
+&lt;/p&gt;&lt;p&gt;
+And what a difference in experience!
+To go the &lt;em&gt;same&lt;/em&gt; distance, in about the &lt;em&gt;same&lt;/em&gt; time, but one way leaves me exhausted, and the other way rejeuvenated.
+&lt;/p&gt;&lt;p&gt;
+This was really profound for me, and I think of it often.
+&lt;/p&gt;&lt;p&gt;
+When I notice I’m all stressed-out about something, or driving myself to exhaustion, I remember that bike ride, and try dialing back my effort by 50%.
+&lt;/p&gt;&lt;p&gt;
+It’s been amazing how often everything gets done just as well and just as fast, with what &lt;em&gt;feels&lt;/em&gt; like 50% of the effort.
+&lt;/p&gt;&lt;p&gt;
+Which, of course, makes me realize that much of my effort apparently wasn’t effort at all, but just ineffective stress added on top of something to make it &lt;em&gt;feel&lt;/em&gt; like I’m doing the best I can.
+&lt;/p&gt;
+&lt;img src="/images/bikesand.jpg"&gt;
+&lt;div class="small"&gt;
+Bicycle photo &lt;a href="https://www.flickr.com/photos/mike-dean/12008975114"&gt;© Mike Dean&lt;/a&gt;
+&lt;/div&gt;
+
+</content>
+  </entry>
   <entry>
     <title>Saying no to everything else</title>
     <id>http://sivers.org/no2</id>
@@ -2085,73 +2161,6 @@ When I explained how it would save people a lot of time and money to being able 
 Touché.
 &lt;/p&gt;&lt;p&gt;
 Click any book cover, below, to jump to the page for it.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;a href="http://woodegg.com/kh" title="Cambodia 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-KH-200.jpg" alt="Cambodia 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/cn" title="China 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-CN-200.jpg" alt="China 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/hk" title="Hong Kong 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-HK-200.jpg" alt="Hong Kong 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/in" title="India 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-IN-200.jpg" alt="India 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/id" title="Indonesia 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-ID-200.jpg" alt="Indonesia 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/jp" title="Japan 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-JP-200.jpg" alt="Japan 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/kr" title="Korea 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-KR-200.jpg" alt="Korea 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/my" title="Malaysia 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-MY-200.jpg" alt="Malaysia 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/mn" title="Mongolia 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-MN-200.jpg" alt="Mongolia 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/mm" title="Myanmar 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-MM-200.jpg" alt="Myanmar 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/ph" title="Philippines 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-PH-200.jpg" alt="Philippines 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/sg" title="Singapore 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-SG-200.jpg" alt="Singapore 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/lk" title="Sri Lanka 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-LK-200.jpg" alt="Sri Lanka 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/tw" title="Taiwan 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-TW-200.jpg" alt="Taiwan 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/th" title="Thailand 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-TH-200.jpg" alt="Thailand 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/vn" title="Vietnam 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-VN-200.jpg" alt="Vietnam 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/aa" title="Asia 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-AA-200.jpg" alt="Asia 2014"&gt;&lt;/a&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>Wood Egg 2014 books are on sale now</title>
-    <id>http://sivers.org/we14</id>
-    <updated>2014-01-12T00:00:00+00:00</updated>
-    <published>2014-01-12T00:00:00+00:00</published>
-    <link href="http://sivers.org/we14"/>
-    <content type="html">&lt;p&gt;
-If you know you’ll never go to Asia, you can skip this.
-&lt;/p&gt;&lt;p&gt;
-If you’re looking for a travel guide, you can skip this.
-&lt;/p&gt;&lt;p&gt;
-But if you might do business in Asia, have thought about moving to Asia, or just want to understand the cultures of Asia, you will love this.
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;16 books about moving to and doing business in 16 countries in Asia:&lt;/strong&gt; 
-&lt;a href="http://woodegg.com/kh"&gt;Cambodia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/cn"&gt;China&lt;/a&gt;,
-&lt;a href="http://woodegg.com/hk"&gt;Hong Kong&lt;/a&gt;,
-&lt;a href="http://woodegg.com/in"&gt;India&lt;/a&gt;,
-&lt;a href="http://woodegg.com/id"&gt;Indonesia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/jp"&gt;Japan&lt;/a&gt;,
-&lt;a href="http://woodegg.com/kr"&gt;Korea&lt;/a&gt;,
-&lt;a href="http://woodegg.com/my"&gt;Malaysia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/mn"&gt;Mongolia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/mm"&gt;Myanmar&lt;/a&gt;,
-&lt;a href="http://woodegg.com/ph"&gt;Philippines&lt;/a&gt;,
-&lt;a href="http://woodegg.com/sg"&gt;Singapore&lt;/a&gt;,
-&lt;a href="http://woodegg.com/lk"&gt;Sri Lanka&lt;/a&gt;,
-&lt;a href="http://woodegg.com/tw"&gt;Taiwan&lt;/a&gt;,
-&lt;a href="http://woodegg.com/th"&gt;Thailand&lt;/a&gt;, and
-&lt;a href="http://woodegg.com/vn"&gt;Vietnam&lt;/a&gt;.
-&lt;/p&gt;&lt;p&gt;
-They’re all &lt;strong&gt;ebooks for under $10 each, sold at LeanPub, Amazon, and Apple iBooks.&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-Plus this year there’s &lt;a href="http://woodegg.com/aa"&gt;a 17th book, combining all 16 books into one massive 4448-page ebook&lt;/a&gt;, for easy comparison between different countries.
-&lt;/p&gt;&lt;p&gt;
-Please &lt;strong&gt;go to &lt;a href="http://woodegg.com/"&gt;woodegg.com&lt;/a&gt; to check them out now.&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-These 2014 editions were &lt;strong&gt;all written in the last three months, based on research from the last six months.&lt;/strong&gt;  They’re the most current and thorough guides of their kind.
-&lt;/p&gt;&lt;p&gt;
-The 2013 editions were OK, but I never promoted them because I wanted them to be deeper, more thorough, and more insightful.  But these 2014 editions were created by some amazing researchers and writers, so I can now proudly say these books are really very good.  (I’ll save the superlatives for future editions, since we’ll be re-writing them every year - an annual improvement process.)
-&lt;/p&gt;&lt;p&gt;
-I’ll have more to say about them in the coming weeks.
-&lt;/p&gt;&lt;p&gt;
-But for now, I just want to say &lt;a href="http://woodegg.com/"&gt;they’re here&lt;/a&gt;.  Two years of effort by over 140 people.  I’m so thrilled, and honestly a little in awe of what we’ve created.
-&lt;/p&gt;&lt;p&gt;
-I hope you &lt;a href="http://woodegg.com/"&gt;buy one&lt;/a&gt;, and hope you like it. &lt;strong&gt;Click any book cover, below, to jump to the page for it.&lt;/strong&gt;
 &lt;/p&gt;
 &lt;a href="http://woodegg.com/kh" title="Cambodia 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-KH-200.jpg" alt="Cambodia 2014"&gt;&lt;/a&gt;
 &lt;a href="http://woodegg.com/cn" title="China 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-CN-200.jpg" alt="China 2014"&gt;&lt;/a&gt;
