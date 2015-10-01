@@ -83,12 +83,12 @@ task :make do
 		f.authors << Atom::Person.new(:name => 'Derek Sivers')
 		@blogs[0,20].each do |r|
 			f.entries << Atom::Entry.new do |e|
-	e.id = 'http://sivers.org/' + r[:url]
-	e.published = DateTime.parse(r[:date]).to_s
-	e.updated = e.published
-	e.title = r[:title]
-	e.links << Atom::Link.new(:href => 'http://sivers.org/' + r[:url])
-	e.content = Atom::Content::Html.new(r[:html])
+				e.id = 'http://sivers.org/' + r[:url]
+				e.published = DateTime.parse(r[:date]).to_s
+				e.updated = e.published
+				e.title = r[:title]
+				e.links << Atom::Link.new(:href => 'http://sivers.org/' + r[:url])
+				e.content = Atom::Content::Html.new(r[:html])
 			end
 		end
 	end
@@ -315,6 +315,7 @@ task :make do
 <url><loc>http://sivers.org/tweets</loc><lastmod>#{today}</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
 <url><loc>http://sivers.org/book</loc><lastmod>#{today}</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>http://sivers.org/presentations</loc><lastmod>#{today}</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>http://sivers.org/interviews</loc><lastmod>#{today}</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 XML
 	@urls.each do |u|
 		xml << "<url><loc>http://sivers.org/#{u}</loc></url>\n"
@@ -323,20 +324,6 @@ XML
 	File.open('site/sitemap.xml', 'w') {|f| f.puts xml }
  
 end	 # task :make
-
-desc 'Run all tests in test/test-*.rb'
-task :test do
-	Dir['test/test-*.rb'].each do |f|
-		cmd = "/usr/bin/ruby #{f}"
-		puts "\n#########: #{cmd}"
-		system cmd
-	end
-end
-
-desc 'irb with models'
-task :console do
-	sh 'irb -r ./models.rb'
-end
 
 desc 'make a new tweet'
 task :tweet do
