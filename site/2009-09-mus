@@ -17,17 +17,17 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>MusFormation</h1>
-      <h4>just some post-CD Baby questions</h4>
-      <p class="postdate">Date: 2009-09</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » MusFormation</h1>
+	<h4>just some post-CD Baby questions</h4>
+	<p class="postdate">Date: 2009-09</p>
 
 
-      <p>Link: <a href="http://musformation.com/an_interview_with_derek_sivers_-_founder_of_cd_babycom/">http://musformation.com/an_interview_with_derek_sivers_-_founder_of_cd_babycom/</a></p>
+	<p>Link: <a href="http://musformation.com/an_interview_with_derek_sivers_-_founder_of_cd_babycom/">http://musformation.com/an_interview_with_derek_sivers_-_founder_of_cd_babycom/</a></p>
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <blockquote>
 <cite>MusFormation:</cite>
@@ -164,10 +164,10 @@ I was going to keep doing lots of interviews like that but honestly there hasn�
 
 
 
-    <footer>
-      © 2009 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2009 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

@@ -13,9 +13,14 @@ body {
 	color: #222;
 }
 
-h1, h2, h3, h4, h5, small, p.postdate, footer, input[type="submit"], label, dl#tweetlist dt {
+h1, h2, h3, h4, h5, small, .small, p.postdate, footer, input[type="submit"], label, dl#tweetlist dt {
 	font-family: "Trebuchet MS", sans-serif;
 	line-height: 1em;
+}
+
+small, .small {
+	font-size: 0.6em;
+	font-weight: normal;
 }
 
 .spacer {

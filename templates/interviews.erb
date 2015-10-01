@@ -1,0 +1,8 @@
+<h1>Interviews</h1>
+<% @interviews.each do |p| %>
+	<div class="interview_summary spacer">
+		<h2><a href="/<%= p[:url] %>"><%=h p[:title] %></a> <span class="small">(date: <%= p[:date] %>)</span></h2>
+		<p><%= p[:subhead] %></p>
+	</div>
+<% end %>
+

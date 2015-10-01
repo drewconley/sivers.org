@@ -17,15 +17,15 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Justin from Berklee</h1>
-      <h4>Berklee College of Music interview about the music business</h4>
-      <p class="postdate">Date: 2009-03</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Justin from Berklee</h1>
+	<h4>Berklee College of Music interview about the music business</h4>
+	<p class="postdate">Date: 2009-03</p>
 
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <h3>If you were starting or promoting a band today, (pretend you’re back at Berklee) what would you do to spread the word? What tools would you use?</h3>
 <blockquote><p>
@@ -101,10 +101,10 @@ It’s an amazing learning experience, and as you’ve noticed, I’m endlessly 
 </p></blockquote>
 
 
-    <footer>
-      © 2009 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2009 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

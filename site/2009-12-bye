@@ -17,20 +17,19 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Meet Innovators</h1>
-      <h4>business talk about automating then selling my company, and what to do afterwards</h4>
-      <p class="postdate">Date: 2009-12</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Meet Innovators</h1>
+	<h4>business talk about automating then selling my company, and what to do afterwards</h4>
+	<p class="postdate">Date: 2009-12</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2009-12-DerekSivers-MeetInnovators.mp3">audio (mp3)</a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2009-12-DerekSivers-MeetInnovators.mp3">audio (mp3)</a></h2>
 
 
-      <p>Link: <a href="http://meetinnovators.com/2010/01/14/derek-sivers-from-cd-baby/">http://meetinnovators.com/2010/01/14/derek-sivers-from-cd-baby/</a></p>
+	<p>Link: <a href="http://meetinnovators.com/2010/01/14/derek-sivers-from-cd-baby/">http://meetinnovators.com/2010/01/14/derek-sivers-from-cd-baby/</a></p>
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <p>
 <strong>Adrian Bye:</strong>
@@ -657,10 +656,10 @@ OK.  Thanks a lot.</p>
 
 
 
-    <footer>
-      © 2009 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2009 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

@@ -17,20 +17,19 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Dorm Room Tycoon</h1>
-      <h4>Good conversation with William Channer about Wood Egg, employees, networking, focus, learning.</h4>
-      <p class="postdate">Date: 2013-09</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Dorm Room Tycoon</h1>
+	<h4>Good conversation with William Channer about Wood Egg, employees, networking, focus, learning.</h4>
+	<p class="postdate">Date: 2013-09</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2013-09-DerekSivers-DormRoomTycoon.mp3">audio (mp3)</a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2013-09-DerekSivers-DormRoomTycoon.mp3">audio (mp3)</a></h2>
 
 
-      <p>Link: <a href="http://drt.fm/derek-sivers/">http://drt.fm/derek-sivers/</a></p>
+	<p>Link: <a href="http://drt.fm/derek-sivers/">http://drt.fm/derek-sivers/</a></p>
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <blockquote>
 <cite>William:</cite>
@@ -364,10 +363,10 @@ These days I feel that when everybody else is glued to their phones, shut off yo
 
 
 
-    <footer>
-      © 2013 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2013 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

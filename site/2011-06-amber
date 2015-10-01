@@ -17,27 +17,26 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Amber Rae</h1>
-      <h4>My friend and the CEO of my book, “Anything You Want”! Fun 50-minute video interview about the book and related things.</h4>
-      <p class="postdate">Date: 2011-06</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Amber Rae</h1>
+	<h4>My friend and the CEO of my book, “Anything You Want”! Fun 50-minute video interview about the book and related things.</h4>
+	<p class="postdate">Date: 2011-06</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2011-06-DerekSivers-AmberRae.mp4">video (mp4)</a></li><li><a href="http://sivers.org/file/2011-06-DerekSivers-AmberRae.mp3">audio (mp3)</a></ul>
-
-
-      <p>Link: <a href="http://heyamberrae.com/post/7042365626/ayw">http://heyamberrae.com/post/7042365626/ayw</a></p>
-
-    </header>
-  <hr>
+	<h2>Download: <a href="http://sivers.org/file/2011-06-DerekSivers-AmberRae.mp4">video (mp4)</a> or <a href="http://sivers.org/file/2011-06-DerekSivers-AmberRae.mp3">audio (mp3)</a></h2>
 
 
+	<p>Link: <a href="http://heyamberrae.com/post/7042365626/ayw">http://heyamberrae.com/post/7042365626/ayw</a></p>
 
-    <footer>
-      © 2011 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+</header>
+<hr>
+
+
+
+<footer>
+© 2011 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

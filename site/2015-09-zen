@@ -17,20 +17,19 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Rock and Roll Zen</h1>
-      <h4>Mark Hermann and I talk music, how to be useful to others, changing the music business, and more.</h4>
-      <p class="postdate">Date: 2015-09</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Rock and Roll Zen</h1>
+	<h4>Mark Hermann and I talk music, how to be useful to others, changing the music business, and more.</h4>
+	<p class="postdate">Date: 2015-09</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2015-09-DerekSivers-RockAndRollZen.mp3">audio (mp3)</a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2015-09-DerekSivers-RockAndRollZen.mp3">audio (mp3)</a></h2>
 
 
-      <p>Link: <a href="http://rockandrollzen.com/">http://rockandrollzen.com/</a></p>
+	<p>Link: <a href="http://rockandrollzen.com/">http://rockandrollzen.com/</a></p>
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <blockquote>
 <cite>Mark:</cite>
@@ -674,10 +673,10 @@ Thanks, Mark, it was a really fun conversation, so, anytime.  Thanks a lot.
 
 
 
-    <footer>
-      © 2015 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2015 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

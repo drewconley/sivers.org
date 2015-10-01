@@ -17,17 +17,17 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>B2C: Business to Community</h1>
-      <h4>Short Q&amp;A with Margie Warrell about the biggest mistake, saying no, priorities, followers, naysayers, and making a change.</h4>
-      <p class="postdate">Date: 2015-07</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » B2C: Business to Community</h1>
+	<h4>Short Q&amp;A with Margie Warrell about the biggest mistake, saying no, priorities, followers, naysayers, and making a change.</h4>
+	<p class="postdate">Date: 2015-07</p>
 
 
-      <p>Link: <a href="http://www.business2community.com/expert-interviews/brave-interview-derek-sivers-01264980">http://www.business2community.com/expert-interviews/brave-interview-derek-sivers-01264980</a></p>
+	<p>Link: <a href="http://www.business2community.com/expert-interviews/brave-interview-derek-sivers-01264980">http://www.business2community.com/expert-interviews/brave-interview-derek-sivers-01264980</a></p>
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <blockquote>
 <cite>Warrell:</cite>
@@ -132,10 +132,10 @@ What’s inspired you to be courageous?
 
 
 
-    <footer>
-      © 2015 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2015 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

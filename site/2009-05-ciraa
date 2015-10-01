@@ -17,15 +17,15 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Canadian Independent Recording Artists Association</h1>
-      <h4>How to call attention to your music</h4>
-      <p class="postdate">Date: 2009-05</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Canadian Independent Recording Artists Association</h1>
+	<h4>How to call attention to your music</h4>
+	<p class="postdate">Date: 2009-05</p>
 
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <p>
 <em>I was interviewed by Aisha Wickham Thomas, Executive Director of the <a href="http://www.ciraa.ca/">Canadian Independent Recording Artists' Association</a> (CIRAA), who gave me permission to reprint our interview here.</em>
@@ -107,10 +107,10 @@ None, no.  Maybe songs are like business ideas or babies.  Everyone's got their 
 
 
 
-    <footer>
-      © 2009 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2009 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

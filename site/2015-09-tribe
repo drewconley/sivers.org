@@ -17,20 +17,19 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Radical Tribe</h1>
-      <h4>Talking with Faheem Moosa about starting, building, and selling a business.</h4>
-      <p class="postdate">Date: 2015-09</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Radical Tribe</h1>
+	<h4>Talking with Faheem Moosa about starting, building, and selling a business.</h4>
+	<p class="postdate">Date: 2015-09</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2015-09-DerekSivers-RadicalTribe.mp3">audio (mp3)</a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2015-09-DerekSivers-RadicalTribe.mp3">audio (mp3)</a></h2>
 
 
-      <p>Link: <a href="http://www.radicaltribe.com/derek-sivers-on-building-a-one-person-business-doing-meaningful-work-and-life-after-cd-baby/">http://www.radicaltribe.com/derek-sivers-on-building-a-one-person-business-doing-meaningful-work-and-life-after-cd-baby/</a></p>
+	<p>Link: <a href="http://www.radicaltribe.com/derek-sivers-on-building-a-one-person-business-doing-meaningful-work-and-life-after-cd-baby/">http://www.radicaltribe.com/derek-sivers-on-building-a-one-person-business-doing-meaningful-work-and-life-after-cd-baby/</a></p>
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <blockquote>
 <cite>Faheem:</cite>
@@ -478,10 +477,10 @@ Take care, bye bye, alright that Derek Sivers, to learn more about Derek, you ca
 
 
 
-    <footer>
-      © 2015 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2015 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

@@ -1,22 +1,21 @@
-  <article>
-    <header>
-      <h1><%=h @title %></h1>
-      <h4><%=h @subhead %></h4>
-      <p class="postdate">Date: <%= @month %></p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » <%=h @title %></h1>
+	<h4><%=h @subhead %></h4>
+	<p class="postdate">Date: <%= @month %></p>
 <% if @downloads.size > 0 %>
-      <h2>Download:</h2>
-      <ul><li><%= @downloads.join('</li><li>') %></ul>
+	<h2>Download: <%= @downloads.join(' or ') %></h2>
 <% end %>
 <% if @link %>
-      <p>Link: <a href="<%= @link %>"><%=h @link %></a></p>
+	<p>Link: <a href="<%= @link %>"><%=h @link %></a></p>
 <% end %>
-    </header>
-  <hr>
+</header>
+<hr>
 
 <%= @body %>
 
-    <footer>
-      © <%= @year %> <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© <%= @year %> <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 

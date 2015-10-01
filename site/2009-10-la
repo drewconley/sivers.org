@@ -17,17 +17,17 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>L.A. Music Blog</h1>
-      <h4>just a little about the music biz, CD Baby, Muckwork</h4>
-      <p class="postdate">Date: 2009-10</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » L.A. Music Blog</h1>
+	<h4>just a little about the music biz, CD Baby, Muckwork</h4>
+	<p class="postdate">Date: 2009-10</p>
 
 
-      <p>Link: <a href="http://lamusicblog.com/2009/10/interview/derek-sivers/">http://lamusicblog.com/2009/10/interview/derek-sivers/</a></p>
+	<p>Link: <a href="http://lamusicblog.com/2009/10/interview/derek-sivers/">http://lamusicblog.com/2009/10/interview/derek-sivers/</a></p>
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <strong>Kristin Houser:</strong>
 <p>If the music industry had a Robin Hood, it very well could be Derek Sivers. He’s made a career out of selflessly helping others and has been called “one of the last music-business folk heroes” by Esquire Magazine. Sivers started the company CD Baby from his bedroom in 1998 when he was selling his own CD on his website and was approached by friends asking if he’d sell their CDs too. Always eager to help others, he agreed, and not too long after, CD Baby became the largest seller of independent music on the web, with over $100M in sales for over 150,000 musicians.<br />
@@ -84,10 +84,10 @@
 
 
 
-    <footer>
-      © 2009 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2009 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

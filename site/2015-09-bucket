@@ -17,20 +17,19 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Bucket List Life</h1>
-      <h4>With Travis Bell, that Bucket List guy</h4>
-      <p class="postdate">Date: 2015-09</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Bucket List Life</h1>
+	<h4>With Travis Bell, that Bucket List guy</h4>
+	<p class="postdate">Date: 2015-09</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2015-09-DerekSivers-BucketList.mp3">audio (mp3)</a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2015-09-DerekSivers-BucketList.mp3">audio (mp3)</a></h2>
 
 
-      <p>Link: <a href="http://www.thebucketlistguy.com/ep-23-derek-sivers-speaker-entrepreneur-musician-programmer-student/">http://www.thebucketlistguy.com/ep-23-derek-sivers-speaker-entrepreneur-musician-programmer-student/</a></p>
+	<p>Link: <a href="http://www.thebucketlistguy.com/ep-23-derek-sivers-speaker-entrepreneur-musician-programmer-student/">http://www.thebucketlistguy.com/ep-23-derek-sivers-speaker-entrepreneur-musician-programmer-student/</a></p>
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <blockquote>
 <cite>Trav:</cite>
@@ -885,10 +884,10 @@ Thanks, Trav, I really appreciate it.
 </blockquote>
 
 
-    <footer>
-      © 2015 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2015 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

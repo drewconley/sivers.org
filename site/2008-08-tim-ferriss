@@ -17,15 +17,15 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Tim Ferriss</h1>
-      <h4>I interview Tim about the 4-Hour Workweek</h4>
-      <p class="postdate">Date: 2008-08</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Tim Ferriss</h1>
+	<h4>I interview Tim about the 4-Hour Workweek</h4>
+	<p class="postdate">Date: 2008-08</p>
 
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <p>
 One of the best things any movie, book, or music can do is permanently change you.
@@ -367,10 +367,10 @@ And I got an incredible response rate from that. Because most people don’t wri
 </dd></dl>
 
 
-    <footer>
-      © 2008 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2008 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

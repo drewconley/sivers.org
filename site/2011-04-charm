@@ -17,27 +17,26 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Art of Charm</h1>
-      <h4>Why being a good follower might be more important than being a good leader, learning from the best, and the value of experiential learning versus theory.</h4>
-      <p class="postdate">Date: 2011-04</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Art of Charm</h1>
+	<h4>Why being a good follower might be more important than being a good leader, learning from the best, and the value of experiential learning versus theory.</h4>
+	<p class="postdate">Date: 2011-04</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2011-04-DerekSivers-ArtOfCharm.mp3">audio (mp3)</a></ul>
-
-
-      <p>Link: <a href="http://theartofcharm.com/podcast-episodes/episode-128-derek-sivers/">http://theartofcharm.com/podcast-episodes/episode-128-derek-sivers/</a></p>
-
-    </header>
-  <hr>
+	<h2>Download: <a href="http://sivers.org/file/2011-04-DerekSivers-ArtOfCharm.mp3">audio (mp3)</a></h2>
 
 
+	<p>Link: <a href="http://theartofcharm.com/podcast-episodes/episode-128-derek-sivers/">http://theartofcharm.com/podcast-episodes/episode-128-derek-sivers/</a></p>
 
-    <footer>
-      © 2011 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+</header>
+<hr>
+
+
+
+<footer>
+© 2011 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

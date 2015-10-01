@@ -17,17 +17,17 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>The Setup</h1>
-      <h4>Tiny Q&amp;A about what equipment I use</h4>
-      <p class="postdate">Date: 2011-12</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » The Setup</h1>
+	<h4>Tiny Q&amp;A about what equipment I use</h4>
+	<p class="postdate">Date: 2011-12</p>
 
 
-      <p>Link: <a href="https://usesthis.com/interviews/derek.sivers/">https://usesthis.com/interviews/derek.sivers/</a></p>
+	<p>Link: <a href="https://usesthis.com/interviews/derek.sivers/">https://usesthis.com/interviews/derek.sivers/</a></p>
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <h4>Who are you, and what do you do?</h4>
 
@@ -86,10 +86,10 @@ PDFs? <a href="http://foolabs.com/xpdf/about.html" title="An open source PDF vie
 
 
 
-    <footer>
-      © 2011 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2011 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

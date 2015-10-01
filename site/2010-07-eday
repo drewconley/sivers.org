@@ -17,25 +17,24 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Ronnie Overgoor at Emerce Eday</h1>
-      <h4>Must see. Maybe my funniest interview. We have a great irreverent banter.</h4>
-      <p class="postdate">Date: 2010-07</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Ronnie Overgoor at Emerce Eday</h1>
+	<h4>Must see. Maybe my funniest interview. We have a great irreverent banter.</h4>
+	<p class="postdate">Date: 2010-07</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2010-07-DerekSivers-RonnieOvergoor.mp4">video (mp4)</a></li><li><a href="http://sivers.org/file/2010-07-DerekSivers-RonnieOvergoor.mp3">audio (mp3)</a></ul>
-
-
-    </header>
-  <hr>
+	<h2>Download: <a href="http://sivers.org/file/2010-07-DerekSivers-RonnieOvergoor.mp4">video (mp4)</a> or <a href="http://sivers.org/file/2010-07-DerekSivers-RonnieOvergoor.mp3">audio (mp3)</a></h2>
 
 
+</header>
+<hr>
 
-    <footer>
-      © 2010 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+
+
+<footer>
+© 2010 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

@@ -17,20 +17,19 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Your Own Way Out documentary</h1>
-      <h4>Tom Libelt and Till Carlos ask questions about self-employment for their documentary film</h4>
-      <p class="postdate">Date: 2014-10</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Your Own Way Out documentary</h1>
+	<h4>Tom Libelt and Till Carlos ask questions about self-employment for their documentary film</h4>
+	<p class="postdate">Date: 2014-10</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2014-10-DerekSivers-Yowo.mp4">video (mp4)</a></li><li><a href="http://sivers.org/file/2014-10-DerekSivers-Yowo.mp3">audio (mp3)</a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2014-10-DerekSivers-Yowo.mp4">video (mp4)</a> or <a href="http://sivers.org/file/2014-10-DerekSivers-Yowo.mp3">audio (mp3)</a></h2>
 
 
-      <p>Link: <a href="https://www.yourownwayout.com/interview-derek-sivers/">https://www.yourownwayout.com/interview-derek-sivers/</a></p>
+	<p>Link: <a href="https://www.yourownwayout.com/interview-derek-sivers/">https://www.yourownwayout.com/interview-derek-sivers/</a></p>
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <blockquote>
 <cite>YOWO:</cite>
@@ -137,10 +136,10 @@ Learn the gap between knowing and doing.
 </blockquote>
 
 
-    <footer>
-      © 2014 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2014 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

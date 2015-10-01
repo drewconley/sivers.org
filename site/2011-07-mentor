@@ -17,27 +17,26 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>MentorCoach</h1>
-      <h4>conversation with Ben Dean, just telling my story</h4>
-      <p class="postdate">Date: 2011-07</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » MentorCoach</h1>
+	<h4>conversation with Ben Dean, just telling my story</h4>
+	<p class="postdate">Date: 2011-07</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2011-07-DerekSivers-MentorCoach.mp3">audio (mp3)</a></ul>
-
-
-      <p>Link: <a href="http://mentorcoach.com/sivers/">http://mentorcoach.com/sivers/</a></p>
-
-    </header>
-  <hr>
+	<h2>Download: <a href="http://sivers.org/file/2011-07-DerekSivers-MentorCoach.mp3">audio (mp3)</a></h2>
 
 
+	<p>Link: <a href="http://mentorcoach.com/sivers/">http://mentorcoach.com/sivers/</a></p>
 
-    <footer>
-      © 2011 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+</header>
+<hr>
+
+
+
+<footer>
+© 2011 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

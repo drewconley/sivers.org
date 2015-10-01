@@ -17,20 +17,19 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Tim Conley from Foolish Adventure</h1>
-      <h4>On “changing your operating system” - my metaphor for making deep changes in my life.</h4>
-      <p class="postdate">Date: 2013-01</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Tim Conley from Foolish Adventure</h1>
+	<h4>On “changing your operating system” - my metaphor for making deep changes in my life.</h4>
+	<p class="postdate">Date: 2013-01</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2013-01-DerekSivers-TimConley.mp3">audio (mp3)</a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2013-01-DerekSivers-TimConley.mp3">audio (mp3)</a></h2>
 
 
-      <p>Link: <a href="http://timconley.co/FA/derek-sivers-fa132/">http://timconley.co/FA/derek-sivers-fa132/</a></p>
+	<p>Link: <a href="http://timconley.co/FA/derek-sivers-fa132/">http://timconley.co/FA/derek-sivers-fa132/</a></p>
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <section>
 <header>
@@ -686,10 +685,10 @@ And enjoy your foolish adventure.
 
 
 
-    <footer>
-      © 2013 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2013 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

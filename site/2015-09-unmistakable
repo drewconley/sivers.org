@@ -17,27 +17,26 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Unmistakable Creative podcast</h1>
-      <h4>Great conversation with Srini Rao about moving, introversion, programming, personal development, money, sharing what you&#39;ve learned, and when to say no.</h4>
-      <p class="postdate">Date: 2015-09</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Unmistakable Creative podcast</h1>
+	<h4>Great conversation with Srini Rao about moving, introversion, programming, personal development, money, sharing what you&#39;ve learned, and when to say no.</h4>
+	<p class="postdate">Date: 2015-09</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2015-09-DerekSivers-UnmistakableCreative.mp3">audio (mp3)</a></ul>
-
-
-      <p>Link: <a href="https://unmistakablecreative.com/podcast/anything-you-want-with-derek-sivers">https://unmistakablecreative.com/podcast/anything-you-want-with-derek-sivers</a></p>
-
-    </header>
-  <hr>
+	<h2>Download: <a href="http://sivers.org/file/2015-09-DerekSivers-UnmistakableCreative.mp3">audio (mp3)</a></h2>
 
 
+	<p>Link: <a href="https://unmistakablecreative.com/podcast/anything-you-want-with-derek-sivers">https://unmistakablecreative.com/podcast/anything-you-want-with-derek-sivers</a></p>
 
-    <footer>
-      © 2015 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+</header>
+<hr>
+
+
+
+<footer>
+© 2015 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

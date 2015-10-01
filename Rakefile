@@ -128,6 +128,18 @@ task :make do
 	end
 
 
+	########## WRITE PRESENTATIONS INDEX PAGE
+	@presentations.sort_by!{|x| x[:date]}
+	@presentations.reverse!
+	@pagetitle = 'Derek Sivers Presentations'
+	@bodyid = 'presentations'
+	html = template('header').result
+	html << template('presentations').result
+	html << template('footer').result
+	File.open('site/presentations', 'w') {|f| f.puts html }
+
+
+
 	########## READ, PARSE, AND WRITE INTERVIEWS
 	@interviews = []
 	linkext = {'mp3' => 'audio (mp3)', 'mp4' => 'video (mp4)'}
@@ -173,16 +185,15 @@ task :make do
 	end
 
 
-	########## WRITE PRESENTATIONS INDEX PAGE
-	@presentations.sort_by!{|x| x[:date]}
-	@presentations.reverse!
-	@pagetitle = 'Derek Sivers Presentations'
-	@bodyid = 'presentations'
+	########## WRITE INTERVIEWS INDEX PAGE
+	@interviews.sort_by!{|x| x[:date]}
+	@interviews.reverse!
+	@pagetitle = 'Derek Sivers Interviews'
+	@bodyid = 'interviews'
 	html = template('header').result
-	html << template('presentations').result
+	html << template('interviews').result
 	html << template('footer').result
-	File.open('site/presentations', 'w') {|f| f.puts html }
-
+	File.open('site/interviews', 'w') {|f| f.puts html }
 
 
 	########## READ, PARSE, AND WRITE BOOK NOTES

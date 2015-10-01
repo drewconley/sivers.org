@@ -17,20 +17,19 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>33 Voices</h1>
-      <h4>The Tao of Business and how to live it, as well as how to design a life philosophy with deep meaning.</h4>
-      <p class="postdate">Date: 2015-09</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » 33 Voices</h1>
+	<h4>The Tao of Business and how to live it, as well as how to design a life philosophy with deep meaning.</h4>
+	<p class="postdate">Date: 2015-09</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2015-09-DerekSivers-33voices.mp3">audio (mp3)</a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2015-09-DerekSivers-33voices.mp3">audio (mp3)</a></h2>
 
 
-      <p>Link: <a href="https://www.33voices.com/interviews/the-tao-of-business">https://www.33voices.com/interviews/the-tao-of-business</a></p>
+	<p>Link: <a href="https://www.33voices.com/interviews/the-tao-of-business">https://www.33voices.com/interviews/the-tao-of-business</a></p>
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <blockquote>
 <cite>Moe:</cite>
@@ -502,10 +501,10 @@ Thanks Moe!
 
 
 
-    <footer>
-      © 2015 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2015 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

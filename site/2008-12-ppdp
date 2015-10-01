@@ -17,20 +17,19 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Practical Personal Development Podcast</h1>
-      <h4>with Alex Shalman about success and focus</h4>
-      <p class="postdate">Date: 2008-12</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Practical Personal Development Podcast</h1>
+	<h4>with Alex Shalman about success and focus</h4>
+	<p class="postdate">Date: 2008-12</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2008-12-DerekSivers-PersonalDevelopment.mp3 "></a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2008-12-DerekSivers-PersonalDevelopment.mp3 "></a></h2>
 
 
-      <p>Link: <a href="http://www.alexshalman.com/2008/12/15/alexshalmancom-podcast-006-interviewing-derek-sivers/">http://www.alexshalman.com/2008/12/15/alexshalmancom-podcast-006-interviewing-derek-sivers/</a></p>
+	<p>Link: <a href="http://www.alexshalman.com/2008/12/15/alexshalmancom-podcast-006-interviewing-derek-sivers/">http://www.alexshalman.com/2008/12/15/alexshalmancom-podcast-006-interviewing-derek-sivers/</a></p>
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <p>
 This is a transcript of <a href="http://www.alexshalman.com/2008/12/15/alexshalmancom-podcast-006-interviewing-derek-sivers/">an interview done by Alex Shalman from AlexShalman.com</a>. See <a href="http://www.alexshalman.com/2008/12/15/alexshalmancom-podcast-006-interviewing-derek-sivers/">his site</a> for an overview, or here for the full version:
@@ -392,10 +391,10 @@ Alright. Thank you Derek Sivers for stopping by The Practical Personal Developme
 
 
 
-    <footer>
-      © 2008 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2008 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

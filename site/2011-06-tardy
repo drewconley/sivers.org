@@ -17,20 +17,19 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Eventual Millionaire</h1>
-      <h4>One commenter said, “A great interview that became a fantastic interview in the last 20 minutes.”</h4>
-      <p class="postdate">Date: 2011-06</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Eventual Millionaire</h1>
+	<h4>One commenter said, “A great interview that became a fantastic interview in the last 20 minutes.”</h4>
+	<p class="postdate">Date: 2011-06</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2011-06-DerekSivers-JaimeTardy.mp3">audio (mp3)</a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2011-06-DerekSivers-JaimeTardy.mp3">audio (mp3)</a></h2>
 
 
-      <p>Link: <a href="http://eventualmillionaire.com/2011/06/dereksivers/">http://eventualmillionaire.com/2011/06/dereksivers/</a></p>
+	<p>Link: <a href="http://eventualmillionaire.com/2011/06/dereksivers/">http://eventualmillionaire.com/2011/06/dereksivers/</a></p>
 
-    </header>
-  <hr>
+</header>
+<hr>
 
 <blockquote>
 <cite>JAIME:</cite>
@@ -677,10 +676,10 @@ Thanks for listening. You can find out more great information like this on event
 
 
 
-    <footer>
-      © 2011 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+<footer>
+© 2011 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

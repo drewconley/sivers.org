@@ -17,28 +17,27 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Art of Adventure</h1>
-      <h4>Turning Observations Into Action</h4>
-      <p class="postdate">Date: 2015-09</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Art of Adventure</h1>
+	<h4>Turning Observations Into Action</h4>
+	<p class="postdate">Date: 2015-09</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2015-09-DerekSivers-ArtOfAdventure.mp3">audio (mp3)</a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2015-09-DerekSivers-ArtOfAdventure.mp3">audio (mp3)</a></h2>
 
 
-      <p>Link: <a href="http://www.derekloudermilk.com/blog/derek-sivers/">http://www.derekloudermilk.com/blog/derek-sivers/</a></p>
+	<p>Link: <a href="http://www.derekloudermilk.com/blog/derek-sivers/">http://www.derekloudermilk.com/blog/derek-sivers/</a></p>
 
-    </header>
-  <hr>
-
+</header>
+<hr>
 
 
 
-    <footer>
-      © 2015 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+
+<footer>
+© 2015 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

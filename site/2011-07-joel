@@ -17,28 +17,27 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Mitch Joel - Six Pixels of Separation</h1>
-      <h4>Great 50-minute conversation about a variety of things. </h4>
-      <p class="postdate">Date: 2011-07</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Mitch Joel - Six Pixels of Separation</h1>
+	<h4>Great 50-minute conversation about a variety of things. </h4>
+	<p class="postdate">Date: 2011-07</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2011-07-DerekSivers-MitchJoel.mp3">audio (mp3)</a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2011-07-DerekSivers-MitchJoel.mp3">audio (mp3)</a></h2>
 
 
-      <p>Link: <a href="http://www.twistimage.com/podcast/archives/spos-263---anything-you-want-with-derek-sivers/">http://www.twistimage.com/podcast/archives/spos-263---anything-you-want-with-derek-sivers/</a></p>
+	<p>Link: <a href="http://www.twistimage.com/podcast/archives/spos-263---anything-you-want-with-derek-sivers/">http://www.twistimage.com/podcast/archives/spos-263---anything-you-want-with-derek-sivers/</a></p>
 
-    </header>
-  <hr>
-
+</header>
+<hr>
 
 
 
-    <footer>
-      © 2011 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+
+<footer>
+© 2011 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

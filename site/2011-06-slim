@@ -17,28 +17,27 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Escape from Cubicle Nation</h1>
-      <h4>Do whatever the hell makes you happy! A 30-minute audio interview about business plans, freedom and happiness. </h4>
-      <p class="postdate">Date: 2011-06</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Escape from Cubicle Nation</h1>
+	<h4>Do whatever the hell makes you happy! A 30-minute audio interview about business plans, freedom and happiness. </h4>
+	<p class="postdate">Date: 2011-06</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2011-06-DerekSivers-PamelaSlim.mp3">audio (mp3)</a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2011-06-DerekSivers-PamelaSlim.mp3">audio (mp3)</a></h2>
 
 
-      <p>Link: <a href="http://www.escapefromcubiclenation.com/2011/06/29/do-whatever-the-hell-makes-you-happy-interview-with-derek-sivers/">http://www.escapefromcubiclenation.com/2011/06/29/do-whatever-the-hell-makes-you-happy-interview-with-derek-sivers/</a></p>
+	<p>Link: <a href="http://www.escapefromcubiclenation.com/2011/06/29/do-whatever-the-hell-makes-you-happy-interview-with-derek-sivers/">http://www.escapefromcubiclenation.com/2011/06/29/do-whatever-the-hell-makes-you-happy-interview-with-derek-sivers/</a></p>
 
-    </header>
-  <hr>
-
+</header>
+<hr>
 
 
 
-    <footer>
-      © 2011 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+
+<footer>
+© 2011 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

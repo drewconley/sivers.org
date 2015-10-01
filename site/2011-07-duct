@@ -17,28 +17,27 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Duct Tape Marketing</h1>
-      <h4>How/when to sell your company, and other business/marketing things.</h4>
-      <p class="postdate">Date: 2011-07</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Duct Tape Marketing</h1>
+	<h4>How/when to sell your company, and other business/marketing things.</h4>
+	<p class="postdate">Date: 2011-07</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2011-07-DerekSivers-JohnJantsch.mp3">audio (mp3)</a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2011-07-DerekSivers-JohnJantsch.mp3">audio (mp3)</a></h2>
 
 
-      <p>Link: <a href="http://www.ducttapemarketing.com/blog/anything-you-want/">http://www.ducttapemarketing.com/blog/anything-you-want/</a></p>
+	<p>Link: <a href="http://www.ducttapemarketing.com/blog/anything-you-want/">http://www.ducttapemarketing.com/blog/anything-you-want/</a></p>
 
-    </header>
-  <hr>
-
+</header>
+<hr>
 
 
 
-    <footer>
-      © 2011 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+
+<footer>
+© 2011 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

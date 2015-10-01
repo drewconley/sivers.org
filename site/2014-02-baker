@@ -17,27 +17,26 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>The Creative Entrepreneur</h1>
-      <h4>Talking with Bob Baker about what to do early in your career, fame, fortune, failure, marketing, and the international life.</h4>
-      <p class="postdate">Date: 2014-02</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » The Creative Entrepreneur</h1>
+	<h4>Talking with Bob Baker about what to do early in your career, fame, fortune, failure, marketing, and the international life.</h4>
+	<p class="postdate">Date: 2014-02</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2014-02-DerekSivers-BobBaker.mp4">video (mp4)</a></li><li><a href="http://sivers.org/file/2014-02-DerekSivers-BobBaker.mp3">audio (mp3)</a></ul>
-
-
-      <p>Link: <a href="http://www.diycareermanifesto.com/2014/02/derek-sivers-interview.html">http://www.diycareermanifesto.com/2014/02/derek-sivers-interview.html</a></p>
-
-    </header>
-  <hr>
+	<h2>Download: <a href="http://sivers.org/file/2014-02-DerekSivers-BobBaker.mp4">video (mp4)</a> or <a href="http://sivers.org/file/2014-02-DerekSivers-BobBaker.mp3">audio (mp3)</a></h2>
 
 
+	<p>Link: <a href="http://www.diycareermanifesto.com/2014/02/derek-sivers-interview.html">http://www.diycareermanifesto.com/2014/02/derek-sivers-interview.html</a></p>
 
-    <footer>
-      © 2014 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+</header>
+<hr>
+
+
+
+<footer>
+© 2014 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

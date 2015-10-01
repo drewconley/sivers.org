@@ -17,28 +17,27 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Marketing Over Coffee</h1>
-      <h4>30-minute audio interview mostly about my book. Great questions.</h4>
-      <p class="postdate">Date: 2011-07</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Marketing Over Coffee</h1>
+	<h4>30-minute audio interview mostly about my book. Great questions.</h4>
+	<p class="postdate">Date: 2011-07</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2011-07-DerekSivers-MarketingOverCoffee.mp3">audio (mp3)</a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2011-07-DerekSivers-MarketingOverCoffee.mp3">audio (mp3)</a></h2>
 
 
-      <p>Link: <a href="http://www.marketingovercoffee.com/2011/07/13/special-interview-with-derek-sivers/">http://www.marketingovercoffee.com/2011/07/13/special-interview-with-derek-sivers/</a></p>
+	<p>Link: <a href="http://www.marketingovercoffee.com/2011/07/13/special-interview-with-derek-sivers/">http://www.marketingovercoffee.com/2011/07/13/special-interview-with-derek-sivers/</a></p>
 
-    </header>
-  <hr>
-
+</header>
+<hr>
 
 
 
-    <footer>
-      © 2011 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+
+<footer>
+© 2011 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

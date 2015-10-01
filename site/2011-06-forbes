@@ -17,27 +17,26 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Forbes - Michael Ellsberg</h1>
-      <h4>A great review of my book, followed by a great interview about minimalism in business. </h4>
-      <p class="postdate">Date: 2011-06</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Forbes - Michael Ellsberg</h1>
+	<h4>A great review of my book, followed by a great interview about minimalism in business. </h4>
+	<p class="postdate">Date: 2011-06</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2011-06-DerekSivers-MichaelEllsberg.mp3">audio (mp3)</a></ul>
-
-
-      <p>Link: <a href="http://blogs.forbes.com/michaelellsberg/2011/06/29/one-of-the-best-hours-youll-ever-spend/">http://blogs.forbes.com/michaelellsberg/2011/06/29/one-of-the-best-hours-youll-ever-spend/</a></p>
-
-    </header>
-  <hr>
+	<h2>Download: <a href="http://sivers.org/file/2011-06-DerekSivers-MichaelEllsberg.mp3">audio (mp3)</a></h2>
 
 
+	<p>Link: <a href="http://blogs.forbes.com/michaelellsberg/2011/06/29/one-of-the-best-hours-youll-ever-spend/">http://blogs.forbes.com/michaelellsberg/2011/06/29/one-of-the-best-hours-youll-ever-spend/</a></p>
 
-    <footer>
-      © 2011 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+</header>
+<hr>
+
+
+
+<footer>
+© 2011 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>

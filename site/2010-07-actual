@@ -17,28 +17,27 @@
 
 <div id="content">
 
-  <article>
-    <header>
-      <h1>Actual Insights</h1>
-      <h4>Matthew Niederberger in Rotterdam Netherlands asks me about selling CD Baby, being nomadic, and the dancing guy</h4>
-      <p class="postdate">Date: 2010-07</p>
+<article>
+<header>
+	<h1><a href="/interviews">Interview</a> » Actual Insights</h1>
+	<h4>Matthew Niederberger in Rotterdam Netherlands asks me about selling CD Baby, being nomadic, and the dancing guy</h4>
+	<p class="postdate">Date: 2010-07</p>
 
-      <h2>Download:</h2>
-      <ul><li><a href="http://sivers.org/file/2010-07-DerekSivers-MatthewNiederberger.mp4">video (mp4)</a></li><li><a href="http://sivers.org/file/2010-07-DerekSivers-MatthewNiederberger.mp3">audio (mp3)</a></ul>
+	<h2>Download: <a href="http://sivers.org/file/2010-07-DerekSivers-MatthewNiederberger.mp4">video (mp4)</a> or <a href="http://sivers.org/file/2010-07-DerekSivers-MatthewNiederberger.mp3">audio (mp3)</a></h2>
 
 
-      <p>Link: <a href="http://www.actualinsights.com/2011/interview-with-derek-sivers/">http://www.actualinsights.com/2011/interview-with-derek-sivers/</a></p>
+	<p>Link: <a href="http://www.actualinsights.com/2011/interview-with-derek-sivers/">http://www.actualinsights.com/2011/interview-with-derek-sivers/</a></p>
 
-    </header>
-  <hr>
-
+</header>
+<hr>
 
 
 
-    <footer>
-      © 2010 <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
+
+<footer>
+© 2010 <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
 
 <div id="comments"></div>
 <script type="text/javascript" src="/js/comments.js"></script>
