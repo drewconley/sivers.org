@@ -1,6 +1,3 @@
-@import 'pure/base.scss';
-@import 'pure/forms-nr.scss';
-@import 'pure/buttons.scss';
 $break-small: 400px;
 
 body {
@@ -27,21 +24,40 @@ small, .small {
 	clear: both;
 }
 
-p.postdate, footer, dl#tweetlist dt {
-	font-size: 80%;
-	color: #666;
+input[type="text"], input[type="password"], input[type="email"], select, textarea {
+	padding: 0.5em 0.6em;
+	display: block;
+	border: 1px solid #ccc;
+	box-shadow: inset 0 1px 3px #ddd;
+	border-radius: 4px;
+	vertical-align: middle;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
 }
 
-form {
-	@extend .pure-form;
-	@extend .pure-form-stacked;
+input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focus, select, textarea {
+	outline: 0;
+	border-color: #129FEA;
 }
 
 input[type="submit"] {
-	@extend .pure-button;
-	@extend .pure-button-primary;
+	padding: 5px;
+	font-size: 1em;
+	display: block;
 	background: #800;
+	color: #fff;
 	font-weight: bold;
+}
+
+select {
+	height: 2.25em;
+	border: 1px solid #ccc;
+	background-color: #fff;
+}
+
+label {
+	margin: 0.5em 0 0.2em;
 }
 
 section#masthead {
@@ -85,7 +101,9 @@ div#content {
 	}
 	article {
 		img {
-			@extend .pure-img;
+			max-width: 100%;
+			height: auto;
+			display: block;
 		}
 	}
 }
@@ -174,5 +192,10 @@ div.presentation_summary {
 	@media screen and (min-width: $break-small) {
 		img { float: right; }
 	}
+}
+
+p.postdate, footer, dl#tweetlist dt {
+	font-size: 80%;
+	color: #666;
 }
 
