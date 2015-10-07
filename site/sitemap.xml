@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>http://sivers.org/</loc><lastmod>2015-10-06</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-<url><loc>http://sivers.org/blog</loc><lastmod>2015-10-06</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
-<url><loc>http://sivers.org/tweets</loc><lastmod>2015-10-06</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-<url><loc>http://sivers.org/book</loc><lastmod>2015-10-06</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>http://sivers.org/presentations</loc><lastmod>2015-10-06</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>http://sivers.org/interviews</loc><lastmod>2015-10-06</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>http://sivers.org/</loc><lastmod>2015-10-08</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://sivers.org/blog</loc><lastmod>2015-10-08</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+<url><loc>http://sivers.org/tweets</loc><lastmod>2015-10-08</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+<url><loc>http://sivers.org/book</loc><lastmod>2015-10-08</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>http://sivers.org/presentations</loc><lastmod>2015-10-08</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>http://sivers.org/interviews</loc><lastmod>2015-10-08</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://sivers.org/ask-favors</loc></url>
 <url><loc>http://sivers.org/call-the-destination</loc></url>
 <url><loc>http://sivers.org/captain-t</loc></url>
@@ -345,6 +345,7 @@
 <url><loc>http://sivers.org/2011-06-mixergy</loc></url>
 <url><loc>http://sivers.org/2009-03-berklee</loc></url>
 <url><loc>http://sivers.org/2015-08-productive</loc></url>
+<url><loc>http://sivers.org/2009-10-newman</loc></url>
 <url><loc>http://sivers.org/2010-07-eday</loc></url>
 <url><loc>http://sivers.org/2011-07-baer</loc></url>
 <url><loc>http://sivers.org/2015-09-adventure</loc></url>
