@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2015-10-08T07:16:40+13:00</updated>
+  <updated>2015-10-11T06:43:17+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -1224,68 +1224,90 @@ Though I'm happy to say this is what I hate or love &lt;strong&gt;today&lt;/stro
     <published>2014-05-05T00:00:00+00:00</published>
     <link href="http://sivers.org/ml"/>
     <content type="html">&lt;p&gt;
-Let's just figure out the meaning of life, once and for all, in under 20 minutes, OK?
+	Let’s just figure out the meaning of life, once and for all, in under 20 minutes, OK?
 &lt;/p&gt;&lt;p&gt;
-This is a 19-minute talk I've given at four conferences in Ireland, Taiwan, India, and New Zealand.  I've improved it after each, and finally consider it done, so this is now the best and final recording of it.
+	This is a 19-minute talk I’ve given at four conferences in Ireland, Taiwan, India, and New Zealand.
+	I’ve improved it after each, and finally consider it done, so this is now the best and final recording of it.
 &lt;/p&gt;&lt;p&gt;
-The video doesn't add much, so if you would rather just listen, &lt;a href="/file/DerekSivers-MeaningOfLife.mp3"&gt;download the MP3&lt;/a&gt;.
+	The video doesn’t add much, so if you would rather just listen, &lt;a href="/file/DerekSivers-MeaningOfLife.mp3"&gt;download the MP3&lt;/a&gt;.
 &lt;/p&gt;&lt;p&gt;
-The video should be visible below, but if not, &lt;a href="/file/DerekSivers-MeaningOfLife.mp4"&gt;download the MP4 video&lt;/a&gt;.
+	The video should be visible below, but if not, &lt;a href="/file/DerekSivers-MeaningOfLife.mp4"&gt;download the MP4 video&lt;/a&gt;.
 &lt;/p&gt;
 &lt;iframe width="640" height="360" src="https://www.youtube.com/embed/zzcCWEb-tyk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;
-Huge thanks to some friends who suggested great improvements:
+	Huge thanks to some friends who suggested great improvements:
 &lt;a href="http://www.michellewelsch.com/"&gt;Michelle Welsch&lt;/a&gt;,
 &lt;a href="http://tynan.com/"&gt;Tynan&lt;/a&gt;,
 &lt;a href="http://alytadros.com/"&gt;Aly Tadros&lt;/a&gt;, and
 &lt;a href="http://en.wikipedia.org/wiki/Jeff_Marx"&gt;Jeff Marx&lt;/a&gt;.
 &lt;/p&gt;&lt;p&gt;
-Also thanks to a hundred drunk programmers in Ireland who shouted and sang their way through my first performance of it, standing on chairs at the end of a Saturday night.
+	Also thanks to a hundred drunk programmers in Ireland who shouted and sang their way through my first performance of it, standing on chairs at the end of a Saturday night.
 &lt;/p&gt;&lt;p&gt;
-If you would like to make a better video for this talk, please do. &lt;a href="/file/DerekSivers-MeaningOfLife.wav"&gt;Download the master WAV audio&lt;/a&gt;, and let me know when it's done. Assuming I like it, I'll be happy to link to it here.
+	If you would like to make a better video for this talk, please do.
+	&lt;a href="/file/DerekSivers-MeaningOfLife.wav"&gt;Download the master WAV audio&lt;/a&gt;, and let me know when it’s done.
+	Assuming I like it, I’ll be happy to link to it here.
 &lt;/p&gt;&lt;p&gt;
-Here's the full transcript, if you hate surprises and my charming voice:
+	Here’s the full transcript, if you hate surprises and my charming voice:
 &lt;/p&gt;
 
 &lt;hr&gt;
 
-&lt;h2&gt;Transcript:&lt;/h2&gt;
+&lt;h2&gt;
+	Transcript:
+&lt;/h2&gt;
 &lt;p&gt;
-There's a true story about the student who showed up late to math class.  He copied the problem that was already written on the board, assuming it was homework, and solved it that week.  Only afterwards did he find out the teacher put it on the board as an example of an unsolvable problem.
+	There’s a true story about the student who showed up late to math class.
+	He copied the problem that was already written on the board, assuming it was homework, and solved it that week.
+	Only afterwards did he find out the teacher put it on the board as an example of an unsolvable problem.
 &lt;/p&gt;&lt;p&gt;
-This question - “What is the meaning of life?” - is the classic unsolvable problem.  For thousands of years, people have been trying to figure it out.  It's the punchline cliché of unanswerable questions.
+	This question - “What is the meaning of life?” - is the classic unsolvable problem.
+	For thousands of years, people have been trying to figure it out.
+	It’s the punchline cliché of unanswerable questions.
 &lt;/p&gt;&lt;p&gt;
-But right now, let's be the naive ones that don't know it's considered unsolvable, and just figure out the meaning of life in under 20 minutes.  OK?
+	But right now, let’s be the naive ones that don’t know it’s considered unsolvable, and just figure out the meaning of life in under 20 minutes.  OK?
 &lt;/p&gt;
 
-&lt;h3&gt;LIFE IS __________&lt;/h3&gt;
+&lt;h3&gt;
+	LIFE IS __________
+&lt;/h3&gt;
 &lt;p&gt;
-What word do you think goes in that blank?  Life is what?  Any ideas?
+	What word do you think goes in that blank?
+	Life is what?
+	Any ideas?
 &lt;/p&gt;&lt;p&gt;
-Let's look at some of the different options that philosophers and smarties have said.
+	Let’s look at some of the different options that philosophers and smarties have said.
 &lt;/p&gt;
 
-&lt;h3&gt;LIFE IS TIME&lt;/h3&gt;
+&lt;h3&gt;
+	LIFE IS TIME
+&lt;/h3&gt;
 &lt;p&gt;
-Some say life is time.  Life is all about time.  The definition of life is the time between when you're born and when you die.  So the literal meaning of life is time.
+	Some say life is time.
+	Life is all about time.
+	The definition of life is the time between when you’re born and when you die.
+	So the literal meaning of life is time.
 &lt;/p&gt;&lt;p&gt;
-So if life is time, the way to have a good life is to use time wisely.
+	So if life is time, the way to have a good life is to use time wisely.
 &lt;/p&gt;&lt;p&gt;
-How can you use time wisely?  Five ways.
+	How can you use time wisely?
+	Five ways.
 &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-Remember it's limited
+	Remember it’s limited
 &lt;/p&gt;&lt;p&gt;
-	If you find out tonight that you've only got one year left to live, you'll make the most of this next year.  If you act like life is infinite, you won't.
+	If you find out tonight that you’ve only got one year left to live, you’ll make the most of this next year.
+	If you act like life is infinite, you won’t.
 &lt;/p&gt;&lt;p&gt;
 	To achieve great things, two things are needed: a plan, and not quite enough time.
 &lt;/p&gt;&lt;p&gt;
-	Give yourself tight deadlines.  Remember you could die at any time.  Don't delay.
+	Give yourself tight deadlines.
+	Remember you could die at any time.
+	Don’t delay.
 &lt;/p&gt;&lt;p&gt;
-How can you use time wisely?
+	How can you use time wisely?
 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;
-Be mostly future-focused
+	Be mostly future-focused
 &lt;p&gt;
 	Make most of your current actions serve your future self.
 	Learn, practice, exercise, delay gratification, save and invest your money, and build towards your ideal future.
@@ -1294,9 +1316,9 @@ Be mostly future-focused
 	But too much future focus leads to being a successful person on your 4th marriage, with no true friends.
 	Too much future focus can take time away from important things that need you to be in the moment.
 &lt;/p&gt;&lt;p&gt;
-How can you use time wisely?
+	How can you use time wisely?
 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;
-Be somewhat present-focused
+	Be somewhat present-focused
 &lt;p&gt;
 	Sometimes, pull your head out of the future, and give your full attention to the present.
 	Relationships, communication, and sex require this.
@@ -1307,21 +1329,21 @@ Be somewhat present-focused
 &lt;/p&gt;&lt;p&gt;
 	Too much present focus robs you of the deeper happiness of delayed gratification, achieving long-term goals, and developing valuable expertise.
 &lt;/p&gt;&lt;p&gt;
-How can you use time wisely?
+	How can you use time wisely?
 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;
-Be somewhat past-focused
+	Be somewhat past-focused
 &lt;p&gt;
 	To remember your past is to live twice.
 &lt;/p&gt;&lt;p&gt;
-	Keep your life in the context of the past, to see how far you've come.
+	Keep your life in the context of the past, to see how far you’ve come.
 &lt;/p&gt;&lt;p&gt;
 	Put aside time to re-interpret your past events, as a powerful reminder that you can re-interpret your present and future, too.
 &lt;/p&gt;&lt;p&gt;
-How can you use time wisely?
+	How can you use time wisely?
 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;
-Get in the zone
+	Get in the zone
 &lt;p&gt;
-	You know the feeling of flow - where you're focused on work that's not too easy and not too hard - where the work itself has clear goals and is its own reward.
+	You know the feeling of flow - where you’re focused on work that’s not too easy and not too hard - where the work itself has clear goals and is its own reward.
 &lt;/p&gt;&lt;p&gt;
 	People at the end of their life who claimed to be the happiest with their life were the ones who had spent the most time in this state of flow.
 &lt;/p&gt;&lt;p&gt;
@@ -1330,72 +1352,84 @@ Get in the zone
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;
-Let's say life is time.  What do you think?  Pretty good argument?
+	Let’s say life is time.  What do you think?  Pretty good argument?
 &lt;/p&gt;&lt;p&gt;
-Let's look at another perspective.
+	Let’s look at another perspective.
 &lt;/p&gt;
 
-&lt;h3&gt;LIFE IS CHOICE&lt;/h3&gt;
+&lt;h3&gt;
+	LIFE IS CHOICE
+&lt;/h3&gt;
 &lt;p&gt;
-Some say life is choice.  Life is all about choice.  You make a hundred little choices a day, and a hundred big choices in your life.  These choices change your entire life.  Your life is created by your choices.  Therefore life IS choice.
+	Some say life is choice.
+	Life is all about choice.
+	You make a hundred little choices a day, and a hundred big choices in your life.
+	These choices change your entire life.
+	Your life is created by your choices.
+	Therefore life IS choice.
 &lt;/p&gt;&lt;p&gt;
-So if life is choice, the way to have a good life is to make good choices.
+	So if life is choice, the way to have a good life is to make good choices.
 &lt;/p&gt;&lt;p&gt;
-How can you make good choices?  Four ways.
+	How can you make good choices?  Four ways.
 &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-Let instinct trump logic
+	Let instinct trump logic
 &lt;p&gt;
 	The different parts of your brain started developing at different periods in evolution.
-	The oldest part of your brain, the one that's been evolving since we were fish, deals with instincts, fears, and gut feelings.
+	The oldest part of your brain, the one that’s been evolving since we were fish, deals with instincts, fears, and gut feelings.
 	The newest part of your brain, the one that’s pretty uniquely human, deals with logic, language, and predictions.
 &lt;/p&gt;&lt;p&gt;
-	This newest part is still in beta.  A $5 calculator can beat it at math.
+	This newest part is still in beta.
+	A $5 calculator can beat it at math.
 	But this oldest part was launched a billion years ago, and has been in production and development ever since.
 &lt;/p&gt;&lt;p&gt;
 	Everything you observe and learn is first processed by your logical brain, but then the results are permanently stored as instincts, fears, and gut feelings.
-	Your instincts and emotions hold the culmination of everything you've ever observed and learned.
-	So you'll make better choices if you listen your instincts, instead of relying too much on your $5 calculator beta brain.
+	Your instincts and emotions hold the culmination of everything you’ve ever observed and learned.
+	So you’ll make better choices if you listen your instincts, instead of relying too much on your $5 calculator beta brain.
 &lt;/p&gt;&lt;p&gt;
-How can you make good choices?  
+	How can you make good choices?  
 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;
-Stop at good enough
+	Stop at good enough
 &lt;p&gt;
 	You now have more options than ever.
 	You try to choose the best option, the best career, the best school, and the best boyfriend/girlfriend/partner/spouse.
 &lt;/p&gt;&lt;p&gt;
-	But thinking this way makes you feel worse about the choices you've made.
-	You're more aware than ever of all the options you didn't choose, and the benefits of each.
+	But thinking this way makes you feel worse about the choices you’ve made.
+	You’re more aware than ever of all the options you didn’t choose, and the benefits of each.
 &lt;/p&gt;&lt;p&gt;
-	So don't seek the absolute best. Stop when you find an option that is good enough.
-	You'll make an equally good choice, but more importantly, you'll feel much better about it.
+	So don’t seek the absolute best. Stop when you find an option that is good enough.
+	You’ll make an equally good choice, but more importantly, you’ll feel much better about it.
 	Happiness counts.
 &lt;/p&gt;&lt;p&gt;
-How can you make good choices?
+	How can you make good choices?
 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;
-Set limits
+	Set limits
 &lt;p&gt;
 	Every choice you have to make causes a little bit of pain.
 	Having choice in life is good, but having more choice is not always better.
 &lt;/p&gt;&lt;p&gt;
-	You're happier when you let other people make some choices for you.
-	If you’re very sick, you want your doctor to choose what's best, not say, "There are dozens of good options. What do you want to do?"
-	This is the appeal of religion.  It gives you rules.  It makes many of the choices for you.
+	You’re happier when you let other people make some choices for you.
+	If you’re very sick, you want your doctor to choose what’s best, not say, "There are dozens of good options. What do you want to do?"
+	This is the appeal of religion.
+	It gives you rules.
+	It makes many of the choices for you.
 &lt;/p&gt;&lt;p&gt;
-	So set limits to your choices in life.  Cut off some options.  Give yourself rules.
+	So set limits to your choices in life.
+	Cut off some options.
+	Give yourself rules.
 &lt;/p&gt;&lt;p&gt;
-How can you make good choices?
+	How can you make good choices?
 &lt;/p&gt;&lt;/li&gt;&lt;li&gt;
-Choose important not urgent
+	Choose important not urgent
 &lt;p&gt;
-	You know the difference between what's long-term important versus short-term urgent.
+	You know the difference between what’s long-term important versus short-term urgent.
 &lt;/p&gt;&lt;p&gt;
-	What's urgent are emails, texts, tweets, calls, and news.
+	What’s urgent are emails, texts, tweets, calls, and news.
 &lt;/p&gt;&lt;p&gt;
-	What's important is spending a thousand hours to learn a new skill that will really help you in your life or work.
-	What's important is giving your full undistracted attention to the important people in your life.
-	What's important is taking time to get exercise, or to collect and share what you've learned.
+	What’s important is spending a thousand hours to learn a new skill that will really help you in your life or work.
+	What’s important is giving your full undistracted attention to the important people in your life.
+	What’s important is taking time to get exercise, or to collect and share what you’ve learned.
 &lt;/p&gt;&lt;p&gt;
 	But none of these things will ever be urgent.
 &lt;/p&gt;&lt;p&gt;
@@ -1404,175 +1438,280 @@ Choose important not urgent
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;
-So life is choice?  What do you think?  Pretty good argument?  Let's try another.
+	So life is choice?
+	What do you think?
+	Pretty good argument?
+	Let’s try another.
 &lt;/p&gt;
 
-&lt;h3&gt;LIFE IS MEMORY&lt;/h3&gt;
+&lt;h3&gt;
+	LIFE IS MEMORY
+&lt;/h3&gt;
 &lt;p&gt;
-Some say life is memory.  The future doesn't exist.  It's something we imagine.  The present is gone in a millisecond, so everything we experience in life is a memory.  You could live a long life, but without a lot of memories, you only experienced a short life.  If you don't remember your life, it's like it never happened.  So life is memory.
+	Some say life is memory.
+	The future doesn’t exist.
+	It’s something we imagine.
+	The present is gone in a millisecond, so everything we experience in life is a memory.
+	You could live a long life, but without a lot of memories, you only experienced a short life.
+	If you don’t remember your life, it’s like it never happened.
+	So life is memory.
 &lt;/p&gt;&lt;p&gt;
-So if life is memory, the way to have a good life is to make more memories.
+	So if life is memory, the way to have a good life is to make more memories.
 &lt;/p&gt;&lt;p&gt;
-How can you make memories?
+	How can you make memories?
 &lt;/p&gt;&lt;p&gt;
-Change routines.  Break monotony.  Move.  Make a major change whenever you can.  These are your chronological landmarks.  These are the hooks where you'll hang your memories.
+	Change routines.
+	Break monotony.
+	Move.
+	Make a major change whenever you can.
+	These are your chronological landmarks.
+	These are the hooks where you’ll hang your memories.
 &lt;/p&gt;&lt;p&gt;
-Document it.  Blog it.  Not in a company's walled garden, but in a format you can archive and look through in 50 years, or your grandkids can look through in 100 years.  Keep a private blog for your future self, and tell the tales of where you've been, what you did, and the quirky people you've met along the way.  You'll be surprised how much you forget if you don't record it.
+	Document it.
+	Blog it.
+	Not in a company’s walled garden, but in a format you can archive and look through in 50 years, or your grandkids can look through in 100 years.
+	Keep a private blog for your future self, and tell the tales of where you’ve been, what you did, and the quirky people you’ve met along the way.
+	You’ll be surprised how much you forget if you don’t record it.
 &lt;/p&gt;&lt;p&gt;
-Socrates said the unexamined life is not worth living.  What about the forgotten life?
+	Socrates said the unexamined life is not worth living.
+	What about the forgotten life?
 &lt;/p&gt;&lt;p&gt;
-So life is memory?  What do you think?  Want to do another?
+	So life is memory?
+	What do you think?
+	Want to do another?
 &lt;/p&gt;
 
-&lt;h3&gt;LIFE IS LEARNING&lt;/h3&gt;
+&lt;h3&gt;
+	LIFE IS LEARNING
+&lt;/h3&gt;
 &lt;p&gt;
-Both my smart friends and my spiritual friends insist that the meaning of life is learning - that the reason you're here is to learn.  Not just for your own sake, but for everyone alive, and future generations, the meaning of your life is to learn.
+	Both my smart friends and my spiritual friends insist that the meaning of life is learning - that the reason you’re here is to learn.
+	Not just for your own sake, but for everyone alive, and future generations, the meaning of your life is to learn.
 &lt;/p&gt;&lt;p&gt;
-So if life is learning, the way to have a good life is to learn a lot.
+	So if life is learning, the way to have a good life is to learn a lot.
 &lt;/p&gt;&lt;p&gt;
-How can you learn a lot?
+	How can you learn a lot?
 &lt;/p&gt;&lt;p&gt;
-Instead of talking about learning techniques, let's talk about getting the right mindset, so you can learn more than you realize.
+	Instead of talking about learning techniques, let’s talk about getting the right mindset, so you can learn more than you realize.
 &lt;/p&gt;&lt;p&gt;
-You've probably heard about the Fixed mindset and the Growth mindset.
+	You’ve probably heard about the Fixed mindset and the Growth mindset.
 &lt;/p&gt;&lt;p&gt;
-The Fixed mindset says, "I am good at this" or "I am bad at this".  This starts in childhood when your parents say, "You're so good at math!"  You think, "I'm good at math!"  But then when you do poorly on one test, you think, "They were wrong.  I'm not good at math."  Most people think this way.  You can hear it when they say, “She’s a great singer” or “I’m just no good at dancing.”
+	The Fixed mindset says, "I am good at this" or "I am bad at this".
+	This starts in childhood when your parents say, "You’re so good at math!"
+	You think, "I’m good at math!"
+	But then when you do poorly on one test, you think, "They were wrong.  I’m not good at math.”
+	Most people think this way.
+	You can hear it when they say, “She’s a great singer” or “I’m just no good at dancing.”
 &lt;/p&gt;&lt;p&gt;
-The Growth mindset says, "Anyone can be good at anything. Skill comes only from practice."
+	The Growth mindset says, "Anyone can be good at anything. Skill comes only from practice."
 &lt;/p&gt;&lt;p&gt;
-Two impossibly hard tests were given to hundreds of children.  After the first test, all of the students were praised, but half of the students were privately told these 6 words:  "You must be good at this."  The other half were privately told these 6 words: "You must have worked really hard."
+	Two impossibly hard tests were given to hundreds of children.
+	After the first test, all of the students were praised, but half of the students were privately told these 6 words: "You must be good at this."
+	The other half were privately told these 6 words: "You must have worked really hard."
 &lt;/p&gt;&lt;p&gt;
-When they were given the second test, the students who were told, "You must be good at this", did 20% worse on the 2nd test.  Those 6 words encouraged a fixed mindset that made them feel there was no point in trying.  You either are or you aren’t.
+	When they were given the second test, the students who were told, "You must be good at this", did 20% worse on the 2nd test.
+	Those 6 words encouraged a fixed mindset that made them feel there was no point in trying.
+	You either are or you aren’t.
 &lt;/p&gt;&lt;p&gt;
-The students who were told "You must have worked really hard", did 30% better on the 2nd test.  Those 6 words encouraged a growth mindset that made them feel that working harder made all the difference.
+	The students who were told "You must have worked really hard", did 30% better on the 2nd test.
+	Those 6 words encouraged a growth mindset that made them feel that working harder made all the difference.
 &lt;/p&gt;&lt;p&gt;
-So that's a +-50% difference in performance because of 6 quick words by one teacher.
+	So that’s a +-50% difference in performance because of 6 quick words by one teacher.
 &lt;/p&gt;&lt;p&gt;
-Multiply that by all the people in your life, all the days you hear feedback, and all the things you tell yourself, and you can see how this simple difference in mindset can make or break a life of learning.
+	Multiply that by all the people in your life, all the days you hear feedback, and all the things you tell yourself, and you can see how this simple difference in mindset can make or break a life of learning.
 &lt;/p&gt;&lt;p&gt;
-Parents, pay attention to this.  You may be harming your kids when you tell them they’re good at things.
+	Parents, pay attention to this.
+	You may be harming your kids when you tell them they’re good at things.
 &lt;/p&gt;&lt;p&gt;
-Successful people, pay attention to this.  You may be harming yourself if you believe the praise that people give you.  People tell you you’re great at what you do, never just that you must have worked hard.
+	Successful people, pay attention to this.
+	You may be harming yourself if you believe the praise that people give you.
+	People tell you you’re great at what you do, never just that you must have worked hard.
 &lt;/p&gt;&lt;p&gt;
-So... life is learning?  What do you think?
+	So... life is learning?
+	What do you think?
 &lt;/p&gt;
 
-&lt;h3&gt;Something else?&lt;/h3&gt;
+&lt;h3&gt;
+	Something else?
+&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Should we look at the Buddhist idea that life is SUFFERING?  Nah, that's no fun.&lt;/li&gt;
-&lt;li&gt;Life is LOVE?  Too ambiguous.&lt;/li&gt;
-&lt;li&gt;Life is NOTHING BUT REPLICATING DNA?  Too accurate.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;
+	Should we look at the Buddhist idea that life is SUFFERING?
+	Nah, that’s no fun.
+&lt;/li&gt;&lt;li&gt;
+	Life is LOVE?
+	Too ambiguous.
+&lt;/li&gt;&lt;li&gt;
+	Life is NOTHING BUT REPLICATING DNA?
+	Too accurate.
+&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;
-Let's change the subject.
+	Let’s change the subject.
 &lt;/p&gt;
 
 &lt;h3&gt;Chinese&lt;/h3&gt;
 &lt;p&gt;
-A few years ago, I started learning Chinese.  I'm fascinated with the writing.  I'm trying to memorize how to write these characters.
+	A few years ago, I started learning Chinese.
+	I’m fascinated with the writing.
+	I’m trying to memorize how to write these characters.
 &lt;/p&gt;&lt;p&gt;
-Chinese characters look complicated, but they're mostly made up of smaller simpler characters, the way that English words are made up of Latin roots and such. So you can remember the meaning of each character by knowing the meaning of its ingredients.   For example:
+	Chinese characters look complicated, but they’re mostly made up of smaller simpler characters, the way that English words are made up of Latin roots and such.
+	So you can remember the meaning of each character by knowing the meaning of its ingredients.
+	For example:
 &lt;/p&gt;&lt;p&gt;
-语 language = words 讠+ five 五+ mouth 口
+	语 language = words 讠+ five 五+ mouth 口
 &lt;/p&gt;&lt;p&gt;
-So… Language is words that at least five mouths speak? Brilliant!
+	So... Language is words that at least five mouths speak? Brilliant!
 &lt;/p&gt;&lt;p&gt;
-谢 thank you = words 讠+ body 身+ inch 寸
+	谢 thank you = words 讠+ body 身+ inch 寸
 &lt;/p&gt;&lt;p&gt;
-Hmmm... This one is not so obvious.  Maybe the idea is that when you say thanks, you speak words that give a body an inch of respectful space?  That’s interesting.
+	Hmmm... This one is not so obvious.
+	Maybe the idea is that when you say thanks, you speak words that give a body an inch of respectful space?
+	That’s interesting.
 &lt;/p&gt;&lt;p&gt;
-名 name = evening 夕 + mouth 口
+	名 name = evening 夕 + mouth 口
 &lt;/p&gt;&lt;p&gt;
-So your real name is what's spoken by a mouth in the evening? That's kind of romantic.
+	So your real name is what’s spoken by a mouth in the evening?
+	That’s kind of romantic.
 &lt;/p&gt;&lt;p&gt;
-I get so curious about the historical or cultural meaning behind each one.
+	I get so curious about the historical or cultural meaning behind each one.
 &lt;/p&gt;&lt;p&gt;
-Let's change the subject.
+	Let’s change the subject.
 &lt;/p&gt;
 
 &lt;h3&gt;Talking Heads&lt;/h3&gt;
 &lt;p&gt;
-Talking Heads were a great band from the late-70s to mid-80s. Their lyrics were really evocative and mysterious. They made you wonder what they were really about. 
+	Talking Heads were a great band from the late-70s to mid-80s.
+	Their lyrics were really evocative and mysterious.
+	They made you wonder what they were really about. 
 &lt;/p&gt;&lt;p&gt;
-Then I read an interview with the Talking Heads where they said that many of their lyrics were just random.  They would write evocative phrases onto little pieces of paper, then throw them into a bowl, and shuffle them up. Then they'd pull them out, and put them into the song in that order. They did this because they liked how the listener creates meaning that wasn't intended.
+	Then I read an interview with the Talking Heads where they said that many of their lyrics were just random.
+	They would write evocative phrases onto little pieces of paper, then throw them into a bowl, and shuffle them up.
+	Then they’d pull them out, and put them into the song in that order.
+	They did this because they liked how the listener creates meaning that wasn’t intended.
 &lt;/p&gt;&lt;p&gt;
-We assume that if someone writes a song, then sings it on stage into a microphone, that it must have meaning to them.
+	We assume that if someone writes a song, then sings it on stage into a microphone, that it must have meaning to them.
 &lt;/p&gt;&lt;p&gt;
-But nope. It was just random. Any meaning you think it contains was put there by you, the listener, not the writer. Like a Rorschach test.
+	But nope.
+	It was just random.
+	Any meaning you think it contains was put there by you, the listener, not the writer.
+	Like a Rorschach test.
 &lt;/p&gt;
 
 &lt;h3&gt;Back to Chinese.&lt;/h3&gt;
 &lt;p&gt;
-I got so curious about the historical meaning of these Chinese characters that I got a Chinese etymological dictionary that tells the full history behind every one.
+	I got so curious about the historical meaning of these Chinese characters that I got a Chinese etymological dictionary that tells the full history behind every one.
 &lt;/p&gt;&lt;p&gt;
-I looked up the examples I gave here, and found out those characters were just phonetic!  Those composite character bits were NOT chosen for their meaning at all, just their sound!
+	I looked up the examples I gave here, and found out those characters were just phonetic!
+	Those composite character bits were NOT chosen for their meaning at all, just their sound!
 &lt;/p&gt;&lt;p&gt;
-So it seems I've just been putting the meanings into them, myself. They actually had no meaning at all!
+	So it seems I’ve just been putting the meanings into them, myself.
+	They actually had no meaning at all!
 &lt;/p&gt;&lt;p&gt;
-It blew my mind.  I had been memorizing hundreds of characters for months, reading all kinds of meaning into the ingredients of each one.
+	It blew my mind.
+	I had been memorizing hundreds of characters for months, reading all kinds of meaning into the ingredients of each one.
 &lt;/p&gt;&lt;p&gt;
-After recovering from that, I thought:  How many other things in life really have no meaning?  What else have I been putting my own meaning into, thinking it was true?
+	After recovering from that, I thought:
+	How many other things in life really have no meaning?
+	What else have I been putting my own meaning into, thinking it was true?
 &lt;/p&gt;
 
-&lt;h3&gt;Wired&lt;/h3&gt;
+&lt;h3&gt;
+	Wired
+&lt;/h3&gt;
 &lt;p&gt;
-I know that we’re wired to do it.  I know we survived on the savannah for eons because we evolved to look for patterns.  Our ancestors are the ones who noticed the patterns of the tiger stripes or the lion face in the grass.
+	I know that we’re wired to do it.
+	I know we survived on the savannah for eons because we evolved to look for patterns.
+	Our ancestors are the ones who noticed the patterns of the tiger stripes or the lion face in the grass.
 &lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;A moth is so deeply wired to fly towards the light that it may never accept that your light bulb is not the moon.&lt;/strong&gt;
+	&lt;strong&gt;A moth is so deeply wired to fly towards the light that it may never accept that your light bulb is not the moon.&lt;/strong&gt;
 &lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;We are so deeply wired to find patterns that we may never accept that many things are just random.&lt;/strong&gt;
+	&lt;strong&gt;We are so deeply wired to find patterns that we may never accept that many things are just random.&lt;/strong&gt;
 &lt;/p&gt;&lt;p&gt;
-We should have the same sympathy for our faulty wiring as we do for the moth.  Evolution taught us to do this thing, but didn’t teach us to stop.
+	We should have the same sympathy for our faulty wiring as we do for the moth.
+	Evolution taught us to do this thing, but didn’t teach us to stop.
 &lt;/p&gt;&lt;p&gt;
-Give us some dots and a line, and we’ll see a face.  Burn some toast and we’ll find Elvis in it.
+	Give us some dots and a line, and we’ll see a face.
+	Burn some toast and we’ll find Elvis in it.
 &lt;/p&gt;&lt;p&gt;
-A carrot from my garden looks like Jesus. What does it mean?&lt;br&gt;
-A black cat crossed my path as I walked under a ladder on Friday the 13th. What does it mean?&lt;br&gt;
-An old friend calls just a minute after I was thinking about them. What does it mean?&lt;br&gt;
-What does it mean that you went to a prestigious well-known school?  What does it mean that you didn't?&lt;br&gt;
-What does it mean that your good friend died?  What does it mean that you’re tall?&lt;br&gt;
-What does it mean that you have a lot of followers online?  What does it mean that you don’t?&lt;br&gt;
-What does it mean that you’re female?  What does it mean that you’re male?&lt;br&gt;
-What does it mean that you’re an entrepreneur?  What does it mean that you’re not?&lt;br&gt;
-What does it mean that all of your previous attempts at something have failed?
+	A carrot from my garden looks like Jesus.
+	What does it mean?
+	&lt;br&gt;
+	A black cat crossed my path as I walked under a ladder on Friday the 13th.
+	What does it mean?
+	&lt;br&gt;
+	An old friend calls just a minute after I was thinking about them.
+	What does it mean?
+	&lt;br&gt;
+	What does it mean that you went to a prestigious well-known school? 
+	What does it mean that you didn’t?
+	&lt;br&gt;
+	What does it mean that your good friend died? 
+	What does it mean that you’re tall?
+	&lt;br&gt;
+	What does it mean that you have a lot of followers online?
+	What does it mean that you don’t?
+	&lt;br&gt;
+	What does it mean that you’re female?
+	What does it mean that you’re male?
+	&lt;br&gt;
+	What does it mean that you’re an entrepreneur?
+	What does it mean that you’re not?
+	&lt;br&gt;
+	What does it mean that all of your previous attempts at something have failed?
 &lt;/p&gt;&lt;p&gt;
-Nothing!  Nothing at all.
+	Nothing!  Nothing at all.
 &lt;/p&gt;&lt;p&gt;
-Nothing has inherent meaning. Everything is only what it is and that's it.
+	Nothing has inherent meaning.
+	Everything is only what it is and that’s it.
 &lt;/p&gt;&lt;p&gt;
-So let's get back to our original question and wrap this up.
+	So let’s get back to our original question and wrap this up.
 &lt;/p&gt;
 
-&lt;h3&gt;Life Is _____&lt;/h3&gt;
+&lt;h3&gt;
+	Life Is _____
+&lt;/h3&gt;
 &lt;p&gt;
-What is the meaning of life?  LIFE IS ______&lt;br&gt;
-TIME?&lt;br&gt;
-CHOICE?&lt;br&gt;
-MEMORY?&lt;br&gt;
-LEARNING?&lt;br&gt;
-SUFFERING?&lt;br&gt;
-LOVE?&lt;br&gt;
-REPLICATING DNA?&lt;br&gt;
+	What is the meaning of life?  LIFE IS ______
+&lt;br&gt;
+	TIME?
+&lt;br&gt;
+	CHOICE?
+&lt;br&gt;
+	MEMORY?
+&lt;br&gt;
+	LEARNING?
+&lt;br&gt;
+	SUFFERING?
+&lt;br&gt;
+	LOVE?
+&lt;br&gt;
+	REPLICATING DNA?
 &lt;/p&gt;&lt;p&gt;
-You can tell by the variety of answers that they are just projected meanings.
+	You can tell by the variety of answers that they are just projected meanings.
 &lt;/p&gt;&lt;p&gt;
-You can choose to project one of these meanings onto your life, if it makes you feel good, or improves your current actions.
+	You can choose to project one of these meanings onto your life, if it makes you feel good, or improves your current actions.
 &lt;/p&gt;&lt;p&gt;
-But you know the real answer is clear and obvious now.
+	But you know the real answer is clear and obvious now.
 &lt;/p&gt;&lt;p&gt;
-LIFE IS (just) LIFE.  IT DOESN'T &lt;strong&gt;MEAN&lt;/strong&gt; ANYTHING.
+	Life is (just) life.
+	It doesn’t &lt;strong&gt;mean&lt;/strong&gt; anything.
 &lt;/p&gt;&lt;p&gt;
-Erase any meaning you put into past events.  Erase any meaning that’s holding you back.  Erase those times where people said that this means that.  None of it is real.
+	Erase any meaning you put into past events.
+	Erase any meaning that’s holding you back.
+	Erase those times where people said that this means that.
+	None of it is real.
 &lt;/p&gt;&lt;p&gt;
-Life has no inherent meaning.  Nothing has inherent meaning.
+	Life has no inherent meaning.
+	Nothing has inherent meaning.
 &lt;/p&gt;&lt;p&gt;
-Life is a blank slate.
+	Life is a blank slate.
 &lt;/p&gt;&lt;p&gt;
-You're free to project any meaning that serves you.
+	You’re free to project any meaning that serves you.
 &lt;/p&gt;&lt;p&gt;
-You're free to do with it, anything you want.
+	You’re free to do with it, anything you want.
 &lt;/p&gt;&lt;p&gt;
-Thank you.
+	Thank you.
 &lt;/p&gt;
 
 </content>
