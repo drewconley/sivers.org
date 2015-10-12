@@ -28,7 +28,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <p>
 Watch <a href="http://www.ted.com/talks/elizabeth_gilbert_on_genius.html">this video</a> of <a href="http://elizabethgilbert.com/">Elizabeth Gilbert</a>'s amazing 18-minute talk on creativity.  Her speech was the hit of the <a href="http://www.ted.com/">TED Conference</a>.
 </p>
-<iframe src="http://embed.ted.com/talks/elizabeth_gilbert_on_genius.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="https://embed.ted.com/talks/elizabeth_gilbert_on_genius.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <p>
 Absolutely amazing speech. Emotional, universal, insightful, educational, and funny.
 </p><p>
