@@ -193,7 +193,7 @@ task :make do
 	html = template('header').result
 	html << template('interviews').result
 	html << template('footer').result
-	File.open('site/interviews', 'w') {|f| f.puts html }
+	File.open('site/i', 'w') {|f| f.puts html }
 
 
 	########## READ, PARSE, AND WRITE BOOK NOTES
@@ -313,11 +313,11 @@ task :make do
 <url><loc>http://sivers.org/</loc><lastmod>#{today}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
 <url><loc>http://sivers.org/blog</loc><lastmod>#{today}</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
 <url><loc>http://sivers.org/tweets</loc><lastmod>#{today}</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-<url><loc>http://sivers.org/book</loc><lastmod>#{today}</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>http://sivers.org/i</loc><lastmod>#{today}</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+<url><loc>http://sivers.org/book</loc><lastmod>#{today}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>http://sivers.org/presentations</loc><lastmod>#{today}</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>http://sivers.org/interviews</loc><lastmod>#{today}</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 XML
-	@urls.each do |u|
+	@urls.sort.each do |u|
 		xml << "<url><loc>http://sivers.org/#{u}</loc></url>\n"
 	end
 	xml << '</urlset>'
