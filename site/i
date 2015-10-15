@@ -32,6 +32,11 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 	</div>
 
 	<div class="interview_summary spacer">
+		<h2><a href="/2015-10-built2sell">Built to Sell</a> <span class="small">(date: 2015-10)</span></h2>
+		<p>Talking with John Warrillow about how I built and sold CD Baby</p>
+	</div>
+
+	<div class="interview_summary spacer">
 		<h2><a href="/2015-09-33">33 Voices</a> <span class="small">(date: 2015-09)</span></h2>
 		<p>The Tao of Business and how to live it, as well as how to design a life philosophy with deep meaning.</p>
 	</div>
