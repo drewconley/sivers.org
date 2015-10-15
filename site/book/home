@@ -76,6 +76,15 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 		</figcaption>
 	</figure>
 
+	<figure class="abook" data-rating="9" data-title="On Writing Well - by William Zinsser" data-date="2015-08-01">
+		<a href="/book/OnWritingWell"><img src="/images/124x187.gif" data-echo="/images/OnWritingWell.gif" alt="On Writing Well - by William Zinsser" /></a>
+		<figcaption>
+			<h2><a href="/book/OnWritingWell">On Writing Well - by William Zinsser</a></h2>
+			<p>ISBN: 0060891548 READ: 2015-08-01 RATING: 9/10</p>
+			<p>Pow! Love it. Great blunt advice about writing better non-fiction. So inspiring.</p>
+		</figcaption>
+	</figure>
+
 	<figure class="abook" data-rating="9" data-title="Smartcuts - by Shane Snow " data-date="2014-11-20">
 		<a href="/book/Smartcuts"><img src="/images/124x187.gif" data-echo="/images/Smartcuts.gif" alt="Smartcuts - by Shane Snow " /></a>
 		<figcaption>
@@ -388,6 +397,15 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 			<h2><a href="/book/EMythRevisited">E-Myth Revisited - by Michael Gerber</a></h2>
 			<p>ISBN: 0887307280 READ: 2004-02-26 RATING: 9/10</p>
 			<p>Everything needs to be a system. Think of your business as a franchise prototype. You should be able to hand the “how-to” manual to just anyone, to do it as good as you.</p>
+		</figcaption>
+	</figure>
+
+	<figure class="abook" data-rating="8" data-title="The Entrepreneur Roller Coaster - by Darren Hardy" data-date="2015-08-01">
+		<a href="/book/RollerCoaster"><img src="/images/124x187.gif" data-echo="/images/RollerCoaster.gif" alt="The Entrepreneur Roller Coaster - by Darren Hardy" /></a>
+		<figcaption>
+			<h2><a href="/book/RollerCoaster">The Entrepreneur Roller Coaster - by Darren Hardy</a></h2>
+			<p>ISBN: 0990798623 READ: 2015-08-01 RATING: 8/10</p>
+			<p>Rar! My heart rate is racing as I tear through this riveting book. Darren captures and spreads the entrepreneurial spirit better than anyone I know. I've been a successful entrepreneur for 25 years but The Entrepreneur Roller Coaster just got me more excited and enlightened than I've been in a long time. You must read and USE this immediately!</p>
 		</figcaption>
 	</figure>
 
@@ -913,6 +931,15 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 		</figcaption>
 	</figure>
 
+	<figure class="abook" data-rating="6" data-title="The Sense of Style - by Steven Pinker" data-date="2015-09-01">
+		<a href="/book/SenseOfStyle"><img src="/images/124x187.gif" data-echo="/images/SenseOfStyle.gif" alt="The Sense of Style - by Steven Pinker" /></a>
+		<figcaption>
+			<h2><a href="/book/SenseOfStyle">The Sense of Style - by Steven Pinker</a></h2>
+			<p>ISBN: 0143127799 READ: 2015-09-01 RATING: 6/10</p>
+			<p>Advice on being a better writer. But compare to the book “On Writing Well”, also listed here. That one is punchy and immediately useful. This one is a more verbose, in-depth analysis of the use of language. Also useful, but, well, I wish it was shorter.</p>
+		</figcaption>
+	</figure>
+
 	<figure class="abook" data-rating="6" data-title="How Adam Smith Can Change Your Life - by Russ Roberts" data-date="2015-05-07">
 		<a href="/book/AdamSmith"><img src="/images/124x187.gif" data-echo="/images/AdamSmith.gif" alt="How Adam Smith Can Change Your Life - by Russ Roberts" /></a>
 		<figcaption>
@@ -1363,6 +1390,15 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 		</figcaption>
 	</figure>
 
+	<figure class="abook" data-rating="4" data-title="A More Beautiful Question - by Warren Berger" data-date="2015-07-07">
+		<a href="/book/MoreBeautifulQuestion"><img src="/images/124x187.gif" data-echo="/images/MoreBeautifulQuestion.gif" alt="A More Beautiful Question - by Warren Berger" /></a>
+		<figcaption>
+			<h2><a href="/book/MoreBeautifulQuestion">A More Beautiful Question - by Warren Berger</a></h2>
+			<p>ISBN: 1620401452 READ: 2015-07-07 RATING: 4/10</p>
+			<p>A fine book, but maybe because I've been around professional creatives instead of corporate-types for most of my life, I already knew this subject too well, so it wasn't very useful to me.</p>
+		</figcaption>
+	</figure>
+
 	<figure class="abook" data-rating="4" data-title="Make It Stick - by Peter Brown" data-date="2014-12-20">
 		<a href="/book/MakeItStick"><img src="/images/124x187.gif" data-echo="/images/MakeItStick.gif" alt="Make It Stick - by Peter Brown" /></a>
 		<figcaption>
@@ -1486,6 +1522,24 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 			<h2><a href="/book/MaximumAchievement">Maximum Achievement - by Brian Tracy</a></h2>
 			<p>ISBN: 0684803313 READ: 2006-11-12 RATING: 4/10</p>
 			<p>A classic self-help book. Exactly what you'd expect. I don't agree with all of it.</p>
+		</figcaption>
+	</figure>
+
+	<figure class="abook" data-rating="3" data-title="The Future of Almost Everything - by Patrick Dixon" data-date="2015-10-10">
+		<a href="/book/FutureAlmostEverything"><img src="/images/124x187.gif" data-echo="/images/FutureAlmostEverything.gif" alt="The Future of Almost Everything - by Patrick Dixon" /></a>
+		<figcaption>
+			<h2><a href="/book/FutureAlmostEverything">The Future of Almost Everything - by Patrick Dixon</a></h2>
+			<p>ISBN: 1781254974 READ: 2015-10-10 RATING: 3/10</p>
+			<p>On the plus-side, he's focused on future predictions that are most likely to happen. On the down-side, that means there are no big surprises. An interesting read, but not much I needed to take notes on.</p>
+		</figcaption>
+	</figure>
+
+	<figure class="abook" data-rating="3" data-title="Wilde in America - by David M. Friedman" data-date="2015-09-20">
+		<a href="/book/WildeInAmerica"><img src="/images/124x187.gif" data-echo="/images/WildeInAmerica.gif" alt="Wilde in America - by David M. Friedman" /></a>
+		<figcaption>
+			<h2><a href="/book/WildeInAmerica">Wilde in America - by David M. Friedman</a></h2>
+			<p>ISBN: 0393063178 READ: 2015-09-20 RATING: 3/10</p>
+			<p>A fine biography of Oscar Wilde's unique approach to America. Best quote: “Other Europeans came to learn about America; Wilde came so America could learn about him.”</p>
 		</figcaption>
 	</figure>
 
