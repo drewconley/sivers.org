@@ -21,6 +21,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
   <h1>Tweets</h1>
   <dl id="tweetlist">
+    <dt>October 16, 2015</dt>
+    <dd>I live in the windiest city in the world: <a href="http://www.theguardian.com/cities/2015/oct/15/where-world-windiest-city-spoiler-alert-chicago-wellington">http://www.theguardian.com/cities/2015/oct/15/where-world-windiest-city-spoiler-alert-chicago-wellington</a></dd>
     <dt>October 15, 2015</dt>
     <dd>6 new books at <a href="http://sivers.org/book">http://sivers.org/book</a> Top picks: <a href="http://sivers.org/book/OnWritingWell">http://sivers.org/book/OnWritingWell</a> + <a href="http://sivers.org/book/RollerCoaster">http://sivers.org/book/RollerCoaster</a></dd>
     <dt>October 2, 2015</dt>
