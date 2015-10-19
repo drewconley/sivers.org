@@ -26,7 +26,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <p>Only one feature: Add timestamped statuses into the database.</p>
 <p>Example statuses: sleeping, eating, talking, working, emailing, watching, commuting, chores, exercising, studying</p>
 
-<h2>STATUS: Done and live on my phone. I'll put in Google Play Store some day.</h2>
+<h2>STATUS: Done and live on my phone. Maybe I'll publish it some day.</h2>
 
 <h3>Database schema</h3>
 
