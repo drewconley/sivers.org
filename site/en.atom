@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2015-10-22T00:55:16+13:00</updated>
+  <updated>2015-10-22T00:57:23+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -14,7 +14,7 @@
     <published>2015-10-21T00:00:00+00:00</published>
     <link href="http://sivers.org/nowff"/>
     <content type="html">&lt;p&gt;
-	People often ask me, by email, what I’m doing now.
+	People often ask me what I’m doing now.
 &lt;/p&gt;&lt;p&gt;
 	Each time I would type out a reply, describing where I’m at, what I’m focused on, and what I’m not.
 &lt;/p&gt;&lt;p&gt;
