@@ -2,11 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2015-10-21T13:12:56+13:00</updated>
+  <updated>2015-10-22T00:55:16+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>The /now page movement</title>
+    <id>http://sivers.org/nowff</id>
+    <updated>2015-10-21T00:00:00+00:00</updated>
+    <published>2015-10-21T00:00:00+00:00</published>
+    <link href="http://sivers.org/nowff"/>
+    <content type="html">&lt;p&gt;
+	People often ask me, by email, what I’m doing now.
+&lt;/p&gt;&lt;p&gt;
+	Each time I would type out a reply, describing where I’m at, what I’m focused on, and what I’m not.
+&lt;/p&gt;&lt;p&gt;
+	So earlier this year I added a &lt;a href="/now"&gt;/now&lt;/a&gt; page to my site:
+&lt;strong&gt;&lt;a href="/now"&gt;sivers.org/now&lt;/a&gt;&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+	A simple link.
+	Easy to remember.
+	Easy to type.
+&lt;/p&gt;&lt;p&gt;
+	It’s a nice reminder for myself, when I’m feeling unfocused.
+	A public declaration of priorities.
+&lt;/p&gt;&lt;p&gt;
+	(If I’m doing something that’s not on my list, is it something I want to add, or something I want to stop?)
+&lt;/p&gt;&lt;p&gt;
+	It helps me &lt;a href="/no2"&gt;say no&lt;/a&gt;, too.
+	When I decline invitations, I point them to that page to let them know it’s not personal.
+&lt;/p&gt;&lt;p&gt;
+	Anyway, &lt;strong&gt;today&lt;/strong&gt; the brilliant Gregory Brown announced that &lt;strong&gt;he added &lt;a href="http://practicingdeveloper.com/now/"&gt;a /now page&lt;/a&gt; to his site!&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+	I re-tweeted his announcement, and &lt;strong&gt;within hours, 7 more people made a /now page!&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://mikevial.com/now/"&gt;mikevial.com/now&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.theubergeekgirl.com/now/"&gt;theubergeekgirl.com/now&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blitzprog.org/now"&gt;blitzprog.org/now&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.notkindacool.com/now/"&gt;notkindacool.com/now&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.marclittlemore.com/now/"&gt;marclittlemore.com/now&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://marcjenkins.co.uk/now/"&gt;marcjenkins.co.uk/now&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lewiswalsh.com/now/"&gt;lewiswalsh.com/now&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	I love it!
+	I wish &lt;em&gt;everyone&lt;/em&gt; had one!
+&lt;/p&gt;&lt;p&gt;
+	&lt;strong&gt;If you make a /now page on your site, please add the URL in the body of a comment, below.&lt;/strong&gt;
+	Use the full http:// URL, so it will be a clickable link.
+&lt;/p&gt;&lt;p&gt;
+	(You do get what’s going on here, don’t you?
+	Gregory Brown has &lt;a href="/ff"&gt;started a movement&lt;/a&gt;!)
+☺
+&lt;/p&gt;
+&lt;a href="/ff" title="First follower: leadership lessons learned from a dancing guy"&gt;&lt;img src="/images/dancing-guy.jpg" alt="first follower dancing guy"&gt;&lt;/a&gt;
+
+</content>
+  </entry>
   <entry>
     <title>Relax for the same result</title>
     <id>http://sivers.org/relax</id>
@@ -2263,67 +2317,6 @@ In individualistic societies (America, Europe, Australia, etc.), the common beli
 &lt;a href="http://woodegg.com/tw"&gt;Taiwan&lt;/a&gt;,
 &lt;a href="http://woodegg.com/th"&gt;Thailand&lt;/a&gt;, and
 &lt;a href="http://woodegg.com/vn"&gt;Vietnam&lt;/a&gt;. They’re all ebooks for under $10 each, sold at LeanPub, Amazon, and Apple iBooks.&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>Same word. Different places? Different meanings.</title>
-    <id>http://sivers.org/quality</id>
-    <updated>2014-01-16T00:00:00+00:00</updated>
-    <published>2014-01-16T00:00:00+00:00</published>
-    <link href="http://sivers.org/quality"/>
-    <content type="html">&lt;p&gt;
-I had just moved to Singapore when I met the brilliant &lt;a href="http://www.plus8star.com/"&gt;Benjamin Joffe&lt;/a&gt; (&lt;a href="https://twitter.com/benjaminjoffe"&gt;@benjaminjoffe&lt;/a&gt;) - a startup consultant and investor from France, who has spent the last 13 years living around Asia: a few years each in &lt;a href="http://woodegg.com/kr"&gt;Korea&lt;/a&gt;, &lt;a href="http://woodegg.com/cn"&gt;China&lt;/a&gt;, and &lt;a href="http://woodegg.com/jp"&gt;Japan&lt;/a&gt;.
-&lt;/p&gt;&lt;p&gt;
-I asked him if he could tell me the most important thing he learned from living in these different countries.
-&lt;/p&gt;&lt;p&gt;
-He said, “&lt;strong&gt;Even though we are all using English as a common language, the same word can mean very different things in different places&lt;/strong&gt;.”
-&lt;/p&gt;&lt;p&gt;
-I looked confused, so he said, “&lt;strong&gt;When I say the word ‘quality’, what do you think it means?&lt;/strong&gt;”
-&lt;/p&gt;&lt;p&gt;
-I thought and said, “Quality means &lt;strong&gt;it works&lt;/strong&gt;.  It’s well-built.  It will last.”
-&lt;/p&gt;&lt;p&gt;
-He beamed a big smile and said, “Exactly!  I knew you were going to say that, because you’re American!  If you ask almost any American what ‘quality’ means, they’ll say ‘it works’.  To you, that’s the definition of the word, but it’s actually just the American definition of the word.
-&lt;/p&gt;&lt;p&gt;
-“In &lt;a href="http://woodegg.com/kr"&gt;Korea&lt;/a&gt;, if I ask almost anyone what quality means, they’ll say, ‘&lt;strong&gt;it’s brand new&lt;/strong&gt;’.  In Korea, newness is important.  Don’t go to Korea trying to emphasize the timeless long-lasting quality of your product.  What matters is what’s new.
-&lt;/p&gt;&lt;p&gt;
-“In &lt;a href="http://woodegg.com/jp"&gt;Japan&lt;/a&gt;, if I ask almost anyone what quality means, they’ll say, ‘&lt;strong&gt;it’s perfect - zero defects&lt;/strong&gt;’.  Japanese culture emphasizes the importance of striving for perfection.  I saw a company ship a huge box of their products to Japan, but the shipment was not accepted because the shipping container was dented.  Although the items inside were fine, it was no longer a ‘quality’ shipment, since it was no longer perfect.
-&lt;/p&gt;&lt;p&gt;
-“In &lt;a href="http://woodegg.com/cn"&gt;China&lt;/a&gt;, if I ask almost anyone what quality means, they’ll say, ‘&lt;strong&gt;it gives status&lt;/strong&gt;’.  &lt;a href="http://en.wikipedia.org/wiki/Guanxi"&gt;Guanxi&lt;/a&gt; is everything - your standing in a personal network - so any item that gives you social status is considered quality.  It doesn’t matter if it’s well-built or will last, as long as it raises your social status.”
-&lt;/p&gt;&lt;p&gt;
-He waited while I digested this thought.
-&lt;/p&gt;&lt;p&gt;
-Then he said, “This is why you can’t just take your brilliant American business idea and go make it happen in any country.  ‘Quality’ is just one word, but imagine the different cultural meanings of words like ‘music’, ‘romantic’, ‘friends’, or even ‘fun’!”
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;This conversation is a big reason I started my &lt;a href="http://woodegg.com/"&gt;Wood Egg book series&lt;/a&gt;.&lt;/strong&gt;  Understanding the different mindsets of different cultures has interested me ever since, so it’s fun to keep diving deeper and deeper into the subject.
-&lt;/p&gt;&lt;p&gt;
-Later, I asked a Singaporean friend why high-tech always-online &lt;a href="http://woodegg.com/sg"&gt;Singapore&lt;/a&gt; has almost no online shopping.
-&lt;/p&gt;&lt;p&gt;
-He said, “Shopping is something you go out and do with your friends!  A few companies have tried to popularize online shopping in Singapore, but it has never worked.”
-&lt;/p&gt;&lt;p&gt;
-When I explained how it would save people a lot of time and money to being able to buy anything at home, without having to go out to the mall, he smiled and said, “What if I came to America and tried to start a company that helped people stay at home and get drunk alone, while sitting at their computer, so that they didn’t need to go out to bars with friends anymore?  Wouldn’t that save them a lot of time and money?”
-&lt;/p&gt;&lt;p&gt;
-Touché.
-&lt;/p&gt;&lt;p&gt;
-Click any book cover, below, to jump to the page for it.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;a href="http://woodegg.com/kh" title="Cambodia 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-KH-200.jpg" alt="Cambodia 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/cn" title="China 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-CN-200.jpg" alt="China 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/hk" title="Hong Kong 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-HK-200.jpg" alt="Hong Kong 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/in" title="India 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-IN-200.jpg" alt="India 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/id" title="Indonesia 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-ID-200.jpg" alt="Indonesia 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/jp" title="Japan 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-JP-200.jpg" alt="Japan 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/kr" title="Korea 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-KR-200.jpg" alt="Korea 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/my" title="Malaysia 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-MY-200.jpg" alt="Malaysia 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/mn" title="Mongolia 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-MN-200.jpg" alt="Mongolia 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/mm" title="Myanmar 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-MM-200.jpg" alt="Myanmar 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/ph" title="Philippines 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-PH-200.jpg" alt="Philippines 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/sg" title="Singapore 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-SG-200.jpg" alt="Singapore 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/lk" title="Sri Lanka 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-LK-200.jpg" alt="Sri Lanka 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/tw" title="Taiwan 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-TW-200.jpg" alt="Taiwan 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/th" title="Thailand 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-TH-200.jpg" alt="Thailand 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/vn" title="Vietnam 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-VN-200.jpg" alt="Vietnam 2014"&gt;&lt;/a&gt;
-&lt;a href="http://woodegg.com/aa" title="Asia 2014"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-AA-200.jpg" alt="Asia 2014"&gt;&lt;/a&gt;
 
 </content>
   </entry>

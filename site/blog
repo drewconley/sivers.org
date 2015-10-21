@@ -21,6 +21,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
   <h1>Blog</h1>
   <ul>
+    <li><a href="/nowff">The /now page movement</a></li>
     <li><a href="/relax">Relax for the same result</a></li>
     <li><a href="/no2">Saying no to everything else</a></li>
     <li><a href="/2do">“Just tell me what to do”: compressing knowledge into directives</a></li>
@@ -94,7 +95,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
     <li><a href="/sxsw">Successful SxSW: the Tao of the Conference</a></li>
     <li><a href="/weidman">The Night I Met Einstein - by Jerome Weidman</a></li>
     <li><a href="/ff2">First Follower idea is all yours</a></li>
-    <li><a href="/ff">Leadership Lessons from Dancing Guy</a></li>
+    <li><a href="/ff">First Follower: Leadership Lessons from a Dancing Guy</a></li>
     <li><a href="/punish">Resist the urge to punish everyone for one person's mistake</a></li>
     <li><a href="/options">There are always more than two options</a></li>
     <li><a href="/prism">Big catalog = infinite specialty shops</a></li>

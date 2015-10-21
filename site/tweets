@@ -21,6 +21,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
   <h1>Tweets</h1>
   <dl id="tweetlist">
+    <dt>October 22, 2015</dt>
+    <dd>The /now page movement : <a href="http://sivers.org/nowff">http://sivers.org/nowff</a></dd>
     <dt>October 21, 2015</dt>
     <dd>What happened when a guy in Guatemala read my book and emailed me: <a href="https://medium.com/@chrsaravia/the-internet-contacting-your-idols-and-being-grateful-51a108d28aed">https://medium.com/@chrsaravia/the-internet-contacting-your-idols-and-being-grateful-51a108d28aed</a></dd>
     <dt>October 16, 2015</dt>
