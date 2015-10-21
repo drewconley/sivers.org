@@ -126,6 +126,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>October 21</dt>
+		<dd>What happened when a guy in Guatemala read my book and emailed me: <a href="https://medium.com/@chrsaravia/the-internet-contacting-your-idols-and-being-grateful-51a108d28aed">https://medium.com/@chrsaravia/the-internet-contacting-your-idols-and-being-grateful-51a108d28aed</a></dd>
 		<dt>October 16</dt>
 		<dd>I live in the windiest city in the world: <a href="http://www.theguardian.com/cities/2015/oct/15/where-world-windiest-city-spoiler-alert-chicago-wellington">http://www.theguardian.com/cities/2015/oct/15/where-world-windiest-city-spoiler-alert-chicago-wellington</a></dd>
 		<dt>October 15</dt>
@@ -136,8 +138,6 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 		<dd>Is there a course like this for hip hop? <a href="http://www.thegreatcourses.com/courses/how-to-listen-to-and-understand-great-music-3rd-edition.html">http://www.thegreatcourses.com/courses/how-to-listen-to-and-understand-great-music-3rd-edition.html</a></dd>
 		<dt>September 28</dt>
 		<dd>Musicians: if you get an email &quot;Seeking Your Music For Radio Airplay&quot;, saying they are partnered with me: No. I am not. Never heard of them.</dd>
-		<dt>September 24</dt>
-		<dd>Saying no to everything else: <a href="http://sivers.org/no2">http://sivers.org/no2</a></dd>
 	</dl>
 </section>
 
