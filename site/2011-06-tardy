@@ -21,7 +21,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
 <article>
 <header>
-	<h1><a href="/interviews">Interview</a> » Eventual Millionaire</h1>
+	<h1><a href="/i">Interview</a> » Eventual Millionaire</h1>
 	<h4>One commenter said, “A great interview that became a fantastic interview in the last 20 minutes.”</h4>
 	<p class="postdate">Date: 2011-06</p>
 

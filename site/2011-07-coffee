@@ -21,7 +21,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
 <article>
 <header>
-	<h1><a href="/interviews">Interview</a> » Marketing Over Coffee</h1>
+	<h1><a href="/i">Interview</a> » Marketing Over Coffee</h1>
 	<h4>30-minute audio interview mostly about my book. Great questions.</h4>
 	<p class="postdate">Date: 2011-07</p>
 
