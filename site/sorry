@@ -27,11 +27,18 @@ Whatever it is, I’m sure it’s my fault.
 var msg = {
 	badurlid: 'That unique URL is not right, for some reason.</p><p>Maybe it expired? Maybe it has changed since I emailed it to you?</p><p><a href="https://sivers.org/ayw/login">Click here to try to log in</a>.</p><p>If that doesn’t work, email me at <a href="mailto:derek@sivers.org">derek@sivers.org</a>',
 	shortpass: 'Your password needs to be at least 4 characters long.</p><p>Please go back to try again.',
-	noemail: 'That email address wasn’t found. Do you have another?</p><p>Please go back to try again.',
+	emailnf: 'That email address wasn’t found. Do you have another?</p><p>Please go back to try again.',
 	aywcode: 'That wasn’t the code word.</p><p>HINT: It starts with a U and ends with an A.</p><p>Please go back to try again.',
 	login: 'You need to login to be here',
 	badlogin: 'Either the email address or password wasn’t right.</p><p>Please go back to try again.',
-	notfound: 'That filename isn’t found.</p><p>Please email me at <a href="mailto:derek@sivers.org">derek@sivers.org</a> to let me know, and I’ll take care of it right away.'
+	notfound: 'That filename isn’t found.</p><p>Please email me at <a href="mailto:derek@sivers.org">derek@sivers.org</a> to let me know, and I’ll take care of it right away.',
+	noemail: 'You forgot to give your email address.</p><p>Please go back to try again.',
+	noname: 'You forgot to give your name.</p><p>Please go back to try again.',
+	nocomment: 'You forgot to leave a comment.</p><p>Please go back to try again.',
+	badref: 'Seems you’re posting from another site.',
+	akismet: 'Akismet thinks you’re a spammer.</p><p>Maybe something in your message sounded a little too promotional?',
+	honeypot: 'Project Honeypot thinks you’re a spammer.</p><p>Maybe your IP address has been abused?',
+	unsaved: 'My database got confused at your request.</p><p>Please email me at <a href="mailto:derek@sivers.org">derek@sivers.org</a> with details, so I can fix it.'
 };
 var m = /\?for=([a-z]+)/.exec(location.search);
 if(m && msg[m[1]]) {
