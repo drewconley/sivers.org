@@ -186,7 +186,7 @@ task :make do
 
 
 	########## WRITE INTERVIEWS INDEX PAGE
-	@interviews.sort_by!{|x| x[:date]}
+	@interviews.sort_by!{|x| x[:url]}
 	@interviews.reverse!
 	@pagetitle = 'Derek Sivers Interviews'
 	@bodyid = 'interviews'

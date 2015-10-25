@@ -32,8 +32,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 	</div>
 
 	<div class="interview_summary spacer">
-		<h2><a href="/2015-10-boomers">Boomers Rock</a> <span class="small">(date: 2015-10)</span></h2>
-		<p>Why passion is overrated, plasticity, career capital, culture, and more.</p>
+		<h2><a href="/2015-10-hacke">Hack the Entrepreneur</a> <span class="small">(date: 2015-10)</span></h2>
+		<p>How to find your unfair advantage, self-education, being selfless, and what to do. Good conversation with Jon Nastor.</p>
 	</div>
 
 	<div class="interview_summary spacer">
@@ -42,18 +42,13 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 	</div>
 
 	<div class="interview_summary spacer">
-		<h2><a href="/2015-10-hacke">Hack the Entrepreneur</a> <span class="small">(date: 2015-10)</span></h2>
-		<p>How to find your unfair advantage, self-education, being selfless, and what to do. Good conversation with Jon Nastor.</p>
+		<h2><a href="/2015-10-boomers">Boomers Rock</a> <span class="small">(date: 2015-10)</span></h2>
+		<p>Why passion is overrated, plasticity, career capital, culture, and more.</p>
 	</div>
 
 	<div class="interview_summary spacer">
-		<h2><a href="/2015-09-33">33 Voices</a> <span class="small">(date: 2015-09)</span></h2>
-		<p>The Tao of Business and how to live it, as well as how to design a life philosophy with deep meaning.</p>
-	</div>
-
-	<div class="interview_summary spacer">
-		<h2><a href="/2015-09-adventure">Art of Adventure</a> <span class="small">(date: 2015-09)</span></h2>
-		<p>Turning Observations Into Action</p>
+		<h2><a href="/2015-09-zen">Rock and Roll Zen</a> <span class="small">(date: 2015-09)</span></h2>
+		<p>Mark Hermann and I talk music, how to be useful to others, changing the music business, and more.</p>
 	</div>
 
 	<div class="interview_summary spacer">
@@ -67,11 +62,6 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 	</div>
 
 	<div class="interview_summary spacer">
-		<h2><a href="/2015-09-zen">Rock and Roll Zen</a> <span class="small">(date: 2015-09)</span></h2>
-		<p>Mark Hermann and I talk music, how to be useful to others, changing the music business, and more.</p>
-	</div>
-
-	<div class="interview_summary spacer">
 		<h2><a href="/2015-09-smile">Smile High</a> <span class="small">(date: 2015-09)</span></h2>
 		<p>Talk with Nate about people-pleasing and obstacles. Kind of awkward.</p>
 	</div>
@@ -79,6 +69,16 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 	<div class="interview_summary spacer">
 		<h2><a href="/2015-09-bucket">Bucket List Life</a> <span class="small">(date: 2015-09)</span></h2>
 		<p>With Travis Bell, that Bucket List guy</p>
+	</div>
+
+	<div class="interview_summary spacer">
+		<h2><a href="/2015-09-adventure">Art of Adventure</a> <span class="small">(date: 2015-09)</span></h2>
+		<p>Turning Observations Into Action</p>
+	</div>
+
+	<div class="interview_summary spacer">
+		<h2><a href="/2015-09-33">33 Voices</a> <span class="small">(date: 2015-09)</span></h2>
+		<p>The Tao of Business and how to live it, as well as how to design a life philosophy with deep meaning.</p>
 	</div>
 
 	<div class="interview_summary spacer">
@@ -122,8 +122,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 	</div>
 
 	<div class="interview_summary spacer">
-		<h2><a href="/2011-07-duct">Duct Tape Marketing</a> <span class="small">(date: 2011-07)</span></h2>
-		<p>How/when to sell your company, and other business/marketing things.</p>
+		<h2><a href="/2011-07-mentor">MentorCoach</a> <span class="small">(date: 2011-07)</span></h2>
+		<p>conversation with Ben Dean, just telling my story</p>
 	</div>
 
 	<div class="interview_summary spacer">
@@ -132,13 +132,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 	</div>
 
 	<div class="interview_summary spacer">
-		<h2><a href="/2011-07-mentor">MentorCoach</a> <span class="small">(date: 2011-07)</span></h2>
-		<p>conversation with Ben Dean, just telling my story</p>
-	</div>
-
-	<div class="interview_summary spacer">
-		<h2><a href="/2011-07-baer">Jay Baer - Convince &amp; Convert</a> <span class="small">(date: 2011-07)</span></h2>
-		<p>35-minute video interview about business, self-belief, and other good stuff. Great rapport. </p>
+		<h2><a href="/2011-07-duct">Duct Tape Marketing</a> <span class="small">(date: 2011-07)</span></h2>
+		<p>How/when to sell your company, and other business/marketing things.</p>
 	</div>
 
 	<div class="interview_summary spacer">
@@ -147,13 +142,18 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 	</div>
 
 	<div class="interview_summary spacer">
-		<h2><a href="/2011-06-amber">Amber Rae</a> <span class="small">(date: 2011-06)</span></h2>
-		<p>My friend and the CEO of my book, “Anything You Want”! Fun 50-minute video interview about the book and related things.</p>
+		<h2><a href="/2011-07-baer">Jay Baer - Convince &amp; Convert</a> <span class="small">(date: 2011-07)</span></h2>
+		<p>35-minute video interview about business, self-belief, and other good stuff. Great rapport. </p>
 	</div>
 
 	<div class="interview_summary spacer">
 		<h2><a href="/2011-06-tardy">Eventual Millionaire</a> <span class="small">(date: 2011-06)</span></h2>
 		<p>One commenter said, “A great interview that became a fantastic interview in the last 20 minutes.”</p>
+	</div>
+
+	<div class="interview_summary spacer">
+		<h2><a href="/2011-06-slim">Escape from Cubicle Nation</a> <span class="small">(date: 2011-06)</span></h2>
+		<p>Do whatever the hell makes you happy! A 30-minute audio interview about business plans, freedom and happiness. </p>
 	</div>
 
 	<div class="interview_summary spacer">
@@ -167,8 +167,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 	</div>
 
 	<div class="interview_summary spacer">
-		<h2><a href="/2011-06-slim">Escape from Cubicle Nation</a> <span class="small">(date: 2011-06)</span></h2>
-		<p>Do whatever the hell makes you happy! A 30-minute audio interview about business plans, freedom and happiness. </p>
+		<h2><a href="/2011-06-amber">Amber Rae</a> <span class="small">(date: 2011-06)</span></h2>
+		<p>My friend and the CEO of my book, “Anything You Want”! Fun 50-minute video interview about the book and related things.</p>
 	</div>
 
 	<div class="interview_summary spacer">
@@ -192,13 +192,13 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 	</div>
 
 	<div class="interview_summary spacer">
-		<h2><a href="/2009-10-la">L.A. Music Blog</a> <span class="small">(date: 2009-10)</span></h2>
-		<p>just a little about the music biz, CD Baby, Muckwork</p>
+		<h2><a href="/2009-10-newman">New Man with Tripp Lanier</a> <span class="small">(date: 2009-10)</span></h2>
+		<p>Capitalism with Heart and The Tao of Business</p>
 	</div>
 
 	<div class="interview_summary spacer">
-		<h2><a href="/2009-10-newman">New Man with Tripp Lanier</a> <span class="small">(date: 2009-10)</span></h2>
-		<p>Capitalism with Heart and The Tao of Business</p>
+		<h2><a href="/2009-10-la">L.A. Music Blog</a> <span class="small">(date: 2009-10)</span></h2>
+		<p>just a little about the music biz, CD Baby, Muckwork</p>
 	</div>
 
 	<div class="interview_summary spacer">
