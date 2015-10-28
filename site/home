@@ -126,6 +126,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>October 28</dt>
+		<dd>If you liked my “Keep your goals to yourself” TED talk (<a href="https://youtu.be/V68SMFrpFt8),">https://youtu.be/V68SMFrpFt8),</a> you’ll love this: <a href="https://youtu.be/V68SMFrpFt8">https://youtu.be/V68SMFrpFt8</a></dd>
 		<dt>October 22</dt>
 		<dd>The /now page movement : <a href="http://sivers.org/nowff">http://sivers.org/nowff</a></dd>
 		<dt>October 21</dt>
@@ -136,8 +138,6 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 		<dd>6 new books at <a href="http://sivers.org/book">http://sivers.org/book</a> Top picks: <a href="http://sivers.org/book/OnWritingWell">http://sivers.org/book/OnWritingWell</a> + <a href="http://sivers.org/book/RollerCoaster">http://sivers.org/book/RollerCoaster</a></dd>
 		<dt>October 2</dt>
 		<dd>Relax for the same result : <a href="http://sivers.org/relax">http://sivers.org/relax</a></dd>
-		<dt>September 29</dt>
-		<dd>Is there a course like this for hip hop? <a href="http://www.thegreatcourses.com/courses/how-to-listen-to-and-understand-great-music-3rd-edition.html">http://www.thegreatcourses.com/courses/how-to-listen-to-and-understand-great-music-3rd-edition.html</a></dd>
 	</dl>
 </section>
 
