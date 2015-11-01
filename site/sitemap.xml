@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>http://sivers.org/</loc><lastmod>2015-10-29</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-<url><loc>http://sivers.org/blog</loc><lastmod>2015-10-29</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
-<url><loc>http://sivers.org/tweets</loc><lastmod>2015-10-29</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-<url><loc>http://sivers.org/i</loc><lastmod>2015-10-29</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-<url><loc>http://sivers.org/book</loc><lastmod>2015-10-29</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>http://sivers.org/presentations</loc><lastmod>2015-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>http://sivers.org/</loc><lastmod>2015-11-02</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://sivers.org/blog</loc><lastmod>2015-11-02</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+<url><loc>http://sivers.org/tweets</loc><lastmod>2015-11-02</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+<url><loc>http://sivers.org/i</loc><lastmod>2015-11-02</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+<url><loc>http://sivers.org/book</loc><lastmod>2015-11-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>http://sivers.org/presentations</loc><lastmod>2015-11-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://sivers.org/15-years</loc></url>
 <url><loc>http://sivers.org/1idea</loc></url>
 <url><loc>http://sivers.org/1pct</loc></url>
@@ -261,7 +261,6 @@
 <url><loc>http://sivers.org/action-reaction</loc></url>
 <url><loc>http://sivers.org/aimee-mullins</loc></url>
 <url><loc>http://sivers.org/air</loc></url>
-<url><loc>http://sivers.org/amber-rubarth</loc></url>
 <url><loc>http://sivers.org/andor</loc></url>
 <url><loc>http://sivers.org/anything</loc></url>
 <url><loc>http://sivers.org/aopv</loc></url>
@@ -281,7 +280,6 @@
 <url><loc>http://sivers.org/big-vs-little-clients</loc></url>
 <url><loc>http://sivers.org/biking</loc></url>
 <url><loc>http://sivers.org/bilbo</loc></url>
-<url><loc>http://sivers.org/bizcard</loc></url>
 <url><loc>http://sivers.org/blank</loc></url>
 <url><loc>http://sivers.org/book-picks</loc></url>
 <url><loc>http://sivers.org/boring</loc></url>
@@ -321,7 +319,6 @@
 <url><loc>http://sivers.org/desperate2</loc></url>
 <url><loc>http://sivers.org/details</loc></url>
 <url><loc>http://sivers.org/diy</loc></url>
-<url><loc>http://sivers.org/dokkodo</loc></url>
 <url><loc>http://sivers.org/done</loc></url>
 <url><loc>http://sivers.org/donkey</loc></url>
 <url><loc>http://sivers.org/dont-assume</loc></url>
@@ -349,7 +346,6 @@
 <url><loc>http://sivers.org/full</loc></url>
 <url><loc>http://sivers.org/futuretense</loc></url>
 <url><loc>http://sivers.org/game</loc></url>
-<url><loc>http://sivers.org/genius</loc></url>
 <url><loc>http://sivers.org/get-filtered</loc></url>
 <url><loc>http://sivers.org/get-personal</loc></url>
 <url><loc>http://sivers.org/get-specific</loc></url>
@@ -520,7 +516,6 @@
 <url><loc>http://sivers.org/songwriters-only</loc></url>
 <url><loc>http://sivers.org/sorry</loc></url>
 <url><loc>http://sivers.org/sound-like-someone</loc></url>
-<url><loc>http://sivers.org/soundadvice</loc></url>
 <url><loc>http://sivers.org/sprezzatura</loc></url>
 <url><loc>http://sivers.org/srs</loc></url>
 <url><loc>http://sivers.org/ss</loc></url>
@@ -535,7 +530,6 @@
 <url><loc>http://sivers.org/target-sharp</loc></url>
 <url><loc>http://sivers.org/tarzan</loc></url>
 <url><loc>http://sivers.org/ted09</loc></url>
-<url><loc>http://sivers.org/ted1</loc></url>
 <url><loc>http://sivers.org/tedxnus</loc></url>
 <url><loc>http://sivers.org/test-marketing</loc></url>
 <url><loc>http://sivers.org/thanks</loc></url>
