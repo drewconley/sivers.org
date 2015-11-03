@@ -20,7 +20,7 @@ DB.exec("LISTEN comments_changed")
 while true do
 	DB.wait_for_notify do |event, pid, uri|
 		File.open(dirname + uri, 'w') do |f|
-			f.puts qry(uri)
+			f.puts qry(DB, uri)
 		end
 	end
 end
