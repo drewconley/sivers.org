@@ -1,5 +1,5 @@
 def fmt(html)
-	html.gsub(%r{(https?://\S+)}, '<a href="\1">\1</a>').gsub("\n", '<br>')
+	html.gsub(%r{(^|\s)(https?://\S+)}, '\1<a href="\2">\2</a>').gsub("\n", '<br>')
 end
 
 def li(row)
@@ -17,3 +17,4 @@ def qry(db, uri)
 	return '' if res.ntuples == 0
 	ol(res)
 end
+
