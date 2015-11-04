@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Self Reliance - by Ralph Waldo Emerson | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/SelfReliance">
-<meta name="og:image" content="http://sivers.org/images/book/SelfReliance.gif">
+<meta name="og:image" content="http://sivers.org/images/SelfReliance.gif">
 <meta name="og:description" content="Pow! This punched me in the gut from page one. Takes a tiny effort to read the English of the 1840s, but what a reward. A masterpiece essay (manifesto?) on independence, non-conformity, and trusting oneself. ">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Self Reliance - by Ralph Waldo Emerson | Derek Sivers">
 <meta name="twitter:description" content="Pow! This punched me in the gut from page one. Takes a tiny effort to read the English of the 1840s, but what a reward. A masterpiece essay (manifesto?) on independence, non-conformity, and trusting oneself. ">
-<meta name="twitter:image" content="http://sivers.org/images/book/SelfReliance.gif">
+<meta name="twitter:image" content="http://sivers.org/images/SelfReliance.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1936719061?tag=sivers-20"><img src="/images/book/SelfReliance.gif" alt="Self Reliance - by Ralph Waldo Emerson"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1936719061?tag=sivers-20"><img src="/images/SelfReliance.gif" alt="Self Reliance - by Ralph Waldo Emerson"></a></figure>
       <h1>Self Reliance - by Ralph Waldo Emerson</h1>
       <p class="postdate">
         ISBN: 1936719061<br>

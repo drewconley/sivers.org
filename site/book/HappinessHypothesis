@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Happiness Hypothesis  -  by Jonathan Haidt | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/HappinessHypothesis">
-<meta name="og:image" content="http://sivers.org/images/book/HappinessHypothesis.gif">
+<meta name="og:image" content="http://sivers.org/images/HappinessHypothesis.gif">
 <meta name="og:description" content="Psychology professor's digestible but deep insight into how our minds work, around the topic of happiness. Great metaphor of a rider on the back of an elephant. Rider is reasoning, elephant is emotions. Rider has limited control of what the elephant does. Surprising insights into ethics and morality. See my notes for great quotes, but read the whole well-written book.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Happiness Hypothesis  -  by Jonathan Haidt | Derek Sivers">
 <meta name="twitter:description" content="Psychology professor's digestible but deep insight into how our minds work, around the topic of happiness. Great metaphor of a rider on the back of an elephant. Rider is reasoning, elephant is emotions. Rider has limited control of what the elephant does. Surprising insights into ethics and morality. See my notes for great quotes, but read the whole well-written book.">
-<meta name="twitter:image" content="http://sivers.org/images/book/HappinessHypothesis.gif">
+<meta name="twitter:image" content="http://sivers.org/images/HappinessHypothesis.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0465028020?tag=sivers-20"><img src="/images/book/HappinessHypothesis.gif" alt="The Happiness Hypothesis  -  by Jonathan Haidt"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0465028020?tag=sivers-20"><img src="/images/HappinessHypothesis.gif" alt="The Happiness Hypothesis  -  by Jonathan Haidt"></a></figure>
       <h1>The Happiness Hypothesis  -  by Jonathan Haidt</h1>
       <p class="postdate">
         ISBN: 0465028020<br>

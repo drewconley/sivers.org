@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="How to Learn a Foreign Language - by Paul Pimsleur | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/LearnForeignLanguage">
-<meta name="og:image" content="http://sivers.org/images/book/LearnForeignLanguage.gif">
+<meta name="og:image" content="http://sivers.org/images/LearnForeignLanguage.gif">
 <meta name="og:description" content="Short, punchy, incredibly insightful and useful book about learning another language, especially for a first-timer. I've read a few books on the subject now, but this is the only one that spoke directly to my issues. Especially loved his points on the importance of sounds over words. Hint: a language that is written but not spoken is called a dead language.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="How to Learn a Foreign Language - by Paul Pimsleur | Derek Sivers">
 <meta name="twitter:description" content="Short, punchy, incredibly insightful and useful book about learning another language, especially for a first-timer. I've read a few books on the subject now, but this is the only one that spoke directly to my issues. Especially loved his points on the importance of sounds over words. Hint: a language that is written but not spoken is called a dead language.">
-<meta name="twitter:image" content="http://sivers.org/images/book/LearnForeignLanguage.gif">
+<meta name="twitter:image" content="http://sivers.org/images/LearnForeignLanguage.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1442369027?tag=sivers-20"><img src="/images/book/LearnForeignLanguage.gif" alt="How to Learn a Foreign Language - by Paul Pimsleur"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1442369027?tag=sivers-20"><img src="/images/LearnForeignLanguage.gif" alt="How to Learn a Foreign Language - by Paul Pimsleur"></a></figure>
       <h1>How to Learn a Foreign Language - by Paul Pimsleur</h1>
       <p class="postdate">
         ISBN: 1442369027<br>

@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Personal Development for Smart People - by Steve Pavlina | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/PersonalDevelopmentForSmartPeople">
-<meta name="og:image" content="http://sivers.org/images/book/PersonalDevelopmentForSmartPeople.gif">
+<meta name="og:image" content="http://sivers.org/images/PersonalDevelopmentForSmartPeople.gif">
 <meta name="og:description" content="A surprisingly great broad and unflourished look at all different aspects of self-improvement. Really great insights from someone who's read them all.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Personal Development for Smart People - by Steve Pavlina | Derek Sivers">
 <meta name="twitter:description" content="A surprisingly great broad and unflourished look at all different aspects of self-improvement. Really great insights from someone who's read them all.">
-<meta name="twitter:image" content="http://sivers.org/images/book/PersonalDevelopmentForSmartPeople.gif">
+<meta name="twitter:image" content="http://sivers.org/images/PersonalDevelopmentForSmartPeople.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1401922759?tag=sivers-20"><img src="/images/book/PersonalDevelopmentForSmartPeople.gif" alt="Personal Development for Smart People - by Steve Pavlina"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1401922759?tag=sivers-20"><img src="/images/PersonalDevelopmentForSmartPeople.gif" alt="Personal Development for Smart People - by Steve Pavlina"></a></figure>
       <h1>Personal Development for Smart People - by Steve Pavlina</h1>
       <p class="postdate">
         ISBN: 1401922759<br>

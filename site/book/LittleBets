@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Little Bets - by Peter Sims | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/LittleBets">
-<meta name="og:image" content="http://sivers.org/images/book/LittleBets.gif">
+<meta name="og:image" content="http://sivers.org/images/LittleBets.gif">
 <meta name="og:description" content="Examples of the fact that much success or creativity comes from trying many things, failing fast, getting feedback, trying more things, and deliberate practice.  Stories from Pixar, Chris Rock, Silicon Valley, Frank Gehry.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Little Bets - by Peter Sims | Derek Sivers">
 <meta name="twitter:description" content="Examples of the fact that much success or creativity comes from trying many things, failing fast, getting feedback, trying more things, and deliberate practice.  Stories from Pixar, Chris Rock, Silicon Valley, Frank Gehry.">
-<meta name="twitter:image" content="http://sivers.org/images/book/LittleBets.gif">
+<meta name="twitter:image" content="http://sivers.org/images/LittleBets.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1439170428?tag=sivers-20"><img src="/images/book/LittleBets.gif" alt="Little Bets - by Peter Sims"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1439170428?tag=sivers-20"><img src="/images/LittleBets.gif" alt="Little Bets - by Peter Sims"></a></figure>
       <h1>Little Bets - by Peter Sims</h1>
       <p class="postdate">
         ISBN: 1439170428<br>

@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Life Without Lawyers - by Philip K. Howard | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/LifeWithoutLawyers">
-<meta name="og:image" content="http://sivers.org/images/book/LifeWithoutLawyers.gif">
+<meta name="og:image" content="http://sivers.org/images/LifeWithoutLawyers.gif">
 <meta name="og:description" content="I really liked his TED talk (search ted.com), and this book elaborates on the idea.  Makes a good point, but should just be a long article - not a whole book.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Life Without Lawyers - by Philip K. Howard | Derek Sivers">
 <meta name="twitter:description" content="I really liked his TED talk (search ted.com), and this book elaborates on the idea.  Makes a good point, but should just be a long article - not a whole book.">
-<meta name="twitter:image" content="http://sivers.org/images/book/LifeWithoutLawyers.gif">
+<meta name="twitter:image" content="http://sivers.org/images/LifeWithoutLawyers.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0393065669?tag=sivers-20"><img src="/images/book/LifeWithoutLawyers.gif" alt="Life Without Lawyers - by Philip K. Howard"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0393065669?tag=sivers-20"><img src="/images/LifeWithoutLawyers.gif" alt="Life Without Lawyers - by Philip K. Howard"></a></figure>
       <h1>Life Without Lawyers - by Philip K. Howard</h1>
       <p class="postdate">
         ISBN: 0393065669<br>

@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Passionate Programmer - by Chad Fowler | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/PassionateProgrammer">
-<meta name="og:image" content="http://sivers.org/images/book/PassionateProgrammer.gif">
+<meta name="og:image" content="http://sivers.org/images/PassionateProgrammer.gif">
 <meta name="og:description" content="Wonderful book about the art, craft, and passion of being a great computer programmer. Loved the analogies to being a musician: sight-reading, being the worst member of the band, understanding new styles of music, practicing just for improvement, etc.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Passionate Programmer - by Chad Fowler | Derek Sivers">
 <meta name="twitter:description" content="Wonderful book about the art, craft, and passion of being a great computer programmer. Loved the analogies to being a musician: sight-reading, being the worst member of the band, understanding new styles of music, practicing just for improvement, etc.">
-<meta name="twitter:image" content="http://sivers.org/images/book/PassionateProgrammer.gif">
+<meta name="twitter:image" content="http://sivers.org/images/PassionateProgrammer.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1934356344?tag=sivers-20"><img src="/images/book/PassionateProgrammer.gif" alt="The Passionate Programmer - by Chad Fowler"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1934356344?tag=sivers-20"><img src="/images/PassionateProgrammer.gif" alt="The Passionate Programmer - by Chad Fowler"></a></figure>
       <h1>The Passionate Programmer - by Chad Fowler</h1>
       <p class="postdate">
         ISBN: 1934356344<br>

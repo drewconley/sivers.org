@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="How to Get Rich - by Felix Dennis | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/HowToGetRich">
-<meta name="og:image" content="http://sivers.org/images/book/HowToGetRich.gif">
+<meta name="og:image" content="http://sivers.org/images/HowToGetRich.gif">
 <meta name="og:description" content="Shockingly honest thoughts from a filthy rich bastard.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="How to Get Rich - by Felix Dennis | Derek Sivers">
 <meta name="twitter:description" content="Shockingly honest thoughts from a filthy rich bastard.">
-<meta name="twitter:image" content="http://sivers.org/images/book/HowToGetRich.gif">
+<meta name="twitter:image" content="http://sivers.org/images/HowToGetRich.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1591842050?tag=sivers-20"><img src="/images/book/HowToGetRich.gif" alt="How to Get Rich - by Felix Dennis"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1591842050?tag=sivers-20"><img src="/images/HowToGetRich.gif" alt="How to Get Rich - by Felix Dennis"></a></figure>
       <h1>How to Get Rich - by Felix Dennis</h1>
       <p class="postdate">
         ISBN: 1591842050<br>

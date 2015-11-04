@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Make It Stick - by Peter Brown | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/MakeItStick">
-<meta name="og:image" content="http://sivers.org/images/book/MakeItStick.gif">
+<meta name="og:image" content="http://sivers.org/images/MakeItStick.gif">
 <meta name="og:description" content="Great core point: that effortful learning - not easy - is more effective. Also the importance of self-testing as a learning tool.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Make It Stick - by Peter Brown | Derek Sivers">
 <meta name="twitter:description" content="Great core point: that effortful learning - not easy - is more effective. Also the importance of self-testing as a learning tool.">
-<meta name="twitter:image" content="http://sivers.org/images/book/MakeItStick.gif">
+<meta name="twitter:image" content="http://sivers.org/images/MakeItStick.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0674729013?tag=sivers-20"><img src="/images/book/MakeItStick.gif" alt="Make It Stick - by Peter Brown"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0674729013?tag=sivers-20"><img src="/images/MakeItStick.gif" alt="Make It Stick - by Peter Brown"></a></figure>
       <h1>Make It Stick - by Peter Brown</h1>
       <p class="postdate">
         ISBN: 0674729013<br>

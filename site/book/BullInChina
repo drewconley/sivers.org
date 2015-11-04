@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="A Bull in China - by Jim Rogers | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/BullInChina">
-<meta name="og:image" content="http://sivers.org/images/book/BullInChina.gif">
+<meta name="og:image" content="http://sivers.org/images/BullInChina.gif">
 <meta name="og:description" content="Very specific book about investing in China's stock market.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="A Bull in China - by Jim Rogers | Derek Sivers">
 <meta name="twitter:description" content="Very specific book about investing in China's stock market.">
-<meta name="twitter:image" content="http://sivers.org/images/book/BullInChina.gif">
+<meta name="twitter:image" content="http://sivers.org/images/BullInChina.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1400066166?tag=sivers-20"><img src="/images/book/BullInChina.gif" alt="A Bull in China - by Jim Rogers"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1400066166?tag=sivers-20"><img src="/images/BullInChina.gif" alt="A Bull in China - by Jim Rogers"></a></figure>
       <h1>A Bull in China - by Jim Rogers</h1>
       <p class="postdate">
         ISBN: 1400066166<br>

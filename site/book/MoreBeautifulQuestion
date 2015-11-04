@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="A More Beautiful Question - by Warren Berger | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/MoreBeautifulQuestion">
-<meta name="og:image" content="http://sivers.org/images/book/MoreBeautifulQuestion.gif">
+<meta name="og:image" content="http://sivers.org/images/MoreBeautifulQuestion.gif">
 <meta name="og:description" content="A fine book, but maybe because I've been around professional creatives instead of corporate-types for most of my life, I already knew this subject too well, so it wasn't very useful to me.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="A More Beautiful Question - by Warren Berger | Derek Sivers">
 <meta name="twitter:description" content="A fine book, but maybe because I've been around professional creatives instead of corporate-types for most of my life, I already knew this subject too well, so it wasn't very useful to me.">
-<meta name="twitter:image" content="http://sivers.org/images/book/MoreBeautifulQuestion.gif">
+<meta name="twitter:image" content="http://sivers.org/images/MoreBeautifulQuestion.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1620401452?tag=sivers-20"><img src="/images/book/MoreBeautifulQuestion.gif" alt="A More Beautiful Question - by Warren Berger"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1620401452?tag=sivers-20"><img src="/images/MoreBeautifulQuestion.gif" alt="A More Beautiful Question - by Warren Berger"></a></figure>
       <h1>A More Beautiful Question - by Warren Berger</h1>
       <p class="postdate">
         ISBN: 1620401452<br>

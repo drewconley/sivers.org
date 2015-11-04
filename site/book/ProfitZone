@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Profit Zone - by Adrian Slywotzky | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/ProfitZone">
-<meta name="og:image" content="http://sivers.org/images/book/ProfitZone.gif">
+<meta name="og:image" content="http://sivers.org/images/ProfitZone.gif">
 <meta name="og:description" content="Dryer but deeper prequel to the great “Art of Profitability” book, also recommended here. Start with that one. Only read this if that one fascinated you.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Profit Zone - by Adrian Slywotzky | Derek Sivers">
 <meta name="twitter:description" content="Dryer but deeper prequel to the great “Art of Profitability” book, also recommended here. Start with that one. Only read this if that one fascinated you.">
-<meta name="twitter:image" content="http://sivers.org/images/book/ProfitZone.gif">
+<meta name="twitter:image" content="http://sivers.org/images/ProfitZone.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0812933044?tag=sivers-20"><img src="/images/book/ProfitZone.gif" alt="The Profit Zone - by Adrian Slywotzky"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0812933044?tag=sivers-20"><img src="/images/ProfitZone.gif" alt="The Profit Zone - by Adrian Slywotzky"></a></figure>
       <h1>The Profit Zone - by Adrian Slywotzky</h1>
       <p class="postdate">
         ISBN: 0812933044<br>

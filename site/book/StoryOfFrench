@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Story of French - by Jean-Benoit Nadeau and Julie Barlow | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/StoryOfFrench">
-<meta name="og:image" content="http://sivers.org/images/book/StoryOfFrench.gif">
+<meta name="og:image" content="http://sivers.org/images/StoryOfFrench.gif">
 <meta name="og:description" content="Just an interesting history and present look at the French language. I had no idea what an influence French was on English, and didn't understand its role in current Africa. Makes me want to learn French.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Story of French - by Jean-Benoit Nadeau and Julie Barlow | Derek Sivers">
 <meta name="twitter:description" content="Just an interesting history and present look at the French language. I had no idea what an influence French was on English, and didn't understand its role in current Africa. Makes me want to learn French.">
-<meta name="twitter:image" content="http://sivers.org/images/book/StoryOfFrench.gif">
+<meta name="twitter:image" content="http://sivers.org/images/StoryOfFrench.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0312341849?tag=sivers-20"><img src="/images/book/StoryOfFrench.gif" alt="The Story of French - by Jean-Benoit Nadeau and Julie Barlow"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0312341849?tag=sivers-20"><img src="/images/StoryOfFrench.gif" alt="The Story of French - by Jean-Benoit Nadeau and Julie Barlow"></a></figure>
       <h1>The Story of French - by Jean-Benoit Nadeau and Julie Barlow</h1>
       <p class="postdate">
         ISBN: 0312341849<br>

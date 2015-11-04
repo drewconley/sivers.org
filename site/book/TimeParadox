@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Time Paradox - by Philip Zimbardo and John Boyd | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/TimeParadox">
-<meta name="og:image" content="http://sivers.org/images/book/TimeParadox.gif">
+<meta name="og:image" content="http://sivers.org/images/TimeParadox.gif">
 <meta name="og:description" content="Profound idea that everyone has a primary time focus: either Future-focused, Present-focused, or Past-focused. Fascinating implications of each. Because I'm so future-focused, reading this book helped me understand people who are very present-focused. Also great advice on shifting your focus when needed. (I'm bumping my rating of this book up to a 10/10, because I read it 5 years ago, but still think about it almost every day!)">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Time Paradox - by Philip Zimbardo and John Boyd | Derek Sivers">
 <meta name="twitter:description" content="Profound idea that everyone has a primary time focus: either Future-focused, Present-focused, or Past-focused. Fascinating implications of each. Because I'm so future-focused, reading this book helped me understand people who are very present-focused. Also great advice on shifting your focus when needed. (I'm bumping my rating of this book up to a 10/10, because I read it 5 years ago, but still think about it almost every day!)">
-<meta name="twitter:image" content="http://sivers.org/images/book/TimeParadox.gif">
+<meta name="twitter:image" content="http://sivers.org/images/TimeParadox.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1416541993?tag=sivers-20"><img src="/images/book/TimeParadox.gif" alt="The Time Paradox - by Philip Zimbardo and John Boyd"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1416541993?tag=sivers-20"><img src="/images/TimeParadox.gif" alt="The Time Paradox - by Philip Zimbardo and John Boyd"></a></figure>
       <h1>The Time Paradox - by Philip Zimbardo and John Boyd</h1>
       <p class="postdate">
         ISBN: 1416541993<br>

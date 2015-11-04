@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Tribes - by Seth Godin | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Tribes">
-<meta name="og:image" content="http://sivers.org/images/book/Tribes.gif">
+<meta name="og:image" content="http://sivers.org/images/Tribes.gif">
 <meta name="og:description" content="Inspiring look at what it takes to organize and mobilize groups of people.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Tribes - by Seth Godin | Derek Sivers">
 <meta name="twitter:description" content="Inspiring look at what it takes to organize and mobilize groups of people.">
-<meta name="twitter:image" content="http://sivers.org/images/book/Tribes.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Tribes.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1591842336?tag=sivers-20"><img src="/images/book/Tribes.gif" alt="Tribes - by Seth Godin"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1591842336?tag=sivers-20"><img src="/images/Tribes.gif" alt="Tribes - by Seth Godin"></a></figure>
       <h1>Tribes - by Seth Godin</h1>
       <p class="postdate">
         ISBN: 1591842336<br>

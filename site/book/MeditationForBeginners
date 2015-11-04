@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Meditation for Beginners - by Jack Kornfield | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/MeditationForBeginners">
-<meta name="og:image" content="http://sivers.org/images/book/MeditationForBeginners.gif">
+<meta name="og:image" content="http://sivers.org/images/MeditationForBeginners.gif">
 <meta name="og:description" content="Just some nice thoughts on meditation.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Meditation for Beginners - by Jack Kornfield | Derek Sivers">
 <meta name="twitter:description" content="Just some nice thoughts on meditation.">
-<meta name="twitter:image" content="http://sivers.org/images/book/MeditationForBeginners.gif">
+<meta name="twitter:image" content="http://sivers.org/images/MeditationForBeginners.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1591799422?tag=sivers-20"><img src="/images/book/MeditationForBeginners.gif" alt="Meditation for Beginners - by Jack Kornfield"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1591799422?tag=sivers-20"><img src="/images/MeditationForBeginners.gif" alt="Meditation for Beginners - by Jack Kornfield"></a></figure>
       <h1>Meditation for Beginners - by Jack Kornfield</h1>
       <p class="postdate">
         ISBN: 1591799422<br>

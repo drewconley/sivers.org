@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Smartest Investment Book You'll Ever Read - by Daniel R. Solin | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/SmartestInvestmentBook">
-<meta name="og:image" content="http://sivers.org/images/book/SmartestInvestmentBook.gif">
+<meta name="og:image" content="http://sivers.org/images/SmartestInvestmentBook.gif">
 <meta name="og:description" content="An itty-bitty quick-read no-fluff book with the wisest succinct advice to investors: You can't predict the future, and neither can anyone else. Determine your asset allocation, stick with cheap broad indexes, and rebalance occasionally.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Smartest Investment Book You'll Ever Read - by Daniel R. Solin | Derek Sivers">
 <meta name="twitter:description" content="An itty-bitty quick-read no-fluff book with the wisest succinct advice to investors: You can't predict the future, and neither can anyone else. Determine your asset allocation, stick with cheap broad indexes, and rebalance occasionally.">
-<meta name="twitter:image" content="http://sivers.org/images/book/SmartestInvestmentBook.gif">
+<meta name="twitter:image" content="http://sivers.org/images/SmartestInvestmentBook.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0399532838?tag=sivers-20"><img src="/images/book/SmartestInvestmentBook.gif" alt="The Smartest Investment Book You'll Ever Read - by Daniel R. Solin"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0399532838?tag=sivers-20"><img src="/images/SmartestInvestmentBook.gif" alt="The Smartest Investment Book You'll Ever Read - by Daniel R. Solin"></a></figure>
       <h1>The Smartest Investment Book You'll Ever Read - by Daniel R. Solin</h1>
       <p class="postdate">
         ISBN: 0399532838<br>

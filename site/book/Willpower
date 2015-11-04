@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Willpower - by Roy Baumeister and John Tierney | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Willpower">
-<meta name="og:image" content="http://sivers.org/images/book/Willpower.gif">
+<meta name="og:image" content="http://sivers.org/images/Willpower.gif">
 <meta name="og:description" content="You have a finite amount of willpower that becomes depleted as you use it. Two traits that consistently predict “positive outcomes” in life: intelligence and self-control. Most major problems, personal and social, center on failure of self-control. When people were asked about their failings, a lack of self-control was at the top of the list. So let's talk about self-control....">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Willpower - by Roy Baumeister and John Tierney | Derek Sivers">
 <meta name="twitter:description" content="You have a finite amount of willpower that becomes depleted as you use it. Two traits that consistently predict “positive outcomes” in life: intelligence and self-control. Most major problems, personal and social, center on failure of self-control. When people were asked about their failings, a lack of self-control was at the top of the list. So let's talk about self-control....">
-<meta name="twitter:image" content="http://sivers.org/images/book/Willpower.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Willpower.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1594203075?tag=sivers-20"><img src="/images/book/Willpower.gif" alt="Willpower - by Roy Baumeister and John Tierney"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1594203075?tag=sivers-20"><img src="/images/Willpower.gif" alt="Willpower - by Roy Baumeister and John Tierney"></a></figure>
       <h1>Willpower - by Roy Baumeister and John Tierney</h1>
       <p class="postdate">
         ISBN: 1594203075<br>

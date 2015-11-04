@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Made to Stick - by Chip Heath and Dan Heath | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/MadeToStick">
-<meta name="og:image" content="http://sivers.org/images/book/MadeToStick.gif">
+<meta name="og:image" content="http://sivers.org/images/MadeToStick.gif">
 <meta name="og:description" content="Actually analyzing what makes certain ideas or stories more memorable than others! Fascinating. Apply this wisdom to your songs, bio/story, communication with fans, etc.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Made to Stick - by Chip Heath and Dan Heath | Derek Sivers">
 <meta name="twitter:description" content="Actually analyzing what makes certain ideas or stories more memorable than others! Fascinating. Apply this wisdom to your songs, bio/story, communication with fans, etc.">
-<meta name="twitter:image" content="http://sivers.org/images/book/MadeToStick.gif">
+<meta name="twitter:image" content="http://sivers.org/images/MadeToStick.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1400064287?tag=sivers-20"><img src="/images/book/MadeToStick.gif" alt="Made to Stick - by Chip Heath and Dan Heath"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1400064287?tag=sivers-20"><img src="/images/MadeToStick.gif" alt="Made to Stick - by Chip Heath and Dan Heath"></a></figure>
       <h1>Made to Stick - by Chip Heath and Dan Heath</h1>
       <p class="postdate">
         ISBN: 1400064287<br>

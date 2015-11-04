@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Entrepreneur Roller Coaster - by Darren Hardy | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/RollerCoaster">
-<meta name="og:image" content="http://sivers.org/images/book/RollerCoaster.gif">
+<meta name="og:image" content="http://sivers.org/images/RollerCoaster.gif">
 <meta name="og:description" content="Rar! My heart rate is racing as I tear through this riveting book. Darren captures and spreads the entrepreneurial spirit better than anyone I know. I've been a successful entrepreneur for 25 years but The Entrepreneur Roller Coaster just got me more excited and enlightened than I've been in a long time. You must read and USE this immediately!">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Entrepreneur Roller Coaster - by Darren Hardy | Derek Sivers">
 <meta name="twitter:description" content="Rar! My heart rate is racing as I tear through this riveting book. Darren captures and spreads the entrepreneurial spirit better than anyone I know. I've been a successful entrepreneur for 25 years but The Entrepreneur Roller Coaster just got me more excited and enlightened than I've been in a long time. You must read and USE this immediately!">
-<meta name="twitter:image" content="http://sivers.org/images/book/RollerCoaster.gif">
+<meta name="twitter:image" content="http://sivers.org/images/RollerCoaster.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0990798623?tag=sivers-20"><img src="/images/book/RollerCoaster.gif" alt="The Entrepreneur Roller Coaster - by Darren Hardy"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0990798623?tag=sivers-20"><img src="/images/RollerCoaster.gif" alt="The Entrepreneur Roller Coaster - by Darren Hardy"></a></figure>
       <h1>The Entrepreneur Roller Coaster - by Darren Hardy</h1>
       <p class="postdate">
         ISBN: 0990798623<br>

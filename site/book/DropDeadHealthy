@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Drop Dead Healthy - by A. J. Jacobs | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/DropDeadHealthy">
-<meta name="og:image" content="http://sivers.org/images/book/DropDeadHealthy.gif">
+<meta name="og:image" content="http://sivers.org/images/DropDeadHealthy.gif">
 <meta name="og:description" content="Funny and informative book by the always-brilliant A.J. Jacobs - about trying every health remedy and suggestion. Some surprising ones are effective.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Drop Dead Healthy - by A. J. Jacobs | Derek Sivers">
 <meta name="twitter:description" content="Funny and informative book by the always-brilliant A.J. Jacobs - about trying every health remedy and suggestion. Some surprising ones are effective.">
-<meta name="twitter:image" content="http://sivers.org/images/book/DropDeadHealthy.gif">
+<meta name="twitter:image" content="http://sivers.org/images/DropDeadHealthy.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/141659907X?tag=sivers-20"><img src="/images/book/DropDeadHealthy.gif" alt="Drop Dead Healthy - by A. J. Jacobs"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/141659907X?tag=sivers-20"><img src="/images/DropDeadHealthy.gif" alt="Drop Dead Healthy - by A. J. Jacobs"></a></figure>
       <h1>Drop Dead Healthy - by A. J. Jacobs</h1>
       <p class="postdate">
         ISBN: 141659907X<br>

@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="How Adam Smith Can Change Your Life - by Russ Roberts | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/AdamSmith">
-<meta name="og:image" content="http://sivers.org/images/book/AdamSmith.gif">
+<meta name="og:image" content="http://sivers.org/images/AdamSmith.gif">
 <meta name="og:description" content="Adam Smith wrote “Theory of Moral Sentiments” in the 1700s. Now Russ puts it into modern language and times. Main point is that our morality comes from imagining being judged by our fellow man.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="How Adam Smith Can Change Your Life - by Russ Roberts | Derek Sivers">
 <meta name="twitter:description" content="Adam Smith wrote “Theory of Moral Sentiments” in the 1700s. Now Russ puts it into modern language and times. Main point is that our morality comes from imagining being judged by our fellow man.">
-<meta name="twitter:image" content="http://sivers.org/images/book/AdamSmith.gif">
+<meta name="twitter:image" content="http://sivers.org/images/AdamSmith.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1591846846?tag=sivers-20"><img src="/images/book/AdamSmith.gif" alt="How Adam Smith Can Change Your Life - by Russ Roberts"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1591846846?tag=sivers-20"><img src="/images/AdamSmith.gif" alt="How Adam Smith Can Change Your Life - by Russ Roberts"></a></figure>
       <h1>How Adam Smith Can Change Your Life - by Russ Roberts</h1>
       <p class="postdate">
         ISBN: 1591846846<br>

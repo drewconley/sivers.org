@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Crash Proof 2.0 - by Peter Schiff | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/CrashProof">
-<meta name="og:image" content="http://sivers.org/images/book/CrashProof.gif">
+<meta name="og:image" content="http://sivers.org/images/CrashProof.gif">
 <meta name="og:description" content="Opinion on what to do if the dollar crashes, as the author is strongly speculating that it will. I highly recommend reading the Investor's Manifesto after or instead of this, for a strictly fact-based non-speculative approach instead.  But still this is interesting to hear this point of view.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Crash Proof 2.0 - by Peter Schiff | Derek Sivers">
 <meta name="twitter:description" content="Opinion on what to do if the dollar crashes, as the author is strongly speculating that it will. I highly recommend reading the Investor's Manifesto after or instead of this, for a strictly fact-based non-speculative approach instead.  But still this is interesting to hear this point of view.">
-<meta name="twitter:image" content="http://sivers.org/images/book/CrashProof.gif">
+<meta name="twitter:image" content="http://sivers.org/images/CrashProof.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/047047453X?tag=sivers-20"><img src="/images/book/CrashProof.gif" alt="Crash Proof 2.0 - by Peter Schiff"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/047047453X?tag=sivers-20"><img src="/images/CrashProof.gif" alt="Crash Proof 2.0 - by Peter Schiff"></a></figure>
       <h1>Crash Proof 2.0 - by Peter Schiff</h1>
       <p class="postdate">
         ISBN: 047047453X<br>

@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Richard Branson - Losing My Virginity | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/RichardBranson">
-<meta name="og:image" content="http://sivers.org/images/book/RichardBranson.gif">
+<meta name="og:image" content="http://sivers.org/images/RichardBranson.gif">
 <meta name="og:description" content="Autobiography of his life from childhood through 2004. Interesting how he was always over-leveraged and how that drove him forward. Amazing how he negotiated Necker Island from £3 million down to £180k.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Richard Branson - Losing My Virginity | Derek Sivers">
 <meta name="twitter:description" content="Autobiography of his life from childhood through 2004. Interesting how he was always over-leveraged and how that drove him forward. Amazing how he negotiated Necker Island from £3 million down to £180k.">
-<meta name="twitter:image" content="http://sivers.org/images/book/RichardBranson.gif">
+<meta name="twitter:image" content="http://sivers.org/images/RichardBranson.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0812932293?tag=sivers-20"><img src="/images/book/RichardBranson.gif" alt="Richard Branson - Losing My Virginity"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0812932293?tag=sivers-20"><img src="/images/RichardBranson.gif" alt="Richard Branson - Losing My Virginity"></a></figure>
       <h1>Richard Branson - Losing My Virginity</h1>
       <p class="postdate">
         ISBN: 0812932293<br>

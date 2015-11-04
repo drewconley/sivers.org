@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Meatball Sundae - by Seth Godin | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/MeatballSundae">
-<meta name="og:image" content="http://sivers.org/images/book/MeatballSundae.gif">
+<meta name="og:image" content="http://sivers.org/images/MeatballSundae.gif">
 <meta name="og:description" content="Instead of asking how to use the new internet tools to support your existing business, ask how you can change your business to take best advantage of the new tools.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Meatball Sundae - by Seth Godin | Derek Sivers">
 <meta name="twitter:description" content="Instead of asking how to use the new internet tools to support your existing business, ask how you can change your business to take best advantage of the new tools.">
-<meta name="twitter:image" content="http://sivers.org/images/book/MeatballSundae.gif">
+<meta name="twitter:image" content="http://sivers.org/images/MeatballSundae.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1591841747?tag=sivers-20"><img src="/images/book/MeatballSundae.gif" alt="Meatball Sundae - by Seth Godin"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1591841747?tag=sivers-20"><img src="/images/MeatballSundae.gif" alt="Meatball Sundae - by Seth Godin"></a></figure>
       <h1>Meatball Sundae - by Seth Godin</h1>
       <p class="postdate">
         ISBN: 1591841747<br>

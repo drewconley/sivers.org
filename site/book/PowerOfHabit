@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Power of Habit - by Charles Duhigg | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/PowerOfHabit">
-<meta name="og:image" content="http://sivers.org/images/book/PowerOfHabit.gif">
+<meta name="og:image" content="http://sivers.org/images/PowerOfHabit.gif">
 <meta name="og:description" content="Great dissection and analysis of what creates habits, and the power of changing just one of three steps in the habit loop.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Power of Habit - by Charles Duhigg | Derek Sivers">
 <meta name="twitter:description" content="Great dissection and analysis of what creates habits, and the power of changing just one of three steps in the habit loop.">
-<meta name="twitter:image" content="http://sivers.org/images/book/PowerOfHabit.gif">
+<meta name="twitter:image" content="http://sivers.org/images/PowerOfHabit.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1400069289?tag=sivers-20"><img src="/images/book/PowerOfHabit.gif" alt="The Power of Habit - by Charles Duhigg"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1400069289?tag=sivers-20"><img src="/images/PowerOfHabit.gif" alt="The Power of Habit - by Charles Duhigg"></a></figure>
       <h1>The Power of Habit - by Charles Duhigg</h1>
       <p class="postdate">
         ISBN: 1400069289<br>

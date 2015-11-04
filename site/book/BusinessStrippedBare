@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Business Stripped Bare - by Richard Branson | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/BusinessStrippedBare">
-<meta name="og:image" content="http://sivers.org/images/book/BusinessStrippedBare.gif">
+<meta name="og:image" content="http://sivers.org/images/BusinessStrippedBare.gif">
 <meta name="og:description" content="A real and specific description of the inner workings of the Virgin companies. Every entrepreneur, investor, and manager should appreciate this detailed account of practices, philosophies and stories from the core.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Business Stripped Bare - by Richard Branson | Derek Sivers">
 <meta name="twitter:description" content="A real and specific description of the inner workings of the Virgin companies. Every entrepreneur, investor, and manager should appreciate this detailed account of practices, philosophies and stories from the core.">
-<meta name="twitter:image" content="http://sivers.org/images/book/BusinessStrippedBare.gif">
+<meta name="twitter:image" content="http://sivers.org/images/BusinessStrippedBare.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1905264429?tag=sivers-20"><img src="/images/book/BusinessStrippedBare.gif" alt="Business Stripped Bare - by Richard Branson"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1905264429?tag=sivers-20"><img src="/images/BusinessStrippedBare.gif" alt="Business Stripped Bare - by Richard Branson"></a></figure>
       <h1>Business Stripped Bare - by Richard Branson</h1>
       <p class="postdate">
         ISBN: 1905264429<br>

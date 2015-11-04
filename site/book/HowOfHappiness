@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The How of Happiness - by Sonja Lyubomirsky | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/HowOfHappiness">
-<meta name="og:image" content="http://sivers.org/images/book/HowOfHappiness.gif">
+<meta name="og:image" content="http://sivers.org/images/HowOfHappiness.gif">
 <meta name="og:description" content="Since I loved Stumbling on Happiness, I was prepared to love this, but the big difference is that Stumbling on Happiness showed tests and experiments to prove their points, whereas this book only presents conclusions. Maybe equally accurate but less convincing.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The How of Happiness - by Sonja Lyubomirsky | Derek Sivers">
 <meta name="twitter:description" content="Since I loved Stumbling on Happiness, I was prepared to love this, but the big difference is that Stumbling on Happiness showed tests and experiments to prove their points, whereas this book only presents conclusions. Maybe equally accurate but less convincing.">
-<meta name="twitter:image" content="http://sivers.org/images/book/HowOfHappiness.gif">
+<meta name="twitter:image" content="http://sivers.org/images/HowOfHappiness.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/159420148X?tag=sivers-20"><img src="/images/book/HowOfHappiness.gif" alt="The How of Happiness - by Sonja Lyubomirsky"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/159420148X?tag=sivers-20"><img src="/images/HowOfHappiness.gif" alt="The How of Happiness - by Sonja Lyubomirsky"></a></figure>
       <h1>The How of Happiness - by Sonja Lyubomirsky</h1>
       <p class="postdate">
         ISBN: 159420148X<br>

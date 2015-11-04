@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Mindset - by Carol Dweck | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Mindset">
-<meta name="og:image" content="http://sivers.org/images/book/Mindset.gif">
+<meta name="og:image" content="http://sivers.org/images/Mindset.gif">
 <meta name="og:description" content="Crucial distinction: People in a “fixed” mindset believe that you *are* great or flawed. People in a “growth” mindset believe your greatness (or flaws) are because of your actions. The fixed mindset is very harmful in every area of life (work, art, relationships, business, etc.) We get our initial mindset from our environment. When parents say, “You are great,” instead of ”You did great work,” they accidently create the “fixed” mindset.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Mindset - by Carol Dweck | Derek Sivers">
 <meta name="twitter:description" content="Crucial distinction: People in a “fixed” mindset believe that you *are* great or flawed. People in a “growth” mindset believe your greatness (or flaws) are because of your actions. The fixed mindset is very harmful in every area of life (work, art, relationships, business, etc.) We get our initial mindset from our environment. When parents say, “You are great,” instead of ”You did great work,” they accidently create the “fixed” mindset.">
-<meta name="twitter:image" content="http://sivers.org/images/book/Mindset.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Mindset.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0345472322?tag=sivers-20"><img src="/images/book/Mindset.gif" alt="Mindset - by Carol Dweck"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0345472322?tag=sivers-20"><img src="/images/Mindset.gif" alt="Mindset - by Carol Dweck"></a></figure>
       <h1>Mindset - by Carol Dweck</h1>
       <p class="postdate">
         ISBN: 0345472322<br>

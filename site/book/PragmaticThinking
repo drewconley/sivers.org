@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Pragmatic Thinking and Learning - by Andy Hunt | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/PragmaticThinking">
-<meta name="og:image" content="http://sivers.org/images/book/PragmaticThinking.gif">
+<meta name="og:image" content="http://sivers.org/images/PragmaticThinking.gif">
 <meta name="og:description" content="A great curated collection of facts about how to learn effectively and think clearly. Since it's written by a programmer, it makes many computer analogies that fellow programmers will appreciate. Non-programmers might feel a little left out.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Pragmatic Thinking and Learning - by Andy Hunt | Derek Sivers">
 <meta name="twitter:description" content="A great curated collection of facts about how to learn effectively and think clearly. Since it's written by a programmer, it makes many computer analogies that fellow programmers will appreciate. Non-programmers might feel a little left out.">
-<meta name="twitter:image" content="http://sivers.org/images/book/PragmaticThinking.gif">
+<meta name="twitter:image" content="http://sivers.org/images/PragmaticThinking.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1934356050?tag=sivers-20"><img src="/images/book/PragmaticThinking.gif" alt="Pragmatic Thinking and Learning - by Andy Hunt"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1934356050?tag=sivers-20"><img src="/images/PragmaticThinking.gif" alt="Pragmatic Thinking and Learning - by Andy Hunt"></a></figure>
       <h1>Pragmatic Thinking and Learning - by Andy Hunt</h1>
       <p class="postdate">
         ISBN: 1934356050<br>

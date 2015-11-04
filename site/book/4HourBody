@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The 4-Hour Body - by Tim Ferriss | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/4HourBody">
-<meta name="og:image" content="http://sivers.org/images/book/4HourBody.gif">
+<meta name="og:image" content="http://sivers.org/images/4HourBody.gif">
 <meta name="og:description" content="Amazing book for anyone wanting to improve their body. Core concept is the “minimum effective dose”: the smallest dose that will produce a desired outcome. Anything beyond that is wasteful. This documents Tim's years-long pursuit of the minimum effective dose of everything, from weight loss to muscle-building. Related subjects include orgasm, sleep, and medical tourism.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The 4-Hour Body - by Tim Ferriss | Derek Sivers">
 <meta name="twitter:description" content="Amazing book for anyone wanting to improve their body. Core concept is the “minimum effective dose”: the smallest dose that will produce a desired outcome. Anything beyond that is wasteful. This documents Tim's years-long pursuit of the minimum effective dose of everything, from weight loss to muscle-building. Related subjects include orgasm, sleep, and medical tourism.">
-<meta name="twitter:image" content="http://sivers.org/images/book/4HourBody.gif">
+<meta name="twitter:image" content="http://sivers.org/images/4HourBody.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/030746363X?tag=sivers-20"><img src="/images/book/4HourBody.gif" alt="The 4-Hour Body - by Tim Ferriss"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/030746363X?tag=sivers-20"><img src="/images/4HourBody.gif" alt="The 4-Hour Body - by Tim Ferriss"></a></figure>
       <h1>The 4-Hour Body - by Tim Ferriss</h1>
       <p class="postdate">
         ISBN: 030746363X<br>

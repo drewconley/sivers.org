@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Pleasures and Sorrows of Work - by Alain De Botton | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/PleasuresAndSorrowsOfWork">
-<meta name="og:image" content="http://sivers.org/images/book/PleasuresAndSorrowsOfWork.gif">
+<meta name="og:image" content="http://sivers.org/images/PleasuresAndSorrowsOfWork.gif">
 <meta name="og:description" content="Thoughtful rambling observations on different lines of work. Personal tales of his time spent observing different industries like fishing, counseling, shipyards, or walking along electric towers.  Some tangential insights along the way.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Pleasures and Sorrows of Work - by Alain De Botton | Derek Sivers">
 <meta name="twitter:description" content="Thoughtful rambling observations on different lines of work. Personal tales of his time spent observing different industries like fishing, counseling, shipyards, or walking along electric towers.  Some tangential insights along the way.">
-<meta name="twitter:image" content="http://sivers.org/images/book/PleasuresAndSorrowsOfWork.gif">
+<meta name="twitter:image" content="http://sivers.org/images/PleasuresAndSorrowsOfWork.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0307277259?tag=sivers-20"><img src="/images/book/PleasuresAndSorrowsOfWork.gif" alt="The Pleasures and Sorrows of Work - by Alain De Botton"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0307277259?tag=sivers-20"><img src="/images/PleasuresAndSorrowsOfWork.gif" alt="The Pleasures and Sorrows of Work - by Alain De Botton"></a></figure>
       <h1>The Pleasures and Sorrows of Work - by Alain De Botton</h1>
       <p class="postdate">
         ISBN: 0307277259<br>

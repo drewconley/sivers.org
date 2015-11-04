@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Philosophical Baby - by Alison Gopnik | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/PhilosophicalBaby">
-<meta name="og:image" content="http://sivers.org/images/book/PhilosophicalBaby.gif">
+<meta name="og:image" content="http://sivers.org/images/PhilosophicalBaby.gif">
 <meta name="og:description" content="A good friend highly recommended this as one of his favorite books on baby-hood.  I just didn't connect with it, after a few attempts.  You may love it.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Philosophical Baby - by Alison Gopnik | Derek Sivers">
 <meta name="twitter:description" content="A good friend highly recommended this as one of his favorite books on baby-hood.  I just didn't connect with it, after a few attempts.  You may love it.">
-<meta name="twitter:image" content="http://sivers.org/images/book/PhilosophicalBaby.gif">
+<meta name="twitter:image" content="http://sivers.org/images/PhilosophicalBaby.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0312429843?tag=sivers-20"><img src="/images/book/PhilosophicalBaby.gif" alt="The Philosophical Baby - by Alison Gopnik"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0312429843?tag=sivers-20"><img src="/images/PhilosophicalBaby.gif" alt="The Philosophical Baby - by Alison Gopnik"></a></figure>
       <h1>The Philosophical Baby - by Alison Gopnik</h1>
       <p class="postdate">
         ISBN: 0312429843<br>

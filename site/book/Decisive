@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Decisive - by Chip and Dan Heath | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Decisive">
-<meta name="og:image" content="http://sivers.org/images/book/Decisive.gif">
+<meta name="og:image" content="http://sivers.org/images/Decisive.gif">
 <meta name="og:description" content="Interesting and insightful dive into the subject of how to make big decisions. Specific useful advice.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Decisive - by Chip and Dan Heath | Derek Sivers">
 <meta name="twitter:description" content="Interesting and insightful dive into the subject of how to make big decisions. Specific useful advice.">
-<meta name="twitter:image" content="http://sivers.org/images/book/Decisive.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Decisive.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0307956393?tag=sivers-20"><img src="/images/book/Decisive.gif" alt="Decisive - by Chip and Dan Heath"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0307956393?tag=sivers-20"><img src="/images/Decisive.gif" alt="Decisive - by Chip and Dan Heath"></a></figure>
       <h1>Decisive - by Chip and Dan Heath</h1>
       <p class="postdate">
         ISBN: 0307956393<br>

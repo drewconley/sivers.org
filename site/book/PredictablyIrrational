@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Predictably Irrational - by Dan Ariely | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/PredictablyIrrational">
-<meta name="og:image" content="http://sivers.org/images/book/PredictablyIrrational.gif">
+<meta name="og:image" content="http://sivers.org/images/PredictablyIrrational.gif">
 <meta name="og:description" content="My favorite type of book: pointing out and understanding all of the counter-intuitive things people do.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Predictably Irrational - by Dan Ariely | Derek Sivers">
 <meta name="twitter:description" content="My favorite type of book: pointing out and understanding all of the counter-intuitive things people do.">
-<meta name="twitter:image" content="http://sivers.org/images/book/PredictablyIrrational.gif">
+<meta name="twitter:image" content="http://sivers.org/images/PredictablyIrrational.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/006135323X?tag=sivers-20"><img src="/images/book/PredictablyIrrational.gif" alt="Predictably Irrational - by Dan Ariely"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/006135323X?tag=sivers-20"><img src="/images/PredictablyIrrational.gif" alt="Predictably Irrational - by Dan Ariely"></a></figure>
       <h1>Predictably Irrational - by Dan Ariely</h1>
       <p class="postdate">
         ISBN: 006135323X<br>

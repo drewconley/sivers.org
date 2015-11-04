@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The China Study - by Campbell and Campbell | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/ChinaStudy">
-<meta name="og:image" content="http://sivers.org/images/book/ChinaStudy.gif">
+<meta name="og:image" content="http://sivers.org/images/ChinaStudy.gif">
 <meta name="og:description" content="Biggest study ever on the effects of diet on health. The multiple health benefits of plant-based foods, and dangers of animal-based foods, including all types of meat, dairy and eggs.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The China Study - by Campbell and Campbell | Derek Sivers">
 <meta name="twitter:description" content="Biggest study ever on the effects of diet on health. The multiple health benefits of plant-based foods, and dangers of animal-based foods, including all types of meat, dairy and eggs.">
-<meta name="twitter:image" content="http://sivers.org/images/book/ChinaStudy.gif">
+<meta name="twitter:image" content="http://sivers.org/images/ChinaStudy.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1932100660?tag=sivers-20"><img src="/images/book/ChinaStudy.gif" alt="The China Study - by Campbell and Campbell"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1932100660?tag=sivers-20"><img src="/images/ChinaStudy.gif" alt="The China Study - by Campbell and Campbell"></a></figure>
       <h1>The China Study - by Campbell and Campbell</h1>
       <p class="postdate">
         ISBN: 1932100660<br>

@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Compound Effect - by Darren Hardy | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/CompoundEffect">
-<meta name="og:image" content="http://sivers.org/images/book/CompoundEffect.gif">
+<meta name="og:image" content="http://sivers.org/images/CompoundEffect.gif">
 <meta name="og:description" content="Classic self-help book, in the best sense. Inspired the hell out of me. Mostly fundamentals I had heard before, but put in a very energetic go-do-it way. As he says, “You already know all that you need to succeed. You don’t need to learn anything more. If all we needed was more information, everyone with an Internet connection would live in a mansion, have abs of steel, and be blissfully happy.”">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Compound Effect - by Darren Hardy | Derek Sivers">
 <meta name="twitter:description" content="Classic self-help book, in the best sense. Inspired the hell out of me. Mostly fundamentals I had heard before, but put in a very energetic go-do-it way. As he says, “You already know all that you need to succeed. You don’t need to learn anything more. If all we needed was more information, everyone with an Internet connection would live in a mansion, have abs of steel, and be blissfully happy.”">
-<meta name="twitter:image" content="http://sivers.org/images/book/CompoundEffect.gif">
+<meta name="twitter:image" content="http://sivers.org/images/CompoundEffect.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/159315724X?tag=sivers-20"><img src="/images/book/CompoundEffect.gif" alt="The Compound Effect - by Darren Hardy"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/159315724X?tag=sivers-20"><img src="/images/CompoundEffect.gif" alt="The Compound Effect - by Darren Hardy"></a></figure>
       <h1>The Compound Effect - by Darren Hardy</h1>
       <p class="postdate">
         ISBN: 159315724X<br>

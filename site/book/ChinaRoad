@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="China Road - by Rob Gifford | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/ChinaRoad">
-<meta name="og:image" content="http://sivers.org/images/book/ChinaRoad.gif">
+<meta name="og:image" content="http://sivers.org/images/ChinaRoad.gif">
 <meta name="og:description" content="Not a business book, unless you want to understand China a bit more. Journalist who's worked in China for 10 years decides to move back to London, but takes one last cross-country trip and gets first-time insights into rural Chinese life and how the country has changed.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="China Road - by Rob Gifford | Derek Sivers">
 <meta name="twitter:description" content="Not a business book, unless you want to understand China a bit more. Journalist who's worked in China for 10 years decides to move back to London, but takes one last cross-country trip and gets first-time insights into rural Chinese life and how the country has changed.">
-<meta name="twitter:image" content="http://sivers.org/images/book/ChinaRoad.gif">
+<meta name="twitter:image" content="http://sivers.org/images/ChinaRoad.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0812975243?tag=sivers-20"><img src="/images/book/ChinaRoad.gif" alt="China Road - by Rob Gifford"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0812975243?tag=sivers-20"><img src="/images/ChinaRoad.gif" alt="China Road - by Rob Gifford"></a></figure>
       <h1>China Road - by Rob Gifford</h1>
       <p class="postdate">
         ISBN: 0812975243<br>

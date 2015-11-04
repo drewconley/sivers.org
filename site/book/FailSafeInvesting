@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Fail-Safe Investing - by Harry Browne | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/FailSafeInvesting">
-<meta name="og:image" content="http://sivers.org/images/book/FailSafeInvesting.gif">
+<meta name="og:image" content="http://sivers.org/images/FailSafeInvesting.gif">
 <meta name="og:description" content="Its main point is the “Permanent Portfolio” - a beautiful simple idea to have 25% of your savings each in investments that do well during boom (stocks), bust (bonds), inflation (gold), deflation (cash).  Then just rebalance when they get too far out of 25% each.  No predicting the future.  No worrying about the news.  Just 25% each and rebalance.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Fail-Safe Investing - by Harry Browne | Derek Sivers">
 <meta name="twitter:description" content="Its main point is the “Permanent Portfolio” - a beautiful simple idea to have 25% of your savings each in investments that do well during boom (stocks), bust (bonds), inflation (gold), deflation (cash).  Then just rebalance when they get too far out of 25% each.  No predicting the future.  No worrying about the news.  Just 25% each and rebalance.">
-<meta name="twitter:image" content="http://sivers.org/images/book/FailSafeInvesting.gif">
+<meta name="twitter:image" content="http://sivers.org/images/FailSafeInvesting.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/031226321X?tag=sivers-20"><img src="/images/book/FailSafeInvesting.gif" alt="Fail-Safe Investing - by Harry Browne"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/031226321X?tag=sivers-20"><img src="/images/FailSafeInvesting.gif" alt="Fail-Safe Investing - by Harry Browne"></a></figure>
       <h1>Fail-Safe Investing - by Harry Browne</h1>
       <p class="postdate">
         ISBN: 031226321X<br>

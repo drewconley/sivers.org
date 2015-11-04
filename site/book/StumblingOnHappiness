@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Stumbling on Happiness - by Daniel Gilbert | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/StumblingOnHappiness">
-<meta name="og:image" content="http://sivers.org/images/book/StumblingOnHappiness.gif">
+<meta name="og:image" content="http://sivers.org/images/StumblingOnHappiness.gif">
 <meta name="og:description" content="Not at all new-agey, as the title might suggest. Harvard professor of psychology has studied happiness for years, and shares factual findings that will change the way you look at the world.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Stumbling on Happiness - by Daniel Gilbert | Derek Sivers">
 <meta name="twitter:description" content="Not at all new-agey, as the title might suggest. Harvard professor of psychology has studied happiness for years, and shares factual findings that will change the way you look at the world.">
-<meta name="twitter:image" content="http://sivers.org/images/book/StumblingOnHappiness.gif">
+<meta name="twitter:image" content="http://sivers.org/images/StumblingOnHappiness.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1400077427?tag=sivers-20"><img src="/images/book/StumblingOnHappiness.gif" alt="Stumbling on Happiness - by Daniel Gilbert"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1400077427?tag=sivers-20"><img src="/images/StumblingOnHappiness.gif" alt="Stumbling on Happiness - by Daniel Gilbert"></a></figure>
       <h1>Stumbling on Happiness - by Daniel Gilbert</h1>
       <p class="postdate">
         ISBN: 1400077427<br>

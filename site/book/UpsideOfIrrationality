@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Upside of Irrationality - by Dan Ariely | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/UpsideOfIrrationality">
-<meta name="og:image" content="http://sivers.org/images/book/UpsideOfIrrationality.gif">
+<meta name="og:image" content="http://sivers.org/images/UpsideOfIrrationality.gif">
 <meta name="og:description" content="First read his amazing book “Predictably Irrational.”  But if you read and loved it, then this is a continuation with some more examples - mostly organizational.  He also catharticly details his own painful injuries in every chapter.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Upside of Irrationality - by Dan Ariely | Derek Sivers">
 <meta name="twitter:description" content="First read his amazing book “Predictably Irrational.”  But if you read and loved it, then this is a continuation with some more examples - mostly organizational.  He also catharticly details his own painful injuries in every chapter.">
-<meta name="twitter:image" content="http://sivers.org/images/book/UpsideOfIrrationality.gif">
+<meta name="twitter:image" content="http://sivers.org/images/UpsideOfIrrationality.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0061995037?tag=sivers-20"><img src="/images/book/UpsideOfIrrationality.gif" alt="The Upside of Irrationality - by Dan Ariely"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0061995037?tag=sivers-20"><img src="/images/UpsideOfIrrationality.gif" alt="The Upside of Irrationality - by Dan Ariely"></a></figure>
       <h1>The Upside of Irrationality - by Dan Ariely</h1>
       <p class="postdate">
         ISBN: 0061995037<br>

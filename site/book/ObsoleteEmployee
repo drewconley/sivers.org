@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Obsolete Employee - by Michael Russer | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/ObsoleteEmployee">
-<meta name="og:image" content="http://sivers.org/images/book/ObsoleteEmployee.gif">
+<meta name="og:image" content="http://sivers.org/images/ObsoleteEmployee.gif">
 <meta name="og:description" content="How to run a company without employees, but with a loose network of work-from-home freelance agents. Very instructive, but also good perspective like how until the industrial revolution, there were no employees: everyone was freelance.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Obsolete Employee - by Michael Russer | Derek Sivers">
 <meta name="twitter:description" content="How to run a company without employees, but with a loose network of work-from-home freelance agents. Very instructive, but also good perspective like how until the industrial revolution, there were no employees: everyone was freelance.">
-<meta name="twitter:image" content="http://sivers.org/images/book/ObsoleteEmployee.gif">
+<meta name="twitter:image" content="http://sivers.org/images/ObsoleteEmployee.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0966248465?tag=sivers-20"><img src="/images/book/ObsoleteEmployee.gif" alt="The Obsolete Employee - by Michael Russer"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0966248465?tag=sivers-20"><img src="/images/ObsoleteEmployee.gif" alt="The Obsolete Employee - by Michael Russer"></a></figure>
       <h1>The Obsolete Employee - by Michael Russer</h1>
       <p class="postdate">
         ISBN: 0966248465<br>

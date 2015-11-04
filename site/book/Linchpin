@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Linchpin - by Seth Godin | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Linchpin">
-<meta name="og:image" content="http://sivers.org/images/book/Linchpin.gif">
+<meta name="og:image" content="http://sivers.org/images/Linchpin.gif">
 <meta name="og:description" content="For someone who has a job at a company, I would call this essential reading with my highest recommendation.  Since I haven't had a job since 1992, I couldn't apply many of his great points to my life.  Still I loved his reminder of the value of the brilliant workers instead of systemized workers.  The opposite of E-Myth (another book reviewed here).">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Linchpin - by Seth Godin | Derek Sivers">
 <meta name="twitter:description" content="For someone who has a job at a company, I would call this essential reading with my highest recommendation.  Since I haven't had a job since 1992, I couldn't apply many of his great points to my life.  Still I loved his reminder of the value of the brilliant workers instead of systemized workers.  The opposite of E-Myth (another book reviewed here).">
-<meta name="twitter:image" content="http://sivers.org/images/book/Linchpin.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Linchpin.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1591843162?tag=sivers-20"><img src="/images/book/Linchpin.gif" alt="Linchpin - by Seth Godin"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1591843162?tag=sivers-20"><img src="/images/Linchpin.gif" alt="Linchpin - by Seth Godin"></a></figure>
       <h1>Linchpin - by Seth Godin</h1>
       <p class="postdate">
         ISBN: 1591843162<br>

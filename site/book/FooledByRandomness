@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Fooled by Randomness - by Nassim Nicholas Taleb | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/FooledByRandomness">
-<meta name="og:image" content="http://sivers.org/images/book/FooledByRandomness.gif">
+<meta name="og:image" content="http://sivers.org/images/FooledByRandomness.gif">
 <meta name="og:description" content="Mr Black Swan sure does love the sound of his own voice. Interesting thoughts on investing and misjudging randomness inside lots of blather.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Fooled by Randomness - by Nassim Nicholas Taleb | Derek Sivers">
 <meta name="twitter:description" content="Mr Black Swan sure does love the sound of his own voice. Interesting thoughts on investing and misjudging randomness inside lots of blather.">
-<meta name="twitter:image" content="http://sivers.org/images/book/FooledByRandomness.gif">
+<meta name="twitter:image" content="http://sivers.org/images/FooledByRandomness.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1400067936?tag=sivers-20"><img src="/images/book/FooledByRandomness.gif" alt="Fooled by Randomness - by Nassim Nicholas Taleb"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1400067936?tag=sivers-20"><img src="/images/FooledByRandomness.gif" alt="Fooled by Randomness - by Nassim Nicholas Taleb"></a></figure>
       <h1>Fooled by Randomness - by Nassim Nicholas Taleb</h1>
       <p class="postdate">
         ISBN: 1400067936<br>

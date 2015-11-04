@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Causing a Scene - by Charlie Todd | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/CausingAScene">
-<meta name="og:image" content="http://sivers.org/images/book/CausingAScene.gif">
+<meta name="og:image" content="http://sivers.org/images/CausingAScene.gif">
 <meta name="og:description" content="Fun tales from the guy that invented Improv Everywhere. Not really educational as much as just fun, and I'm a huge fan of their “missions”.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Causing a Scene - by Charlie Todd | Derek Sivers">
 <meta name="twitter:description" content="Fun tales from the guy that invented Improv Everywhere. Not really educational as much as just fun, and I'm a huge fan of their “missions”.">
-<meta name="twitter:image" content="http://sivers.org/images/book/CausingAScene.gif">
+<meta name="twitter:image" content="http://sivers.org/images/CausingAScene.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/006170363X?tag=sivers-20"><img src="/images/book/CausingAScene.gif" alt="Causing a Scene - by Charlie Todd"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/006170363X?tag=sivers-20"><img src="/images/CausingAScene.gif" alt="Causing a Scene - by Charlie Todd"></a></figure>
       <h1>Causing a Scene - by Charlie Todd</h1>
       <p class="postdate">
         ISBN: 006170363X<br>

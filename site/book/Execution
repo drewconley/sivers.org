@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Execution - by Larry Bossidy and Ram Charan | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Execution">
-<meta name="og:image" content="http://sivers.org/images/book/Execution.gif">
+<meta name="og:image" content="http://sivers.org/images/Execution.gif">
 <meta name="og:description" content="Great in-depth look at the dirty discipline of getting things done in a large organization.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Execution - by Larry Bossidy and Ram Charan | Derek Sivers">
 <meta name="twitter:description" content="Great in-depth look at the dirty discipline of getting things done in a large organization.">
-<meta name="twitter:image" content="http://sivers.org/images/book/Execution.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Execution.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0609610570?tag=sivers-20"><img src="/images/book/Execution.gif" alt="Execution - by Larry Bossidy and Ram Charan"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0609610570?tag=sivers-20"><img src="/images/Execution.gif" alt="Execution - by Larry Bossidy and Ram Charan"></a></figure>
       <h1>Execution - by Larry Bossidy and Ram Charan</h1>
       <p class="postdate">
         ISBN: 0609610570<br>

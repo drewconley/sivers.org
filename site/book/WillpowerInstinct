@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Willpower Instinct - by Kelly McGonigal | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/WillpowerInstinct">
-<meta name="og:image" content="http://sivers.org/images/book/WillpowerInstinct.gif">
+<meta name="og:image" content="http://sivers.org/images/WillpowerInstinct.gif">
 <meta name="og:description" content="Amazing book about willpower from Stanford psychology professor who teaches just this.  Killer first point: The best way to improve your self-control is to see how and why you lose control.  This is a better book than the other book on Willpower here on my list, because it's more actionable, better written, better presented.  Really amazing (IF you act on it!)">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Willpower Instinct - by Kelly McGonigal | Derek Sivers">
 <meta name="twitter:description" content="Amazing book about willpower from Stanford psychology professor who teaches just this.  Killer first point: The best way to improve your self-control is to see how and why you lose control.  This is a better book than the other book on Willpower here on my list, because it's more actionable, better written, better presented.  Really amazing (IF you act on it!)">
-<meta name="twitter:image" content="http://sivers.org/images/book/WillpowerInstinct.gif">
+<meta name="twitter:image" content="http://sivers.org/images/WillpowerInstinct.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1583334386?tag=sivers-20"><img src="/images/book/WillpowerInstinct.gif" alt="The Willpower Instinct - by Kelly McGonigal"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1583334386?tag=sivers-20"><img src="/images/WillpowerInstinct.gif" alt="The Willpower Instinct - by Kelly McGonigal"></a></figure>
       <h1>The Willpower Instinct - by Kelly McGonigal</h1>
       <p class="postdate">
         ISBN: 1583334386<br>

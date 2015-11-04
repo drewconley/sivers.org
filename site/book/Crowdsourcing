@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="CrowdSourcing - by Jeff Howe | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Crowdsourcing">
-<meta name="og:image" content="http://sivers.org/images/book/Crowdsourcing.gif">
+<meta name="og:image" content="http://sivers.org/images/Crowdsourcing.gif">
 <meta name="og:description" content="Great look at a different way of getting a project done: not outsourcing it to a person, but developing a system where thousands of people can contribute a little bit.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="CrowdSourcing - by Jeff Howe | Derek Sivers">
 <meta name="twitter:description" content="Great look at a different way of getting a project done: not outsourcing it to a person, but developing a system where thousands of people can contribute a little bit.">
-<meta name="twitter:image" content="http://sivers.org/images/book/Crowdsourcing.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Crowdsourcing.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0307396207?tag=sivers-20"><img src="/images/book/Crowdsourcing.gif" alt="CrowdSourcing - by Jeff Howe"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0307396207?tag=sivers-20"><img src="/images/Crowdsourcing.gif" alt="CrowdSourcing - by Jeff Howe"></a></figure>
       <h1>CrowdSourcing - by Jeff Howe</h1>
       <p class="postdate">
         ISBN: 0307396207<br>

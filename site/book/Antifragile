@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Antifragile - by Nassim Nicholas Taleb | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Antifragile">
-<meta name="og:image" content="http://sivers.org/images/book/Antifragile.gif">
+<meta name="og:image" content="http://sivers.org/images/Antifragile.gif">
 <meta name="og:description" content="Bold perspectives, unusual ideas, and surprisingly wise advice around an interesting subject of the “opposite of fragile.” Looking through that lens at health, education, governments, business, and life philosophy. Very inspiring, and sparks a lot of further discussion.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Antifragile - by Nassim Nicholas Taleb | Derek Sivers">
 <meta name="twitter:description" content="Bold perspectives, unusual ideas, and surprisingly wise advice around an interesting subject of the “opposite of fragile.” Looking through that lens at health, education, governments, business, and life philosophy. Very inspiring, and sparks a lot of further discussion.">
-<meta name="twitter:image" content="http://sivers.org/images/book/Antifragile.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Antifragile.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1400067820?tag=sivers-20"><img src="/images/book/Antifragile.gif" alt="Antifragile - by Nassim Nicholas Taleb"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1400067820?tag=sivers-20"><img src="/images/Antifragile.gif" alt="Antifragile - by Nassim Nicholas Taleb"></a></figure>
       <h1>Antifragile - by Nassim Nicholas Taleb</h1>
       <p class="postdate">
         ISBN: 1400067820<br>

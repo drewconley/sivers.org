@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Getting Things Done - by David Allen | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/GettingThingsDone">
-<meta name="og:image" content="http://sivers.org/images/book/GettingThingsDone.gif">
+<meta name="og:image" content="http://sivers.org/images/GettingThingsDone.gif">
 <meta name="og:description" content="Classic book with near-cult following. How to manage every last itty bitty tiny thing in your life. Keep your inbox empty.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Getting Things Done - by David Allen | Derek Sivers">
 <meta name="twitter:description" content="Classic book with near-cult following. How to manage every last itty bitty tiny thing in your life. Keep your inbox empty.">
-<meta name="twitter:image" content="http://sivers.org/images/book/GettingThingsDone.gif">
+<meta name="twitter:image" content="http://sivers.org/images/GettingThingsDone.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0142000280?tag=sivers-20"><img src="/images/book/GettingThingsDone.gif" alt="Getting Things Done - by David Allen"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0142000280?tag=sivers-20"><img src="/images/GettingThingsDone.gif" alt="Getting Things Done - by David Allen"></a></figure>
       <h1>Getting Things Done - by David Allen</h1>
       <p class="postdate">
         ISBN: 0142000280<br>

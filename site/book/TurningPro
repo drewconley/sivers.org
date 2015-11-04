@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Turning Pro - by Steven Pressfield | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/TurningPro">
-<meta name="og:image" content="http://sivers.org/images/book/TurningPro.gif">
+<meta name="og:image" content="http://sivers.org/images/TurningPro.gif">
 <meta name="og:description" content="In the same vein as his other books “Do the Work” and ”War of Art” - but a message that needs to be said again and again to really get through. It's all about the resistance, avoiding distractions, getting serious. Here he dives more into the mindset shift of thinking of your art as a hobby versus a real career. This stuff shakes me to the core, every time.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Turning Pro - by Steven Pressfield | Derek Sivers">
 <meta name="twitter:description" content="In the same vein as his other books “Do the Work” and ”War of Art” - but a message that needs to be said again and again to really get through. It's all about the resistance, avoiding distractions, getting serious. Here he dives more into the mindset shift of thinking of your art as a hobby versus a real career. This stuff shakes me to the core, every time.">
-<meta name="twitter:image" content="http://sivers.org/images/book/TurningPro.gif">
+<meta name="twitter:image" content="http://sivers.org/images/TurningPro.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1936891034?tag=sivers-20"><img src="/images/book/TurningPro.gif" alt="Turning Pro - by Steven Pressfield"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1936891034?tag=sivers-20"><img src="/images/TurningPro.gif" alt="Turning Pro - by Steven Pressfield"></a></figure>
       <h1>Turning Pro - by Steven Pressfield</h1>
       <p class="postdate">
         ISBN: 1936891034<br>

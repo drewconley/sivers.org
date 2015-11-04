@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="How We Decide - by Jonah Lehrer | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/HowWeDecide">
-<meta name="og:image" content="http://sivers.org/images/book/HowWeDecide.gif">
+<meta name="og:image" content="http://sivers.org/images/HowWeDecide.gif">
 <meta name="og:description" content="Brilliant book with one clear message: our emotional brain is faster and usually smarter than our logical brain. Our emotions are trained by years of logic and experience, retaining it all for real wisdom. Many decisions are better made by going with the gut feeling. Gets a little too technical with deep brain/neuro/cortex talk, but brings it back to usable points.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="How We Decide - by Jonah Lehrer | Derek Sivers">
 <meta name="twitter:description" content="Brilliant book with one clear message: our emotional brain is faster and usually smarter than our logical brain. Our emotions are trained by years of logic and experience, retaining it all for real wisdom. Many decisions are better made by going with the gut feeling. Gets a little too technical with deep brain/neuro/cortex talk, but brings it back to usable points.">
-<meta name="twitter:image" content="http://sivers.org/images/book/HowWeDecide.gif">
+<meta name="twitter:image" content="http://sivers.org/images/HowWeDecide.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0618620117?tag=sivers-20"><img src="/images/book/HowWeDecide.gif" alt="How We Decide - by Jonah Lehrer"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0618620117?tag=sivers-20"><img src="/images/HowWeDecide.gif" alt="How We Decide - by Jonah Lehrer"></a></figure>
       <h1>How We Decide - by Jonah Lehrer</h1>
       <p class="postdate">
         ISBN: 0618620117<br>

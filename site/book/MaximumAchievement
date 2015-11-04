@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Maximum Achievement - by Brian Tracy | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/MaximumAchievement">
-<meta name="og:image" content="http://sivers.org/images/book/MaximumAchievement.gif">
+<meta name="og:image" content="http://sivers.org/images/MaximumAchievement.gif">
 <meta name="og:description" content="A classic self-help book. Exactly what you'd expect. I don't agree with all of it.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Maximum Achievement - by Brian Tracy | Derek Sivers">
 <meta name="twitter:description" content="A classic self-help book. Exactly what you'd expect. I don't agree with all of it.">
-<meta name="twitter:image" content="http://sivers.org/images/book/MaximumAchievement.gif">
+<meta name="twitter:image" content="http://sivers.org/images/MaximumAchievement.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0684803313?tag=sivers-20"><img src="/images/book/MaximumAchievement.gif" alt="Maximum Achievement - by Brian Tracy"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0684803313?tag=sivers-20"><img src="/images/MaximumAchievement.gif" alt="Maximum Achievement - by Brian Tracy"></a></figure>
       <h1>Maximum Achievement - by Brian Tracy</h1>
       <p class="postdate">
         ISBN: 0684803313<br>

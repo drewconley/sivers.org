@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Ready for Anything - by David Allen | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/ReadyForAnything">
-<meta name="og:image" content="http://sivers.org/images/book/ReadyForAnything.gif">
+<meta name="og:image" content="http://sivers.org/images/ReadyForAnything.gif">
 <meta name="og:description" content="I read this in 2004, before Getting Things Done (same author), and liked it more, because it's more philosophical than instructional.  It made a big impact on me then.  I was just re-reading now for a little refresher.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Ready for Anything - by David Allen | Derek Sivers">
 <meta name="twitter:description" content="I read this in 2004, before Getting Things Done (same author), and liked it more, because it's more philosophical than instructional.  It made a big impact on me then.  I was just re-reading now for a little refresher.">
-<meta name="twitter:image" content="http://sivers.org/images/book/ReadyForAnything.gif">
+<meta name="twitter:image" content="http://sivers.org/images/ReadyForAnything.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0143034545?tag=sivers-20"><img src="/images/book/ReadyForAnything.gif" alt="Ready for Anything - by David Allen"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0143034545?tag=sivers-20"><img src="/images/ReadyForAnything.gif" alt="Ready for Anything - by David Allen"></a></figure>
       <h1>Ready for Anything - by David Allen</h1>
       <p class="postdate">
         ISBN: 0143034545<br>

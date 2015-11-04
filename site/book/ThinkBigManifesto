@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Think Big Manifesto - by Michael Port and Mina Samuels | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/ThinkBigManifesto">
-<meta name="og:image" content="http://sivers.org/images/book/ThinkBigManifesto.gif">
+<meta name="og:image" content="http://sivers.org/images/ThinkBigManifesto.gif">
 <meta name="og:description" content="One of the few books I've actively disliked. Ever read the introduction to a book? Where they say “what you hold in your hands here is something that could change the world”, and blah blah blah? I kept reading, wondering when the introduction was going to be over. Over halfway through the book, I realized this was it: just broad general encouraging unuseful nothings for the entire book.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Think Big Manifesto - by Michael Port and Mina Samuels | Derek Sivers">
 <meta name="twitter:description" content="One of the few books I've actively disliked. Ever read the introduction to a book? Where they say “what you hold in your hands here is something that could change the world”, and blah blah blah? I kept reading, wondering when the introduction was going to be over. Over halfway through the book, I realized this was it: just broad general encouraging unuseful nothings for the entire book.">
-<meta name="twitter:image" content="http://sivers.org/images/book/ThinkBigManifesto.gif">
+<meta name="twitter:image" content="http://sivers.org/images/ThinkBigManifesto.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0470432373?tag=sivers-20"><img src="/images/book/ThinkBigManifesto.gif" alt="The Think Big Manifesto - by Michael Port and Mina Samuels"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0470432373?tag=sivers-20"><img src="/images/ThinkBigManifesto.gif" alt="The Think Big Manifesto - by Michael Port and Mina Samuels"></a></figure>
       <h1>The Think Big Manifesto - by Michael Port and Mina Samuels</h1>
       <p class="postdate">
         ISBN: 0470432373<br>

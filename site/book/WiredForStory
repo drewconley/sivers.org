@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Wired for Story - by Lisa Cron | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/WiredForStory">
-<meta name="og:image" content="http://sivers.org/images/book/WiredForStory.gif">
+<meta name="og:image" content="http://sivers.org/images/WiredForStory.gif">
 <meta name="og:description" content="If you've read other books on how to write a great story, this probably won't hold much new for you. But this was my first book on this subject, and I loved it. Changed the way I pay attention to movies and novels. Makes me want to write a novel.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Wired for Story - by Lisa Cron | Derek Sivers">
 <meta name="twitter:description" content="If you've read other books on how to write a great story, this probably won't hold much new for you. But this was my first book on this subject, and I loved it. Changed the way I pay attention to movies and novels. Makes me want to write a novel.">
-<meta name="twitter:image" content="http://sivers.org/images/book/WiredForStory.gif">
+<meta name="twitter:image" content="http://sivers.org/images/WiredForStory.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1607742454?tag=sivers-20"><img src="/images/book/WiredForStory.gif" alt="Wired for Story - by Lisa Cron"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1607742454?tag=sivers-20"><img src="/images/WiredForStory.gif" alt="Wired for Story - by Lisa Cron"></a></figure>
       <h1>Wired for Story - by Lisa Cron</h1>
       <p class="postdate">
         ISBN: 1607742454<br>

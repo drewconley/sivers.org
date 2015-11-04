@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Drive - by Daniel Pink | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Drive">
-<meta name="og:image" content="http://sivers.org/images/book/Drive.gif">
+<meta name="og:image" content="http://sivers.org/images/Drive.gif">
 <meta name="og:description" content="Essential for all managers. Deep surprising study of motivation at work. Extrinsic vs intrinsic. Work vs play. When money is used as an external reward for some activity, the subjects lose intrinsic interest for the activity. See http://www.youtube.com/watch?v=u6XAPnuFjJc">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Drive - by Daniel Pink | Derek Sivers">
 <meta name="twitter:description" content="Essential for all managers. Deep surprising study of motivation at work. Extrinsic vs intrinsic. Work vs play. When money is used as an external reward for some activity, the subjects lose intrinsic interest for the activity. See http://www.youtube.com/watch?v=u6XAPnuFjJc">
-<meta name="twitter:image" content="http://sivers.org/images/book/Drive.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Drive.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1594488843?tag=sivers-20"><img src="/images/book/Drive.gif" alt="Drive - by Daniel Pink"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1594488843?tag=sivers-20"><img src="/images/Drive.gif" alt="Drive - by Daniel Pink"></a></figure>
       <h1>Drive - by Daniel Pink</h1>
       <p class="postdate">
         ISBN: 1594488843<br>

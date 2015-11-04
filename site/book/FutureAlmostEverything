@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Future of Almost Everything - by Patrick Dixon | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/FutureAlmostEverything">
-<meta name="og:image" content="http://sivers.org/images/book/FutureAlmostEverything.gif">
+<meta name="og:image" content="http://sivers.org/images/FutureAlmostEverything.gif">
 <meta name="og:description" content="On the plus-side, he's focused on future predictions that are most likely to happen. On the down-side, that means there are no big surprises. An interesting read, but not much I needed to take notes on.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Future of Almost Everything - by Patrick Dixon | Derek Sivers">
 <meta name="twitter:description" content="On the plus-side, he's focused on future predictions that are most likely to happen. On the down-side, that means there are no big surprises. An interesting read, but not much I needed to take notes on.">
-<meta name="twitter:image" content="http://sivers.org/images/book/FutureAlmostEverything.gif">
+<meta name="twitter:image" content="http://sivers.org/images/FutureAlmostEverything.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1781254974?tag=sivers-20"><img src="/images/book/FutureAlmostEverything.gif" alt="The Future of Almost Everything - by Patrick Dixon"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1781254974?tag=sivers-20"><img src="/images/FutureAlmostEverything.gif" alt="The Future of Almost Everything - by Patrick Dixon"></a></figure>
       <h1>The Future of Almost Everything - by Patrick Dixon</h1>
       <p class="postdate">
         ISBN: 1781254974<br>

@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Confessions of a Serial Entrepreneur - by Stuart Skorman | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/SerialEntrepreneur">
-<meta name="og:image" content="http://sivers.org/images/book/SerialEntrepreneur.gif">
+<meta name="og:image" content="http://sivers.org/images/SerialEntrepreneur.gif">
 <meta name="og:description" content="Personal tales, almost an autobiography, of someone who created a wide range of businesses, both successful and not.  Some insights along the way, but not many surprising ones.  I'd recommend “How to Get Rich” by Felix Dennis instead, also reviewed on this website.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Confessions of a Serial Entrepreneur - by Stuart Skorman | Derek Sivers">
 <meta name="twitter:description" content="Personal tales, almost an autobiography, of someone who created a wide range of businesses, both successful and not.  Some insights along the way, but not many surprising ones.  I'd recommend “How to Get Rich” by Felix Dennis instead, also reviewed on this website.">
-<meta name="twitter:image" content="http://sivers.org/images/book/SerialEntrepreneur.gif">
+<meta name="twitter:image" content="http://sivers.org/images/SerialEntrepreneur.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0787987328?tag=sivers-20"><img src="/images/book/SerialEntrepreneur.gif" alt="Confessions of a Serial Entrepreneur - by Stuart Skorman"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0787987328?tag=sivers-20"><img src="/images/SerialEntrepreneur.gif" alt="Confessions of a Serial Entrepreneur - by Stuart Skorman"></a></figure>
       <h1>Confessions of a Serial Entrepreneur - by Stuart Skorman</h1>
       <p class="postdate">
         ISBN: 0787987328<br>

@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="What I Talk About When I Talk About Running - by Haruki Murakami | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/TalkAboutRunning">
-<meta name="og:image" content="http://sivers.org/images/book/TalkAboutRunning.gif">
+<meta name="og:image" content="http://sivers.org/images/TalkAboutRunning.gif">
 <meta name="og:description" content="This novelist runs every day, including many marathons. This book is his thoughts about running and how it relates to other things in work and life.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="What I Talk About When I Talk About Running - by Haruki Murakami | Derek Sivers">
 <meta name="twitter:description" content="This novelist runs every day, including many marathons. This book is his thoughts about running and how it relates to other things in work and life.">
-<meta name="twitter:image" content="http://sivers.org/images/book/TalkAboutRunning.gif">
+<meta name="twitter:image" content="http://sivers.org/images/TalkAboutRunning.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0307389839?tag=sivers-20"><img src="/images/book/TalkAboutRunning.gif" alt="What I Talk About When I Talk About Running - by Haruki Murakami"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0307389839?tag=sivers-20"><img src="/images/TalkAboutRunning.gif" alt="What I Talk About When I Talk About Running - by Haruki Murakami"></a></figure>
       <h1>What I Talk About When I Talk About Running - by Haruki Murakami</h1>
       <p class="postdate">
         ISBN: 0307389839<br>

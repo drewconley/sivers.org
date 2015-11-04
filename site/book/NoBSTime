@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="No B.S. Time Management for Entrepreneurs - by Dan S. Kennedy | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/NoBSTime">
-<meta name="og:image" content="http://sivers.org/images/book/NoBSTime.gif">
+<meta name="og:image" content="http://sivers.org/images/NoBSTime.gif">
 <meta name="og:description" content="Repeated message: Your time is precious. Know its value and don't work for less. Defend it against time-vampires. Be hard to reach. Make every minute count. Do only the valuable tasks. Good conventional wisdom.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="No B.S. Time Management for Entrepreneurs - by Dan S. Kennedy | Derek Sivers">
 <meta name="twitter:description" content="Repeated message: Your time is precious. Know its value and don't work for less. Defend it against time-vampires. Be hard to reach. Make every minute count. Do only the valuable tasks. Good conventional wisdom.">
-<meta name="twitter:image" content="http://sivers.org/images/book/NoBSTime.gif">
+<meta name="twitter:image" content="http://sivers.org/images/NoBSTime.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1932156852?tag=sivers-20"><img src="/images/book/NoBSTime.gif" alt="No B.S. Time Management for Entrepreneurs - by Dan S. Kennedy"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1932156852?tag=sivers-20"><img src="/images/NoBSTime.gif" alt="No B.S. Time Management for Entrepreneurs - by Dan S. Kennedy"></a></figure>
       <h1>No B.S. Time Management for Entrepreneurs - by Dan S. Kennedy</h1>
       <p class="postdate">
         ISBN: 1932156852<br>

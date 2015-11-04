@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Talent Is Overrated - by Geoff Colvin | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/TalentIsOverrated">
-<meta name="og:image" content="http://sivers.org/images/book/TalentIsOverrated.gif">
+<meta name="og:image" content="http://sivers.org/images/TalentIsOverrated.gif">
 <meta name="og:description" content="Talent is not innate - it comes from thousands of hours of deliberate practice: focused improving of your shortcomings. That's it. If you can get past the first 20% of the book that just asks questions, the next 60% is quite good.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Talent Is Overrated - by Geoff Colvin | Derek Sivers">
 <meta name="twitter:description" content="Talent is not innate - it comes from thousands of hours of deliberate practice: focused improving of your shortcomings. That's it. If you can get past the first 20% of the book that just asks questions, the next 60% is quite good.">
-<meta name="twitter:image" content="http://sivers.org/images/book/TalentIsOverrated.gif">
+<meta name="twitter:image" content="http://sivers.org/images/TalentIsOverrated.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1591842247?tag=sivers-20"><img src="/images/book/TalentIsOverrated.gif" alt="Talent Is Overrated - by Geoff Colvin"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1591842247?tag=sivers-20"><img src="/images/TalentIsOverrated.gif" alt="Talent Is Overrated - by Geoff Colvin"></a></figure>
       <h1>Talent Is Overrated - by Geoff Colvin</h1>
       <p class="postdate">
         ISBN: 1591842247<br>

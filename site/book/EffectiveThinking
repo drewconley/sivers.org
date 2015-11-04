@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="5 Elements of Effective Thinking - by Edward B. Burger and Michael Starbird | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/EffectiveThinking">
-<meta name="og:image" content="http://sivers.org/images/book/EffectiveThinking.gif">
+<meta name="og:image" content="http://sivers.org/images/EffectiveThinking.gif">
 <meta name="og:description" content="Short and brilliant book with tips on being a better thinker. Being persistent, thorough, rooted in fundamentals, creative, and a more active learner. Surprisingly inspiring.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="5 Elements of Effective Thinking - by Edward B. Burger and Michael Starbird | Derek Sivers">
 <meta name="twitter:description" content="Short and brilliant book with tips on being a better thinker. Being persistent, thorough, rooted in fundamentals, creative, and a more active learner. Surprisingly inspiring.">
-<meta name="twitter:image" content="http://sivers.org/images/book/EffectiveThinking.gif">
+<meta name="twitter:image" content="http://sivers.org/images/EffectiveThinking.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0691156662?tag=sivers-20"><img src="/images/book/EffectiveThinking.gif" alt="5 Elements of Effective Thinking - by Edward B. Burger and Michael Starbird"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0691156662?tag=sivers-20"><img src="/images/EffectiveThinking.gif" alt="5 Elements of Effective Thinking - by Edward B. Burger and Michael Starbird"></a></figure>
       <h1>5 Elements of Effective Thinking - by Edward B. Burger and Michael Starbird</h1>
       <p class="postdate">
         ISBN: 0691156662<br>

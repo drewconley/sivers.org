@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="One Simple Idea - by Stephen Key | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/OneSimpleIdea">
-<meta name="og:image" content="http://sivers.org/images/book/OneSimpleIdea.gif">
+<meta name="og:image" content="http://sivers.org/images/OneSimpleIdea.gif">
 <meta name="og:description" content="Good introduction into the world of licensing your ideas to companies that manufacture products.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="One Simple Idea - by Stephen Key | Derek Sivers">
 <meta name="twitter:description" content="Good introduction into the world of licensing your ideas to companies that manufacture products.">
-<meta name="twitter:image" content="http://sivers.org/images/book/OneSimpleIdea.gif">
+<meta name="twitter:image" content="http://sivers.org/images/OneSimpleIdea.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0071756159?tag=sivers-20"><img src="/images/book/OneSimpleIdea.gif" alt="One Simple Idea - by Stephen Key"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0071756159?tag=sivers-20"><img src="/images/OneSimpleIdea.gif" alt="One Simple Idea - by Stephen Key"></a></figure>
       <h1>One Simple Idea - by Stephen Key</h1>
       <p class="postdate">
         ISBN: 0071756159<br>

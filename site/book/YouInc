@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="You, Inc -  The Art of Selling Yourself - by Harry Beckwith | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/YouInc">
-<meta name="og:image" content="http://sivers.org/images/book/YouInc.gif">
+<meta name="og:image" content="http://sivers.org/images/YouInc.gif">
 <meta name="og:description" content="One of my favorite authors, and a massive inspiration for my e-book. This is his newest, but read anything he’s done. It’s all top-notch insights on making life easier by being more considerate, whether you call that marketing or just life.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="You, Inc -  The Art of Selling Yourself - by Harry Beckwith | Derek Sivers">
 <meta name="twitter:description" content="One of my favorite authors, and a massive inspiration for my e-book. This is his newest, but read anything he’s done. It’s all top-notch insights on making life easier by being more considerate, whether you call that marketing or just life.">
-<meta name="twitter:image" content="http://sivers.org/images/book/YouInc.gif">
+<meta name="twitter:image" content="http://sivers.org/images/YouInc.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0446578215?tag=sivers-20"><img src="/images/book/YouInc.gif" alt="You, Inc -  The Art of Selling Yourself - by Harry Beckwith"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0446578215?tag=sivers-20"><img src="/images/YouInc.gif" alt="You, Inc -  The Art of Selling Yourself - by Harry Beckwith"></a></figure>
       <h1>You, Inc -  The Art of Selling Yourself - by Harry Beckwith</h1>
       <p class="postdate">
         ISBN: 0446578215<br>

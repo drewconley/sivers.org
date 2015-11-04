@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Switch - by Chip Heath and Dan Heath | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Switch">
-<meta name="og:image" content="http://sivers.org/images/book/Switch.gif">
+<meta name="og:image" content="http://sivers.org/images/Switch.gif">
 <meta name="og:description" content="Great great great great GREAT psychology book about real ways to make change last - both personal and organizational.  So many powerful insights, based on fact not theory.  Inspiring counterintuitive stories of huge organizational change against all odds.  Highly recommended for everyone.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Switch - by Chip Heath and Dan Heath | Derek Sivers">
 <meta name="twitter:description" content="Great great great great GREAT psychology book about real ways to make change last - both personal and organizational.  So many powerful insights, based on fact not theory.  Inspiring counterintuitive stories of huge organizational change against all odds.  Highly recommended for everyone.">
-<meta name="twitter:image" content="http://sivers.org/images/book/Switch.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Switch.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0385528752?tag=sivers-20"><img src="/images/book/Switch.gif" alt="Switch - by Chip Heath and Dan Heath"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0385528752?tag=sivers-20"><img src="/images/Switch.gif" alt="Switch - by Chip Heath and Dan Heath"></a></figure>
       <h1>Switch - by Chip Heath and Dan Heath</h1>
       <p class="postdate">
         ISBN: 0385528752<br>

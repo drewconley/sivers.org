@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Bed of Procrustes - by Nassim Nicholas Taleb | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/BedOfProcrustes">
-<meta name="og:image" content="http://sivers.org/images/book/BedOfProcrustes.gif">
+<meta name="og:image" content="http://sivers.org/images/BedOfProcrustes.gif">
 <meta name="og:description" content="I'm thrilled if I get a few counter-intuitive thought-provoking ideas from any source.  This book is filled with his usual cocktail party sprezzatura bravado, but refreshingly succinct, minus his usual blowhard explanations of his superior scholarly approach to life.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Bed of Procrustes - by Nassim Nicholas Taleb | Derek Sivers">
 <meta name="twitter:description" content="I'm thrilled if I get a few counter-intuitive thought-provoking ideas from any source.  This book is filled with his usual cocktail party sprezzatura bravado, but refreshingly succinct, minus his usual blowhard explanations of his superior scholarly approach to life.">
-<meta name="twitter:image" content="http://sivers.org/images/book/BedOfProcrustes.gif">
+<meta name="twitter:image" content="http://sivers.org/images/BedOfProcrustes.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1400069971?tag=sivers-20"><img src="/images/book/BedOfProcrustes.gif" alt="The Bed of Procrustes - by Nassim Nicholas Taleb"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1400069971?tag=sivers-20"><img src="/images/BedOfProcrustes.gif" alt="The Bed of Procrustes - by Nassim Nicholas Taleb"></a></figure>
       <h1>The Bed of Procrustes - by Nassim Nicholas Taleb</h1>
       <p class="postdate">
         ISBN: 1400069971<br>

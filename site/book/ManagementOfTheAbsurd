@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Management of the Absurd - by Richard Farson | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/ManagementOfTheAbsurd">
-<meta name="og:image" content="http://sivers.org/images/book/ManagementOfTheAbsurd.gif">
+<meta name="og:image" content="http://sivers.org/images/ManagementOfTheAbsurd.gif">
 <meta name="og:description" content="Counter-intuitive lessons about management. Highly recommended for managers and leaders, but also teachers and parents.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Management of the Absurd - by Richard Farson | Derek Sivers">
 <meta name="twitter:description" content="Counter-intuitive lessons about management. Highly recommended for managers and leaders, but also teachers and parents.">
-<meta name="twitter:image" content="http://sivers.org/images/book/ManagementOfTheAbsurd.gif">
+<meta name="twitter:image" content="http://sivers.org/images/ManagementOfTheAbsurd.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0684830442?tag=sivers-20"><img src="/images/book/ManagementOfTheAbsurd.gif" alt="Management of the Absurd - by Richard Farson"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0684830442?tag=sivers-20"><img src="/images/ManagementOfTheAbsurd.gif" alt="Management of the Absurd - by Richard Farson"></a></figure>
       <h1>Management of the Absurd - by Richard Farson</h1>
       <p class="postdate">
         ISBN: 0684830442<br>

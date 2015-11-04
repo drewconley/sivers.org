@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Influence - by Robert Cialdini | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Influence">
-<meta name="og:image" content="http://sivers.org/images/book/Influence.gif">
+<meta name="og:image" content="http://sivers.org/images/Influence.gif">
 <meta name="og:description" content="Classic book on the psychology of persuasion.  I read it 15 years ago, thought about it ever since, and re-read it now. How to get a 700% improvement in volunteers. How to sell more by doubling your prices. How to make people feel they made a choice, when really you made it for them.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Influence - by Robert Cialdini | Derek Sivers">
 <meta name="twitter:description" content="Classic book on the psychology of persuasion.  I read it 15 years ago, thought about it ever since, and re-read it now. How to get a 700% improvement in volunteers. How to sell more by doubling your prices. How to make people feel they made a choice, when really you made it for them.">
-<meta name="twitter:image" content="http://sivers.org/images/book/Influence.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Influence.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/006124189X?tag=sivers-20"><img src="/images/book/Influence.gif" alt="Influence - by Robert Cialdini"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/006124189X?tag=sivers-20"><img src="/images/Influence.gif" alt="Influence - by Robert Cialdini"></a></figure>
       <h1>Influence - by Robert Cialdini</h1>
       <p class="postdate">
         ISBN: 006124189X<br>

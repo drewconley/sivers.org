@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Smartcuts - by Shane Snow  | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Smartcuts">
-<meta name="og:image" content="http://sivers.org/images/book/Smartcuts.gif">
+<meta name="og:image" content="http://sivers.org/images/Smartcuts.gif">
 <meta name="og:description" content="Inspiring study of how successful people took smart shortcuts and bypassed the long-slogging dues-paying process. Great insights on momentum. Read the whole book for specific stories of Jimmy Fallon, Skrillex, Elon Musk, David Heinemeier Hansson, and Michelle Phan.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Smartcuts - by Shane Snow  | Derek Sivers">
 <meta name="twitter:description" content="Inspiring study of how successful people took smart shortcuts and bypassed the long-slogging dues-paying process. Great insights on momentum. Read the whole book for specific stories of Jimmy Fallon, Skrillex, Elon Musk, David Heinemeier Hansson, and Michelle Phan.">
-<meta name="twitter:image" content="http://sivers.org/images/book/Smartcuts.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Smartcuts.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0062302450?tag=sivers-20"><img src="/images/book/Smartcuts.gif" alt="Smartcuts - by Shane Snow "></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0062302450?tag=sivers-20"><img src="/images/Smartcuts.gif" alt="Smartcuts - by Shane Snow "></a></figure>
       <h1>Smartcuts - by Shane Snow </h1>
       <p class="postdate">
         ISBN: 0062302450<br>

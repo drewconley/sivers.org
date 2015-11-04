@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Paradox of Choice - Why More is Less - by Barry Schwartz | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/ParadoxOfChoice">
-<meta name="og:image" content="http://sivers.org/images/book/ParadoxOfChoice.gif">
+<meta name="og:image" content="http://sivers.org/images/ParadoxOfChoice.gif">
 <meta name="og:description" content="Faced with many options or decisions in your life? This will change the way you look at them. We feel worse when we have too many options.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Paradox of Choice - Why More is Less - by Barry Schwartz | Derek Sivers">
 <meta name="twitter:description" content="Faced with many options or decisions in your life? This will change the way you look at them. We feel worse when we have too many options.">
-<meta name="twitter:image" content="http://sivers.org/images/book/ParadoxOfChoice.gif">
+<meta name="twitter:image" content="http://sivers.org/images/ParadoxOfChoice.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0060005688?tag=sivers-20"><img src="/images/book/ParadoxOfChoice.gif" alt="The Paradox of Choice - Why More is Less - by Barry Schwartz"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0060005688?tag=sivers-20"><img src="/images/ParadoxOfChoice.gif" alt="The Paradox of Choice - Why More is Less - by Barry Schwartz"></a></figure>
       <h1>The Paradox of Choice - Why More is Less - by Barry Schwartz</h1>
       <p class="postdate">
         ISBN: 0060005688<br>

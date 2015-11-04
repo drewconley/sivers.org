@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Here Comes Everybody - by Clay Shirky | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/HereComesEverybody">
-<meta name="og:image" content="http://sivers.org/images/book/HereComesEverybody.gif">
+<meta name="og:image" content="http://sivers.org/images/HereComesEverybody.gif">
 <meta name="og:description" content="Like Wikinomics and Crowdsourcing, required reading if interested in harnessing the collective power of people online.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Here Comes Everybody - by Clay Shirky | Derek Sivers">
 <meta name="twitter:description" content="Like Wikinomics and Crowdsourcing, required reading if interested in harnessing the collective power of people online.">
-<meta name="twitter:image" content="http://sivers.org/images/book/HereComesEverybody.gif">
+<meta name="twitter:image" content="http://sivers.org/images/HereComesEverybody.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1594201536?tag=sivers-20"><img src="/images/book/HereComesEverybody.gif" alt="Here Comes Everybody - by Clay Shirky"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1594201536?tag=sivers-20"><img src="/images/HereComesEverybody.gif" alt="Here Comes Everybody - by Clay Shirky"></a></figure>
       <h1>Here Comes Everybody - by Clay Shirky</h1>
       <p class="postdate">
         ISBN: 1594201536<br>

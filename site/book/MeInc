@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Me, Inc. - by Gene Simmons | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/MeInc">
-<meta name="og:image" content="http://sivers.org/images/book/MeInc.gif">
+<meta name="og:image" content="http://sivers.org/images/MeInc.gif">
 <meta name="og:description" content="I shouldn't have read this.  I believed someone else's rave review about it.  Slightly interesting to hear the quick thoughts of someone who's hyper-focused on money.  But that's all.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Me, Inc. - by Gene Simmons | Derek Sivers">
 <meta name="twitter:description" content="I shouldn't have read this.  I believed someone else's rave review about it.  Slightly interesting to hear the quick thoughts of someone who's hyper-focused on money.  But that's all.">
-<meta name="twitter:image" content="http://sivers.org/images/book/MeInc.gif">
+<meta name="twitter:image" content="http://sivers.org/images/MeInc.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0062322613?tag=sivers-20"><img src="/images/book/MeInc.gif" alt="Me, Inc. - by Gene Simmons"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0062322613?tag=sivers-20"><img src="/images/MeInc.gif" alt="Me, Inc. - by Gene Simmons"></a></figure>
       <h1>Me, Inc. - by Gene Simmons</h1>
       <p class="postdate">
         ISBN: 0062322613<br>

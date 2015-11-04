@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Don't Make Me Think - by Steve Krug | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/DontMakeMeThink">
-<meta name="og:image" content="http://sivers.org/images/book/DontMakeMeThink.gif">
+<meta name="og:image" content="http://sivers.org/images/DontMakeMeThink.gif">
 <meta name="og:description" content="The classic book of web usability. Required reading for anyone who makes websites.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Don't Make Me Think - by Steve Krug | Derek Sivers">
 <meta name="twitter:description" content="The classic book of web usability. Required reading for anyone who makes websites.">
-<meta name="twitter:image" content="http://sivers.org/images/book/DontMakeMeThink.gif">
+<meta name="twitter:image" content="http://sivers.org/images/DontMakeMeThink.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0321344758?tag=sivers-20"><img src="/images/book/DontMakeMeThink.gif" alt="Don't Make Me Think - by Steve Krug"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0321344758?tag=sivers-20"><img src="/images/DontMakeMeThink.gif" alt="Don't Make Me Think - by Steve Krug"></a></figure>
       <h1>Don't Make Me Think - by Steve Krug</h1>
       <p class="postdate">
         ISBN: 0321344758<br>

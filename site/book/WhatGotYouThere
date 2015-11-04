@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="What Got You Here Won't Get You There - by  Marshall Goldsmith | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/WhatGotYouThere">
-<meta name="og:image" content="http://sivers.org/images/book/WhatGotYouThere.gif">
+<meta name="og:image" content="http://sivers.org/images/WhatGotYouThere.gif">
 <meta name="og:description" content="Aimed at already-successful people. The personality traits that brought you to success (personal discipline, saying yes to everything, over-confidence) are the same traits that hold you back from going further! (Where you need to listen to lead, and don't let over-confidence make you over-commit.) Stinging counter-intuitive insights that hit very close to home for me. Great specific suggestions for how to improve.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="What Got You Here Won't Get You There - by  Marshall Goldsmith | Derek Sivers">
 <meta name="twitter:description" content="Aimed at already-successful people. The personality traits that brought you to success (personal discipline, saying yes to everything, over-confidence) are the same traits that hold you back from going further! (Where you need to listen to lead, and don't let over-confidence make you over-commit.) Stinging counter-intuitive insights that hit very close to home for me. Great specific suggestions for how to improve.">
-<meta name="twitter:image" content="http://sivers.org/images/book/WhatGotYouThere.gif">
+<meta name="twitter:image" content="http://sivers.org/images/WhatGotYouThere.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1401301304?tag=sivers-20"><img src="/images/book/WhatGotYouThere.gif" alt="What Got You Here Won't Get You There - by  Marshall Goldsmith"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1401301304?tag=sivers-20"><img src="/images/WhatGotYouThere.gif" alt="What Got You Here Won't Get You There - by  Marshall Goldsmith"></a></figure>
       <h1>What Got You Here Won't Get You There - by  Marshall Goldsmith</h1>
       <p class="postdate">
         ISBN: 1401301304<br>

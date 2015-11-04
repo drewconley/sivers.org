@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Speaking of India - by Craig Sorti | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/SpeakingOfIndia">
-<meta name="og:image" content="http://sivers.org/images/book/SpeakingOfIndia.gif">
+<meta name="og:image" content="http://sivers.org/images/SpeakingOfIndia.gif">
 <meta name="og:description" content="Required reading for anyone doing business in India, with detailed analysis of cultural and communication differences. Example: in India a lack of emphatic “yes!” means “no”. Teaches Westerners to adapt to this.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Speaking of India - by Craig Sorti | Derek Sivers">
 <meta name="twitter:description" content="Required reading for anyone doing business in India, with detailed analysis of cultural and communication differences. Example: in India a lack of emphatic “yes!” means “no”. Teaches Westerners to adapt to this.">
-<meta name="twitter:image" content="http://sivers.org/images/book/SpeakingOfIndia.gif">
+<meta name="twitter:image" content="http://sivers.org/images/SpeakingOfIndia.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1931930341?tag=sivers-20"><img src="/images/book/SpeakingOfIndia.gif" alt="Speaking of India - by Craig Sorti"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1931930341?tag=sivers-20"><img src="/images/SpeakingOfIndia.gif" alt="Speaking of India - by Craig Sorti"></a></figure>
       <h1>Speaking of India - by Craig Sorti</h1>
       <p class="postdate">
         ISBN: 1931930341<br>

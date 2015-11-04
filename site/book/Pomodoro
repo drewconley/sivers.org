@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Pomodoro Technique Illustrated - by Staffan Nöteberg | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Pomodoro">
-<meta name="og:image" content="http://sivers.org/images/book/Pomodoro.gif">
+<meta name="og:image" content="http://sivers.org/images/Pomodoro.gif">
 <meta name="og:description" content="Pretty cool technique of working in 25-minute chunks. Better to start with a simple article about it, then read the book after if you love it. I do, so far.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Pomodoro Technique Illustrated - by Staffan Nöteberg | Derek Sivers">
 <meta name="twitter:description" content="Pretty cool technique of working in 25-minute chunks. Better to start with a simple article about it, then read the book after if you love it. I do, so far.">
-<meta name="twitter:image" content="http://sivers.org/images/book/Pomodoro.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Pomodoro.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1934356506?tag=sivers-20"><img src="/images/book/Pomodoro.gif" alt="Pomodoro Technique Illustrated - by Staffan Nöteberg"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1934356506?tag=sivers-20"><img src="/images/Pomodoro.gif" alt="Pomodoro Technique Illustrated - by Staffan Nöteberg"></a></figure>
       <h1>Pomodoro Technique Illustrated - by Staffan Nöteberg</h1>
       <p class="postdate">
         ISBN: 1934356506<br>

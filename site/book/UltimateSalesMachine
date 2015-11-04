@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Ultimate Sales Machine - by Chet Holmes | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/UltimateSalesMachine">
-<meta name="og:image" content="http://sivers.org/images/book/UltimateSalesMachine.gif">
+<meta name="og:image" content="http://sivers.org/images/UltimateSalesMachine.gif">
 <meta name="og:description" content="After reading E-Myth Revisited, this is the best book I’ve seen on how to turn it into real results, step-by-step. Not ambiguous. Very “do it like this”.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Ultimate Sales Machine - by Chet Holmes | Derek Sivers">
 <meta name="twitter:description" content="After reading E-Myth Revisited, this is the best book I’ve seen on how to turn it into real results, step-by-step. Not ambiguous. Very “do it like this”.">
-<meta name="twitter:image" content="http://sivers.org/images/book/UltimateSalesMachine.gif">
+<meta name="twitter:image" content="http://sivers.org/images/UltimateSalesMachine.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1591842158?tag=sivers-20"><img src="/images/book/UltimateSalesMachine.gif" alt="The Ultimate Sales Machine - by Chet Holmes"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1591842158?tag=sivers-20"><img src="/images/UltimateSalesMachine.gif" alt="The Ultimate Sales Machine - by Chet Holmes"></a></figure>
       <h1>The Ultimate Sales Machine - by Chet Holmes</h1>
       <p class="postdate">
         ISBN: 1591842158<br>

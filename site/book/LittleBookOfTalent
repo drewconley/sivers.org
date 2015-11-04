@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Little Book of Talent - by Daniel Coyle | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/LittleBookOfTalent">
-<meta name="og:image" content="http://sivers.org/images/book/LittleBookOfTalent.gif">
+<meta name="og:image" content="http://sivers.org/images/LittleBookOfTalent.gif">
 <meta name="og:description" content="First he wrote The Talent Code, which I also highly recommend, then he distilled all that research about deliberate practice into 52 actionable tips. Amazing and inspiring, you can read the whole thing in 90 minutes, then get to work!">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Little Book of Talent - by Daniel Coyle | Derek Sivers">
 <meta name="twitter:description" content="First he wrote The Talent Code, which I also highly recommend, then he distilled all that research about deliberate practice into 52 actionable tips. Amazing and inspiring, you can read the whole thing in 90 minutes, then get to work!">
-<meta name="twitter:image" content="http://sivers.org/images/book/LittleBookOfTalent.gif">
+<meta name="twitter:image" content="http://sivers.org/images/LittleBookOfTalent.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/034553025X?tag=sivers-20"><img src="/images/book/LittleBookOfTalent.gif" alt="The Little Book of Talent - by Daniel Coyle"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/034553025X?tag=sivers-20"><img src="/images/LittleBookOfTalent.gif" alt="The Little Book of Talent - by Daniel Coyle"></a></figure>
       <h1>The Little Book of Talent - by Daniel Coyle</h1>
       <p class="postdate">
         ISBN: 034553025X<br>

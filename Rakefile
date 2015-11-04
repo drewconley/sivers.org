@@ -238,7 +238,7 @@ task :make do
 		# PARSE. Filename: yyyy-mm-dd-uri
 		/(\d{4}-\d{2}-\d{2})-(\S+)/.match File.basename(infile)
 		@date = $1
-		@url = 'book/%s' % $2
+		@uri = $2
 		lines = File.readlines(infile)
 		/^TITLE: (.+)$/.match lines.shift
 		@title = $1
@@ -254,6 +254,7 @@ task :make do
 		@pageimage = get_image(template('book').result)
 		@pagedescription = @summary.gsub('"', '')
 		@bodyid = 'onebook'
+		@url = 'book/%s' % @uri
 
 		# merge with templates and WRITE file
 		html = template('header').result
@@ -262,7 +263,7 @@ task :make do
 		File.open("site/#{@url}", 'w') {|f| f.puts html }
 
 		# save to array for later use in index and home page
-		@books << {date: @date, url: @url, title: @title, isbn: @isbn, rating: @rating, summary: @summary}
+		@books << {date: @date, url: @url, uri: @uri, title: @title, isbn: @isbn, rating: @rating, summary: @summary}
 		@urls << @url
 	end
 

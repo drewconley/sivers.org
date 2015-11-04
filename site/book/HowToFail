@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="How to Fail at Almost Everything and Still Win Big - by Scott Adams | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/HowToFail">
-<meta name="og:image" content="http://sivers.org/images/book/HowToFail.gif">
+<meta name="og:image" content="http://sivers.org/images/HowToFail.gif">
 <meta name="og:description" content="Random assortment of life tips/hacks from the creator of Dilbert.  Interesting common thread of making your life a system for increasing your odds at success.  But I liked the random tips, too.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="How to Fail at Almost Everything and Still Win Big - by Scott Adams | Derek Sivers">
 <meta name="twitter:description" content="Random assortment of life tips/hacks from the creator of Dilbert.  Interesting common thread of making your life a system for increasing your odds at success.  But I liked the random tips, too.">
-<meta name="twitter:image" content="http://sivers.org/images/book/HowToFail.gif">
+<meta name="twitter:image" content="http://sivers.org/images/HowToFail.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1591846919?tag=sivers-20"><img src="/images/book/HowToFail.gif" alt="How to Fail at Almost Everything and Still Win Big - by Scott Adams"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1591846919?tag=sivers-20"><img src="/images/HowToFail.gif" alt="How to Fail at Almost Everything and Still Win Big - by Scott Adams"></a></figure>
       <h1>How to Fail at Almost Everything and Still Win Big - by Scott Adams</h1>
       <p class="postdate">
         ISBN: 1591846919<br>

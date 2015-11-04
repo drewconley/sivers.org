@@ -11,9 +11,9 @@
 <section id="allbooks">
 <% @books.each do |b| %>
 	<figure class="abook" data-rating="<%= b[:rating] %>" data-title="<%= b[:title] %>" data-date="<%= b[:date] %>">
-		<a href="/book/<%= b[:url] %>"><img src="/images/124x187.gif" data-echo="/images/<%= b[:url] %>.gif" alt="<%= b[:title] %>" /></a>
+		<a href="/book/<%= b[:uri] %>"><img src="/images/124x187.gif" data-echo="/images/<%= b[:uri] %>.gif" alt="<%= b[:title] %>" /></a>
 		<figcaption>
-			<h2><a href="/book/<%= b[:url] %>"><%= b[:title] %></a></h2>
+			<h2><a href="/book/<%= b[:uri] %>"><%= b[:title] %></a></h2>
 			<p>ISBN: <%= b[:isbn] %> READ: <%= b[:date] %> RATING: <%= b[:rating] %>/10</p>
 			<p><%= b[:summary] %></p>
 		</figcaption>

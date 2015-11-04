@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Born Standing Up - by Steve Martin | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/BornStandingUp">
-<meta name="og:image" content="http://sivers.org/images/book/BornStandingUp.gif">
+<meta name="og:image" content="http://sivers.org/images/BornStandingUp.gif">
 <meta name="og:description" content="A simple autobiography of his early years.  Interesting tale, though no usable lessons for me.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Born Standing Up - by Steve Martin | Derek Sivers">
 <meta name="twitter:description" content="A simple autobiography of his early years.  Interesting tale, though no usable lessons for me.">
-<meta name="twitter:image" content="http://sivers.org/images/book/BornStandingUp.gif">
+<meta name="twitter:image" content="http://sivers.org/images/BornStandingUp.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1416553657?tag=sivers-20"><img src="/images/book/BornStandingUp.gif" alt="Born Standing Up - by Steve Martin"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1416553657?tag=sivers-20"><img src="/images/BornStandingUp.gif" alt="Born Standing Up - by Steve Martin"></a></figure>
       <h1>Born Standing Up - by Steve Martin</h1>
       <p class="postdate">
         ISBN: 1416553657<br>

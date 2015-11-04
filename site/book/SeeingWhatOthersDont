@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Seeing What Others Don't - by Gary Klein | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/SeeingWhatOthersDont">
-<meta name="og:image" content="http://sivers.org/images/book/SeeingWhatOthersDont.gif">
+<meta name="og:image" content="http://sivers.org/images/SeeingWhatOthersDont.gif">
 <meta name="og:description" content="I really wanted to like this book, but couldn't stomach the writing style. Instead of presenting his conclusions, you have to slog forever through his tales of how he went about his research, and how he felt about each step along the way to writing this book. I couldn't finish it.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Seeing What Others Don't - by Gary Klein | Derek Sivers">
 <meta name="twitter:description" content="I really wanted to like this book, but couldn't stomach the writing style. Instead of presenting his conclusions, you have to slog forever through his tales of how he went about his research, and how he felt about each step along the way to writing this book. I couldn't finish it.">
-<meta name="twitter:image" content="http://sivers.org/images/book/SeeingWhatOthersDont.gif">
+<meta name="twitter:image" content="http://sivers.org/images/SeeingWhatOthersDont.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1610392515?tag=sivers-20"><img src="/images/book/SeeingWhatOthersDont.gif" alt="Seeing What Others Don't - by Gary Klein"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1610392515?tag=sivers-20"><img src="/images/SeeingWhatOthersDont.gif" alt="Seeing What Others Don't - by Gary Klein"></a></figure>
       <h1>Seeing What Others Don't - by Gary Klein</h1>
       <p class="postdate">
         ISBN: 1610392515<br>

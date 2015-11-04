@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Making a Good Brain Great - by Daniel G. Amen | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/GoodBrainGreat">
-<meta name="og:image" content="http://sivers.org/images/book/GoodBrainGreat.gif">
+<meta name="og:image" content="http://sivers.org/images/GoodBrainGreat.gif">
 <meta name="og:description" content="About the care of the physical brain - the goo in your skull - from a doctor who scans brains and has linked specific behavior to brain chemistry.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Making a Good Brain Great - by Daniel G. Amen | Derek Sivers">
 <meta name="twitter:description" content="About the care of the physical brain - the goo in your skull - from a doctor who scans brains and has linked specific behavior to brain chemistry.">
-<meta name="twitter:image" content="http://sivers.org/images/book/GoodBrainGreat.gif">
+<meta name="twitter:image" content="http://sivers.org/images/GoodBrainGreat.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1400082099?tag=sivers-20"><img src="/images/book/GoodBrainGreat.gif" alt="Making a Good Brain Great - by Daniel G. Amen"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1400082099?tag=sivers-20"><img src="/images/GoodBrainGreat.gif" alt="Making a Good Brain Great - by Daniel G. Amen"></a></figure>
       <h1>Making a Good Brain Great - by Daniel G. Amen</h1>
       <p class="postdate">
         ISBN: 1400082099<br>

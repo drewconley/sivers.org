@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Lean Startup - by Eric Ries | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/LeanStartup">
-<meta name="og:image" content="http://sivers.org/images/book/LeanStartup.gif">
+<meta name="og:image" content="http://sivers.org/images/LeanStartup.gif">
 <meta name="og:description" content="EVERY entrepreneur should read this book! Its methodology is the one I recommend the most. The stuff I preach is like a cute casual intro to the real deal: the Lean Startup methodology. (As an aside: this book is the one that pushed my book out of the #1 slot on Amazon's Entrepreneur charts. Quite an honor.)">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Lean Startup - by Eric Ries | Derek Sivers">
 <meta name="twitter:description" content="EVERY entrepreneur should read this book! Its methodology is the one I recommend the most. The stuff I preach is like a cute casual intro to the real deal: the Lean Startup methodology. (As an aside: this book is the one that pushed my book out of the #1 slot on Amazon's Entrepreneur charts. Quite an honor.)">
-<meta name="twitter:image" content="http://sivers.org/images/book/LeanStartup.gif">
+<meta name="twitter:image" content="http://sivers.org/images/LeanStartup.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0307887898?tag=sivers-20"><img src="/images/book/LeanStartup.gif" alt="The Lean Startup - by Eric Ries"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0307887898?tag=sivers-20"><img src="/images/LeanStartup.gif" alt="The Lean Startup - by Eric Ries"></a></figure>
       <h1>The Lean Startup - by Eric Ries</h1>
       <p class="postdate">
         ISBN: 0307887898<br>

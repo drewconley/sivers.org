@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Seeking Wisdom - by Peter Bevelin | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/SeekingWisdom">
-<meta name="og:image" content="http://sivers.org/images/book/SeekingWisdom.gif">
+<meta name="og:image" content="http://sivers.org/images/SeekingWisdom.gif">
 <meta name="og:description" content="A great overview of the lessons of Charlie Munger (partner of Warren Buffett) - and his approach to checklists of multi-disciplinary models to guide clear thinking. Main point: if you can just avoid mistakes, you're doing better than most. So it's a catalog of the most common or important mistakes. Focused on investing, but can be applied to life.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Seeking Wisdom - by Peter Bevelin | Derek Sivers">
 <meta name="twitter:description" content="A great overview of the lessons of Charlie Munger (partner of Warren Buffett) - and his approach to checklists of multi-disciplinary models to guide clear thinking. Main point: if you can just avoid mistakes, you're doing better than most. So it's a catalog of the most common or important mistakes. Focused on investing, but can be applied to life.">
-<meta name="twitter:image" content="http://sivers.org/images/book/SeekingWisdom.gif">
+<meta name="twitter:image" content="http://sivers.org/images/SeekingWisdom.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1578644283?tag=sivers-20"><img src="/images/book/SeekingWisdom.gif" alt="Seeking Wisdom - by Peter Bevelin"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1578644283?tag=sivers-20"><img src="/images/SeekingWisdom.gif" alt="Seeking Wisdom - by Peter Bevelin"></a></figure>
       <h1>Seeking Wisdom - by Peter Bevelin</h1>
       <p class="postdate">
         ISBN: 1578644283<br>

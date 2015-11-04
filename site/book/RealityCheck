@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Reality Check - by Guy Kawasaki | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/RealityCheck">
-<meta name="og:image" content="http://sivers.org/images/book/RealityCheck.gif">
+<meta name="og:image" content="http://sivers.org/images/RealityCheck.gif">
 <meta name="og:description" content="Great collection of essays about entrepreneurship from his blog at blog.guykawasaki.com">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Reality Check - by Guy Kawasaki | Derek Sivers">
 <meta name="twitter:description" content="Great collection of essays about entrepreneurship from his blog at blog.guykawasaki.com">
-<meta name="twitter:image" content="http://sivers.org/images/book/RealityCheck.gif">
+<meta name="twitter:image" content="http://sivers.org/images/RealityCheck.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1591842239?tag=sivers-20"><img src="/images/book/RealityCheck.gif" alt="Reality Check - by Guy Kawasaki"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1591842239?tag=sivers-20"><img src="/images/RealityCheck.gif" alt="Reality Check - by Guy Kawasaki"></a></figure>
       <h1>Reality Check - by Guy Kawasaki</h1>
       <p class="postdate">
         ISBN: 1591842239<br>

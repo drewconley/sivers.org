@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Know-How - by Ram Charan with Geri Willigan | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/KnowHow">
-<meta name="og:image" content="http://sivers.org/images/book/KnowHow.gif">
+<meta name="og:image" content="http://sivers.org/images/KnowHow.gif">
 <meta name="og:description" content="Acquired expertise in big business. Subtitle: 8 Skills That Separate People Who Perform from Those Who Don't.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Know-How - by Ram Charan with Geri Willigan | Derek Sivers">
 <meta name="twitter:description" content="Acquired expertise in big business. Subtitle: 8 Skills That Separate People Who Perform from Those Who Don't.">
-<meta name="twitter:image" content="http://sivers.org/images/book/KnowHow.gif">
+<meta name="twitter:image" content="http://sivers.org/images/KnowHow.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0307341518?tag=sivers-20"><img src="/images/book/KnowHow.gif" alt="Know-How - by Ram Charan with Geri Willigan"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0307341518?tag=sivers-20"><img src="/images/KnowHow.gif" alt="Know-How - by Ram Charan with Geri Willigan"></a></figure>
       <h1>Know-How - by Ram Charan with Geri Willigan</h1>
       <p class="postdate">
         ISBN: 0307341518<br>

@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Cognitive Surplus - by Clay Shirky | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/CognitiveSurplus">
-<meta name="og:image" content="http://sivers.org/images/book/CognitiveSurplus.gif">
+<meta name="og:image" content="http://sivers.org/images/CognitiveSurplus.gif">
 <meta name="og:description" content="I always love Clay Shirky's insights into the internet culture. This is about how all the spare time people are using to add to Wikipedia, create YouTube videos or LOLCats, is previously time they were passively watching TV. Perhaps passive watching was a temporary habit that lasted 80 years, and now we're going back to a more participatory culture?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Cognitive Surplus - by Clay Shirky | Derek Sivers">
 <meta name="twitter:description" content="I always love Clay Shirky's insights into the internet culture. This is about how all the spare time people are using to add to Wikipedia, create YouTube videos or LOLCats, is previously time they were passively watching TV. Perhaps passive watching was a temporary habit that lasted 80 years, and now we're going back to a more participatory culture?">
-<meta name="twitter:image" content="http://sivers.org/images/book/CognitiveSurplus.gif">
+<meta name="twitter:image" content="http://sivers.org/images/CognitiveSurplus.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1594202532?tag=sivers-20"><img src="/images/book/CognitiveSurplus.gif" alt="Cognitive Surplus - by Clay Shirky"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1594202532?tag=sivers-20"><img src="/images/CognitiveSurplus.gif" alt="Cognitive Surplus - by Clay Shirky"></a></figure>
       <h1>Cognitive Surplus - by Clay Shirky</h1>
       <p class="postdate">
         ISBN: 1594202532<br>

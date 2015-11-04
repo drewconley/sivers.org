@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Flex: Do Something Different - by Ben Fletcher and Karen Pine | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/DoSomethingDifferent">
-<meta name="og:image" content="http://sivers.org/images/book/DoSomethingDifferent.gif">
+<meta name="og:image" content="http://sivers.org/images/DoSomethingDifferent.gif">
 <meta name="og:description" content="I give the basic idea a 9-out-of-10 rating: that we shouldn't declare and hold to a personality type (“I'm an introvert! I'm adventurous!”), but rather should adapt to the situation. Halfway through the book I gave up because I got the idea and didn't like the writing style.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Flex: Do Something Different - by Ben Fletcher and Karen Pine | Derek Sivers">
 <meta name="twitter:description" content="I give the basic idea a 9-out-of-10 rating: that we shouldn't declare and hold to a personality type (“I'm an introvert! I'm adventurous!”), but rather should adapt to the situation. Halfway through the book I gave up because I got the idea and didn't like the writing style.">
-<meta name="twitter:image" content="http://sivers.org/images/book/DoSomethingDifferent.gif">
+<meta name="twitter:image" content="http://sivers.org/images/DoSomethingDifferent.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1907396543?tag=sivers-20"><img src="/images/book/DoSomethingDifferent.gif" alt="Flex: Do Something Different - by Ben Fletcher and Karen Pine"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1907396543?tag=sivers-20"><img src="/images/DoSomethingDifferent.gif" alt="Flex: Do Something Different - by Ben Fletcher and Karen Pine"></a></figure>
       <h1>Flex: Do Something Different - by Ben Fletcher and Karen Pine</h1>
       <p class="postdate">
         ISBN: 1907396543<br>

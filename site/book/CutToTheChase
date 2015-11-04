@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Cut to the Chase - by Stuart Levine | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/CutToTheChase">
-<meta name="og:image" content="http://sivers.org/images/book/CutToTheChase.gif">
+<meta name="og:image" content="http://sivers.org/images/CutToTheChase.gif">
 <meta name="og:description" content="Tips on more effective communication.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Cut to the Chase - by Stuart Levine | Derek Sivers">
 <meta name="twitter:description" content="Tips on more effective communication.">
-<meta name="twitter:image" content="http://sivers.org/images/book/CutToTheChase.gif">
+<meta name="twitter:image" content="http://sivers.org/images/CutToTheChase.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0385516207?tag=sivers-20"><img src="/images/book/CutToTheChase.gif" alt="Cut to the Chase - by Stuart Levine"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0385516207?tag=sivers-20"><img src="/images/CutToTheChase.gif" alt="Cut to the Chase - by Stuart Levine"></a></figure>
       <h1>Cut to the Chase - by Stuart Levine</h1>
       <p class="postdate">
         ISBN: 0385516207<br>

@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Never Let Go - by Dan John | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/NeverLetGo">
-<meta name="og:image" content="http://sivers.org/images/book/NeverLetGo.gif">
+<meta name="og:image" content="http://sivers.org/images/NeverLetGo.gif">
 <meta name="og:description" content="Some thoughts and advice on weight lifting and strength training.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Never Let Go - by Dan John | Derek Sivers">
 <meta name="twitter:description" content="Some thoughts and advice on weight lifting and strength training.">
-<meta name="twitter:image" content="http://sivers.org/images/book/NeverLetGo.gif">
+<meta name="twitter:image" content="http://sivers.org/images/NeverLetGo.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1931046387?tag=sivers-20"><img src="/images/book/NeverLetGo.gif" alt="Never Let Go - by Dan John"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1931046387?tag=sivers-20"><img src="/images/NeverLetGo.gif" alt="Never Let Go - by Dan John"></a></figure>
       <h1>Never Let Go - by Dan John</h1>
       <p class="postdate">
         ISBN: 1931046387<br>

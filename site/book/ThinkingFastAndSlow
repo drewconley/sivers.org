@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Thinking, Fast and Slow - by Daniel Kahneman | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/ThinkingFastAndSlow">
-<meta name="og:image" content="http://sivers.org/images/book/ThinkingFastAndSlow.gif">
+<meta name="og:image" content="http://sivers.org/images/ThinkingFastAndSlow.gif">
 <meta name="og:description" content="If you liked “Predictably Irrational” or “Stumbling on Happiness” or any of those pop-psychology books, well, this is the Godfather of all of their work. Huge thorough book gives a great overview of much of his work. Read the other quotes on Amazon about it.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Thinking, Fast and Slow - by Daniel Kahneman | Derek Sivers">
 <meta name="twitter:description" content="If you liked “Predictably Irrational” or “Stumbling on Happiness” or any of those pop-psychology books, well, this is the Godfather of all of their work. Huge thorough book gives a great overview of much of his work. Read the other quotes on Amazon about it.">
-<meta name="twitter:image" content="http://sivers.org/images/book/ThinkingFastAndSlow.gif">
+<meta name="twitter:image" content="http://sivers.org/images/ThinkingFastAndSlow.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0374275637?tag=sivers-20"><img src="/images/book/ThinkingFastAndSlow.gif" alt="Thinking, Fast and Slow - by Daniel Kahneman"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0374275637?tag=sivers-20"><img src="/images/ThinkingFastAndSlow.gif" alt="Thinking, Fast and Slow - by Daniel Kahneman"></a></figure>
       <h1>Thinking, Fast and Slow - by Daniel Kahneman</h1>
       <p class="postdate">
         ISBN: 0374275637<br>

@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Superhuman by Habit - by Tynan | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/SuperhumanByHabit">
-<meta name="og:image" content="http://sivers.org/images/book/SuperhumanByHabit.gif">
+<meta name="og:image" content="http://sivers.org/images/SuperhumanByHabit.gif">
 <meta name="og:description" content="Great little manifesto about habits. Very well thought-through practical applications, tips, and philosophies on creating and sustaining the habits you want.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Superhuman by Habit - by Tynan | Derek Sivers">
 <meta name="twitter:description" content="Great little manifesto about habits. Very well thought-through practical applications, tips, and philosophies on creating and sustaining the habits you want.">
-<meta name="twitter:image" content="http://sivers.org/images/book/SuperhumanByHabit.gif">
+<meta name="twitter:image" content="http://sivers.org/images/SuperhumanByHabit.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/B00NGC8I9E?tag=sivers-20"><img src="/images/book/SuperhumanByHabit.gif" alt="Superhuman by Habit - by Tynan"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/B00NGC8I9E?tag=sivers-20"><img src="/images/SuperhumanByHabit.gif" alt="Superhuman by Habit - by Tynan"></a></figure>
       <h1>Superhuman by Habit - by Tynan</h1>
       <p class="postdate">
         ISBN: B00NGC8I9E<br>

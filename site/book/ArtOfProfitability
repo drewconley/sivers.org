@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Art of Profitability - by Adrian Slywotzky | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/ArtOfProfitability">
-<meta name="og:image" content="http://sivers.org/images/book/ArtOfProfitability.gif">
+<meta name="og:image" content="http://sivers.org/images/ArtOfProfitability.gif">
 <meta name="og:description" content="25 different models of profitability presented in examples you can relate to your own business, making you realize profit-sources you’d never thought of before.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Art of Profitability - by Adrian Slywotzky | Derek Sivers">
 <meta name="twitter:description" content="25 different models of profitability presented in examples you can relate to your own business, making you realize profit-sources you’d never thought of before.">
-<meta name="twitter:image" content="http://sivers.org/images/book/ArtOfProfitability.gif">
+<meta name="twitter:image" content="http://sivers.org/images/ArtOfProfitability.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0446692271?tag=sivers-20"><img src="/images/book/ArtOfProfitability.gif" alt="The Art of Profitability - by Adrian Slywotzky"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0446692271?tag=sivers-20"><img src="/images/ArtOfProfitability.gif" alt="The Art of Profitability - by Adrian Slywotzky"></a></figure>
       <h1>The Art of Profitability - by Adrian Slywotzky</h1>
       <p class="postdate">
         ISBN: 0446692271<br>

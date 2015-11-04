@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="So Good They Can't Ignore You - by Cal Newport | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/SoGood">
-<meta name="og:image" content="http://sivers.org/images/book/SoGood.gif">
+<meta name="og:image" content="http://sivers.org/images/SoGood.gif">
 <meta name="og:description" content="Shockingly smart thoughts about your career. A MUST-READ for anyone who is not loving their work, wanting to quit their job, and follow their passion, or not sure what to do next.  I'm recommending this many times a week to people who email me with these kinds of questions. Best book I've ever read on the subject.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="So Good They Can't Ignore You - by Cal Newport | Derek Sivers">
 <meta name="twitter:description" content="Shockingly smart thoughts about your career. A MUST-READ for anyone who is not loving their work, wanting to quit their job, and follow their passion, or not sure what to do next.  I'm recommending this many times a week to people who email me with these kinds of questions. Best book I've ever read on the subject.">
-<meta name="twitter:image" content="http://sivers.org/images/book/SoGood.gif">
+<meta name="twitter:image" content="http://sivers.org/images/SoGood.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1455509124?tag=sivers-20"><img src="/images/book/SoGood.gif" alt="So Good They Can't Ignore You - by Cal Newport"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1455509124?tag=sivers-20"><img src="/images/SoGood.gif" alt="So Good They Can't Ignore You - by Cal Newport"></a></figure>
       <h1>So Good They Can't Ignore You - by Cal Newport</h1>
       <p class="postdate">
         ISBN: 1455509124<br>

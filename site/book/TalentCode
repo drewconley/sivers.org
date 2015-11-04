@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Talent Code - by Daniel Coyle | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/TalentCode">
-<meta name="og:image" content="http://sivers.org/images/book/TalentCode.gif">
+<meta name="og:image" content="http://sivers.org/images/TalentCode.gif">
 <meta name="og:description" content="A great book showing that deep practice - (struggling in certain targeted ways - operating at the edges of your ability, where you make mistakes - experiences where you're forced to slow down, make errors, and correct them) - is what really makes you improve at anything.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Talent Code - by Daniel Coyle | Derek Sivers">
 <meta name="twitter:description" content="A great book showing that deep practice - (struggling in certain targeted ways - operating at the edges of your ability, where you make mistakes - experiences where you're forced to slow down, make errors, and correct them) - is what really makes you improve at anything.">
-<meta name="twitter:image" content="http://sivers.org/images/book/TalentCode.gif">
+<meta name="twitter:image" content="http://sivers.org/images/TalentCode.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/055380684X?tag=sivers-20"><img src="/images/book/TalentCode.gif" alt="The Talent Code - by Daniel Coyle"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/055380684X?tag=sivers-20"><img src="/images/TalentCode.gif" alt="The Talent Code - by Daniel Coyle"></a></figure>
       <h1>The Talent Code - by Daniel Coyle</h1>
       <p class="postdate">
         ISBN: 055380684X<br>

@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Wisdom of Crowds - by James Surowiecki | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/WisdomOfCrowds">
-<meta name="og:image" content="http://sivers.org/images/book/WisdomOfCrowds.gif">
+<meta name="og:image" content="http://sivers.org/images/WisdomOfCrowds.gif">
 <meta name="og:description" content="Mind-blowing examples of how groups of diverse people acting independently are smarter than any one person in the group. Has huge implications for management, markets, decision-making, and more.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Wisdom of Crowds - by James Surowiecki | Derek Sivers">
 <meta name="twitter:description" content="Mind-blowing examples of how groups of diverse people acting independently are smarter than any one person in the group. Has huge implications for management, markets, decision-making, and more.">
-<meta name="twitter:image" content="http://sivers.org/images/book/WisdomOfCrowds.gif">
+<meta name="twitter:image" content="http://sivers.org/images/WisdomOfCrowds.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0385721706?tag=sivers-20"><img src="/images/book/WisdomOfCrowds.gif" alt="The Wisdom of Crowds - by James Surowiecki"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0385721706?tag=sivers-20"><img src="/images/WisdomOfCrowds.gif" alt="The Wisdom of Crowds - by James Surowiecki"></a></figure>
       <h1>The Wisdom of Crowds - by James Surowiecki</h1>
       <p class="postdate">
         ISBN: 0385721706<br>

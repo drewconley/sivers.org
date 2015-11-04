@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Magic of Thinking Big - by David Schwartz | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/MagicOfThinkingBig">
-<meta name="og:image" content="http://sivers.org/images/book/MagicOfThinkingBig.gif">
+<meta name="og:image" content="http://sivers.org/images/MagicOfThinkingBig.gif">
 <meta name="og:description" content="A classic self-help book. Exactly what you'd expect. But very good.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Magic of Thinking Big - by David Schwartz | Derek Sivers">
 <meta name="twitter:description" content="A classic self-help book. Exactly what you'd expect. But very good.">
-<meta name="twitter:image" content="http://sivers.org/images/book/MagicOfThinkingBig.gif">
+<meta name="twitter:image" content="http://sivers.org/images/MagicOfThinkingBig.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0671646788?tag=sivers-20"><img src="/images/book/MagicOfThinkingBig.gif" alt="The Magic of Thinking Big - by David Schwartz"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0671646788?tag=sivers-20"><img src="/images/MagicOfThinkingBig.gif" alt="The Magic of Thinking Big - by David Schwartz"></a></figure>
       <h1>The Magic of Thinking Big - by David Schwartz</h1>
       <p class="postdate">
         ISBN: 0671646788<br>

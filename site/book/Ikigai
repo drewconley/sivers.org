@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Ikigai - by Sebastian Marshall | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Ikigai">
-<meta name="og:image" content="http://sivers.org/images/book/Ikigai.gif">
+<meta name="og:image" content="http://sivers.org/images/Ikigai.gif">
 <meta name="og:description" content="Essays on history, power, self-discipline, negotiation, and the hustle. I especially liked his philosophy on luck, building universally valuable skills, and producing/shipping something from even fleeting interests.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Ikigai - by Sebastian Marshall | Derek Sivers">
 <meta name="twitter:description" content="Essays on history, power, self-discipline, negotiation, and the hustle. I especially liked his philosophy on luck, building universally valuable skills, and producing/shipping something from even fleeting interests.">
-<meta name="twitter:image" content="http://sivers.org/images/book/Ikigai.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Ikigai.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/B006M9T8NI?tag=sivers-20"><img src="/images/book/Ikigai.gif" alt="Ikigai - by Sebastian Marshall"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/B006M9T8NI?tag=sivers-20"><img src="/images/Ikigai.gif" alt="Ikigai - by Sebastian Marshall"></a></figure>
       <h1>Ikigai - by Sebastian Marshall</h1>
       <p class="postdate">
         ISBN: B006M9T8NI<br>

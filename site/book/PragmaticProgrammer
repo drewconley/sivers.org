@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Pragmatic Programmer - by Andy Hunt and David Thomas | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/PragmaticProgrammer">
-<meta name="og:image" content="http://sivers.org/images/book/PragmaticProgrammer.gif">
+<meta name="og:image" content="http://sivers.org/images/PragmaticProgrammer.gif">
 <meta name="og:description" content="Classic book for computer programmers. I read it first in 2003 before I was taking book notes, so I read it again now to take notes. Great wisdom in here. Amazing to see how much of its advice was adopted as norms by Ruby on Rails.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Pragmatic Programmer - by Andy Hunt and David Thomas | Derek Sivers">
 <meta name="twitter:description" content="Classic book for computer programmers. I read it first in 2003 before I was taking book notes, so I read it again now to take notes. Great wisdom in here. Amazing to see how much of its advice was adopted as norms by Ruby on Rails.">
-<meta name="twitter:image" content="http://sivers.org/images/book/PragmaticProgrammer.gif">
+<meta name="twitter:image" content="http://sivers.org/images/PragmaticProgrammer.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/020161622X?tag=sivers-20"><img src="/images/book/PragmaticProgrammer.gif" alt="Pragmatic Programmer - by Andy Hunt and David Thomas"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/020161622X?tag=sivers-20"><img src="/images/PragmaticProgrammer.gif" alt="Pragmatic Programmer - by Andy Hunt and David Thomas"></a></figure>
       <h1>Pragmatic Programmer - by Andy Hunt and David Thomas</h1>
       <p class="postdate">
         ISBN: 020161622X<br>

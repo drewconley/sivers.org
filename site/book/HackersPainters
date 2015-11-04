@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Hackers & Painters - by Paul Graham | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/HackersPainters">
-<meta name="og:image" content="http://sivers.org/images/book/HackersPainters.gif">
+<meta name="og:image" content="http://sivers.org/images/HackersPainters.gif">
 <meta name="og:description" content="A collection of essays from one of the best. Loosely about intelligence, entrepreneurship, programming, and questioning norms. Many brilliant ideas and insights.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Hackers & Painters - by Paul Graham | Derek Sivers">
 <meta name="twitter:description" content="A collection of essays from one of the best. Loosely about intelligence, entrepreneurship, programming, and questioning norms. Many brilliant ideas and insights.">
-<meta name="twitter:image" content="http://sivers.org/images/book/HackersPainters.gif">
+<meta name="twitter:image" content="http://sivers.org/images/HackersPainters.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1449389554?tag=sivers-20"><img src="/images/book/HackersPainters.gif" alt="Hackers & Painters - by Paul Graham"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1449389554?tag=sivers-20"><img src="/images/HackersPainters.gif" alt="Hackers & Painters - by Paul Graham"></a></figure>
       <h1>Hackers & Painters - by Paul Graham</h1>
       <p class="postdate">
         ISBN: 1449389554<br>

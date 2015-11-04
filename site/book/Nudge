@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Nudge - by Richard Thaler and Cass Sunstein | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Nudge">
-<meta name="og:image" content="http://sivers.org/images/book/Nudge.gif">
+<meta name="og:image" content="http://sivers.org/images/Nudge.gif">
 <meta name="og:description" content="Introducing the idea of Libertarian Paternalism: influencing people's behavior for their own benefit, without forbidding any options or significantly changing their economic incentives.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Nudge - by Richard Thaler and Cass Sunstein | Derek Sivers">
 <meta name="twitter:description" content="Introducing the idea of Libertarian Paternalism: influencing people's behavior for their own benefit, without forbidding any options or significantly changing their economic incentives.">
-<meta name="twitter:image" content="http://sivers.org/images/book/Nudge.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Nudge.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/014311526X?tag=sivers-20"><img src="/images/book/Nudge.gif" alt="Nudge - by Richard Thaler and Cass Sunstein"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/014311526X?tag=sivers-20"><img src="/images/Nudge.gif" alt="Nudge - by Richard Thaler and Cass Sunstein"></a></figure>
       <h1>Nudge - by Richard Thaler and Cass Sunstein</h1>
       <p class="postdate">
         ISBN: 014311526X<br>

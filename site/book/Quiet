@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Quiet - by Susan Cain | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Quiet">
-<meta name="og:image" content="http://sivers.org/images/book/Quiet.gif">
+<meta name="og:image" content="http://sivers.org/images/Quiet.gif">
 <meta name="og:description" content="Any introvert should like this book. Wonderful info and insights about introversion. It'll help you defend your preference for low-stimulus environments. Since reading it, I feel better about insisting on my quiet/alone time.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Quiet - by Susan Cain | Derek Sivers">
 <meta name="twitter:description" content="Any introvert should like this book. Wonderful info and insights about introversion. It'll help you defend your preference for low-stimulus environments. Since reading it, I feel better about insisting on my quiet/alone time.">
-<meta name="twitter:image" content="http://sivers.org/images/book/Quiet.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Quiet.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0307352145?tag=sivers-20"><img src="/images/book/Quiet.gif" alt="Quiet - by Susan Cain"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0307352145?tag=sivers-20"><img src="/images/Quiet.gif" alt="Quiet - by Susan Cain"></a></figure>
       <h1>Quiet - by Susan Cain</h1>
       <p class="postdate">
         ISBN: 0307352145<br>

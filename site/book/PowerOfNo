@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Power of No - by James and Claudia Altucher | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/PowerOfNo">
-<meta name="og:image" content="http://sivers.org/images/book/PowerOfNo.gif">
+<meta name="og:image" content="http://sivers.org/images/PowerOfNo.gif">
 <meta name="og:description" content="Quite scattered book, but inside the mess was a nice reminder of the importance of saying no to anything that doesn't serve you well.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Power of No - by James and Claudia Altucher | Derek Sivers">
 <meta name="twitter:description" content="Quite scattered book, but inside the mess was a nice reminder of the importance of saying no to anything that doesn't serve you well.">
-<meta name="twitter:image" content="http://sivers.org/images/book/PowerOfNo.gif">
+<meta name="twitter:image" content="http://sivers.org/images/PowerOfNo.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1401945872?tag=sivers-20"><img src="/images/book/PowerOfNo.gif" alt="The Power of No - by James and Claudia Altucher"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1401945872?tag=sivers-20"><img src="/images/PowerOfNo.gif" alt="The Power of No - by James and Claudia Altucher"></a></figure>
       <h1>The Power of No - by James and Claudia Altucher</h1>
       <p class="postdate">
         ISBN: 1401945872<br>

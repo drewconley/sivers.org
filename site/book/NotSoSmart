@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="You Are Not So Smart - by David McRaney | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/NotSoSmart">
-<meta name="og:image" content="http://sivers.org/images/book/NotSoSmart.gif">
+<meta name="og:image" content="http://sivers.org/images/NotSoSmart.gif">
 <meta name="og:description" content="Great summary of 46 cognitive biases. Much of it covered in other books like Predictably Irrational, but if you haven't read those, this is a great starting book. Otherwise, just a good reminder, and worth reading.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="You Are Not So Smart - by David McRaney | Derek Sivers">
 <meta name="twitter:description" content="Great summary of 46 cognitive biases. Much of it covered in other books like Predictably Irrational, but if you haven't read those, this is a great starting book. Otherwise, just a good reminder, and worth reading.">
-<meta name="twitter:image" content="http://sivers.org/images/book/NotSoSmart.gif">
+<meta name="twitter:image" content="http://sivers.org/images/NotSoSmart.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/1592406599?tag=sivers-20"><img src="/images/book/NotSoSmart.gif" alt="You Are Not So Smart - by David McRaney"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/1592406599?tag=sivers-20"><img src="/images/NotSoSmart.gif" alt="You Are Not So Smart - by David McRaney"></a></figure>
       <h1>You Are Not So Smart - by David McRaney</h1>
       <p class="postdate">
         ISBN: 1592406599<br>

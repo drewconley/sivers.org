@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The 48 Laws of Power - by Robert Greene and Joost Elffers | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/48LawsOfPower">
-<meta name="og:image" content="http://sivers.org/images/book/48LawsOfPower.gif">
+<meta name="og:image" content="http://sivers.org/images/48LawsOfPower.gif">
 <meta name="og:description" content="Warning: some think this book is pure evil. But power exists, so it can only help to understand it better, even if you choose not to wield it.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The 48 Laws of Power - by Robert Greene and Joost Elffers | Derek Sivers">
 <meta name="twitter:description" content="Warning: some think this book is pure evil. But power exists, so it can only help to understand it better, even if you choose not to wield it.">
-<meta name="twitter:image" content="http://sivers.org/images/book/48LawsOfPower.gif">
+<meta name="twitter:image" content="http://sivers.org/images/48LawsOfPower.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0140280197?tag=sivers-20"><img src="/images/book/48LawsOfPower.gif" alt="The 48 Laws of Power - by Robert Greene and Joost Elffers"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0140280197?tag=sivers-20"><img src="/images/48LawsOfPower.gif" alt="The 48 Laws of Power - by Robert Greene and Joost Elffers"></a></figure>
       <h1>The 48 Laws of Power - by Robert Greene and Joost Elffers</h1>
       <p class="postdate">
         ISBN: 0140280197<br>

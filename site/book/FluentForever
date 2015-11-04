@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Fluent Forever - by Gabriel Wyner | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/FluentForever">
-<meta name="og:image" content="http://sivers.org/images/book/FluentForever.gif">
+<meta name="og:image" content="http://sivers.org/images/FluentForever.gif">
 <meta name="og:description" content="Forget Rosetta Stone, Pimsleur, and the rest. I really believe this is the best way to learn another language, by far. Using the most up-to-date techniques and insights, and a unique emphasis on getting the sounds correct first. It's not easy, but it's much more effective than any other program or guide. Highly recommended if you're serious, and ready to do it.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Fluent Forever - by Gabriel Wyner | Derek Sivers">
 <meta name="twitter:description" content="Forget Rosetta Stone, Pimsleur, and the rest. I really believe this is the best way to learn another language, by far. Using the most up-to-date techniques and insights, and a unique emphasis on getting the sounds correct first. It's not easy, but it's much more effective than any other program or guide. Highly recommended if you're serious, and ready to do it.">
-<meta name="twitter:image" content="http://sivers.org/images/book/FluentForever.gif">
+<meta name="twitter:image" content="http://sivers.org/images/FluentForever.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0385348118?tag=sivers-20"><img src="/images/book/FluentForever.gif" alt="Fluent Forever - by Gabriel Wyner"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0385348118?tag=sivers-20"><img src="/images/FluentForever.gif" alt="Fluent Forever - by Gabriel Wyner"></a></figure>
       <h1>Fluent Forever - by Gabriel Wyner</h1>
       <p class="postdate">
         ISBN: 0385348118<br>

@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Island - by Aldous Huxley | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/Island">
-<meta name="og:image" content="http://sivers.org/images/book/Island.gif">
+<meta name="og:image" content="http://sivers.org/images/Island.gif">
 <meta name="og:description" content="This book totally changed my life at a key moment, when I was 22. It made me quit my job and pursue a life of variety. Some great ideas inside, especially the ones about family and healthy child-rearing. I just re-read it now, 22 years later, and it didn't hit me as hard as it did back then, maybe because I've internalized its philosophies so completely.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Island - by Aldous Huxley | Derek Sivers">
 <meta name="twitter:description" content="This book totally changed my life at a key moment, when I was 22. It made me quit my job and pursue a life of variety. Some great ideas inside, especially the ones about family and healthy child-rearing. I just re-read it now, 22 years later, and it didn't hit me as hard as it did back then, maybe because I've internalized its philosophies so completely.">
-<meta name="twitter:image" content="http://sivers.org/images/book/Island.gif">
+<meta name="twitter:image" content="http://sivers.org/images/Island.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0061561797?tag=sivers-20"><img src="/images/book/Island.gif" alt="Island - by Aldous Huxley"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0061561797?tag=sivers-20"><img src="/images/Island.gif" alt="Island - by Aldous Huxley"></a></figure>
       <h1>Island - by Aldous Huxley</h1>
       <p class="postdate">
         ISBN: 0061561797<br>

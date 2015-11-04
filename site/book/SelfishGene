@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="The Selfish Gene - by Richard Dawkins | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/SelfishGene">
-<meta name="og:image" content="http://sivers.org/images/book/SelfishGene.gif">
+<meta name="og:image" content="http://sivers.org/images/SelfishGene.gif">
 <meta name="og:description" content="About evolution and the theory of natural selection, proposing the idea that it's not creatures that are looking to replicate, but individual genes.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="The Selfish Gene - by Richard Dawkins | Derek Sivers">
 <meta name="twitter:description" content="About evolution and the theory of natural selection, proposing the idea that it's not creatures that are looking to replicate, but individual genes.">
-<meta name="twitter:image" content="http://sivers.org/images/book/SelfishGene.gif">
+<meta name="twitter:image" content="http://sivers.org/images/SelfishGene.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0199291152?tag=sivers-20"><img src="/images/book/SelfishGene.gif" alt="The Selfish Gene - by Richard Dawkins"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0199291152?tag=sivers-20"><img src="/images/SelfishGene.gif" alt="The Selfish Gene - by Richard Dawkins"></a></figure>
       <h1>The Selfish Gene - by Richard Dawkins</h1>
       <p class="postdate">
         ISBN: 0199291152<br>

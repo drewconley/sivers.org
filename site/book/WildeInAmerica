@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Wilde in America - by David M. Friedman | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/WildeInAmerica">
-<meta name="og:image" content="http://sivers.org/images/book/WildeInAmerica.gif">
+<meta name="og:image" content="http://sivers.org/images/WildeInAmerica.gif">
 <meta name="og:description" content="A fine biography of Oscar Wilde's unique approach to America. Best quote: “Other Europeans came to learn about America; Wilde came so America could learn about him.”">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Wilde in America - by David M. Friedman | Derek Sivers">
 <meta name="twitter:description" content="A fine biography of Oscar Wilde's unique approach to America. Best quote: “Other Europeans came to learn about America; Wilde came so America could learn about him.”">
-<meta name="twitter:image" content="http://sivers.org/images/book/WildeInAmerica.gif">
+<meta name="twitter:image" content="http://sivers.org/images/WildeInAmerica.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0393063178?tag=sivers-20"><img src="/images/book/WildeInAmerica.gif" alt="Wilde in America - by David M. Friedman"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0393063178?tag=sivers-20"><img src="/images/WildeInAmerica.gif" alt="Wilde in America - by David M. Friedman"></a></figure>
       <h1>Wilde in America - by David M. Friedman</h1>
       <p class="postdate">
         ISBN: 0393063178<br>

@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="Being Logical: A Guide to Good Thinking - by D.Q. McInerny | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/BeingLogical">
-<meta name="og:image" content="http://sivers.org/images/book/BeingLogical.gif">
+<meta name="og:image" content="http://sivers.org/images/BeingLogical.gif">
 <meta name="og:description" content="World getting too fuzzy and unreasonable? Watching too much TV? A good book on logic is a great antidote. I'd never read one before, so I don't know how to compare it to others, but I really loved the clear thinking and deep insights here.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Being Logical: A Guide to Good Thinking - by D.Q. McInerny | Derek Sivers">
 <meta name="twitter:description" content="World getting too fuzzy and unreasonable? Watching too much TV? A good book on logic is a great antidote. I'd never read one before, so I don't know how to compare it to others, but I really loved the clear thinking and deep insights here.">
-<meta name="twitter:image" content="http://sivers.org/images/book/BeingLogical.gif">
+<meta name="twitter:image" content="http://sivers.org/images/BeingLogical.gif">
 </head>
 <body id="onebook">
 
@@ -31,7 +31,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <div id="content">
 
     <header>
-      <figure><a href="http://www.amazon.com/dp/0812971159?tag=sivers-20"><img src="/images/book/BeingLogical.gif" alt="Being Logical: A Guide to Good Thinking - by D.Q. McInerny"></a></figure>
+      <figure><a href="http://www.amazon.com/dp/0812971159?tag=sivers-20"><img src="/images/BeingLogical.gif" alt="Being Logical: A Guide to Good Thinking - by D.Q. McInerny"></a></figure>
       <h1>Being Logical: A Guide to Good Thinking - by D.Q. McInerny</h1>
       <p class="postdate">
         ISBN: 0812971159<br>
