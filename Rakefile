@@ -6,6 +6,7 @@ require 'atom'
 # remove dependencies
 # gem build ratom.gemspec
 # gem install ratom-*.gem
+# TODO: @pagedescription and @pageimage for every. No " allowed.
 
 def template(name)
 	ERB.new(File.read("templates/#{name}.erb"))
@@ -28,7 +29,6 @@ task :make do
 
 	########## READ, PARSE, AND WRITE BLOG POSTS
 	@blogs = []
-	removed = %w(married dd-only piracy)
 	Dir['content/blog/20*'].sort.each do |infile|
 
 		# PARSE. Filename: yyyy-mm-dd-uri
@@ -44,23 +44,15 @@ task :make do
 		@bodyid = 'oneblog'
 
 		# merge with templates and WRITE file
-		if removed.include? @url
-			@pagetitle = 'removed'
-			html = template('header').result
-			html << template('bloggone').result
-		else
-			html = template('header').result
-			html << template('blog').result
-			html << template('comments').result
-		end
+		html = template('header').result
+		html << template('blog').result
+		html << template('comments').result
 		html << template('footer').result
 		File.open("site/#{@url}", 'w') {|f| f.puts html }
 
 		# save to array for later use in index and home page
-		unless removed.include? @url
-			@blogs << {date: @date, url: @url, title: @title, html: @body}
-			@urls << @url
-		end
+		@blogs << {date: @date, url: @url, title: @title, html: @body}
+		@urls << @url
 	end
 
 
