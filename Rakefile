@@ -6,7 +6,6 @@ require 'atom'
 # remove dependencies
 # gem build ratom.gemspec
 # gem install ratom-*.gem
-# TODO: @pagedescription  No " allowed.
 
 def template(name)
 	ERB.new(File.read("templates/#{name}.erb"))
@@ -28,7 +27,7 @@ def get_img(txt)
 	res = txt.scan(r).pop
 	return false unless res
 	img = res.pop
-	(img.start_with? 'http') ? img : 'https://sivers.org' + img
+	(img.start_with? 'http') ? img : 'http://sivers.org' + img
 end
 
 # if it has youtube URLs, get image from last one. false if not.
@@ -36,11 +35,11 @@ def get_youtube_img(txt)
 	r = %r{www.youtube(-nocookie)?.com/(embed/|watch\?v=)([^"]+)}
 	res = txt.scan(r).pop
 	return false unless res
-	'https://img.youtube.com/vi/%s/0.jpg' % res.pop
+	'http://img.youtube.com/vi/%s/0.jpg' % res.pop
 end
 
 def get_image(txt)
-	fallback_img = 'https://sivers.org/images/DerekSivers-20141119-400.jpg'
+	fallback_img = 'http://sivers.org/images/DerekSivers-20141119-400.jpg'
 	get_img(txt) || get_youtube_img(txt) || fallback_img
 end
 
@@ -93,11 +92,12 @@ task :make do
 	@pagetitle = 'Derek Sivers Blog'
 	@pageimage = get_image('')
 	@pagedescription = 'all blog posts from 1999 until now'
+	@url = 'blog'
 	@bodyid = 'bloglist'
 	html = template('header').result
 	html << template('bloglist').result
 	html << template('footer').result
-	File.open('site/blog', 'w') {|f| f.puts html }
+	File.open("site/#{@url}", 'w') {|f| f.puts html }
 
 
 	########## WRITE BLOG RSS/ATOM FEED
@@ -162,11 +162,11 @@ task :make do
 	@pagetitle = 'Derek Sivers Presentations'
 	@pageimage = get_image('')
 	@pagedescription = 'TED talks, conference talks, and presentations'
-	@bodyid = 'presentations'
+	@bodyid = @url = 'presentations'
 	html = template('header').result
 	html << template('presentations').result
 	html << template('footer').result
-	File.open('site/presentations', 'w') {|f| f.puts html }
+	File.open("site/#{@url}", 'w') {|f| f.puts html }
 
 
 
@@ -224,10 +224,11 @@ task :make do
 	@pageimage = get_image('')
 	@pagedescription = 'over 50 interviews with Derek, if you’re into that kind of thing'
 	@bodyid = 'interviews'
+	@url = 'i'
 	html = template('header').result
 	html << template('interviews').result
 	html << template('footer').result
-	File.open('site/i', 'w') {|f| f.puts html }
+	File.open("site/#{@url}", 'w') {|f| f.puts html }
 
 
 	########## READ, PARSE, AND WRITE BOOK NOTES
@@ -237,7 +238,7 @@ task :make do
 		# PARSE. Filename: yyyy-mm-dd-uri
 		/(\d{4}-\d{2}-\d{2})-(\S+)/.match File.basename(infile)
 		@date = $1
-		@url = $2
+		@url = 'book/%s' % $2
 		lines = File.readlines(infile)
 		/^TITLE: (.+)$/.match lines.shift
 		@title = $1
@@ -258,7 +259,7 @@ task :make do
 		html = template('header').result
 		html << template('book').result
 		html << template('footer').result
-		File.open("site/book/#{@url}", 'w') {|f| f.puts html }
+		File.open("site/#{@url}", 'w') {|f| f.puts html }
 
 		# save to array for later use in index and home page
 		@books << {date: @date, url: @url, title: @title, isbn: @isbn, rating: @rating, summary: @summary}
@@ -274,17 +275,19 @@ task :make do
 	@pageimage = get_image(template('booklist').result[0,1000])
 	@pagedescription = 'over 200 book summaries with detailed notes for each'
 	@bodyid = 'booklist'
+	@url = 'book'
 	html = template('header').result
 	html << template('booklist').result
 	html << template('footer').result
-	File.open('site/book/home', 'w') {|f| f.puts html }
+	File.open("site/book/home", 'w') {|f| f.puts html }
 	# sivers.org/book/new = newest at top (for auto-RSS followers)
 	@books.sort_by!{|x| '%s%02d%s' % [x[:date], x[:rating], x[:url]]}
 	@books.reverse!
+	@url = 'book/new'
 	html = template('header').result
 	html << template('booklist').result
 	html << template('footer').result
-	File.open('site/book/new', 'w') {|f| f.puts html }
+	File.open("site/#{@url}", 'w') {|f| f.puts html }
 
 
 
@@ -308,11 +311,11 @@ task :make do
 	@pagetitle = 'Derek Sivers Tweets'
 	@pageimage = get_image('')
 	@pagedescription = 'an archive of all tweets from 2007 til now'
-	@bodyid = 'tweets'
+	@bodyid = @url = 'tweets'
 	html = template('header').result
 	html << template('tweets').result
 	html << template('footer').result
-	File.open('site/tweets', 'w') {|f| f.puts html }
+	File.open("site/#{@url}", 'w') {|f| f.puts html }
 
 
 	########## WRITE HOME PAGE
@@ -322,17 +325,18 @@ task :make do
 	@pageimage = get_image('')
 	@pagedescription = get_description('')
 	@bodyid = 'home'
+	@url = ''
 	html = template('header').result
 	html << template('home').result
 	html << template('footer').result
-	File.open('site/home', 'w') {|f| f.puts html }
+	File.open("site/home", 'w') {|f| f.puts html }
 
 
 	########## READ, PARSE, WRITE STATIC PAGES
 	Dir['content/pages/*'].each do |infile|
 
 		# PARSE. Filename: uri
-		@uri = @bodyid = File.basename(infile)
+		@url = @bodyid = File.basename(infile)
 		lines = File.readlines(infile)
 		/<!--\s+(.+)\s+-->/.match lines.shift
 		@title = $1
@@ -345,8 +349,8 @@ task :make do
 		html = template('header').result
 		html << body
 		html << template('footer').result
-		File.open("site/#{@uri}", 'w') {|f| f.puts html }
-		@urls << @uri
+		File.open("site/#{@url}", 'w') {|f| f.puts html }
+		@urls << @url
 	end
 
 	########## SITEMAP
