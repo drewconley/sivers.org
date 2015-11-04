@@ -12,7 +12,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
-<meta name="twitter:title" content="<%= @pagetitle %>">
+<meta name="twitter:title" content="<%= @pagetitle.gsub('"', '') %>">
 <meta name="twitter:description" content="<%= @pagedescription %>">
 <meta name="twitter:image" content="<%= @pageimage %>">
 </head>

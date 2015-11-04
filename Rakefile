@@ -44,14 +44,18 @@ def get_image(txt)
 	get_img(txt) || get_youtube_img(txt) || fallback_img
 end
 
+# get first <p> or <h> text. strip newlines, quotes, and tags
 def get_description(txt)
+	r = %r{<(p|h[1-4])>(.+?)</(p|h[1-4])>}m
+	m = r.match(txt)
+	return 'Writer, entrepreneur, avid student of life. I make useful things, and share what I learn.' unless m
+	m[2].gsub(/[\r\n\t"]/, '').strip.gsub(%r{</?[^>]+?>}, '')
 end
 
 desc "build site/ from content/ and templates/"
 task :make do
 	# collection of all URLs, for making Sitemap
 	@urls = []
-	@pagedescription = 'REPLACE THIS SOON'
 
 	########## READ, PARSE, AND WRITE BLOG POSTS
 	@blogs = []
@@ -68,6 +72,7 @@ task :make do
 		@body = lines.join('')
 		@pagetitle = "#{@title} | Derek Sivers"
 		@pageimage = get_image(@body)
+		@pagedescription = get_description(@body)
 		@bodyid = 'oneblog'
 
 		# merge with templates and WRITE file
@@ -87,6 +92,7 @@ task :make do
 	@blogs.reverse!
 	@pagetitle = 'Derek Sivers Blog'
 	@pageimage = get_image('')
+	@pagedescription = 'all blog posts from 1999 until now'
 	@bodyid = 'bloglist'
 	html = template('header').result
 	html << template('bloglist').result
@@ -134,6 +140,7 @@ task :make do
 		@body = lines.join('')
 		@pagetitle = "#{@title} | Derek Sivers"
 		@pageimage = get_image(@body)
+		@pagedescription = get_description(@body)
 		@bodyid = 'prez'
 
 		# merge with templates and WRITE file
@@ -154,6 +161,7 @@ task :make do
 	@presentations.reverse!
 	@pagetitle = 'Derek Sivers Presentations'
 	@pageimage = get_image('')
+	@pagedescription = 'TED talks, conference talks, and presentations'
 	@bodyid = 'presentations'
 	html = template('header').result
 	html << template('presentations').result
@@ -193,6 +201,7 @@ task :make do
 		@body = lines.join('')
 		@pagetitle = "Derek Sivers INTERVIEW: #{@title}"
 		@pageimage = get_image('')
+		@pagedescription = @subhead.gsub('"', '')
 		@bodyid = 'interview'
 
 		# merge with templates and WRITE file
@@ -213,6 +222,7 @@ task :make do
 	@interviews.reverse!
 	@pagetitle = 'Derek Sivers Interviews'
 	@pageimage = get_image('')
+	@pagedescription = 'over 50 interviews with Derek, if you’re into that kind of thing'
 	@bodyid = 'interviews'
 	html = template('header').result
 	html << template('interviews').result
@@ -241,6 +251,7 @@ task :make do
 		@notes = lines.join('').gsub("\n", "<br>\n")
 		@pagetitle = "#{@title} | Derek Sivers"
 		@pageimage = get_image(template('book').result)
+		@pagedescription = @summary.gsub('"', '')
 		@bodyid = 'onebook'
 
 		# merge with templates and WRITE file
@@ -261,6 +272,7 @@ task :make do
 	@books.reverse!
 	@pagetitle = 'BOOKS | Derek Sivers'
 	@pageimage = get_image(template('booklist').result[0,1000])
+	@pagedescription = 'over 200 book summaries with detailed notes for each'
 	@bodyid = 'booklist'
 	html = template('header').result
 	html << template('booklist').result
@@ -295,6 +307,7 @@ task :make do
 	@tweets.reverse!
 	@pagetitle = 'Derek Sivers Tweets'
 	@pageimage = get_image('')
+	@pagedescription = 'an archive of all tweets from 2007 til now'
 	@bodyid = 'tweets'
 	html = template('header').result
 	html << template('tweets').result
@@ -307,6 +320,7 @@ task :make do
 	@new_tweets = @tweets[0,6]
 	@pagetitle = 'Derek Sivers'
 	@pageimage = get_image('')
+	@pagedescription = get_description('')
 	@bodyid = 'home'
 	html = template('header').result
 	html << template('home').result
@@ -325,6 +339,7 @@ task :make do
 		body = lines.join('')
 		@pagetitle = "#{@title} | Derek Sivers"
 		@pageimage = get_image(body)
+		@pagedescription = get_description(body)
 
 		# merge with templates and WRITE file
 		html = template('header').result
