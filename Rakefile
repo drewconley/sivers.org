@@ -273,7 +273,7 @@ task :make do
 	@books.sort_by!{|x| '%02d%s%s' % [x[:rating], x[:date], x[:url]]}
 	@books.reverse!
 	@pagetitle = 'BOOKS | Derek Sivers'
-	@pageimage = get_image(template('booklist').result[0,1000])
+	@pageimage = get_image('')
 	@pagedescription = 'over 200 book summaries with detailed notes for each'
 	@bodyid = 'booklist'
 	@url = 'book'

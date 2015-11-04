@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta name="og:title" content="BOOKS | Derek Sivers">
 <meta name="og:type" content="article">
 <meta name="og:url" content="http://sivers.org/book/new">
-<meta name="og:image" content="http://sivers.org/images/124x187.gif">
+<meta name="og:image" content="http://sivers.org/images/DerekSivers-20141119-400.jpg">
 <meta name="og:description" content="over 200 book summaries with detailed notes for each">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="BOOKS | Derek Sivers">
 <meta name="twitter:description" content="over 200 book summaries with detailed notes for each">
-<meta name="twitter:image" content="http://sivers.org/images/124x187.gif">
+<meta name="twitter:image" content="http://sivers.org/images/DerekSivers-20141119-400.jpg">
 </head>
 <body id="booklist">
 
