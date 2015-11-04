@@ -6,7 +6,7 @@ require 'atom'
 # remove dependencies
 # gem build ratom.gemspec
 # gem install ratom-*.gem
-# TODO: @pagedescription and @pageimage for every. No " allowed.
+# TODO: @pagedescription  No " allowed.
 
 def template(name)
 	ERB.new(File.read("templates/#{name}.erb"))
@@ -22,10 +22,36 @@ class String
 	end
 end
 
+# if it has <img>, return last one. false if not.
+def get_img(txt)
+	r = %r{<img.*src="([^"]+)"}
+	res = txt.scan(r).pop
+	return false unless res
+	img = res.pop
+	(img.start_with? 'http') ? img : 'https://sivers.org' + img
+end
+
+# if it has youtube URLs, get image from last one. false if not.
+def get_youtube_img(txt)
+	r = %r{www.youtube(-nocookie)?.com/(embed/|watch\?v=)([^"]+)}
+	res = txt.scan(r).pop
+	return false unless res
+	'https://img.youtube.com/vi/%s/0.jpg' % res.pop
+end
+
+def get_image(txt)
+	fallback_img = 'https://sivers.org/images/DerekSivers-20141119-400.jpg'
+	get_img(txt) || get_youtube_img(txt) || fallback_img
+end
+
+def get_description(txt)
+end
+
 desc "build site/ from content/ and templates/"
 task :make do
 	# collection of all URLs, for making Sitemap
 	@urls = []
+	@pagedescription = 'REPLACE THIS SOON'
 
 	########## READ, PARSE, AND WRITE BLOG POSTS
 	@blogs = []
@@ -41,6 +67,7 @@ task :make do
 		@title = $1
 		@body = lines.join('')
 		@pagetitle = "#{@title} | Derek Sivers"
+		@pageimage = get_image(@body)
 		@bodyid = 'oneblog'
 
 		# merge with templates and WRITE file
@@ -59,6 +86,7 @@ task :make do
 	########## WRITE BLOG INDEX PAGE
 	@blogs.reverse!
 	@pagetitle = 'Derek Sivers Blog'
+	@pageimage = get_image('')
 	@bodyid = 'bloglist'
 	html = template('header').result
 	html << template('bloglist').result
@@ -105,6 +133,7 @@ task :make do
 		@minutes = $1
 		@body = lines.join('')
 		@pagetitle = "#{@title} | Derek Sivers"
+		@pageimage = get_image(@body)
 		@bodyid = 'prez'
 
 		# merge with templates and WRITE file
@@ -124,6 +153,7 @@ task :make do
 	@presentations.sort_by!{|x| x[:date]}
 	@presentations.reverse!
 	@pagetitle = 'Derek Sivers Presentations'
+	@pageimage = get_image('')
 	@bodyid = 'presentations'
 	html = template('header').result
 	html << template('presentations').result
@@ -162,6 +192,7 @@ task :make do
 		end
 		@body = lines.join('')
 		@pagetitle = "Derek Sivers INTERVIEW: #{@title}"
+		@pageimage = get_image('')
 		@bodyid = 'interview'
 
 		# merge with templates and WRITE file
@@ -181,6 +212,7 @@ task :make do
 	@interviews.sort_by!{|x| x[:url]}
 	@interviews.reverse!
 	@pagetitle = 'Derek Sivers Interviews'
+	@pageimage = get_image('')
 	@bodyid = 'interviews'
 	html = template('header').result
 	html << template('interviews').result
@@ -208,6 +240,7 @@ task :make do
 		lines.shift	# the line that says 'NOTES:'
 		@notes = lines.join('').gsub("\n", "<br>\n")
 		@pagetitle = "#{@title} | Derek Sivers"
+		@pageimage = get_image(template('book').result)
 		@bodyid = 'onebook'
 
 		# merge with templates and WRITE file
@@ -227,12 +260,13 @@ task :make do
 	@books.sort_by!{|x| '%02d%s%s' % [x[:rating], x[:date], x[:url]]}
 	@books.reverse!
 	@pagetitle = 'BOOKS | Derek Sivers'
+	@pageimage = get_image(template('booklist').result[0,1000])
 	@bodyid = 'booklist'
 	html = template('header').result
 	html << template('booklist').result
 	html << template('footer').result
 	File.open('site/book/home', 'w') {|f| f.puts html }
-	# sivers.org/book/new = newest at top
+	# sivers.org/book/new = newest at top (for auto-RSS followers)
 	@books.sort_by!{|x| '%s%02d%s' % [x[:date], x[:rating], x[:url]]}
 	@books.reverse!
 	html = template('header').result
@@ -260,6 +294,7 @@ task :make do
 	########## WRITE TWEETS INDEX PAGE
 	@tweets.reverse!
 	@pagetitle = 'Derek Sivers Tweets'
+	@pageimage = get_image('')
 	@bodyid = 'tweets'
 	html = template('header').result
 	html << template('tweets').result
@@ -271,6 +306,7 @@ task :make do
 	@new_blogs = @blogs[0,6]
 	@new_tweets = @tweets[0,6]
 	@pagetitle = 'Derek Sivers'
+	@pageimage = get_image('')
 	@bodyid = 'home'
 	html = template('header').result
 	html << template('home').result
@@ -288,6 +324,7 @@ task :make do
 		@title = $1
 		body = lines.join('')
 		@pagetitle = "#{@title} | Derek Sivers"
+		@pageimage = get_image(body)
 
 		# merge with templates and WRITE file
 		html = template('header').result
