@@ -33,6 +33,11 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <h1>Interviews</h1>
 
 	<div class="interview_summary spacer">
+		<h2><a href="/2015-11-game">Game Changer Society with Lane Kennedy</a> <span class="small">(date: 2015-11)</span></h2>
+		<p>One of my favorite interviews. Great conversation about being useful, time management, and more.</p>
+	</div>
+
+	<div class="interview_summary spacer">
 		<h2><a href="/2015-10-software">Software Engineering Daily</a> <span class="small">(date: 2015-10)</span></h2>
 		<p>Tech, programming, and creativity with Jeff Meyerson</p>
 	</div>
