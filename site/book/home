@@ -1401,6 +1401,15 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 		</figcaption>
 	</figure>
 
+	<figure class="abook" data-rating="4" data-title="Writing Tools - by Roy Peter Clark" data-date="2015-11-05">
+		<a href="/book/WritingTools"><img src="/images/124x187.gif" data-echo="/images/WritingTools.gif" alt="Writing Tools - by Roy Peter Clark" /></a>
+		<figcaption>
+			<h2><a href="/book/WritingTools">Writing Tools - by Roy Peter Clark</a></h2>
+			<p>ISBN: 0316014990 READ: 2015-11-05 RATING: 4/10</p>
+			<p>Otherwise a good book about writing technique, but unfortunately I found myself wincing at the author's writing style!  It strongly vioated my favorite Elmore Leonard suggestion: “If it sounds like writing, rewrite it.”  Read “On Writing Well” instead.</p>
+		</figcaption>
+	</figure>
+
 	<figure class="abook" data-rating="4" data-title="A More Beautiful Question - by Warren Berger" data-date="2015-07-07">
 		<a href="/book/MoreBeautifulQuestion"><img src="/images/124x187.gif" data-echo="/images/MoreBeautifulQuestion.gif" alt="A More Beautiful Question - by Warren Berger" /></a>
 		<figcaption>
