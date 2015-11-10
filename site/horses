@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta property="og:title" content="My favorite fable (塞翁失马) | Derek Sivers">
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://sivers.org/horses">
-<meta property="og:image" content="http://sivers.org/images/DerekSivers-20141119-400.jpg">
+<meta property="og:image" content="http://sivers.org/images/horses.jpg">
 <meta property="og:description" content="A farmer had only one horse.One day, his horse ran away.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="My favorite fable (塞翁失马) | Derek Sivers">
 <meta name="twitter:description" content="A farmer had only one horse.One day, his horse ran away.">
-<meta name="twitter:image" content="http://sivers.org/images/DerekSivers-20141119-400.jpg">
+<meta name="twitter:image" content="http://sivers.org/images/horses.jpg">
 </head>
 <body id="oneblog">
 
@@ -45,7 +45,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 	The man just said, “We'll see.”
 </p><p>
 	A few days later, his horse came back with twenty wild horses following.
-	The man and his son corraled all 21 horses.
+	The man and his son corralled all 21 horses.
 </p><p>
 	His neighbors said, “Congratulations! This is such good news. You must be so happy!”
 </p><p>
@@ -63,7 +63,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 	His neighbors said, “Congratulations! This is such good news. You must be so happy!”
 </p><p>
 	The man just said, “We'll see.”
-</p><hr>
+</p>
+<img src="/images/horses.jpg">
 <p>
 	I wrote <a href="/file/DEREK_SIVERS-Still_Too_Soon_to_Tell-1998-08.mp3">a song</a> with this story, too.
 </p>
