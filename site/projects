@@ -36,25 +36,28 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <h2>Projects</h2>
 <dl>
 	<dt><a href="https://github.com/sivers/sivers.org">sivers.org</a></dt>
-	<dd>The hand-crafted Ruby code that runs this site.</dd>
+	<dd>the hand-crafted Ruby code that runs this site</dd>
 
-	<dt><a href="http://woodegg.com/">Wood Egg</a></dt>
-	<dd>My book publishing company.</dd>
+	<dt><a href="http://nownownow.com/">Now Now Now</a></dt>
+	<dd>list and profiles of people who have <a href="/nowff">a /now page</a></dd>
 
 	<dt><a href="http://musicthoughts.com/">MusicThoughts</a></dt>
-	<dd>Inspiring quotes about music, translated into Español, Français, Deutsch, Italiano, Português, Русский, العربية, 日本, and 中文.</dd>
+	<dd>inspiring quotes about music, translated into Español, Français, Deutsch, Italiano, Português, Русский, العربية, 日本, and 中文</dd>
 
 	<dt><a href="/book">Book Notes</a></dt>
-	<dd>Detailed notes from the last 150+ books I’ve read.</dd>
+	<dd>detailed notes from the last 200+ books I’ve read</dd>
 
 	<dt><a href="/muckwork">Muckwork</a></dt>
-	<dd>Remote assistants do your dirty work</dd>
+	<dd>remote assistants do your dirty work</dd>
+
+	<dt><a href="http://woodegg.com/">Wood Egg</a></dt>
+	<dd>my book publishing company</dd>
 
 	<dt><a href="/songtest">Songtest</a></dt>
-	<dd>Open-source non-commercial song contest</dd>
+	<dd>open-source non-commercial song contest</dd>
 
 	<dt><a href="/cyrano">Cyrano</a></dt>
-	<dd>Someone witty tweets for you, as you</dd>
+	<dd>someone witty tweets for you, as you</dd>
 </dl>
 
 <h2>Just code</h2>
