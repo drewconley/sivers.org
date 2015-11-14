@@ -123,6 +123,11 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 	</div>
 
 	<div class="interview_summary spacer">
+		<h2><a href="/2014-02-suitcase">Suitcase Entrepreneur</a> <span class="small">(date: 2014-02)</span></h2>
+		<p>Talk with Natalie Sisson about outsourcing, lifestyle, comfort zone, where to live, and more.</p>
+	</div>
+
+	<div class="interview_summary spacer">
 		<h2><a href="/2014-02-baker">The Creative Entrepreneur</a> <span class="small">(date: 2014-02)</span></h2>
 		<p>Talking with Bob Baker about what to do early in your career, fame, fortune, failure, marketing, and the international life.</p>
 	</div>
