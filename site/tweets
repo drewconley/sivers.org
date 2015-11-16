@@ -32,6 +32,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
   <h1>Tweets</h1>
   <dl id="tweetlist">
+    <dt>November 16, 2015</dt>
+    <dd>“Never tell your problems to anyone. 80% don’t care, and the other 20% are glad you have them.” - Lou Holtz, revised</dd>
     <dt>November 12, 2015</dt>
     <dd>Everyone with a /now page gets a profile: <a href="http://nownownow.com/">http://nownownow.com/</a> Click any (+) then keep browsing. So fascinating. Can&#39;t tear myself away.</dd>
     <dt>October 29, 2015</dt>
