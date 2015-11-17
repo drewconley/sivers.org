@@ -36,10 +36,9 @@ Whatever it is, I’m sure it’s my fault.
 </p>
 <script>
 var msg = {
-	badurlid: 'That unique URL is not right, for some reason.</p><p>Maybe it expired? Maybe it has changed since I emailed it to you?</p><p><a href="https://sivers.org/ayw/login">Click here to try to log in</a>.</p><p>If that doesn’t work, email me at <a href="mailto:derek@sivers.org">derek@sivers.org</a>',
+	badurlid: 'That unique URL is not right, for some reason.</p><p>Maybe it expired? Maybe it has changed since I emailed it to you?</p><p>If confused, email me at <a href="mailto:derek@sivers.org">derek@sivers.org</a>',
 	shortpass: 'Your password needs to be at least 4 characters long.</p><p>Please go back to try again.',
 	emailnf: 'That email address wasn’t found. Do you have another?</p><p>Please go back to try again.',
-	aywcode: 'That wasn’t the code word.</p><p>HINT: It starts with a U and ends with an A.</p><p>Please go back to try again.',
 	login: 'You need to login to be here',
 	badlogin: 'Either the email address or password wasn’t right.</p><p>Please go back to try again.',
 	notfound: 'That filename isn’t found.</p><p>Please email me at <a href="mailto:derek@sivers.org">derek@sivers.org</a> to let me know, and I’ll take care of it right away.',
