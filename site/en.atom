@@ -2,11 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2015-11-18T18:25:46+13:00</updated>
+  <updated>2015-11-20T13:25:31+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>nownownow.com</title>
+    <id>http://sivers.org/now3</id>
+    <updated>2015-11-20T00:00:00+00:00</updated>
+    <published>2015-11-20T00:00:00+00:00</published>
+    <link href="http://sivers.org/now3"/>
+    <content type="html">&lt;p&gt;
+	A month ago I announced &lt;a href="/nowff"&gt;the /now page movement&lt;/a&gt;, where many personal websites are adding a “/now” page to answer the question, “What are you focused on now?”
+&lt;/p&gt;&lt;p&gt;
+	At the time, only ten websites had a /now page.
+	Now there are over 280.
+&lt;/p&gt;&lt;p&gt;
+	It’s incredible.
+	People are saying it helps them prioritize and focus.
+&lt;/p&gt;&lt;p&gt;
+	&lt;a href="http://gregalbritton.com/now"&gt;Greg Albritton&lt;/a&gt; emailed to say he made a list of everyone with a /now page.
+	So I turned that into its own website:
+&lt;/p&gt;
+&lt;h2&gt;&lt;a href="http://nownownow.com/"&gt;nownownow.com&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;
+	It’s been a fun programming project.
+	I’ve been doing it full-time for the past month.
+	&lt;a href="https://github.com/50pop/nownownow.com"&gt;See the code&lt;/a&gt;, if interested.
+	It’s all open source.
+&lt;/p&gt;&lt;p&gt;
+	Then Greg wanted to do feature profiles, so he came up with six questions that I asked everyone.
+	Now if you click the (+) by any link on &lt;a href="http://nownownow.com/"&gt;nownownow.com&lt;/a&gt;, it will bring you to a page where you can get to know the person behind the site.
+&lt;/p&gt;&lt;p&gt;
+	It’s addicting and inspiring to browse these profiles, and visit their sites.
+	There’s a Twitter account — &lt;a href="https://twitter.com/NowNowNow"&gt;@NowNowNow&lt;/a&gt; — that tweets out a link to a new profile every hour.
+&lt;/p&gt;&lt;p&gt;
+	People have told me they are getting a good amount of traffic to their site from people browsing &lt;a href="http://nownownow.com/"&gt;nownownow.com&lt;/a&gt;, so…
+&lt;/p&gt;
+	&lt;h2&gt;How to add yours?&lt;/h2&gt;
+&lt;p&gt;
+	&lt;strong&gt;If you already have a website&lt;/strong&gt;, just add a new page.
+	If you’re using WordPress, look for “Pages” on the left, and choose “Add New”.
+	Give it a “permalink” of /now.
+	(Sorry I can’t help with tech support.)
+&lt;/p&gt;&lt;p&gt;
+	Write something about what you’re doing now, and publish.
+	&lt;strong&gt;Once it’s online, email me the link at &lt;a href="mailto:derek@sivers.org"&gt;derek@sivers.org&lt;/a&gt;, and I’ll add it to nownownow.com.&lt;/strong&gt;
+	After it’s up, I’ll ask you the questions for a profile page.
+&lt;/p&gt;&lt;p&gt;
+	&lt;strong&gt;If you don’t have a website&lt;/strong&gt;, but have been meaning to get one, create a free one at &lt;a href="https://wordpress.com/"&gt;wordpress.com&lt;/a&gt;.
+	Before you announce it, I highly recommend getting your own domain name at &lt;a href="https://www.hover.com/"&gt;hover.com&lt;/a&gt;.
+	Map your domain to your WordPress blog, and use that.
+	(Again, sorry I can’t help with tech support, but this is very common stuff, so anyone else can.)
+&lt;/p&gt;
+	&lt;h2&gt;What now?&lt;/h2&gt;
+&lt;p&gt;
+	Someone asked me what my vision is for the /now page movement.
+	But I’ve never had one.
+	I just enjoy being of service.
+	&lt;strong&gt;People tell me what they want, and if it’s something I can do, I do.&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+	So if you have a good idea for what this could use or could be, please leave a comment here, or email me at &lt;a href="mailto:derek@sivers.org"&gt;derek@sivers.org&lt;/a&gt;.
+&lt;/p&gt;
+&lt;img src="/images/nowclock.jpg"&gt;
+
+</content>
+  </entry>
   <entry>
     <title>The /now page movement</title>
     <id>http://sivers.org/nowff</id>
@@ -2225,86 +2287,6 @@ Get over that self-important resistance, and do the world a favor.
 &lt;a href="http://woodegg.com/id"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-ID-200.jpg"&gt;&lt;/a&gt;
 &lt;hr&gt;
 &lt;p&gt;“&lt;a href="http://woodegg.com/id"&gt;Indonesia 2014&lt;/a&gt;” is one of &lt;strong&gt;16 books about moving to and doing business in 16 countries in Asia:&lt;/strong&gt; 
-&lt;a href="http://woodegg.com/kh"&gt;Cambodia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/cn"&gt;China&lt;/a&gt;,
-&lt;a href="http://woodegg.com/hk"&gt;Hong Kong&lt;/a&gt;,
-&lt;a href="http://woodegg.com/in"&gt;India&lt;/a&gt;,
-&lt;a href="http://woodegg.com/id"&gt;Indonesia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/jp"&gt;Japan&lt;/a&gt;,
-&lt;a href="http://woodegg.com/kr"&gt;Korea&lt;/a&gt;,
-&lt;a href="http://woodegg.com/my"&gt;Malaysia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/mn"&gt;Mongolia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/mm"&gt;Myanmar&lt;/a&gt;,
-&lt;a href="http://woodegg.com/ph"&gt;Philippines&lt;/a&gt;,
-&lt;a href="http://woodegg.com/sg"&gt;Singapore&lt;/a&gt;,
-&lt;a href="http://woodegg.com/lk"&gt;Sri Lanka&lt;/a&gt;,
-&lt;a href="http://woodegg.com/tw"&gt;Taiwan&lt;/a&gt;,
-&lt;a href="http://woodegg.com/th"&gt;Thailand&lt;/a&gt;, and
-&lt;a href="http://woodegg.com/vn"&gt;Vietnam&lt;/a&gt;. They’re all ebooks for under $10 each, sold at LeanPub, Amazon, and Apple iBooks.&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>Understanding Japan</title>
-    <id>http://sivers.org/jp14</id>
-    <updated>2014-01-19T00:00:00+00:00</updated>
-    <published>2014-01-19T00:00:00+00:00</published>
-    <link href="http://sivers.org/jp14"/>
-    <content type="html">&lt;p&gt;&lt;em&gt;This essay is adapted from an excerpt of the (great and highly recommended) book “&lt;a href="http://www.kirainet.com/english/a-geek-in-japan-the-book/#author"&gt;A Geek in Japan&lt;/a&gt;” by my hero &lt;a href="http://www.kirainet.com/english/"&gt;Héctor Garcia&lt;/a&gt;.  It is the first chapter of my new &lt;a href="http://woodegg.com/jp"&gt;Japan 2014 book&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;
-If three Japanese people are talking together, and a fourth one joins the conversation, he will apologize upon approach for breaking the harmony of the group.  Why?
-&lt;/p&gt;&lt;p&gt;
-In Japan, everything looks like it works to perfection.  People do what they’re supposed to.  Trains run well.  Everybody has a job.  Everybody has money to live.  It has one of the lowest crime rates in the world.  Children study well and are some of the best in the world.  Tokyo is one of the cleanest cities you’ll ever see despite being the largest urban area in the world.  It seems to be a perfect place.  How have they achieved this?
-&lt;/p&gt;&lt;p&gt;
-To understand the Japanese way, you must understand a few concepts that are deeply rooted into the culture.
-&lt;/p&gt;
-&lt;h3&gt;Samurai role model&lt;/h3&gt;
-&lt;p&gt;
-The samurai adhered to a way of life, ethics, rules, and a code that spread to all branches of society, and even today affects the way Japanese think.
-&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;Buddhism taught them to stay calm and patient.&lt;/li&gt;
-&lt;li&gt;Confucianism taught them that relationships between people are the basis of society - to respect our ancestors, relatives, and superiors.&lt;/li&gt;
-&lt;li&gt;Loyalty, justice, and honor are central.&lt;/li&gt;
-&lt;li&gt;Sincerity, compassion, courtesy, and honesty are important key values.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;
-Though the samurai no longer exist, this way of viewing life is ever-present in society.  Students are loyal to their teachers.  Workers are loyal to their companies, putting in long overtime hours.  Japanese are loyal, honest, sincere, and disciplined at work.  They follow rules and try to improve themselves every day, just as the samurai did in their time.
-&lt;/p&gt;&lt;p&gt;
-A high compliment is the word “iki” (粋).  You say a person is iki if they are original, calm, refined, and sophisticated, without being too perfect, complicated, or self-conscious.  It’s similar to the word “elegant” or “graceful”.
-&lt;/p&gt;
-&lt;h3&gt;“Honne”, “tatemae”, and no “no”&lt;/h3&gt;
-&lt;p&gt;
-Honne (本音) refers to the opinions and true feelings that everybody has.
-&lt;/p&gt;&lt;p&gt;
-Tatemae (建前) refers to social obligations, and opinions that have been adjusted to be socially acceptable - when words and true intentions don’t fully coincide.
-&lt;/p&gt;&lt;p&gt;
-What someone really thinks is “honne”, but what they actually express is “tatemae”.  In Western countries we could call it hypocrisy, but in Japan knowing how to express tatemae and honne at the right time is considered a virtue.
-&lt;/p&gt;&lt;p&gt;
-From the Western point of view, concealing the truth may be looked on with disfavor, but in Japan, preserving harmony is more important.  That’s why true thoughts (honne) are not expressed in a straightforward way, for fear of hurting people’s feelings.  It’s used to ease relationships and business, where established conventions have to be followed.
-&lt;/p&gt;&lt;p&gt;
-Japanese hardly ever use the word “no”.  Using it is considered very curt.  Instead, there are many ways to say “no” delicately, such as, “A little bit…,” or “This is very interesting,” or “We will study your proposal,” or “This is complicated but…”  When someone says these things, they are very politely but clearly telling you “no”.
-&lt;/p&gt;&lt;p&gt;
-An example: Imagine you want to buy a ticket and there are no seats left.  The ticket salesperson won’t give you a straight answer like, “There are no tickets left.”  Instead he will probably keep you waiting, pretending he is looking into something on his computer, make weird faces, and say something like, “Finding seats can be difficult.”  This is tatemae at its best.
-&lt;/p&gt;
-&lt;h3&gt;Modesty and humility&lt;/h3&gt;
-&lt;p&gt;
-No matter what their social class, talent, studies, or job, Japanese people are expected to behave with modesty.
-&lt;/p&gt;&lt;p&gt;
-The most typical way to show our humility is by diminishing our own achievements while praising those of others.  If someone tells you that your recent work has been great, you must answer that the credit is not yours, that the latest successes have been achieved thanks to what your boss and company have taught you.
-&lt;/p&gt;&lt;p&gt;
-If someone is too ambitious or flaunts their power too much, he ends up being ostracized by his company and society.  There are many cases where a person of great promise was too ambitious, and his/her superiors reassigned him/her to tasks such as serving tea in meetings or even cleaning the company bathrooms.  The Japanese see ambition as a threat to the inner balance of the system, which might bring them down in the future.
-&lt;/p&gt;
-&lt;h3&gt;The way of elegance and perfection&lt;/h3&gt;
-&lt;p&gt;
-A deep-rooted Japanese concept is “do” (道), which means “the way”.  Look at many of the Japanese words we use in English.  “Judo” is the gentle way.  “Aikido” is the way of the union of spirit and mind.  “Dojo” is the place of the way.  There are hundreds of words with the character “do”, so it’s not merely a character but a whole philosophical concept and a way of life that has been deeply rooted in Japanese thinking for centuries.
-&lt;/p&gt;&lt;p&gt;
-Here is one important application of this concept:  it is very common to seek perfection in some tasks as a means to acquire spiritual satisfaction.  Education is repetition, following the set path, “the way”.  Through repetition of certain patterns, they get to be very good at what they do.  But this also makes it very difficult for them to depart from their routine.  Now you can see why Japanese companies have a reputation for being slow to change and avoiding innovation.
-&lt;/p&gt;&lt;p&gt;
-In individualistic societies (America, Europe, Australia, etc.), the common belief is that if you pursue your own self-interest this will automatically help with the interests of your society.  In Japan, the belief is reversed.  If you give your utmost in your work to serve your company, customers, and society, then this will automatically serve your own self-interest.  This is why Japanese companies are known for having such incredible customer service.  This helps you have a better life, and in turn you help others have a better life, while benefitting companies and the Japanese economy in general.
-&lt;/p&gt;
-&lt;a href="http://woodegg.com/jp"&gt;&lt;img src="http://woodegg.com/images/we14/we14cover-JP-200.jpg"&gt;&lt;/a&gt;
-&lt;hr&gt;
-&lt;p&gt;“&lt;a href="http://woodegg.com/jp"&gt;Japan 2014&lt;/a&gt;” is one of &lt;strong&gt;16 books about moving to and doing business in 16 countries in Asia:&lt;/strong&gt; 
 &lt;a href="http://woodegg.com/kh"&gt;Cambodia&lt;/a&gt;,
 &lt;a href="http://woodegg.com/cn"&gt;China&lt;/a&gt;,
 &lt;a href="http://woodegg.com/hk"&gt;Hong Kong&lt;/a&gt;,
