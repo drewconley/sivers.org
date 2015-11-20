@@ -12,14 +12,14 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <meta property="og:title" content="Understanding Singapore | Derek Sivers">
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://sivers.org/sg14">
-<meta property="og:image" content="http://woodegg.com/images/we14/we14cover-SG-200.jpg">
+<meta property="og:image" content="https://woodegg.com/images/we14/we14cover-SG-200.jpg">
 <meta property="og:description" content="This is the first chapter of my new Singapore 2014 book.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
 <meta name="twitter:title" content="Understanding Singapore | Derek Sivers">
 <meta name="twitter:description" content="This is the first chapter of my new Singapore 2014 book.">
-<meta name="twitter:image" content="http://woodegg.com/images/we14/we14cover-SG-200.jpg">
+<meta name="twitter:image" content="https://woodegg.com/images/we14/we14cover-SG-200.jpg">
 </head>
 <body id="oneblog">
 
@@ -109,7 +109,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
 <p>Singapore was founded on the ideals of the Age of Enlightenment — the age of reason and rationality — and its founder built those lofty ideals into its blueprint.  So to understand Singapore, you need to understand that it’s always been designed top-down, from the beginning, to realize these rational ideals.</p>
 
-<a href="http://woodegg.com/sg"><img src="http://woodegg.com/images/we14/we14cover-SG-200.jpg"></a>
+<a href="http://woodegg.com/sg"><img src="https://woodegg.com/images/we14/we14cover-SG-200.jpg"></a>
 <hr>
 <p>“<a href="http://woodegg.com/sg">Singapore 2014</a>” is one of <strong>16 books about moving to and doing business in 16 countries in Asia:</strong> 
 <a href="http://woodegg.com/kh">Cambodia</a>,
