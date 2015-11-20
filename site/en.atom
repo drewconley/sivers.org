@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2015-11-20T13:25:31+13:00</updated>
+  <updated>2015-11-20T13:31:38+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -23,14 +23,13 @@
 	People are saying it helps them prioritize and focus.
 &lt;/p&gt;&lt;p&gt;
 	&lt;a href="http://gregalbritton.com/now"&gt;Greg Albritton&lt;/a&gt; emailed to say he made a list of everyone with a /now page.
-	So I turned that into its own website:
-&lt;/p&gt;
-&lt;h2&gt;&lt;a href="http://nownownow.com/"&gt;nownownow.com&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;
+	So I turned that into its own website: &lt;strong&gt;&lt;a href="http://nownownow.com/"&gt;nownownow.com&lt;/a&gt;&lt;/strong&gt;.
+&lt;/p&gt;&lt;p&gt;
 	It’s been a fun programming project.
 	I’ve been doing it full-time for the past month.
 	&lt;a href="https://github.com/50pop/nownownow.com"&gt;See the code&lt;/a&gt;, if interested.
 	It’s all open source.
+	(Thanks to &lt;a href="https://github.com/SaschaKrause"&gt;Sascha Krause&lt;/a&gt; in Berlin for contributing a better design.)
 &lt;/p&gt;&lt;p&gt;
 	Then Greg wanted to do feature profiles, so he came up with six questions that I asked everyone.
 	Now if you click the (+) by any link on &lt;a href="http://nownownow.com/"&gt;nownownow.com&lt;/a&gt;, it will bring you to a page where you can get to know the person behind the site.
@@ -53,7 +52,7 @@
 &lt;/p&gt;&lt;p&gt;
 	&lt;strong&gt;If you don’t have a website&lt;/strong&gt;, but have been meaning to get one, create a free one at &lt;a href="https://wordpress.com/"&gt;wordpress.com&lt;/a&gt;.
 	Before you announce it, I highly recommend getting your own domain name at &lt;a href="https://www.hover.com/"&gt;hover.com&lt;/a&gt;.
-	Map your domain to your WordPress blog, and use that.
+	Point your domain to your WordPress blog, and use that.
 	(Again, sorry I can’t help with tech support, but this is very common stuff, so anyone else can.)
 &lt;/p&gt;
 	&lt;h2&gt;What now?&lt;/h2&gt;
@@ -65,7 +64,7 @@
 &lt;/p&gt;&lt;p&gt;
 	So if you have a good idea for what this could use or could be, please leave a comment here, or email me at &lt;a href="mailto:derek@sivers.org"&gt;derek@sivers.org&lt;/a&gt;.
 &lt;/p&gt;
-&lt;img src="/images/nowclock.jpg"&gt;
+&lt;a href="http://nownownow.com/"&gt;&lt;img src="/images/nowclock.jpg"&gt;&lt;/a&gt;
 
 </content>
   </entry>

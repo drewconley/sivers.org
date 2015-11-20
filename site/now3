@@ -46,14 +46,13 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 	People are saying it helps them prioritize and focus.
 </p><p>
 	<a href="http://gregalbritton.com/now">Greg Albritton</a> emailed to say he made a list of everyone with a /now page.
-	So I turned that into its own website:
-</p>
-<h2><a href="http://nownownow.com/">nownownow.com</a></h2>
-<p>
+	So I turned that into its own website: <strong><a href="http://nownownow.com/">nownownow.com</a></strong>.
+</p><p>
 	It’s been a fun programming project.
 	I’ve been doing it full-time for the past month.
 	<a href="https://github.com/50pop/nownownow.com">See the code</a>, if interested.
 	It’s all open source.
+	(Thanks to <a href="https://github.com/SaschaKrause">Sascha Krause</a> in Berlin for contributing a better design.)
 </p><p>
 	Then Greg wanted to do feature profiles, so he came up with six questions that I asked everyone.
 	Now if you click the (+) by any link on <a href="http://nownownow.com/">nownownow.com</a>, it will bring you to a page where you can get to know the person behind the site.
@@ -76,7 +75,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 </p><p>
 	<strong>If you don’t have a website</strong>, but have been meaning to get one, create a free one at <a href="https://wordpress.com/">wordpress.com</a>.
 	Before you announce it, I highly recommend getting your own domain name at <a href="https://www.hover.com/">hover.com</a>.
-	Map your domain to your WordPress blog, and use that.
+	Point your domain to your WordPress blog, and use that.
 	(Again, sorry I can’t help with tech support, but this is very common stuff, so anyone else can.)
 </p>
 	<h2>What now?</h2>
@@ -88,7 +87,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 </p><p>
 	So if you have a good idea for what this could use or could be, please leave a comment here, or email me at <a href="mailto:derek@sivers.org">derek@sivers.org</a>.
 </p>
-<img src="/images/nowclock.jpg">
+<a href="http://nownownow.com/"><img src="/images/nowclock.jpg"></a>
 
 
 
