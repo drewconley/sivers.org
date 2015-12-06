@@ -45,7 +45,9 @@ Nginx serves the final static site from the site/ directory.
 
 Nginx passes certain paths by proxy to the dynamic Sinatra server, for dynamic pages, in [50web](https://github.com/50pop/50web)
 
-## Multi-lingual thoughts:
+# JUST THINKING:
+
+## Translation
 
 Languages: en, fr, es, pt, zh, ja
 
@@ -55,7 +57,20 @@ What gets translated:
 * content/pages (including home)
 * template/header.erb will need variable for masthead
 
-What changes in my merging:
+Maybe I just keep an array of URIs to be translated?  Like don't translate tech articles and out-dated announcements.  Except I want to translate almost-everything, so maybe it would be a "skip-translation" list.
 
-* for each langcode, it:
-* checks for
+Would be nice to have one translator per language.  Someone that already likes my writing.
+
+## Tags
+
+I could add a new meta-header to every blog file, but instead it seems easier to maintain if I just keep a list of URIs in a text file with 1 uri per line:
+
+* tags/tech
+* tags/biz
+* tags/music
+* tags/life
+
+Then for posts like company announcements that I'm happy to have fade into history, no tags at all.
+
+Rakefile will keep hash map of {uri => title}, then at the end of site-generation, create index pages at site/tech site/biz.  Could do RSS for each.
+
