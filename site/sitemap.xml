@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>http://sivers.org/</loc><lastmod>2015-12-03</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-<url><loc>http://sivers.org/blog</loc><lastmod>2015-12-03</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
-<url><loc>http://sivers.org/tweets</loc><lastmod>2015-12-03</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-<url><loc>http://sivers.org/i</loc><lastmod>2015-12-03</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-<url><loc>http://sivers.org/book</loc><lastmod>2015-12-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>http://sivers.org/presentations</loc><lastmod>2015-12-03</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>http://sivers.org/</loc><lastmod>2015-12-07</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://sivers.org/blog</loc><lastmod>2015-12-07</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+<url><loc>http://sivers.org/tweets</loc><lastmod>2015-12-07</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+<url><loc>http://sivers.org/i</loc><lastmod>2015-12-07</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+<url><loc>http://sivers.org/book</loc><lastmod>2015-12-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>http://sivers.org/presentations</loc><lastmod>2015-12-07</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>http://sivers.org/15-years</loc></url>
 <url><loc>http://sivers.org/1idea</loc></url>
 <url><loc>http://sivers.org/1pct</loc></url>
 <url><loc>http://sivers.org/2008-08-tim-ferriss</loc></url>
 <url><loc>http://sivers.org/2008-12-ppdp</loc></url>
+<url><loc>http://sivers.org/2009-01-amber-rubarth</loc></url>
 <url><loc>http://sivers.org/2009-03-berklee</loc></url>
+<url><loc>http://sivers.org/2009-03-soundadvice</loc></url>
 <url><loc>http://sivers.org/2009-05-ciraa</loc></url>
 <url><loc>http://sivers.org/2009-09-mus</loc></url>
 <url><loc>http://sivers.org/2009-10-la</loc></url>
@@ -373,7 +375,6 @@
 <url><loc>http://sivers.org/hi</loc></url>
 <url><loc>http://sivers.org/high-school</loc></url>
 <url><loc>http://sivers.org/hillbilly-flamenco</loc></url>
-<url><loc>http://sivers.org/hog-whitman</loc></url>
 <url><loc>http://sivers.org/homeless</loc></url>
 <url><loc>http://sivers.org/horses</loc></url>
 <url><loc>http://sivers.org/how-was-india</loc></url>
@@ -551,7 +552,6 @@
 <url><loc>http://sivers.org/thousand-actors</loc></url>
 <url><loc>http://sivers.org/time</loc></url>
 <url><loc>http://sivers.org/tom-williams</loc></url>
-<url><loc>http://sivers.org/tori-sparks</loc></url>
 <url><loc>http://sivers.org/touch-all-senses</loc></url>
 <url><loc>http://sivers.org/truisms</loc></url>
 <url><loc>http://sivers.org/trust</loc></url>

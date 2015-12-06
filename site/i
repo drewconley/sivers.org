@@ -263,8 +263,18 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 	</div>
 
 	<div class="interview_summary spacer">
+		<h2><a href="/2009-03-soundadvice">Ariel Hyatt</a> <span class="small">(date: 2009-03)</span></h2>
+		<p>video interview about promoting and marketing your music</p>
+	</div>
+
+	<div class="interview_summary spacer">
 		<h2><a href="/2009-03-berklee">Justin from Berklee</a> <span class="small">(date: 2009-03)</span></h2>
 		<p>Berklee College of Music interview about the music business</p>
+	</div>
+
+	<div class="interview_summary spacer">
+		<h2><a href="/2009-01-amber-rubarth">Amber Rubarth</a> <span class="small">(date: 2009-01)</span></h2>
+		<p>how to be a full-time touring musician</p>
 	</div>
 
 	<div class="interview_summary spacer">
