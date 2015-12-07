@@ -32,6 +32,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
   <h1>Tweets</h1>
   <dl id="tweetlist">
+    <dt>December 8, 2015</dt>
+    <dd>This is probably the best talk I&#39;ve ever done: <a href="http://chrisguillebeau.com/derek-sivers/">http://chrisguillebeau.com/derek-sivers/</a> (40 minutes)</dd>
     <dt>November 20, 2015</dt>
     <dd>The story about nownownow.com : <a href="http://sivers.org/now3">http://sivers.org/now3</a></dd>
     <dt>November 18, 2015</dt>

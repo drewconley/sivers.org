@@ -139,6 +139,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>December 8</dt>
+		<dd>This is probably the best talk I&#39;ve ever done: <a href="http://chrisguillebeau.com/derek-sivers/">http://chrisguillebeau.com/derek-sivers/</a> (40 minutes)</dd>
 		<dt>November 20</dt>
 		<dd>The story about nownownow.com : <a href="http://sivers.org/now3">http://sivers.org/now3</a></dd>
 		<dt>November 18</dt>
@@ -149,8 +151,6 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 		<dd>Everyone with a /now page gets a profile: <a href="http://nownownow.com/">http://nownownow.com/</a> Click any (+) then keep browsing. So fascinating. Can&#39;t tear myself away.</dd>
 		<dt>October 29</dt>
 		<dd>See <a href="http://nownownow.com/">http://nownownow.com/</a> : home of the /now pages. Fun to browse. So many interesting ones.</dd>
-		<dt>October 28</dt>
-		<dd>If you liked my “Keep your goals to yourself” TED talk (<a href="https://youtu.be/NHopJHSlVo4),">https://youtu.be/NHopJHSlVo4),</a> you’ll love this: <a href="https://youtu.be/V68SMFrpFt8">https://youtu.be/V68SMFrpFt8</a></dd>
 	</dl>
 </section>
 
