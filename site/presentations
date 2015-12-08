@@ -33,6 +33,13 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <h1>Presentations</h1>
 
 	<div class="presentation_summary spacer">
+		<a href="/wds"><img src="/images/wds.jpg" width="200" height="150" alt="Uncommon Sense - live @ WDS" /></a>
+		<h2><a href="/wds">Uncommon Sense - live @ WDS</a></h2>
+		<small>Length: <strong>40 minutes</strong>. &nbsp; Date: 2015-07</small>
+		<p>Probably the best talk I’ve ever done.</p>
+	</div>
+
+	<div class="presentation_summary spacer">
 		<a href="/lifeis"><img src="/images/lifeis.jpg" width="200" height="150" alt="The Meaning of Life" /></a>
 		<h2><a href="/lifeis">The Meaning of Life</a></h2>
 		<small>Length: <strong>19 minutes</strong>. &nbsp; Date: 2014-05</small>
