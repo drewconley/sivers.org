@@ -312,7 +312,6 @@ I simplified the tiny code examples here, but feel free to see <strong>some real
 <li><a href="https://github.com/50pop/db-api/blob/master/woodegg/views.sql">views</a> for JSON creation</li>
 <li><a href="https://github.com/50pop/db-api/blob/master/peeps/functions.sql">functions</a></li>
 <li><a href="https://github.com/50pop/db-api/blob/master/HTTP/woodegg.rb?ts=2">REST API</a></li>
-<li><a href="https://github.com/50pop/db-api/blob/master/b50d/lib/b50d/woodegg.rb?ts=2">client library</a></li>
 <li>my little <a href="https://github.com/sivers/pg">PostgreSQL experiments</a> where I try out ideas</li>
 </ul>
 <p>

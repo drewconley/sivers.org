@@ -39,7 +39,7 @@ A collection of inspiring thoughts about music.  Launched in June 1999.  Rewritt
 
 <h3>Status: <a href="http://musicthoughts.com/">live</a></h3>
 
-<h3>CODE: <a href="https://github.com/50pop/db-api/tree/master/musicthoughts">database</a>, <a href="https://github.com/50pop/db-api/blob/master/b50d/lib/b50d/musicthoughts.rb?ts=2">client</a>, <a href="https://github.com/50pop/50web/blob/master/routes/musicthoughts.rb?ts=2">routes</a>, <a href="https://github.com/50pop/50web/tree/master/views/musicthoughts">views</a>.</h3>
+<h3>CODE: <a href="https://github.com/50pop/db-api/tree/master/musicthoughts">database</a>, <a href="https://github.com/50pop/50web/blob/master/routes/musicthoughts.rb?ts=2">routes</a>, <a href="https://github.com/50pop/50web/tree/master/views/musicthoughts">views</a>.</h3>
 
 
 <h2>Schema</h2>

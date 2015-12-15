@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2015-12-16T11:32:35+13:00</updated>
+  <updated>2015-12-16T12:13:28+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -707,7 +707,6 @@ I simplified the tiny code examples here, but feel free to see &lt;strong&gt;som
 &lt;li&gt;&lt;a href="https://github.com/50pop/db-api/blob/master/woodegg/views.sql"&gt;views&lt;/a&gt; for JSON creation&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/50pop/db-api/blob/master/peeps/functions.sql"&gt;functions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/50pop/db-api/blob/master/HTTP/woodegg.rb?ts=2"&gt;REST API&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/50pop/db-api/blob/master/b50d/lib/b50d/woodegg.rb?ts=2"&gt;client library&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;my little &lt;a href="https://github.com/sivers/pg"&gt;PostgreSQL experiments&lt;/a&gt; where I try out ideas&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
