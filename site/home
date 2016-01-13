@@ -139,6 +139,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 <section id="tweets">
 	<h2>Tweets <small><a href="/tweets">see all tweets</a></small></h2>
 	<dl id="tweetlist">
+		<dt>January 13</dt>
+		<dd>I&#39;ve been answering about 150 emails a day for the last 30 days. Did 250 today. Each one with big questions about life/career/etc. Oh my.</dd>
 		<dt>December 8</dt>
 		<dd>This is probably the best talk I&#39;ve ever done: <a href="http://sivers.org/wds">http://sivers.org/wds</a> (40 minutes)</dd>
 		<dt>November 20</dt>
@@ -149,8 +151,6 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 		<dd>“Never tell your problems to anyone. 80% don’t care, and the other 20% are glad you have them.” - Lou Holtz, revised</dd>
 		<dt>November 12</dt>
 		<dd>Everyone with a /now page gets a profile: <a href="http://nownownow.com/">http://nownownow.com/</a> Click any (+) then keep browsing. So fascinating. Can&#39;t tear myself away.</dd>
-		<dt>October 29</dt>
-		<dd>See <a href="http://nownownow.com/">http://nownownow.com/</a> : home of the /now pages. Fun to browse. So many interesting ones.</dd>
 	</dl>
 </section>
 

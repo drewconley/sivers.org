@@ -32,6 +32,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
   <h1>Tweets</h1>
   <dl id="tweetlist">
+    <dt>January 13, 2016</dt>
+    <dd>I&#39;ve been answering about 150 emails a day for the last 30 days. Did 250 today. Each one with big questions about life/career/etc. Oh my.</dd>
     <dt>December 8, 2015</dt>
     <dd>This is probably the best talk I&#39;ve ever done: <a href="http://sivers.org/wds">http://sivers.org/wds</a> (40 minutes)</dd>
     <dt>November 20, 2015</dt>
