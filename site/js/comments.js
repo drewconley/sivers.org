@@ -11,7 +11,7 @@
 					document.getElementById('commentlist').innerHTML = xhr.responseText;
 				}
 			};
-			xhr.open('get', '/sivers_comments/' + uri + alt, true);
+			xhr.open('get', '/sivers_comments' + uri + alt, true);
 			xhr.send(null);
 		} catch(e) { }
 	}
