@@ -33,7 +33,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
   <h1>Blog</h1>
   <ul>
     <li><a href="/prog">Should you learn programming? Yes.</a></li>
-    <li><a href="/learn-js">Learning JavaScript - my experience and advice</a></li>
+    <li><a href="/learn-js">How to learn JavaScript</a></li>
     <li><a href="/switch">Switch strategies</a></li>
     <li><a href="/now3">nownownow.com</a></li>
     <li><a href="/nowff">The /now page movement</a></li>
