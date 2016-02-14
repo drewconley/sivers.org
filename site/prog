@@ -2,23 +2,23 @@
 <html lang="en" dir="ltr">
 <head>
 <meta charset="utf-8">
-<title>Yes, learn basic programming | Derek Sivers</title>
-<meta name="description" content="Derek Sivers: A few people have asked me whether I think programming is a necessary skill for entrepreneurs (or anyone) to have in the future.">
+<title>Should you learn programming? Yes. | Derek Sivers</title>
+<meta name="description" content="Derek Sivers: When I was 14 years old, my guitar teacher told me something important:">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="alternate" type="application/atom+xml" title="Derek Sivers" href="/en.atom">
 <style>
 body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-size:18px;line-height:1.6em;color:#222}h1,h2,h3,h4,h5,small,.small,p.postdate,footer,input[type="submit"],label,dl#tweetlist dt{font-family:"Trebuchet MS", sans-serif;line-height:1em}small,.small{font-size:0.8em;font-weight:normal}.spacer{clear:both}input[type="text"],input[type="password"],input[type="email"],select,textarea{padding:0.5em 0.6em;display:block;border:1px solid #ccc;box-shadow:inset 0 1px 3px #ddd;border-radius:4px;vertical-align:middle;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}input[type="text"]:focus,input[type="password"]:focus,input[type="email"]:focus,select,textarea{outline:0;border-color:#129FEA}input[type="submit"]{padding:5px;font-size:1em;display:block;background:#800;color:#fff;font-weight:bold}select{height:2.25em;border:1px solid #ccc;background-color:#fff}label{margin:0.5em 0 0.2em}@media screen and (max-width: 400px){section#masthead h1{font-size:2em}}@media screen and (min-width: 400px){section#masthead h1{font-size:3em}}section#masthead h1{margin:0}section#masthead h1 a{text-decoration:none;color:#800}section#masthead h1 a img{margin-right:5px}section#masthead small{display:block;line-height:1em}div#content h1,div#content h2,div#content h3{color:#800}div#content li,div#content dd{margin-bottom:1em}div#content pre{color:#fff;background-color:#333;padding:0.25em;line-height:1}div#content code{font-size:0.8em}div#content article img{max-width:100%;height:auto;display:block}body#home section{margin-bottom:4em}body#home section#masthead{margin-bottom:1em}body#home div#content h2 small{font-size:70%;font-weight:normal;margin-left:2em}body#home div#content ul{padding-left:0}body#home div#content ul li{list-style-type:none}body#oneblog div#content article header h1 a{text-decoration:none}body#oneblog div#content article header p{margin-top:-1em}body#oneblog div#content article h2,body#oneblog div#content article h3{margin-top:2em}div#comments ol{padding-left:1em}div#comments li{margin-bottom:2em}div#comments span.response{display:block;margin-left:1em;background-color:#cfc;font-weight:bold;padding:4px}body#booklist figure img,body#onebook figure img{float:left;margin-right:2em}body#booklist figure{margin:0 0 8em 0}body#onebook figure{margin:0}body#interview blockquote{margin:0}body#home dt,body#code dt,body#music dt{font-weight:bold}dl#tweetlist dt{font-weight:normal}div.presentation_summary{margin-bottom:6em}@media screen and (max-width: 400px){div.presentation_summary img{display:block}}@media screen and (min-width: 400px){div.presentation_summary img{float:right}}p.postdate,footer,dl#tweetlist dt{font-size:80%;color:#666}
 </style>
-<meta property="og:title" content="Yes, learn basic programming | Derek Sivers">
+<meta property="og:title" content="Should you learn programming? Yes. | Derek Sivers">
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://sivers.org/prog">
 <meta property="og:image" content="http://sivers.org/images/bicycle-repair.jpg">
-<meta property="og:description" content="A few people have asked me whether I think programming is a necessary skill for entrepreneurs (or anyone) to have in the future.">
+<meta property="og:description" content="When I was 14 years old, my guitar teacher told me something important:">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@sivers">
 <meta name="twitter:creator" content="@sivers">
-<meta name="twitter:title" content="Yes, learn basic programming | Derek Sivers">
-<meta name="twitter:description" content="A few people have asked me whether I think programming is a necessary skill for entrepreneurs (or anyone) to have in the future.">
+<meta name="twitter:title" content="Should you learn programming? Yes. | Derek Sivers">
+<meta name="twitter:description" content="When I was 14 years old, my guitar teacher told me something important:">
 <meta name="twitter:image" content="http://sivers.org/images/bicycle-repair.jpg">
 </head>
 <body id="oneblog">
@@ -32,56 +32,51 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
   <article>
     <header>
-      <h1><a href="/prog">Yes, learn basic programming</a></h1>
+      <h1><a href="/prog">Should you learn programming? Yes.</a></h1>
       <p class="postdate">2013-01-13</p>
     </header>
 
 <p>
-A few people have asked me <strong>whether I think programming is a necessary skill</strong> for entrepreneurs (or anyone) to have in the future.
+	When I was 14 years old, my guitar teacher told me something important:
+</p><p><strong>
+	“You need to learn to sing. Because if you don’t, you’re always going to be at the mercy of some asshole singer.”
+</strong></p><p>
+	His point was about self-reliance.
+	If you ever have any ideas, whether for songs or apps, you need to have some basic skills to turn those ideas into reality.
 </p><p>
-When I was 14 years old, taking guitar lessons from <a href="http://www.linkedin.com/in/thomaspecora">Tom Pecora</a>, he gave me that this-is-important-so-listen-well look, and told me something that stuck with me for life:
+	One of the most common things I hear from aspiring entrepreneurs is, <strong>“I have this idea for an app or site. But I’m not technical, so I need to find someone who can make it for me.”</strong>
 </p><p>
-<strong>“You need to learn to sing. Because if you don’t, you’re always going to be at the mercy of some asshole singer.”</strong>
+	I point them to my advice about <a href="/how2hire">how to hire a programmer</a>, but most programmers are already busy and expensive.
 </p><p>
-His point of view was from a rock guitarist in the Chicago music scene, trying to put together a band, and all that.  I really took it to heart, and <a href="/15-years">learned to sing</a>.
+	Imagine if someone said, “I have this idea for a song.  But I’m not musical, so I need to find someone who will write, perform, and record it for me.”
+	You’d probably advise them to just learn enough guitar or piano so they can play their song.
+</p><p><strong>
+	It’s like learning to drive or make dinner.
+	You only need to learn enough so you’re not helpless.
+</strong></p><p>
+	So, yes, you should learn some programming.
+	Basic HTML, CSS, and JavaScript are enough to start.
+</p><p><strong>
+	I recommend <a href="http://shop.oreilly.com/product/9780596159924.do">Head First HTML and CSS</a> first, then <a href="http://shop.oreilly.com/product/0636920010906.do">Head First HTML5 Programming</a>.
+</strong>
+	Those are very fun, visual books where you need to see the detailed illustrations, so get the paper book or PDF.
 </p><p>
-But ever since then I’ve applied that point to other areas.
+	If you hate books, or prefer a course and community, use <a href="http://www.freecodecamp.com/">Free Code Camp</a>.
+	Ideally, do those books and this course at the same time, to really reinforce what you’re learning.
 </p><p>
-When I first started CD Baby, I didn’t know any programming, only basic HTML, and quickly had to cry for someone to help me.  <a href="http://hr.linkedin.com/pub/davor-cengija/36/592/391">Davor Cengija</a> in Croatia was a big help, but one day he disappeared. (Turned out he broke his foot skiing.)  For weeks I was helpless, as my site had problems, and I didn’t know how to fix them.  That pain got me motivated to learn this stuff myself.  (Necessity is the best motivator.)  I’ve loved programming ever since.
+	You could go through those books or courses in a few weeks, and you’d already know as much as half of the people that call themselves web developers.
 </p><p>
-Later, when I needed a new computer, my friend <a href="http://www.linkedin.com/in/showtimesolutions">Tony Benjamin</a> taught me how to build my own from parts.  This was so empowering because this box that I depended on so much was no longer a mystery.  As CD Baby grew, I loved building all the computers for the employees, and even the webservers that ran the site.
+	It’s a really amazing feeling.
+	The mystery is lifted.
+	You’ll look at all websites in a new way.
+	You’ll understand what’s going on behind the scenes.
+	You’ll know how to do it yourself.
+	It’s really empowering.
+	(It’s definitely been the most rewarding thing I’ve ever learned.)
 </p><p>
-In the <a href="http://en.wikipedia.org/wiki/Independent_music#Independent_artists_and_technology">independent musician scene</a>, the <a href="http://en.wikipedia.org/wiki/DIY_ethic">DIY ethic</a> is strong, by necessity.  When it comes to doing all those non-musical things like booking gigs, promoting, publishing, and all of the organizational things, the norm is to <strong>do it yourself until it makes more sense to get someone better to help you</strong>.  (And even then, maybe choosing to do it yourself just because you want to.)
+	For an inspiring example <a href="http://blog.jenniferdewalt.com/post/56319597560/im-learning-to-code-by-building-180-websites-in">see Jennifer Dewalt</a>, who learned to code by building <a href="http://blog.jenniferdewalt.com/post/62998082815/after-180-websites-im-ready-to-start-the-rest-of">180 websites in 180 days</a>, with no previous experience.
 </p><p>
-The benefit of doing this yourself at first is that you learn enough about it so when you can afford to hire someone, you’re in a much better position to know if they’re good or not.  Also it gives you the confidence to know that if anyone else flakes, you can step in and do enough to keep going.  The deep joy of self-reliance.
-</p><p>
-So... back to programming:
-</p><p>
-The most common thing I hear from aspiring entrepreneurs is, <strong>“I have this idea for an app or site. But I’m not technical, so I need to find someone who can make it for me.”</strong>
-</p><p>
-I point them to <a href="/how2hire">my advice about how to hire a programmer</a>, but as most of the good ones are already booked solid, it’s a pretty helpless position to be in.
-</p><p>
-If you heard someone say, “<strong>I have this idea for a song.  But I’m not musical, so I need to find someone who will write, perform, and record it for me.</strong>” - you’d probably advise them to just take some time to sit down with a guitar or piano and <strong>learn enough to turn their ideas into reality.</strong>
-</p><p>
-And so comes my advice:
-</p><p>
-<strong>Yes, learn some programming basics.</strong>  Just some HTML, CSS, and JavaScript should be enough to start.
-</p><p>
-I recommend <a href="http://shop.oreilly.com/product/9780596159924.do">Head First HTML and CSS</a> first, then <a href="http://shop.oreilly.com/product/0636920010906.do">Head First HTML5 Programming</a>.
-</p><p>
-Get those basics under your belt.  Make an HTML site respond to things the user is doing.  Save some information in a database, and use it to generate a web page.
-</p><p>
-You could go through those books in a couple weeks of evenings, and you’d already know as much as 50% of the people out there calling themselves webdesigners or web programmers!
-</p><p>
-It’s a REALLY amazing feeling. The mystery is lifted. You’ll look at all websites in a new way. You’ll understand what’s going on behind the scenes. You’ll know how to do it yourself. It’s really empowering.
-</p><p>
-Once you’ve done that, you’ll know enough to know what you need next.  Maybe you want to get deeper into web development with <a href="http://www.manning.com/black2/">Ruby</a>, <a href="http://eloquentjavascript.net/">JavaScript</a>, <a href="http://learnpythonthehardway.org/book/">Python</a>, <a href="http://ruby.railstutorial.org/">Rails</a>, or <a href="http://www.manning.com/cantelon/">Node.js</a>.  But <strong>don’t get overwhelmed</strong>.  When you’re ready, look at the book reviews on Amazon to see which books people are raving about.  Go to <a href="http://stackoverflow.com/">Stack Overflow</a> to ask questions or recommendations.
-</p><p>
-This will give you a good foundation if you want to go on to make iPhone or Android apps, or just know enough to hire someone better.
-</p><p>
-<strong>You don’t need to become an expert, just know the basics, so you’re not helpless.</strong>  You can do all of this in less hours than it takes to watch “The Wire”, and it’s much more rewarding.
-</p><p>
-<em>(It’s definitely been the most rewarding thing I’ve ever learned.)</em>
+	Next, <a href="/learn-js">read my advice on learning JavaScript</a>.
 </p>
 <a href="http://www.flickr.com/photos/plarsen/35590387/"><img src="/images/bicycle-repair.jpg" alt="bicycle repair" /></a>
 

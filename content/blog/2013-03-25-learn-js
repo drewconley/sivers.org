@@ -1,74 +1,84 @@
 <!-- Learning JavaScript - my experience and advice -->
 <p>
-Since I've <a href="/prog">mentioned</a> a <a href="/os">few</a> <a href="/srs">times</a> that I just learned JavaScript over the last few months, a bunch of people have emailed to ask what I used and recommend to learn it. So here's my experience and best advice for 2013.
+	Since I’ve <a href="/prog">mentioned</a> that I recently learned JavaScript, people have asked me how and what I recommend.
+	So here’s my experience and best advice for 2016.
+</p><h3>
+	Learn plain JavaScript
+</h3><p>
+	First, it’s important to <strong>learn plain JavaScript</strong>.
 </p><p>
-NOTE: I wanted to <strong><em>really</em> learn JavaScript - not shortcuts, quick tricks, or meta-tools</strong> that keep me from having to learn JavaScript. I want to learn it, get it, read it, understand it, and memorize it, so that I can understand all the other cool things written in JavaScript for years to come.
-</p><p>
-First - a bunch of people will tell you to get <a href="http://shop.oreilly.com/product/9780596517748.do">JavaScript: The Good Parts - by Douglas Crockford</a>. But when I started reading it, it was so dense and succinct that I had no idea what it was talking about!
-</p><p>
-You know when an expert is talking about their field, and don't know how to simplify it for just anyone? Well, this book felt like it'd be perfect for someone who's been programming for 20 years in C, Java, and C++, and just needs a quick overview of what they should know about JavaScript.
-</p><p>
-But it doesn't really TEACH you. It doesn't guide you through anything. So I recommend skipping it.
-</p><p>
-Instead, <strong>start with <a href="http://eloquentjavascript.net/">Eloquent JavaScript - by Marijn Haverbeke</a>.</strong>
-</p><p>
-It starts so simple, so easy, almost too simple, but this is encouraging. You get your swagger back as you say, “This is easy!”
-</p><p>
-<a href="http://eloquentjavascript.net/">Do the online version, here</a>, because you can test and experiment directly in your browser.
-</p><p>
-Then, after a few chapters of that, <strong>switch over to <a href="http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-3rd-Edition.productCd-1118222199.html">Professional JavaScript for Web Developers, 3rd Edition - by Nicholas Zakas</a></strong>.
-</p><p>
-<strong>THAT is the ultimate tutorial.</strong> It takes the time to explain everything thoroughly, and it covers pretty much everything. Put aside a few hours per chapter, and <strong>by the time you're done with this one book, you'll know as much as most people who call themselves JavaScript programmers.</strong>
-</p><p>
-Funny thing is, I went back to <a href="http://shop.oreilly.com/product/9780596517748.do">JavaScript: The Good Parts</a> after finishing this one, and now I understood it. But because <a href="http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-3rd-Edition.productCd-1118222199.html">Professional JavaScript for Web Developers</a> was so thorough, it had already covered all of the “good parts”, too.
-</p><p>
-Of course <strong>you have to retain what you're learning</strong>, so I highly recommend you <strong>write down every new thing you learn</strong>, ideally into a flashcard program, <a href="/srs">like this</a>. It's a lot to take in, so you'll have to remind yourself of what you've learned in the weeks and months afterwards.
-</p>
-<p>If you're in the mood for more books to really solidify JavaScript in your head, go through:</p>
-<ul>
+	Don’t depend on jQuery, CoffeeScript, or any other library of shortcuts.
+	JavaScript will be around for many years, while libraries and frameworks come and go every year.
+</p><h3>
+	How to begin
+</h3><p>
+	Don’t just learn from little bits of tutorials, tips, or tricks online.
+	Instead, you want a real foundation and solid understanding.
+	Then all your future learning will be so much faster.
+</p><p><strong>
+	Start with the book:
+“<a href="http://shop.oreilly.com/product/0636920010906.do">Head First HTML5 Programming</a>”.
+</strong></p><p>
+	It’s a great introduction with a fun teaching style, which is important to get you familiar with something so new.
+	Just read through it quickly in a couple days, before your deeper learning begins.
+	(You must get the paper book or PDF, because the detailed pictures are necessary.)
+</p><p><strong>
+	Do <a href="http://www.freecodecamp.com/">Free Code Camp</a>.
+</strong></p><p>
+	Someone who had 600 JavaScript learners <a href="https://news.ycombinator.com/item?id=11048409">said</a> Free Code Camp had the best results.
+	Do it at the same time as you’re reading the books.
+	Learning sticks better when coming through different senses.
+</p><h3>
+	Now get deep
+</h3><p><strong>
+	Simultaneously begin the huge but awesome book:
+“<a href="http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-3rd-Edition.productCd-1118222199.html">Professional JavaScript for Web Developers, 3rd Edition - by Nicholas Zakas</a>”.
+</strong></p><p>
+	It’s the ultimate tutorial.
+	It takes the time to explain everything thoroughly, and covers everything.
+<strong>
+	By the time you’re done with this one book, you’ll know as much as most people who call themselves JavaScript programmers.
+</strong></p><h3>
+	Make it stick
+</h3><p>
+	I highly recommend you <strong>write down every new thing you learn</strong>, ideally into a flashcard program, <a href="/srs">like this</a>.
+	It’s a lot to digest, so you’ll have to remind yourself of what you’ve learned, or you’ll immediately forget.
+</p><h3>
+	Reinforce it
+</h3><p>
+	Afterwards, if you want to solidify what you’ve learned, quickly read through a few more books like these:
+</p><ul>
+<li><a href="http://shop.oreilly.com/product/9780596517748.do">JavaScript: The Good Parts - by Douglas Crockford</a></li>
 <li><a href="http://shop.oreilly.com/product/9780596806149.do">JavaScript Cookbook - by Shelley Powers</a></li>
 <li><a href="http://effectivejs.com/">Effective JavaScript - by David Herman</a></li>
-<li><a href="http://www.manning.com/resig/">Secrets of the JavaScript Ninja - by John Resig and Bear Bibeault</a></li>
-</ul>
-<p>
-All of these are great, and you'll notice you go through them much faster now that you're fluent. Do the examples. Play around.
-</p>
-<h3>Read some real-world JavaScript code</h3>
-<p>
-After a thousand pages of tiny example code snippets, you'll love looking at the code to two very popular and powerful JavaScript projects:
-</p>
-<ol>
-<li><a href="http://underscorejs.org/docs/underscore.html">Underscore.js</a></li>
-<li><a href="http://backbonejs.org/docs/backbone.html">Backbone.js</a></li>
-</ol>
-<p>
-You'll notice that it all makes sense, now. You're now functionally fluent in reading and understanding JavaScript.
-</p>
-
-<h3>Then jQuery, and more...</h3>
-<p>
-<a href="http://jquery.com/">jQuery</a> is absolutely everywhere, and you must learn it for your JavaScript tutorial to be complete.
+<li><a href="http://shop.oreilly.com/product/0636920028857.do">Functional JavaScript - by Michael Fogus</a></li>
+</ul><p>
+	<strong>These books will go faster</strong>, now that you’re fluent.
+	Play around with the examples.
+	There will be no huge surprises.
+	You’re just enhancing what you know.
+</p><h3>
+	Avoid the shortcuts
+</h3><p>
+	When solving a problem, everyone will point you to some pre-made solution.
+	“Use jQuery! Use Backbone! Use this library and save yourself some typing!”
+</p><p><strong>
+	But no!
+	Not yet!
+	Do it the hard way.
+</strong>
+	Figuring out how to <strong>solve it yourself with plain JavaScript</strong> is the best way to learn.
+</p><h3>
+	What next?
+</h3><p>
+	If you had a web app in mind, start building it now.
 </p><p>
-Now that you've learned the plain-JavaScript long and verbose way of doing things, you'll appreciate the shortcuts that jQuery provides.
+	If you had an iPhone or Android app in mind, learn <a href="https://facebook.github.io/react-native/">React Native</a>.
 </p><p>
-I really liked <a href="http://www.headfirstlabs.com/books/hfjquery/">Head First jQuery</a>, as goofy as it is. It walks you through jQuery wonderfully well, and has you apply what you've learned, as you go.
-</p><p>
-And if you're still hungry to learn more JavaScript, dive into:
-</p>
-<ul>
-<li><a href="http://coffeescript.org/">CoffeeScript</a> with <a href="http://shop.oreilly.com/product/0636920024309.do">The Little Book on CoffeeScript - by Alex MacCaw</a></li>
-<li><a href="http://backbonejs.org/">Backbone.js</a> by <a href="http://javascriptissexy.com/learn-backbone-js-completely/">following this path</a></li>
-<li><a href="http://nodejs.org/">Node.js</a> by <a href="http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/">following this path</a></li>
-</ul>
-
-<h3>Then put down the books and go use it!</h3>
-<p>
-You would think this goes without saying, but if I didn't say it, someone would complain. So look at your existing sites, and go apply what you've learned.  Or start a new site from scratch and make it all with JavaScript, even if just as an experiment.
-</p>
-
-<h3>Any other suggestions? What worked for you?</h3>
-<p>
-Well... that's what I did, and I'm quite happy with the results.
-</p><p>
-Please share any other suggestions or experiences, here:
+	If you want to make good money, you can go get hired almost anywhere, since you’re now a valuable JavaScript programmer.
+</p><h3>
+	Any other suggestions?
+	What worked for you?
+</h3><p>
+	Please share any other suggestions or experiences, here:
 </p>
