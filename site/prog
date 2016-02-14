@@ -33,7 +33,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
   <article>
     <header>
       <h1><a href="/prog">Should you learn programming? Yes.</a></h1>
-      <p class="postdate">2013-01-13</p>
+      <p class="postdate">2016-02-14</p>
     </header>
 
 <p>
@@ -82,7 +82,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
 
     <footer>
-      © 2013 <a href="http://sivers.org/">Derek Sivers</a>
+      © 2016 <a href="http://sivers.org/">Derek Sivers</a>
     </footer>
   </article>
 

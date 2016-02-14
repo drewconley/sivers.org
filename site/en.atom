@@ -2,11 +2,153 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2016-02-14T22:38:41+13:00</updated>
+  <updated>2016-02-14T22:40:02+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>Should you learn programming? Yes.</title>
+    <id>http://sivers.org/prog</id>
+    <updated>2016-02-14T00:00:00+00:00</updated>
+    <published>2016-02-14T00:00:00+00:00</published>
+    <link href="http://sivers.org/prog"/>
+    <content type="html">&lt;p&gt;
+	When I was 14 years old, my guitar teacher told me something important:
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;
+	“You need to learn to sing. Because if you don’t, you’re always going to be at the mercy of some asshole singer.”
+&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+	His point was about self-reliance.
+	If you ever have any ideas, whether for songs or apps, you need to have some basic skills to turn those ideas into reality.
+&lt;/p&gt;&lt;p&gt;
+	One of the most common things I hear from aspiring entrepreneurs is, &lt;strong&gt;“I have this idea for an app or site. But I’m not technical, so I need to find someone who can make it for me.”&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+	I point them to my advice about &lt;a href="/how2hire"&gt;how to hire a programmer&lt;/a&gt;, but most programmers are already busy and expensive.
+&lt;/p&gt;&lt;p&gt;
+	Imagine if someone said, “I have this idea for a song.  But I’m not musical, so I need to find someone who will write, perform, and record it for me.”
+	You’d probably advise them to just learn enough guitar or piano so they can play their song.
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;
+	It’s like learning to drive or make dinner.
+	You only need to learn enough so you’re not helpless.
+&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+	So, yes, you should learn some programming.
+	Basic HTML, CSS, and JavaScript are enough to start.
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;
+	I recommend &lt;a href="http://shop.oreilly.com/product/9780596159924.do"&gt;Head First HTML and CSS&lt;/a&gt; first, then &lt;a href="http://shop.oreilly.com/product/0636920010906.do"&gt;Head First HTML5 Programming&lt;/a&gt;.
+&lt;/strong&gt;
+	Those are very fun, visual books where you need to see the detailed illustrations, so get the paper book or PDF.
+&lt;/p&gt;&lt;p&gt;
+	If you hate books, or prefer a course and community, use &lt;a href="http://www.freecodecamp.com/"&gt;Free Code Camp&lt;/a&gt;.
+	Ideally, do those books and this course at the same time, to really reinforce what you’re learning.
+&lt;/p&gt;&lt;p&gt;
+	You could go through those books or courses in a few weeks, and you’d already know as much as half of the people that call themselves web developers.
+&lt;/p&gt;&lt;p&gt;
+	It’s a really amazing feeling.
+	The mystery is lifted.
+	You’ll look at all websites in a new way.
+	You’ll understand what’s going on behind the scenes.
+	You’ll know how to do it yourself.
+	It’s really empowering.
+	(It’s definitely been the most rewarding thing I’ve ever learned.)
+&lt;/p&gt;&lt;p&gt;
+	For an inspiring example &lt;a href="http://blog.jenniferdewalt.com/post/56319597560/im-learning-to-code-by-building-180-websites-in"&gt;see Jennifer Dewalt&lt;/a&gt;, who learned to code by building &lt;a href="http://blog.jenniferdewalt.com/post/62998082815/after-180-websites-im-ready-to-start-the-rest-of"&gt;180 websites in 180 days&lt;/a&gt;, with no previous experience.
+&lt;/p&gt;&lt;p&gt;
+	Next, &lt;a href="/learn-js"&gt;read my advice on learning JavaScript&lt;/a&gt;.
+&lt;/p&gt;
+&lt;a href="http://www.flickr.com/photos/plarsen/35590387/"&gt;&lt;img src="/images/bicycle-repair.jpg" alt="bicycle repair" /&gt;&lt;/a&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Learning JavaScript - my experience and advice</title>
+    <id>http://sivers.org/learn-js</id>
+    <updated>2016-02-14T00:00:00+00:00</updated>
+    <published>2016-02-14T00:00:00+00:00</published>
+    <link href="http://sivers.org/learn-js"/>
+    <content type="html">&lt;p&gt;
+	Since I’ve &lt;a href="/prog"&gt;mentioned&lt;/a&gt; that I recently learned JavaScript, people have asked me how and what I recommend.
+	So here’s my experience and best advice for 2016.
+&lt;/p&gt;&lt;h3&gt;
+	Learn plain JavaScript
+&lt;/h3&gt;&lt;p&gt;
+	First, it’s important to &lt;strong&gt;learn plain JavaScript&lt;/strong&gt;.
+&lt;/p&gt;&lt;p&gt;
+	Don’t depend on jQuery, CoffeeScript, or any other library of shortcuts.
+	JavaScript will be around for many years, while libraries and frameworks come and go every year.
+&lt;/p&gt;&lt;h3&gt;
+	How to begin
+&lt;/h3&gt;&lt;p&gt;
+	Don’t just learn from little bits of tutorials, tips, or tricks online.
+	Instead, you want a real foundation and solid understanding.
+	Then all your future learning will be so much faster.
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;
+	Start with the book:
+“&lt;a href="http://shop.oreilly.com/product/0636920010906.do"&gt;Head First HTML5 Programming&lt;/a&gt;”.
+&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+	It’s a great introduction with a fun teaching style, which is important to get you familiar with something so new.
+	Just read through it quickly in a couple days, before your deeper learning begins.
+	(You must get the paper book or PDF, because the detailed pictures are necessary.)
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;
+	Do &lt;a href="http://www.freecodecamp.com/"&gt;Free Code Camp&lt;/a&gt;.
+&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+	Someone who had 600 JavaScript learners &lt;a href="https://news.ycombinator.com/item?id=11048409"&gt;said&lt;/a&gt; Free Code Camp had the best results.
+	Do it at the same time as you’re reading the books.
+	Learning sticks better when coming through different senses.
+&lt;/p&gt;&lt;h3&gt;
+	Now get deep
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;
+	Simultaneously begin the huge but awesome book:
+“&lt;a href="http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-3rd-Edition.productCd-1118222199.html"&gt;Professional JavaScript for Web Developers, 3rd Edition - by Nicholas Zakas&lt;/a&gt;”.
+&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+	It’s the ultimate tutorial.
+	It takes the time to explain everything thoroughly, and covers everything.
+&lt;strong&gt;
+	By the time you’re done with this one book, you’ll know as much as most people who call themselves JavaScript programmers.
+&lt;/strong&gt;&lt;/p&gt;&lt;h3&gt;
+	Make it stick
+&lt;/h3&gt;&lt;p&gt;
+	I highly recommend you &lt;strong&gt;write down every new thing you learn&lt;/strong&gt;, ideally into a flashcard program, &lt;a href="/srs"&gt;like this&lt;/a&gt;.
+	It’s a lot to digest, so you’ll have to remind yourself of what you’ve learned, or you’ll immediately forget.
+&lt;/p&gt;&lt;h3&gt;
+	Reinforce it
+&lt;/h3&gt;&lt;p&gt;
+	Afterwards, if you want to solidify what you’ve learned, quickly read through a few more books like these:
+&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/9780596517748.do"&gt;JavaScript: The Good Parts - by Douglas Crockford&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/9780596806149.do"&gt;JavaScript Cookbook - by Shelley Powers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://effectivejs.com/"&gt;Effective JavaScript - by David Herman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920028857.do"&gt;Functional JavaScript - by Michael Fogus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;
+	&lt;strong&gt;These books will go faster&lt;/strong&gt;, now that you’re fluent.
+	Play around with the examples.
+	There will be no huge surprises.
+	You’re just enhancing what you know.
+&lt;/p&gt;&lt;h3&gt;
+	Avoid the shortcuts
+&lt;/h3&gt;&lt;p&gt;
+	When solving a problem, everyone will point you to some pre-made solution.
+	“Use jQuery! Use Backbone! Use this library and save yourself some typing!”
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;
+	But no!
+	Not yet!
+	Do it the hard way.
+&lt;/strong&gt;
+	Figuring out how to &lt;strong&gt;solve it yourself with plain JavaScript&lt;/strong&gt; is the best way to learn.
+&lt;/p&gt;&lt;h3&gt;
+	What next?
+&lt;/h3&gt;&lt;p&gt;
+	If you had a web app in mind, start building it now.
+&lt;/p&gt;&lt;p&gt;
+	If you had an iPhone or Android app in mind, learn &lt;a href="https://facebook.github.io/react-native/"&gt;React Native&lt;/a&gt;.
+&lt;/p&gt;&lt;p&gt;
+	If you want to make good money, you can go get hired almost anywhere, since you’re now a valuable JavaScript programmer.
+&lt;/p&gt;&lt;h3&gt;
+	Any other suggestions?
+	What worked for you?
+&lt;/h3&gt;&lt;p&gt;
+	Please share any other suggestions or experiences, here:
+&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Switch strategies</title>
     <id>http://sivers.org/switch</id>
@@ -2100,172 +2242,6 @@ So look around at those existing ideas in the world.
 Get over that self-important resistance, and do the world a favor.
 &lt;/p&gt;
 &lt;img src="/images/mirror.jpg" width="420" height="627" alt="funhouse mirror" /&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>Understanding Vietnam</title>
-    <id>http://sivers.org/vn14</id>
-    <updated>2014-01-21T00:00:00+00:00</updated>
-    <published>2014-01-21T00:00:00+00:00</published>
-    <link href="http://sivers.org/vn14"/>
-    <content type="html">
-&lt;p&gt;&lt;em&gt;This essay is by Jeremy Wellard, who is based in Hanoi at &lt;a href="http://c3vietnam.com/"&gt;C3 Vietnam&lt;/a&gt;, and is founding director of &lt;a href="http://communehanoi.com/"&gt;Commune Hanoi&lt;/a&gt;, a co-working cafe and creative hub.  This is the first chapter of my new &lt;a href="http://woodegg.com/vn"&gt;Vietnam 2014 book&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;The only thing most people know of Vietnam is the Vietnam War.  In Vietnam, they call it the American War, and it’s just old history.  There is so much more to this youthful, thriving country.&lt;/p&gt;
-
-&lt;p&gt;Vietnam has long been considered the cultural and artistic heart of Asia, and the Vietnamese are the “Italians of Asia”. Highly social and heart-driven, with a penchant for drama and performance they are quick to raise their voices to sway a discussion, but equally quick to laugh off a misunderstanding. One of the greatest strengths of Vietnamese is their ability to find joy in everyday moments. Whether laboring in the fields or rushing through busy urban lives, they still find any excuse to put down their tools and laugh in conversation over a cup of tea.&lt;/p&gt;
-
-&lt;p&gt;Since opening up to the world in the late 1980s, the Vietnamese have been racing ahead at full speed. Years of struggle under a system of collective production left people ready to enthusiastically embrace capitalist ideals. Since the late 1990s, Vietnam has had one of the highest economic growth rates in the world. This rapid growth created a highly entrepreneurial environment where everyone seems to have a second or third business on the side.&lt;/p&gt;
-
-&lt;p&gt;Vietnam is the world’s only “Socialist-Oriented Market Economy”. This means the government maintains a large ownership and control of major companies, while small and medium businesses are left to develop freely.&lt;/p&gt;
-
-&lt;p&gt;Forget any notions of the frugal communist lifestyle. Wealth and possessions are flaunted as signs of success. People will spend many months’ salary for a status symbol like an iPhone, fancy motorbike, or designer clothes.&lt;/p&gt;
-
-&lt;p&gt;Yet there’s a deep-seated habit of saving money wherever possible. This can be seen in shops, where the air-conditioning is turned off until a customer walks in, or in the recycling culture where even used plastic bags have value. Vietnamese take great pride in their bargaining skills. When a new purchase is shown to friends, someone will immediately ask how much they paid for it. Ability to negotiate a good price demonstrates not just savvy but strong relationships.&lt;/p&gt;
-
-&lt;p&gt;Trading on relationships is key.  A popular saying is, “First your family, second your friends, third comes money.”  This means people will always look out for family and friends, but for outsiders their help comes at a price.&lt;/p&gt;
-
-&lt;p&gt;Strong family networks define the career and social lives of many Vietnamese. The government strongly recommends families have only two children, and most do. There are highly traditional expectations regarding responsibility to family, education, career choices, gender roles, marriage, and children. Newly wed couples live at the home of the husband’s parents until they can afford to buy their own house. Three generations often live together under one roof, and grandparents play an important role in providing childcare. Because of this in-home care, mothers usually return to work much sooner than the six months of maternity leave given by Vietnam’s labor laws, which strongly favor worker’s rights.&lt;/p&gt;
-
-&lt;p&gt;In Vietnam, the year and date of a person’s birth is very important. It influences their whole life, including when they are allowed to marry, open a business, hold important meetings and have children. Social interactions and forms of address are determined by age, so upon meeting a new person, one of the first questions Vietnamese will ask is what year they were born.&lt;/p&gt;
-
-&lt;p&gt;Because of a strongly collective past, where standing out from the crowd was potentially dangerous, new ideas may be regarded with caution.  But once the viability of an idea is demonstrated, acceptance, imitation and adaptation rapidly follow.  This tendency to follow others can lead Vietnamese to seem unoriginal in their thinking. But in fact their ability to quickly see an opportunity and willingness to capitalize on it creates a very dynamic and exciting environment.&lt;/p&gt;
-
-&lt;p&gt;Despite the collective past, upwardly mobile Vietnamese have fully embraced the concept that the individual who works smarter and has more relationships can have more than their neighbor. A new “me-first” culture is rising. But there still remains a highly structured society underneath. In many ways, Vietnam is perhaps both the most-collective and least-collective of the Asian cultures.&lt;/p&gt;
-
-&lt;p&gt;Vietnamese have been living with occupation, change and uncertainty for thousands of years and have developed community-based social systems that preserve order and personal freedom at a micro level, regardless of macro changes. As the local saying goes, “The rules of the village are stronger than the rules of the king.”&lt;/p&gt;
-
-&lt;p&gt;Unlike common misconceptions regarding Communist states, Vietnam is actually a democracy, and all citizens have the right to vote every three years. Although they can only choose candidates from one political party, within this party there are factions with very different viewpoints. Individuals have a lot of freedom in most areas of everyday life. Overall though, they tend to avoid openly discussing political issues. Speaking against the government, protesting high-level corruption, or promoting other political systems can incur severe punishments for locals and expulsion for foreigners.  &lt;/p&gt;
-
-&lt;p&gt;Vietnam is chaotic, but far from lawless. The country has an advanced legal system. But there are many ways in which rules can seem more like guidelines. A “no” can become a “yes” with the right timing and persuasion. This can seem daunting, but those who understand the system are great at navigating its complexities. This is one of the main reasons foreign business people need a trusted local partner or good lawyer.&lt;/p&gt;
-
-&lt;p&gt;Foreigners are surprised that sociopolitical tensions are actually highest with China, rather than the United States, France, or Japan.  Vietnam is increasingly wary of China’s growing power and territorial ambitions.  This has caused a strong wave of anti-China sentiment where Chinese products, particularly food, are considered poor quality and unhealthy. It has also driven a celebration of products “Made in Vietnam” and is combining with a growing awareness of health and safety to birth a clean-food movement.&lt;/p&gt;
-
-&lt;p&gt;The only thing constant in Vietnam is change. Trends come and go, businesses open and close, and construction is a constant. The pervasive dust and noise are the sweat and tears of progress. But underneath this turmoil, there is a country that remains deeply Vietnamese, and people who are proud, ambitious, and happy to be open to a world of opportunities.&lt;/p&gt;
-
-&lt;a href="http://woodegg.com/vn"&gt;&lt;img src="https://woodegg.com/images/we14/we14cover-VN-200.jpg"&gt;&lt;/a&gt;
-&lt;hr&gt;
-&lt;p&gt;“&lt;a href="http://woodegg.com/vn"&gt;Vietnam 2014&lt;/a&gt;” is one of &lt;strong&gt;16 books about moving to and doing business in 16 countries in Asia:&lt;/strong&gt; 
-&lt;a href="http://woodegg.com/kh"&gt;Cambodia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/cn"&gt;China&lt;/a&gt;,
-&lt;a href="http://woodegg.com/hk"&gt;Hong Kong&lt;/a&gt;,
-&lt;a href="http://woodegg.com/in"&gt;India&lt;/a&gt;,
-&lt;a href="http://woodegg.com/id"&gt;Indonesia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/jp"&gt;Japan&lt;/a&gt;,
-&lt;a href="http://woodegg.com/kr"&gt;Korea&lt;/a&gt;,
-&lt;a href="http://woodegg.com/my"&gt;Malaysia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/mn"&gt;Mongolia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/mm"&gt;Myanmar&lt;/a&gt;,
-&lt;a href="http://woodegg.com/ph"&gt;Philippines&lt;/a&gt;,
-&lt;a href="http://woodegg.com/sg"&gt;Singapore&lt;/a&gt;,
-&lt;a href="http://woodegg.com/lk"&gt;Sri Lanka&lt;/a&gt;,
-&lt;a href="http://woodegg.com/tw"&gt;Taiwan&lt;/a&gt;,
-&lt;a href="http://woodegg.com/th"&gt;Thailand&lt;/a&gt;, and
-&lt;a href="http://woodegg.com/vn"&gt;Vietnam&lt;/a&gt;. They’re all ebooks for under $10 each, sold at LeanPub, Amazon, and Apple iBooks.&lt;/p&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>Understanding Singapore</title>
-    <id>http://sivers.org/sg14</id>
-    <updated>2014-01-21T00:00:00+00:00</updated>
-    <published>2014-01-21T00:00:00+00:00</published>
-    <link href="http://sivers.org/sg14"/>
-    <content type="html">&lt;p&gt;&lt;em&gt;This is the first chapter of my new &lt;a href="http://woodegg.com/sg"&gt;Singapore 2014 book&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;When I tell people I live in Singapore, the most common misunderstandings I hear are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;“How can you live in that sterile squeaky-clean police state?”&lt;/li&gt;
-&lt;li&gt;“Isn’t that where they cane people for chewing gum?”&lt;/li&gt;
-&lt;li&gt;“Disneyland with a death penalty! Haha!”&lt;/li&gt;
-&lt;li&gt;“What part of China is that in?”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I’m not surprised when people misunderstand Singapore, because it requires a little explanation.&lt;/p&gt;
-
-&lt;h3&gt;First - some important context:&lt;/h3&gt;
-
-&lt;p&gt;Singapore is an island so small you can drive around the whole country in two hours.&lt;/p&gt;
-
-&lt;p&gt;In 1819, it was set up by the British as a tax-free trading port, instantly attracting business from the entire region.  So it’s always had a mix of Malay, Indian, and Chinese people, though the majority are Chinese.&lt;/p&gt;
-
-&lt;p&gt;It quickly became an anything-goes town, with opium, prostitution and gambling, run by secret societies.  Its nickname was “Sin-Galore”.&lt;/p&gt;
-
-&lt;p&gt;In 1963, Singapore became a part of Malaysia.  But racial tensions between the Malay and Chinese populations led to ongoing race riots.  So in 1965, Singapore was kicked out of Malaysia, making it suddenly (and reluctantly) an independent country.&lt;/p&gt;
-
-&lt;p&gt;Since Singapore had no natural resources, no local industry, and was geographically vulnerable, few people believed it would survive.&lt;/p&gt;
-
-&lt;p&gt;But being a do-or-die survival situation, the government and people of Singapore got extremely focused, pragmatic, and competitive to do whatever it takes to make this tiny island thrive against the odds.&lt;/p&gt;
-
-&lt;p&gt;Their main survival strategy was to focus on making Singapore an ideal place for big business — attracting multinational corporations to set up their Asian headquarters here.&lt;/p&gt;
-
-&lt;p&gt;All these historical ingredients are important for the rest of this explanation to make sense.&lt;/p&gt;
-
-&lt;h3&gt;Why so clean?&lt;/h3&gt;
-
-&lt;p&gt;Because Singapore is so small, keeping it clean is a manageable job.  (You can’t easily clean India or China.)&lt;/p&gt;
-
-&lt;p&gt;But really the cleanliness is marketing.  What better way to prove to multinational corporations that Singapore is a stable, trustable, and efficient place to set up your headquarters?  It’s no coincidence that the highway leading from the airport to downtown has the most perfectly manicured landscape.  First impressions matter to visiting CEOs.&lt;/p&gt;
-
-&lt;p&gt;It’s why the country’s leaders all wear white.  It’s a show of incorruptibility — a metaphor for being orderly and transparent with attention to detail.  Getting to know Singapore’s government is like looking under the hood of a Ferrari.  It’s incredibly well-designed and well-run.&lt;/p&gt;
-
-&lt;p&gt;Singapore is always selling itself to the world.  The chairman of the government’s Economic Development Board told his colleagues, “We are in the hospitality business.”  The government works hard to stay competitive on every international measure.  Any time there are international rankings comparing countries, you’ll find Singapore near the top of the list.  Except for free speech, but I’ll cover that next.&lt;/p&gt;
-
-&lt;p&gt;Lastly: why no chewing gum?  Purely pragmatic.  It was gumming up the subway system, causing delays, and was too hard to clean off surfaces, so the sale of it was banned.  Keeping the country clean and running smoothly was more important.&lt;/p&gt;
-
-&lt;p&gt;So that’s why Singapore has an international reputation for being so clean.  It’s brilliant marketing — visual proof of the order and cleanliness you can expect if you set up your business or banking here.&lt;/p&gt;
-
-&lt;h3&gt;Why so strict?&lt;/h3&gt;
-
-&lt;p&gt;Three reasons: transformation, size, and marketing.&lt;/p&gt;
-
-&lt;p&gt;First: transformation.  To quickly turn Singapore from “Sin-Galore” to being the Switzerland of Asia would require great strategy and strict, uncompromising execution of that strategy.  We’re used to seeing this in corporations, like Jack Welch at GE or Steve Jobs returning to Apple, but it’s surprising to see it carried out successfully in a government.  (Many say Singapore is more like a corporation than a country.)&lt;/p&gt;
-
-&lt;p&gt;And it worked!  In one generation, Singapore went through the most dramatic increase in the standard of living that the world has ever seen.  In one generation, this tiny dot went from being broke to being one of the richest countries in the world, without any natural resources, purely by strict execution of a great strategy.&lt;/p&gt;
-
-&lt;p&gt;Its lack of corruption was an important ingredient in its success.  In a region where political corruption is rampant, Singapore is the only country that severely punishes corruption.  It regularly ranks in the top 5 least corrupt countries in the world.&lt;/p&gt;
-
-&lt;p&gt;Next: size.  Singapore’s UN representative once said, “America is like an aircraft carrier.  If you jump up and down, it’s not going to shake.  Singapore is like a canoe.  If you jump up and down, it will sink.  If you lose stability in Singapore, you lose everything.”&lt;/p&gt;
-
-&lt;p&gt;Lastly: marketing.  When an American teenager vandalized 18 cars in Singapore, he was sentenced to jail and caning.  This turned into an international incident, with Bill Clinton asking Singapore not to prosecute him.  But as a government official said, “It was a way of demonstrating that Singapore was prepared to stand up against the mighty America.”&lt;/p&gt;
-
-&lt;p&gt;To me, that’s brilliant marketing.  A memorable way for a country to prove to the world that they obey the rule of law, without exception, and don’t waive the laws for special requests from powerful people.  I think this kind of approach makes corporate leaders more likely to do their business and banking in Singapore.&lt;/p&gt;
-
-&lt;p&gt;All that said, you could argue that Singapore is not so strict — less strict than Switzerland or California — because it’s a &lt;em&gt;laissez-faire&lt;/em&gt; “do what you want” approach where life and business are not regulated for most of us in the middle.  Only the behavior that clearly hurts others or society is punished.  Everyone else gets to live in an incredibly safe, crime-and-corruption-free place.&lt;/p&gt;
-
-&lt;h3&gt;So very pragmatic&lt;/h3&gt;
-
-&lt;p&gt;The common thread behind everything here is pragmatism.  The country’s leadership consistently makes rational choices to improve the strength and profitability of Singapore.  It’s pragmatic, not dogmatic.  It’s not that the leaders of Singapore hate chewing gum or are neat freaks.  These were just rational decisions to do what was best for the country at that time.  The prime minister has a degree in Computer Science, as does the deputy prime minister.  This is a country run by engineers and economists.&lt;/p&gt;
-
-&lt;p&gt;So it’s important to know that these things are changing fast.  The government is constantly but conservatively re-assessing its stance on everything, to keep up with the times.  The last few years have seen a huge move towards more democracy and free speech, with the theater and arts scene blossoming because of it.&lt;/p&gt;
-
-&lt;p&gt;Singapore’s #1 enemy is complacency.  Now that Singapore is one of the most successful countries in the world, the top priority is to keep that competitive edge.  This “keep on your toes” message is constantly communicated at all levels — a reminder to never assume that things will stay this good.  Keep pushing.  Stay on top.  Don’t let your guard down.  Always be competitive.&lt;/p&gt;
-
-&lt;p&gt;Singapore was founded on the ideals of the Age of Enlightenment — the age of reason and rationality — and its founder built those lofty ideals into its blueprint.  So to understand Singapore, you need to understand that it’s always been designed top-down, from the beginning, to realize these rational ideals.&lt;/p&gt;
-
-&lt;a href="http://woodegg.com/sg"&gt;&lt;img src="https://woodegg.com/images/we14/we14cover-SG-200.jpg"&gt;&lt;/a&gt;
-&lt;hr&gt;
-&lt;p&gt;“&lt;a href="http://woodegg.com/sg"&gt;Singapore 2014&lt;/a&gt;” is one of &lt;strong&gt;16 books about moving to and doing business in 16 countries in Asia:&lt;/strong&gt; 
-&lt;a href="http://woodegg.com/kh"&gt;Cambodia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/cn"&gt;China&lt;/a&gt;,
-&lt;a href="http://woodegg.com/hk"&gt;Hong Kong&lt;/a&gt;,
-&lt;a href="http://woodegg.com/in"&gt;India&lt;/a&gt;,
-&lt;a href="http://woodegg.com/id"&gt;Indonesia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/jp"&gt;Japan&lt;/a&gt;,
-&lt;a href="http://woodegg.com/kr"&gt;Korea&lt;/a&gt;,
-&lt;a href="http://woodegg.com/my"&gt;Malaysia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/mn"&gt;Mongolia&lt;/a&gt;,
-&lt;a href="http://woodegg.com/mm"&gt;Myanmar&lt;/a&gt;,
-&lt;a href="http://woodegg.com/ph"&gt;Philippines&lt;/a&gt;,
-&lt;a href="http://woodegg.com/sg"&gt;Singapore&lt;/a&gt;,
-&lt;a href="http://woodegg.com/lk"&gt;Sri Lanka&lt;/a&gt;,
-&lt;a href="http://woodegg.com/tw"&gt;Taiwan&lt;/a&gt;,
-&lt;a href="http://woodegg.com/th"&gt;Thailand&lt;/a&gt;, and
-&lt;a href="http://woodegg.com/vn"&gt;Vietnam&lt;/a&gt;. They’re all ebooks for under $10 each, sold at LeanPub, Amazon, and Apple iBooks.&lt;/p&gt;
 
 </content>
   </entry>

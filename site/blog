@@ -32,6 +32,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
   <h1>Blog</h1>
   <ul>
+    <li><a href="/prog">Should you learn programming? Yes.</a></li>
+    <li><a href="/learn-js">Learning JavaScript - my experience and advice</a></li>
     <li><a href="/switch">Switch strategies</a></li>
     <li><a href="/now3">nownownow.com</a></li>
     <li><a href="/nowff">The /now page movement</a></li>
@@ -66,11 +68,9 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
     <li><a href="/360">No rules in this game</a></li>
     <li><a href="/io">Seeking inspiration?</a></li>
     <li><a href="/ebert2">The Great Movies</a></li>
-    <li><a href="/learn-js">Learning JavaScript - my experience and advice</a></li>
     <li><a href="/hi">Human Intervention as a Competitive Advantage</a></li>
     <li><a href="/xn">It's all who you know?</a></li>
     <li><a href="/boring">Focus, entertain, or both?</a></li>
-    <li><a href="/prog">Should you learn programming? Yes.</a></li>
     <li><a href="/srs">Memorizing a programming language using spaced repetition software</a></li>
     <li><a href="/my-fault">Everything is my fault</a></li>
     <li><a href="/local">You don't have to be local</a></li>
