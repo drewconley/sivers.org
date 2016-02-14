@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2016-02-14T22:40:02+13:00</updated>
+  <updated>2016-02-14T22:52:29+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
@@ -131,16 +131,20 @@
 	But no!
 	Not yet!
 	Do it the hard way.
+	Solve everything yourself with plain JavaScript.
 &lt;/strong&gt;
-	Figuring out how to &lt;strong&gt;solve it yourself with plain JavaScript&lt;/strong&gt; is the best way to learn.
+	It’s the best way to learn.
 &lt;/p&gt;&lt;h3&gt;
 	What next?
 &lt;/h3&gt;&lt;p&gt;
 	If you had a web app in mind, start building it now.
+	(OK, you can use shortcuts.)
 &lt;/p&gt;&lt;p&gt;
 	If you had an iPhone or Android app in mind, learn &lt;a href="https://facebook.github.io/react-native/"&gt;React Native&lt;/a&gt;.
 &lt;/p&gt;&lt;p&gt;
-	If you want to make good money, you can go get hired almost anywhere, since you’re now a valuable JavaScript programmer.
+	If you want a good-paying job, you can &lt;a href="/gethired"&gt;get hired&lt;/a&gt; almost anywhere.
+	Since you know the real JavaScript foundations more than most people, you’re very valuable.
+	You can quickly learn whatever framework they’re using.
 &lt;/p&gt;&lt;h3&gt;
 	Any other suggestions?
 	What worked for you?
