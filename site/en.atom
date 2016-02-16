@@ -2,11 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2016-02-14T22:56:56+13:00</updated>
+  <updated>2016-02-16T20:40:45+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>Why I don’t want stuff</title>
+    <id>http://sivers.org/gifts</id>
+    <updated>2016-02-16T00:00:00+00:00</updated>
+    <published>2016-02-16T00:00:00+00:00</published>
+    <link href="http://sivers.org/gifts"/>
+    <content type="html">&lt;p&gt;
+	About once a month, someone asks for my mailing address because they want to send me something.
+	They liked something I wrote, and want to send me a gift in return.
+	I’m very thankful, but have to say no.
+	Here’s why.
+&lt;/p&gt;&lt;p&gt;
+	I live in a little pre-furnished apartment with no stuff, and I love it this way.
+	I have no books, knicknacks, decorations, and really no personal items at all.
+	Just some minimal clothing, my laptop, headphones, and not much else.
+	All the kitchenware and furniture just came with the place, and will stay here when I leave.
+&lt;/p&gt;&lt;p&gt;
+	I just moved into this place a few weeks ago.
+	I’ve moved every year or two since I was 17.
+	I do it because I can, and living this way makes me happy.
+&lt;/p&gt;&lt;p&gt;
+	Every year, I erase my computer’s hard drive and re-install my operating system from scratch.
+	Every week, I erase my phone’s log of texts and calls.
+	I just love that uncluttered feeling.
+&lt;/p&gt;&lt;p&gt;
+	So when I receive something in the mail, no matter how thoughtful it is, it kinda sucks because &lt;strong&gt;now I have to figure out how to get rid of it.&lt;/strong&gt;
+	I feel really wasteful if I just throw it in the trash, so I have to figure out who to give it to.
+&lt;/p&gt;&lt;p&gt;
+	Then I feel bad for whoever spent a bunch of money and time to get and send me something.
+	&lt;strong&gt;I appreciate the thought&lt;/strong&gt;, but really a nice compliment by email is actually much more appreciated than some thing that shows up in the mail.
+&lt;/p&gt;&lt;p&gt;
+	My family and friends know this about me, so I haven’t received anything for Christmas or my birthday in almost 20 years.
+	I’ve been living this way a long time.
+	It makes me really happy when another Christmas or birthday has passed and I didn’t receive anything.
+	It makes me feel understood.
+&lt;/p&gt;&lt;p&gt;
+	I’m not saying anyone else should be this way.
+	Back when I was a full-time musician, I had a whole recording studio full of stuff.
+	But these days, everything I want to do is on my laptop.
+	If I had a different hobby, I’d have a different situation.
+	I’m in awe of my friends with a steady home and huge collections that make them happy.
+&lt;/p&gt;&lt;p&gt;
+	It’s not even a problem.
+	I’m not complaining or bragging.
+	I’m incredibly grateful that I even have to write this.
+	But because it comes up often, I thought I should explain it here.
+&lt;/p&gt;
+&lt;img src="/images/transparentchurch.jpg"&gt;
+&lt;div class="small"&gt;“&lt;a href="http://www.design.spotcoolstuff.com/cool-archiecture/transparent-church-belgium"&gt;Reading Between the Lines&lt;/a&gt;” transparent church in Belgium. It’s worth a trip if you’re near. Photo by &lt;a href="https://www.flickr.com/photos/88100135@N02/24634580891/"&gt;Tom Davidson&lt;/a&gt;.&lt;/div&gt;
+</content>
+  </entry>
   <entry>
     <title>Should you learn programming? Yes.</title>
     <id>http://sivers.org/prog</id>
@@ -2193,60 +2244,6 @@ It’s hard, but it’s worth the effort.  I’m just posting this here as a rem
 &lt;/p&gt;
 &lt;img src="/images/bull.jpg" width="650" height="502" alt="bull staring at man"/&gt;
 &lt;div class="small"&gt;(Photo by &lt;a href="http://www.flickr.com/photos/vinothchandar/6748059859/"&gt;Vinoth Chandar&lt;/a&gt;.)&lt;/div&gt;
-
-</content>
-  </entry>
-  <entry>
-    <title>Imitate. We are imperfect mirrors.</title>
-    <id>http://sivers.org/mirror</id>
-    <updated>2014-02-02T00:00:00+00:00</updated>
-    <published>2014-02-02T00:00:00+00:00</published>
-    <link href="http://sivers.org/mirror"/>
-    <content type="html">&lt;p&gt;
-You know that song you love, that you wish you wrote?  Copy it.
-&lt;/p&gt;&lt;p&gt;
-You know that existing business, that you wish you had thought of?  Copy it.
-&lt;/p&gt;&lt;p&gt;
-Why?
-&lt;/p&gt;&lt;p&gt;
-Because humans are imperfect mirrors.
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;Like a funhouse mirror that distorts what it reflects&lt;/strong&gt;, even if you try to imitate something, it will turn out much different than the original.
-Maybe better.
-&lt;/p&gt;&lt;p&gt;
-When a musician covers someone else's song, they clearly reveal their own warped perspective, since we know what the original looks (sounds) like.
-Because of this, a cover song is actually a great way to define who you are as an artist.
-&lt;/p&gt;&lt;p&gt;
-When a musician writes a new song, imitating someone else's song, it's usually unrecognizable.
-You have to tell people of its inspiration, for them to make the connection.
-&lt;/p&gt;&lt;p&gt;
-So an entrepreneur can imitate someone else's business, and still be adding a unique service to the world.
-&lt;/p&gt;&lt;p&gt;
-&lt;hr&gt;
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;I resisted this lesson as long as I could.&lt;/strong&gt;
-It offended my instincts as an artist.
-I felt that everything I did had to be 100% original.
-Everything “not invented here” was out of the question.
-&lt;/p&gt;&lt;p&gt;
-Back in my CD Baby days, my only direct competitor had one awesome advantage: old fashioned credit card swiping machines that musicians could use to sell CDs at gigs, even without electricity or a 3G connection.
-Musicians would tell me how much they loved that service, and even told me they wish we had it too.
-I said, “Yeah. Damn. Oh well.”
-Because imitating their offering didn't even enter my mind.
-&lt;/p&gt;&lt;p&gt;
-It took a whole year for me to swallow my pride, and realize I'd be doing my clients a favor if I imitated that idea.
-&lt;strong&gt;It turned out to be one of the most successful things I ever did.&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-Those little credit card swiping machines charged over $8.5 million for thousands of musicians, which meant $7.75 million paid out to the musicians, and $750k profit for us.
-And the whole thing only took two weeks to make, and one employee to run.
-&lt;/p&gt;&lt;p&gt;
-&lt;hr&gt;
-&lt;/p&gt;&lt;p&gt;
-So look around at those existing ideas in the world.
-&lt;/p&gt;&lt;p&gt;
-Get over that self-important resistance, and do the world a favor.
-&lt;/p&gt;
-&lt;img src="/images/mirror.jpg" width="420" height="627" alt="funhouse mirror" /&gt;
 
 </content>
   </entry>
