@@ -2,11 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2016-02-18T11:33:22+13:00</updated>
+  <updated>2016-02-18T15:11:18+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>How to take a compliment</title>
+    <id>http://sivers.org/thx</id>
+    <updated>2016-02-18T00:00:00+00:00</updated>
+    <published>2016-02-18T00:00:00+00:00</published>
+    <link href="http://sivers.org/thx"/>
+    <content type="html">&lt;p&gt;
+	You would think this would be a basic life skill, but it seems almost nobody knows it, so please spread the word.
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;
+	When someone gives you a compliment, what should you do?
+&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+	Do you say, “What? No! Not at all. That’s ridiculous.”
+	Do you give details of why you disagree?
+&lt;/p&gt;&lt;p&gt;
+	That’s what most people do.
+	They refuse it.
+	They deny it.
+&lt;/p&gt;&lt;p&gt;
+	But think if how &lt;strong&gt;inconsiderate&lt;/strong&gt; that is.
+&lt;/p&gt;&lt;p&gt;
+	It takes &lt;strong&gt;courage&lt;/strong&gt; to give you a compliment.
+	It’s a little &lt;strong&gt;vulnerable&lt;/strong&gt; for someone to admit they like something about you, and then to go up to you and tell you so.
+	So when they do, is that nice of you to &lt;strong&gt;argue&lt;/strong&gt; with them about it?
+	How do you think that makes them feel in that moment?
+&lt;/p&gt;&lt;p&gt;
+	So, when someone gives you a compliment, what should you do?
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;
+	Just say, “Thank you.”
+&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+	Nothing more.
+&lt;/p&gt;&lt;p&gt;
+	It feels strange, but it’s the right thing to do.
+&lt;/p&gt;&lt;p&gt;
+	It doesn’t mean you agree.
+	You’re just thanking them for their vulnerable courage in that moment, for taking the trouble to tell you something nice.
+&lt;/p&gt;&lt;p&gt;
+	Then sincerely return their interest.
+	Ask their name, or something more about them.
+&lt;/p&gt;&lt;p&gt;
+	This advice came from &lt;a href="https://en.wikipedia.org/wiki/Livingston_Taylor"&gt;Livingston Taylor&lt;/a&gt;, and was originally aimed at musicians, since they often get compliments after a gig, and always actively disagree with these compliments.
+	But everyone can use this simple life skill.
+&lt;/p&gt;
+&lt;img src="/images/dandelion.jpg"&gt;
+&lt;div class="small"&gt;
+Dandelion photo by &lt;a href="https://www.flickr.com/photos/heymans/4530848609/"&gt;Bert Heymans&lt;/a&gt;.
+&lt;/div&gt;
+</content>
+  </entry>
   <entry>
     <title>Why I don’t want stuff</title>
     <id>http://sivers.org/gifts</id>
@@ -2190,61 +2238,6 @@ But I find it healthy to make sure they are just side effects of doing good work
 &lt;/p&gt;
 &lt;img src="/images/pigeon.jpg" width="600" height="600" alt=""&gt;
 &lt;div class="small"&gt;(Photo by &lt;a href="http://www.flickr.com/photos/villes/2865833414/"&gt;ZeroOne&lt;/a&gt;).&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <title>How will this game end?</title>
-    <id>http://sivers.org/game</id>
-    <updated>2014-02-06T00:00:00+00:00</updated>
-    <published>2014-02-06T00:00:00+00:00</published>
-    <link href="http://sivers.org/game"/>
-    <content type="html">&lt;p&gt;
-You might have heard this one before.  If not, pay attention.  It’s a good one.
-&lt;/p&gt;&lt;p&gt;
-Imagine I announce &lt;strong&gt;I am going to sell a $100 bill by auction, and the bidding starts at only $1.&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-The only rule of the game is this: &lt;strong&gt;if you are the 2nd-highest bidder, you still have to pay what you bid&lt;/strong&gt;, but you don’t get the $100 bill. 
-&lt;/p&gt;&lt;p&gt;
-Of course I get some bids for $1, $2, $3.  Why not?  Hey - a chance to get $100 for $3!
-&lt;/p&gt;&lt;p&gt;
-The bids keep coming in.  By $51 I’m happy - I’m going to profit now.
-&lt;/p&gt;&lt;p&gt;
-Once they get to $90, there’s less enthusiasm, but reason to stay in.
-&lt;/p&gt;&lt;p&gt;
-Once they get to $99, though, the person offering $98 thinks, “Uh oh. The other person isn’t backing down,” and raises their bid to $100 so as not to be 2nd-lowest and lose the entire $98.
-&lt;/p&gt;&lt;p&gt;
-But now the person offering $99 raises their bid to $101.  Better to lose only $1 than $99, right?
-&lt;/p&gt;&lt;p&gt;
-Soon they’re offering $110, $120, $150.  This game could go on forever.
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;The real problem: not thinking it through in advance.&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-When the game starts, it’s easy to think short-term and say, “Ooh! Good deal!”
-&lt;/p&gt;&lt;p&gt;
-Then when it’s too late, you slowly realize, ”Uh-oh. What have I done?”
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;A lot of people get into life situations like this.&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-The entrepreneur who borrows a lot of money to test an idea.
-&lt;/p&gt;&lt;p&gt;
-The homeowner who bought a house at the top end of their budget.
-&lt;/p&gt;&lt;p&gt;
-The romantic who gets into a relationship with someone who is already in a relationship.
-&lt;/p&gt;&lt;p&gt;
-You can hear them whining about how they’re so in debt, or their sweetheart is cheating.
-&lt;/p&gt;&lt;p&gt;
-Oops!  Didn’t think that one through, huh?
-&lt;/p&gt;&lt;p&gt;
-The game was clearly rigged against them, so the smart choice is to not play that game at all.
-We should always ask, “How will this game end?”
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;It’s &lt;em&gt;hard&lt;/em&gt; to think through the long-term implications of everything we’re doing now.&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-It’s hard, but it’s worth the effort.  I’m just posting this here as a reminder (to myself, too).
-&lt;/p&gt;
-&lt;img src="/images/bull.jpg" width="650" height="502" alt="bull staring at man"/&gt;
-&lt;div class="small"&gt;(Photo by &lt;a href="http://www.flickr.com/photos/vinothchandar/6748059859/"&gt;Vinoth Chandar&lt;/a&gt;.)&lt;/div&gt;
-
 </content>
   </entry>
 </feed>
