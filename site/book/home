@@ -96,6 +96,15 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 		</figcaption>
 	</figure>
 
+	<figure class="abook" data-rating="9" data-title="The Geography of Genius - by Eric Weiner" data-date="2016-02-02">
+		<a href="/book/GeographyOfGenius"><img src="/images/124x187.gif" data-echo="/images/GeographyOfGenius.gif" alt="The Geography of Genius - by Eric Weiner" /></a>
+		<figcaption>
+			<h2><a href="/book/GeographyOfGenius">The Geography of Genius - by Eric Weiner</a></h2>
+			<p>ISBN: 1451691653 READ: 2016-02-02 RATING: 9/10</p>
+			<p>What made Athens, Florence, Hangzhou, Vienna, Calcutta, and Silicon Valley such creative centers? Author goes to each to find out, and dives into the subject of creativity in general. He's such a great writer, so insightful, and finds so many great points of view from the people he interviews. See his other book here “Geography of Bliss”. Equally brilliant.</p>
+		</figcaption>
+	</figure>
+
 	<figure class="abook" data-rating="9" data-title="On Writing Well - by William Zinsser" data-date="2015-08-01">
 		<a href="/book/OnWritingWell"><img src="/images/124x187.gif" data-echo="/images/OnWritingWell.gif" alt="On Writing Well - by William Zinsser" /></a>
 		<figcaption>
