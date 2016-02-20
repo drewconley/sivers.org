@@ -51,6 +51,15 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 		</figcaption>
 	</figure>
 
+	<figure class="abook" data-rating="7" data-title="Germany: Unraveling an Enigma - by Greg Nees" data-date="2016-02-10">
+		<a href="/book/GermanyEnigma"><img src="/images/124x187.gif" data-echo="/images/GermanyEnigma.gif" alt="Germany: Unraveling an Enigma - by Greg Nees" /></a>
+		<figcaption>
+			<h2><a href="/book/GermanyEnigma">Germany: Unraveling an Enigma - by Greg Nees</a></h2>
+			<p>ISBN: 1877864757 READ: 2016-02-10 RATING: 7/10</p>
+			<p>Written by an American who's lived in Germany for 20 years. Published in 2000, (and so probably written a couple years before), it's a little dated. The Berlin Wall was a fresh memory. So I'm assuming the current (for then) observations have changed a bit. But the historical perspective helped explain some core aspects to the culture.</p>
+		</figcaption>
+	</figure>
+
 	<figure class="abook" data-rating="9" data-title="The Geography of Genius - by Eric Weiner" data-date="2016-02-02">
 		<a href="/book/GeographyOfGenius"><img src="/images/124x187.gif" data-echo="/images/GeographyOfGenius.gif" alt="The Geography of Genius - by Eric Weiner" /></a>
 		<figcaption>
