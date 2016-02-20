@@ -1581,6 +1581,15 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 		</figcaption>
 	</figure>
 
+	<figure class="abook" data-rating="3" data-title="Mindware: Tools for Smart Thinking - by Richard Nisbett" data-date="2016-02-07">
+		<a href="/book/Mindware"><img src="/images/124x187.gif" data-echo="/images/Mindware.gif" alt="Mindware: Tools for Smart Thinking - by Richard Nisbett" /></a>
+		<figcaption>
+			<h2><a href="/book/Mindware">Mindware: Tools for Smart Thinking - by Richard Nisbett</a></h2>
+			<p>ISBN: 0374112673 READ: 2016-02-07 RATING: 3/10</p>
+			<p>Damn I wanted to like this. And even looking at my notes, I see there are some good points about clear thinking, especially by keeping context in mind. But maybe something in his writing style put me off. Not sure why. Found it very hard to finish. </p>
+		</figcaption>
+	</figure>
+
 	<figure class="abook" data-rating="3" data-title="The Future of Almost Everything - by Patrick Dixon" data-date="2015-10-10">
 		<a href="/book/FutureAlmostEverything"><img src="/images/124x187.gif" data-echo="/images/FutureAlmostEverything.gif" alt="The Future of Almost Everything - by Patrick Dixon" /></a>
 		<figcaption>
