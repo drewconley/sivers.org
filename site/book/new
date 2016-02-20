@@ -42,6 +42,15 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
 <section id="allbooks">
 
+	<figure class="abook" data-rating="9" data-title="Cows, Pigs, Wars, and Witches - by Marvin Harris" data-date="2016-02-19">
+		<a href="/book/CowsPigsWarsWitches"><img src="/images/124x187.gif" data-echo="/images/CowsPigsWarsWitches.gif" alt="Cows, Pigs, Wars, and Witches - by Marvin Harris" /></a>
+		<figcaption>
+			<h2><a href="/book/CowsPigsWarsWitches">Cows, Pigs, Wars, and Witches - by Marvin Harris</a></h2>
+			<p>ISBN: 0679724680 READ: 2016-02-19 RATING: 9/10</p>
+			<p>Mind-blowing anthropology. Great argument that the reasons that religions worship cows or hate pigs, that tribes wage wars, or Europe's 200 years of witch hunts, are all very practical economic reasons usually unknown to the participants or washed out of history. But they're revealed here in zoomed-out hindsight. My notes here can't describe it. You have to read the whole book. Riveting.</p>
+		</figcaption>
+	</figure>
+
 	<figure class="abook" data-rating="4" data-title="Writing Tools - by Roy Peter Clark" data-date="2015-11-05">
 		<a href="/book/WritingTools"><img src="/images/124x187.gif" data-echo="/images/WritingTools.gif" alt="Writing Tools - by Roy Peter Clark" /></a>
 		<figcaption>
