@@ -2,11 +2,127 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2016-02-23T13:44:56+13:00</updated>
+  <updated>2016-02-23T15:32:54+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>Over-compensate to compensate</title>
+    <id>http://sivers.org/compensate</id>
+    <updated>2016-02-23T00:00:00+00:00</updated>
+    <published>2016-02-23T00:00:00+00:00</published>
+    <link href="http://sivers.org/compensate"/>
+    <content type="html">
+&lt;p&gt;
+	You have something you want to change: a thought process or habit you want to fix.
+&lt;/p&gt;&lt;p&gt;
+	Let’s use the metaphor of a bunch of bricks on a seesaw.
+	Right now all the bricks are stacked on one side.
+	This is the way you have been.
+&lt;/p&gt;
+&lt;img src="/images/compensate-l.jpg"&gt;
+&lt;p&gt;
+	To make a change, &lt;strong&gt;most people don’t do enough.&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+	If you do something small and sensible, it’s like moving one brick.
+	You’re still unbalanced.
+&lt;/p&gt;
+&lt;img src="/images/compensate-l1.jpg"&gt;
+&lt;p&gt;
+	You think you made the change, but it’s not accounting for:
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;
+	a lifetime of doing it the other way
+&lt;/li&gt;&lt;li&gt;
+	your environment that made you that way
+&lt;/li&gt;&lt;li&gt;
+	the pressure from friends to stay that way
+&lt;/li&gt;&lt;li&gt;
+	and the undertow of old habits
+&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+	So, &lt;strong&gt;to make a change, you have to be extreme&lt;/strong&gt;.
+	Go all the way the other way.
+	&lt;strong&gt;It will feel like over-compensating&lt;/strong&gt;, but you have to stack a huge pile of bricks on the other side.
+&lt;/p&gt;
+&lt;img src="/images/compensate-r.jpg"&gt;
+&lt;p&gt;
+	This new you sounds extreme and exciting.
+	You will think you’re going to be completely changed.
+&lt;/p&gt;&lt;p&gt;
+	But actually the old stuff is still there.
+	So really this is what you needed to do to balance, to compensate for that cultural baggage, self-identity, habit, and history.
+&lt;/p&gt;
+&lt;img src="/images/compensate-b.jpg"&gt;
+&lt;p&gt;
+	Once balanced, it will sink in, and become your new normal.
+&lt;/p&gt;
+&lt;img src="/images/compensate-b2.jpg"&gt;
+&lt;br&gt;
+&lt;img src="/images/compensate-b3.jpg"&gt;
+
+&lt;h2&gt;Example:&lt;/h2&gt;
+&lt;p&gt;
+	You have a tendency to blame others for your situation.
+	We all do this.
+&lt;/p&gt;
+&lt;img src="/images/compensate-l.jpg"&gt;
+&lt;p&gt;
+	You realize this is hurting your life.
+	You think, “I shouldn’t do that so much. I should take some responsibility.”
+&lt;/p&gt;&lt;p&gt;
+	So you try to make some changes:
+&lt;/p&gt;
+&lt;img src="/images/compensate-l1.jpg"&gt;
+&lt;p&gt;
+	Nope.
+	That’s not good enough.
+	Still unbalanced.
+&lt;strong&gt;
+	You need to go to a further extreme, in a way that will feel like over-compensating.
+&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+	You need to think, “Absolutely everything is my fault. All of it. It’s my fault the world is the way it is. It’s my fault the government isn’t exactly to my liking. It’s my responsibility to fix everything I don’t love. It’s my fault that others act the way they do towards me.”
+&lt;/p&gt;&lt;p&gt;
+	Sounds extreme, right?
+	It will feel like this:
+&lt;/p&gt;
+&lt;img src="/images/compensate-r.jpg"&gt;
+&lt;p&gt;
+	You try to think this new way.
+	Sometimes you really can.
+&lt;/p&gt;&lt;p&gt;
+	But you still can’t help feeling that some things are not your fault.
+&lt;/p&gt;
+&lt;img src="/images/compensate-b.jpg"&gt;
+&lt;p&gt;
+	That’s OK.
+	Now you’re balanced.
+	This sinks in and becomes your new normal way of thinking.
+&lt;/p&gt;
+&lt;img src="/images/compensate-b2.jpg"&gt;
+&lt;br&gt;
+&lt;img src="/images/compensate-b3.jpg"&gt;
+
+&lt;h2&gt;More examples:&lt;/h2&gt;
+&lt;p&gt;
+	The best and most effective changes I’ve made in my life seemed crazy at first, because they seemed to be over-compensating.
+&lt;/p&gt;&lt;p&gt;
+	I’m going to be writing about more of them in the future, and I’ll keep them listed here:
+&lt;/p&gt;&lt;ul&gt;&lt;li&gt;
+	&lt;a href="/my-fault"&gt;Everything is my fault&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt;
+	&lt;a href="/below-average"&gt;I assume I’m below average&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt;
+	&lt;a href="/lw"&gt;I love being wrong&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt;
+	&lt;a href="/no2"&gt;Saying no to everything else&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt;
+	&lt;a href="/up2you"&gt;Nobody’s going to help you. Does that encourage you or discourage you?&lt;/a&gt;
+&lt;/li&gt;&lt;li&gt;
+	&lt;a href="/more-than-one"&gt;Double-speed! Half-speed! Up an octave! Down an octave!&lt;/a&gt;
+&lt;/li&gt;&lt;/ul&gt;
+
+</content>
+  </entry>
   <entry>
     <title>How to take a compliment</title>
     <id>http://sivers.org/thx</id>
@@ -2179,65 +2295,6 @@ P.S.  I highly recommend reading the book “&lt;a href="/book/SoGood"&gt;So Goo
 &lt;/p&gt;&lt;p&gt;
 P.P.S.  Full credit for the “momentum” metaphor goes to &lt;a href="http://philippantar.com/"&gt;Philipp Antar&lt;/a&gt;, from the comments, below.
 &lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>What if you didn't need money or attention?</title>
-    <id>http://sivers.org/full</id>
-    <updated>2014-03-19T00:00:00+00:00</updated>
-    <published>2014-03-19T00:00:00+00:00</published>
-    <link href="http://sivers.org/full"/>
-    <content type="html">&lt;p&gt;
-You know that feeling you have after a big meal?
-Where you're so full that you really actively don't want anything more?
-&lt;/p&gt;&lt;p&gt;
-Ever wonder what that would feel like in other parts of your life?
-&lt;/p&gt;&lt;p&gt;
-We do so many things for the attention, to feel important or praised.
-But what if you had so much attention and so much praise that you couldn't possibly want any more?
-What would you do then?
-What would you stop doing?
-&lt;/p&gt;&lt;p&gt;
-We do so many things for the money.
-It's so deeply built into our culture that it takes a real effort to realize it's the reason behind so many of our actions.
-But what if you had so much money that you couldn't possibly want any more?
-What would you do then?
-What would you stop doing?
-&lt;/p&gt;&lt;p&gt;
-And then…
-&lt;/p&gt;&lt;p&gt;
-If you stopped doing all these things you're just doing for the money, or the attention, what's left?
-Who are you, if you don't do these things?
-&lt;/p&gt;&lt;p&gt;
-Many of my friends are touring musicians.
-One has been quite unhappy with it lately.
-She realized it was once a dream, but now she's just doing it for the fear of being forgotten.
-But if she stops, what's left?
-She's defined herself by this pursuit for so long.
-&lt;/p&gt;&lt;p&gt;
-Many of my friends are entrepreneurs.
-A few have mentioned this deep hollow conflicted feeling.
-Their business ideas are not things the world wants.
-They're following the current tech entrepreneur stereotype, building social apps and pursuing investors.
-They're hating it, and having to admit they're doing it only for the jackpot.
-But if they stop, what's left?
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;If you were completely satiated, then what?&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-After an understandable period of relaxing, what would you pursue?
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;Not&lt;/strong&gt; just “sit around and do nothing”, because that's still just relaxing.
-I mean after that, &lt;strong&gt;when you're ready to be useful to others again.&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-What would you do then, if you didn't need the money, and didn't need the attention?
-&lt;/p&gt;&lt;p&gt;
-Yes, we need money to live.
-We need attention to live, too.
-&lt;/p&gt;&lt;p&gt;
-But I find it healthy to make sure they are just side effects of doing good work, or living a good life.
-&lt;/p&gt;
-&lt;img src="/images/pigeon.jpg" width="600" height="600" alt=""&gt;
-&lt;div class="small"&gt;(Photo by &lt;a href="http://www.flickr.com/photos/villes/2865833414/"&gt;ZeroOne&lt;/a&gt;).&lt;/div&gt;
 </content>
   </entry>
 </feed>

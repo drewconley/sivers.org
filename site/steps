@@ -32,7 +32,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
 <article>
 <header>
-<h1><a href="/blog">Blog</a> → Imagining lots of tedious steps? Or one fun step?</h1>
+<h1><a href="/blog">Articles</a> → Imagining lots of tedious steps? Or one fun step?</h1>
 <p class="postdate">2009-09-12</p>
 </header>
 

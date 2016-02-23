@@ -33,17 +33,17 @@
 </section>
 
 <section id="newestarticles">
-	<h2>Newest Posts <small><a href="/blog">see all posts</a></small></h2>
+	<h2>Newest Articles <small><a href="/blog">see all articles</a></small></h2>
 	<ul><% @new_blogs.each do |b| %>
-		<li><a href="/<%= b[:url] %>"><%= b[:title] %></a></li><% end %>
+		<li><a href="/<%= b[:url] %>"><%=h b[:title] %></a></li><% end %>
 	</ul>
 </section>
 
 <section id="popularposts">
-	<h2>Popular Posts <small><a href="/blog">see all posts</a></small></h2>
+	<h2>Popular Articles <small><a href="/blog">see all articles</a></small></h2>
 	<ul>
 		<li><a href="/ff">Leadership Lessons from Dancing Guy</a></li>
-		<li><a href="/hellyeah">No more yes. It’s either HELL YEAH! or no.</a></li>
+		<li><a href="/hellyeah">No yes. Either HELL YEAH or no.</a></li>
 		<li><a href="/multiply">Ideas are just a multiplier of execution</a></li>
 		<li><a href="/drama">Kurt Vonnegut explains drama</a></li>
 		<li><a href="/itunes">The day Steve Jobs dissed me in a keynote</a></li>

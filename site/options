@@ -32,7 +32,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
 <article>
 <header>
-<h1><a href="/blog">Blog</a> → There are always more than two options</h1>
+<h1><a href="/blog">Articles</a> → There are always more than two options</h1>
 <p class="postdate">2010-01-27</p>
 </header>
 
