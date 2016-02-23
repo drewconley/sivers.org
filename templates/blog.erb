@@ -1,13 +1,12 @@
-  <article>
-    <header>
-      <h1><a href="/<%= @url %>"><%= @title %></a></h1>
-      <p class="postdate"><%= @date %></p>
-    </header>
+<article>
+<header>
+<h1><a href="/blog">Blog</a> → <%=h @title %></h1>
+<p class="postdate"><%= @date %></p>
+</header>
 
 <%= @body %>
 
-    <footer>
-      © <%= @year %> <a href="http://sivers.org/">Derek Sivers</a>
-    </footer>
-  </article>
-
+<footer>
+© <%= @year %> <a href="http://sivers.org/">Derek Sivers</a>
+</footer>
+</article>
