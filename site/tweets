@@ -32,6 +32,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
   <h1>Tweets</h1>
   <dl id="tweetlist">
+    <dt>February 23, 2016</dt>
+    <dd>Over-compensate to compensate : <a href="https://sivers.org/compensate">https://sivers.org/compensate</a> (with cute illustration)</dd>
     <dt>February 20, 2016</dt>
     <dd>Added 5 new book notes. 2 great. 2 very good. <a href="https://sivers.org/book">https://sivers.org/book</a> Click “date” up top to see newest.</dd>
     <dt>February 18, 2016</dt>
