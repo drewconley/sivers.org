@@ -4,9 +4,10 @@
 	Click each title to read the transcript, download the MP3, or visit their website.
 </p><p>
 	Or <a href="/file/DerekSivers-43-Interviews.zip">click here to download all 43 interviews</a> as a huge 1.6GB zip file with 43 MP3s inside.
-	(Over 35 hours of listening.)
+	(That’s 35 hours of me talking.)
 </p>
 
+<hr>
 <% @interviews.each do |p| %>
 	<div class="interview_summary spacer">
 		<h2><a href="/<%= p[:url] %>"><%=h p[:title] %></a> <span class="small">(date: <%= p[:date] %>)</span></h2>
