@@ -32,6 +32,8 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
   <h1>Tweets</h1>
   <dl id="tweetlist">
+    <dt>February 25, 2016</dt>
+    <dd>After great Tim Ferriss interview with Seth Godin - <a href="http://fourhourworkweek.com/2016/02/10/seth-godin/">http://fourhourworkweek.com/2016/02/10/seth-godin/</a> - noticed that when I interviewed Tim in 2008, we talked about Seth: <a href="https://sivers.org/2008-08-tim-ferriss">https://sivers.org/2008-08-tim-ferriss</a></dd>
     <dt>February 23, 2016</dt>
     <dd>Over-compensate to compensate : <a href="https://sivers.org/compensate">https://sivers.org/compensate</a> (with cute illustration)</dd>
     <dt>February 20, 2016</dt>
