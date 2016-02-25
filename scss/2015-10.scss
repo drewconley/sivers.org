@@ -8,6 +8,10 @@ body {
 	font-size: 20px;
 	line-height: 1.6em;
 	color: #222;
+	@media (max-width: $break-small) {
+	    padding-left: 1em;
+	    padding-right: 1em;
+	}
 }
 
 h1, h2, h3, h4, h5, small, .small, p.postdate, footer, input[type="submit"], label, dl#tweetlist dt {
