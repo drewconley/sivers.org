@@ -32,6 +32,7 @@ body{max-width:40em;margin:0 auto;padding:5px;font-family:Georgia, serif;font-si
 
   <h1>Articles:</h1>
   <ul>
+    <li><a href="/advice">A warning to anyone receiving advice</a></li>
     <li><a href="/compensate">Over-compensate to compensate</a></li>
     <li><a href="/thx">How to take a compliment</a></li>
     <li><a href="/gifts">Why I don’t want stuff</a></li>

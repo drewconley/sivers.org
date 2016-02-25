@@ -2,11 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://sivers.org/en.atom</id>
   <title>Derek Sivers</title>
-  <updated>2016-02-25T11:49:13+13:00</updated>
+  <updated>2016-02-25T15:55:47+13:00</updated>
   <link href="http://sivers.org/"/>
   <author>
     <name>Derek Sivers</name>
   </author>
+  <entry>
+    <title>A warning to anyone receiving advice</title>
+    <id>http://sivers.org/advice</id>
+    <updated>2016-02-25T00:00:00+00:00</updated>
+    <published>2016-02-25T00:00:00+00:00</published>
+    <link href="http://sivers.org/advice"/>
+    <content type="html">&lt;p&gt;
+	Imagine you hand a man your camera, and ask him to take a photo of you.
+&lt;/p&gt;&lt;p&gt;
+	He does, but when you look at the photo later, you notice he took a photo of himself by mistake.
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;
+	Imagine you’ve got a question: “Should I quit my job, and start my own company?”
+&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;
+	You go ask the advice of some successful people you respect.
+	Two say yes.
+	Two say no.
+&lt;/p&gt;&lt;p&gt;
+	Because they can’t know everything about you and your unique situation, they’ll give advice that’s really just &lt;strong&gt;a reflection of their own current situation.&lt;/strong&gt;
+&lt;/p&gt;&lt;p&gt;
+	I’m personally interested in understanding this subject of advice, because strangers ask my advice every day.
+	Big questions about what to do with their life or career.
+	My only honest answer is “I don’t know”, but I try to say something useful.
+&lt;/p&gt;&lt;p&gt;
+	So this is just &lt;strong&gt;a warning about some ways that advice is biased.&lt;/strong&gt;
+&lt;/p&gt;&lt;h3&gt;
+	Lottery numbers
+&lt;/h3&gt;&lt;p&gt;
+	When successful people give advice, I usually hear it like this:
+&lt;/p&gt;&lt;p&gt;
+	“Here are the lottery numbers I played: 14 29 71 33 8.  They worked for me!”
+&lt;/p&gt;&lt;p&gt;
+	Success is based on so many factors.
+	Some are luck.
+	Some are not.
+	It’s hard to know which are which.
+&lt;/p&gt;&lt;p&gt;
+	So which do you learn from?
+&lt;/p&gt;&lt;h3&gt;
+	Underdog opinion in their context
+&lt;/h3&gt;&lt;p&gt;
+	Someone giving advice doesn’t want to say what seems said too much already.
+&lt;/p&gt;&lt;p&gt;
+	But he’s basing that on his own surroundings, not yours.
+&lt;/p&gt;&lt;p&gt;
+	So if everyone around him is quitting their jobs, his advice to you would be to keep your job.
+&lt;/p&gt;&lt;p&gt;
+	That advice has nothing to do with what’s best for you — just what opinion seemed under-represented in his environment that day.
+&lt;/p&gt;&lt;h3&gt;
+	Creative sparks
+&lt;/h3&gt;&lt;p&gt;
+	You ask, “What should I do, option A or B?”
+&lt;/p&gt;&lt;p&gt;
+	He replies, “Zebra!”
+&lt;/p&gt;&lt;p&gt;
+	He’s treating it as brainstorming, giving a crazy suggestion just to open up &lt;a href="/options"&gt;more options&lt;/a&gt;.
+&lt;/p&gt;&lt;p&gt;
+	Like an &lt;a href="https://encrypted.google.com/search?&amp;q=oscar+wilde+quotes"&gt;Oscar Wilde quip&lt;/a&gt;, it was meant to be mostly entertaining, somewhat useful, and probably not correct.
+&lt;/p&gt;&lt;h3&gt;
+	So what to do?
+&lt;/h3&gt;&lt;p&gt;
+	I could go on with more examples, but you get the point.
+&lt;/p&gt;&lt;p&gt;
+	The problem is taking any one person’s advice too seriously.
+&lt;/p&gt;&lt;p&gt;
+	Ideally, asking advice should be like &lt;a href="https://en.wikipedia.org/wiki/Human_echolocation"&gt;echolocation&lt;/a&gt;.
+	Bounce ideas off of all of your surroundings, and listen to all the echoes, to get the whole picture.
+&lt;/p&gt;&lt;p&gt;
+	&lt;strong&gt;Ultimately, only you know what to do&lt;/strong&gt;, based on all the feedback you’ve received, and all your personal nuances that no one else knows.
+&lt;/p&gt;
+&lt;img src="/images/goat.jpg"&gt;
+&lt;h3&gt;
+	P.S. Great books about making big decisions:
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;“&lt;a href="/book/HowWeDecide"&gt;How We Decide&lt;/a&gt;”&lt;/li&gt;
+&lt;li&gt;“&lt;a href="/book/ParadoxOfChoice"&gt;The Paradox of Choice&lt;/a&gt;”&lt;/li&gt;
+&lt;li&gt;“&lt;a href="/book/WisdomOfCrowds"&gt;The Wisdom of Crowds&lt;/a&gt;”&lt;/li&gt;
+&lt;li&gt;“&lt;a href="/book/Decisive"&gt;Decisive&lt;/a&gt;”&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+  </entry>
   <entry>
     <title>Over-compensate to compensate</title>
     <id>http://sivers.org/compensate</id>
@@ -2267,38 +2348,6 @@ Though I'm happy to say this is what I hate or love &lt;strong&gt;today&lt;/stro
 	Thank you.
 &lt;/p&gt;
 
-</content>
-  </entry>
-  <entry>
-    <title>Change careers like Tarzan</title>
-    <id>http://sivers.org/tarzan</id>
-    <updated>2014-03-30T00:00:00+00:00</updated>
-    <published>2014-03-30T00:00:00+00:00</published>
-    <link href="http://sivers.org/tarzan"/>
-    <content type="html">&lt;p&gt;
-I get emails from many people who want to make a big change in their career.
-&lt;/p&gt;&lt;p&gt;
-Each one wants to quit their current career, and boldly leap into their new venture or preferred lifestyle.
-&lt;/p&gt;&lt;p&gt;
-When they ask my advice, they think I'm going to say, “Yes! Quit! Go for it!”
-&lt;/p&gt;&lt;p&gt;
-But instead, they're surprised at my suggestion:
-&lt;/p&gt;&lt;p&gt;
-Remember how Tarzan swings through the jungle?
-He doesn't let go of the previous vine until the next vine is supporting his weight.
-&lt;/p&gt;&lt;p&gt;
-&lt;img src="/images/tarzan-600x450.gif" width="600" height="450" alt="Tarzan swinging on vines"&gt;
-&lt;/p&gt;&lt;p&gt;
-So my advice is: Change careers like Tarzan.
-&lt;/p&gt;&lt;p&gt;
-&lt;strong&gt;Don't let go of the old one until the new one is supporting you.&lt;/strong&gt;
-&lt;/p&gt;&lt;p&gt;
-And &lt;strong&gt;make sure you don't lose momentum&lt;/strong&gt;.
-&lt;/p&gt;&lt;hr&gt;&lt;p&gt;
-P.S.  I highly recommend reading the book “&lt;a href="/book/SoGood"&gt;So Good They Can't Ignore You&lt;/a&gt;” for more thoughts on this.
-&lt;/p&gt;&lt;p&gt;
-P.P.S.  Full credit for the “momentum” metaphor goes to &lt;a href="http://philippantar.com/"&gt;Philipp Antar&lt;/a&gt;, from the comments, below.
-&lt;/p&gt;
 </content>
   </entry>
 </feed>
